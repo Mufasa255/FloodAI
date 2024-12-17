@@ -1,0 +1,5212 @@
+[
+    {
+        "name": "Bafa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 5.31,
+        "elev ft": 3,
+        "pop est": 14456
+    },
+    {
+        "name": "Bafa Creek",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 5.31,
+        "elev ft": 3,
+        "pop est": 14456
+    },
+    {
+        "name": "Bafua",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 5.43,
+        "elev ft": 3,
+        "pop est": 9671
+    },
+    {
+        "name": "Bagbekan",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 5.15,
+        "elev ft": 101,
+        "pop est": 6523
+    },
+    {
+        "name": "Bagogo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.17,
+        "elev ft": 98,
+        "pop est": 6556
+    },
+    {
+        "name": "Bahoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.16,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "Bakama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 5.58,
+        "elev ft": 95,
+        "pop est": 27649
+    },
+    {
+        "name": "Bakana",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 5.58,
+        "elev ft": 95,
+        "pop est": 27649
+    },
+    {
+        "name": "Bakokodia",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 5.32,
+        "elev ft": 3,
+        "pop est": 14940
+    },
+    {
+        "name": "Banikrukru",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 5.3,
+        "elev ft": 3,
+        "pop est": 13191
+    },
+    {
+        "name": "Baragola",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.8,
+        "elev ft": 75,
+        "pop est": 28287
+    },
+    {
+        "name": "Bardabada",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 5.21,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "Batele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.13,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Batere",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.13,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Baterre",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.13,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Bear Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.18,
+        "elev ft": 85,
+        "pop est": 6556
+    },
+    {
+        "name": "Beigha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 5.18,
+        "elev ft": 3,
+        "pop est": 4588
+    },
+    {
+        "name": "Beniboye",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.34,
+        "elev ft": 0,
+        "pop est": 6203
+    },
+    {
+        "name": "Beniboye",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 5.33,
+        "elev ft": 0,
+        "pop est": 5239
+    },
+    {
+        "name": "Benikrukru",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 5.3,
+        "elev ft": 3,
+        "pop est": 13191
+    },
+    {
+        "name": "Benin River",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.16,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "Benji",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 5.73,
+        "elev ft": 78,
+        "pop est": 62042
+    },
+    {
+        "name": "Benumohgbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 6.14,
+        "elev ft": 282,
+        "pop est": 35500
+    },
+    {
+        "name": "Besibe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 5.31,
+        "elev ft": 36,
+        "pop est": 5641
+    },
+    {
+        "name": "Bethel",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.29,
+        "elev ft": 830,
+        "pop est": 33501
+    },
+    {
+        "name": "Bibiregbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 5.57,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "Biboghagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.11,
+        "elev ft": 830,
+        "pop est": 52288
+    },
+    {
+        "name": "Bikoroga",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.87,
+        "elev ft": 62,
+        "pop est": 14096
+    },
+    {
+        "name": "Bikorogha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.87,
+        "elev ft": 62,
+        "pop est": 14096
+    },
+    {
+        "name": "Bire-Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 6.04,
+        "elev ft": 383,
+        "pop est": 34408
+    },
+    {
+        "name": "Biripensagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 6.1,
+        "elev ft": 328,
+        "pop est": 47120
+    },
+    {
+        "name": "Bobi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 5.11,
+        "elev ft": 3,
+        "pop est": 6513
+    },
+    {
+        "name": "Boborokun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 5.89,
+        "elev ft": 154,
+        "pop est": 28480
+    },
+    {
+        "name": "Boji-Boji",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.21,
+        "elev ft": 830,
+        "pop est": 217502
+    },
+    {
+        "name": "Bokodo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.68,
+        "elev ft": 65,
+        "pop est": 27553
+    },
+    {
+        "name": "Bolou-Ndoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 5.61,
+        "elev ft": 3,
+        "pop est": 13174
+    },
+    {
+        "name": "Bolu Angiama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.11,
+        "elev ft": 830,
+        "pop est": 54632
+    },
+    {
+        "name": "Boluapelebri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 6.03,
+        "elev ft": 830,
+        "pop est": 54653
+    },
+    {
+        "name": "Bomadi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.52,
+        "elev ft": 183,
+        "pop est": 20071
+    },
+    {
+        "name": "Bomadi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 5.92,
+        "elev ft": 341,
+        "pop est": 40250
+    },
+    {
+        "name": "Bomadi Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 6.52,
+        "elev ft": 180,
+        "pop est": 15715
+    },
+    {
+        "name": "Bombatobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 5.68,
+        "elev ft": 3,
+        "pop est": 13226
+    },
+    {
+        "name": "Bomobolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.59,
+        "elev ft": 3,
+        "pop est": 13321
+    },
+    {
+        "name": "Bomodi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 5.92,
+        "elev ft": 341,
+        "pop est": 40250
+    },
+    {
+        "name": "Boni",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 6.61,
+        "elev ft": 180,
+        "pop est": 24365
+    },
+    {
+        "name": "Bonuwagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 5.71,
+        "elev ft": 39,
+        "pop est": 13134
+    },
+    {
+        "name": "Bouygbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 6.17,
+        "elev ft": 337,
+        "pop est": 39054
+    },
+    {
+        "name": "Boyoutugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 5.69,
+        "elev ft": 6,
+        "pop est": 13112
+    },
+    {
+        "name": "Brefagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 6.06,
+        "elev ft": 370,
+        "pop est": 35304
+    },
+    {
+        "name": "Bresibi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.33,
+        "elev ft": 49,
+        "pop est": 5530
+    },
+    {
+        "name": "Brisibegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.51,
+        "elev ft": 3,
+        "pop est": 9482
+    },
+    {
+        "name": "Brohimi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 5.17,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "Bukedeba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.12,
+        "elev ft": 830,
+        "pop est": 52973
+    },
+    {
+        "name": "Bukurusu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 5.6,
+        "elev ft": 88,
+        "pop est": 34772
+    },
+    {
+        "name": "Bulou Ndoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 5.61,
+        "elev ft": 3,
+        "pop est": 13174
+    },
+    {
+        "name": "Bulou-Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.68,
+        "elev ft": 3,
+        "pop est": 13164
+    },
+    {
+        "name": "Bulou-Ojobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.68,
+        "elev ft": 3,
+        "pop est": 13164
+    },
+    {
+        "name": "Bulou-Ozobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.68,
+        "elev ft": 3,
+        "pop est": 13164
+    },
+    {
+        "name": "Buloubu-Ijelejele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 5.51,
+        "elev ft": 3,
+        "pop est": 6846
+    },
+    {
+        "name": "Burutu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 5.51,
+        "elev ft": 3,
+        "pop est": 7880
+    },
+    {
+        "name": "B\u0430pp\u0438",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.75,
+        "elev ft": 62,
+        "pop est": 66642
+    },
+    {
+        "name": "Capenta Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.37,
+        "elev ft": 351,
+        "pop est": 22373
+    },
+    {
+        "name": "Centre-Nsukwa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 6.46,
+        "elev ft": 830,
+        "pop est": 21192
+    },
+    {
+        "name": "Cos-Ramon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 5.11,
+        "elev ft": 3,
+        "pop est": 4060
+    },
+    {
+        "name": "Dabrio",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 5.29,
+        "elev ft": 3,
+        "pop est": 12549
+    },
+    {
+        "name": "Dafracogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.66,
+        "elev ft": 9,
+        "pop est": 15317
+    },
+    {
+        "name": "Daleketa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "David",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 6.23,
+        "elev ft": 278,
+        "pop est": 26653
+    },
+    {
+        "name": "Degbrode",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.68,
+        "elev ft": 78,
+        "pop est": 43559
+    },
+    {
+        "name": "Deghele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.15,
+        "elev ft": 52,
+        "pop est": 6556
+    },
+    {
+        "name": "Deleoketa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Deli",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.15,
+        "elev ft": 52,
+        "pop est": 6556
+    },
+    {
+        "name": "Deli II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 5.18,
+        "elev ft": 52,
+        "pop est": 6556
+    },
+    {
+        "name": "Diori Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.34,
+        "elev ft": 278,
+        "pop est": 13967
+    },
+    {
+        "name": "Disiwe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.41,
+        "elev ft": 3,
+        "pop est": 11284
+    },
+    {
+        "name": "Doigbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 6.1,
+        "elev ft": 328,
+        "pop est": 47120
+    },
+    {
+        "name": "Dokita",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 5.41,
+        "elev ft": 3,
+        "pop est": 10070
+    },
+    {
+        "name": "Dorlo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.13,
+        "elev ft": 183,
+        "pop est": 42781
+    },
+    {
+        "name": "Doro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 5.34,
+        "elev ft": 75,
+        "pop est": 4862
+    },
+    {
+        "name": "Dozen Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 6.02,
+        "elev ft": 393,
+        "pop est": 32761
+    },
+    {
+        "name": "Dudu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.24,
+        "elev ft": 85,
+        "pop est": 5759
+    },
+    {
+        "name": "Dudu Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.24,
+        "elev ft": 85,
+        "pop est": 5759
+    },
+    {
+        "name": "Fiankagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 5.35,
+        "elev ft": 0,
+        "pop est": 7087
+    },
+    {
+        "name": "Fiena",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 5.15,
+        "elev ft": 95,
+        "pop est": 6556
+    },
+    {
+        "name": "Folofolo Camps",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 5.44,
+        "elev ft": 19,
+        "pop est": 15943
+    },
+    {
+        "name": "Fonshi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 5.11,
+        "elev ft": 3,
+        "pop est": 3859
+    },
+    {
+        "name": "Forcados",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.44,
+        "elev ft": 3,
+        "pop est": 7424
+    },
+    {
+        "name": "Fortorugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 5.75,
+        "elev ft": 246,
+        "pop est": 13254
+    },
+    {
+        "name": "Foukou",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 5.72,
+        "elev ft": 52,
+        "pop est": 13112
+    },
+    {
+        "name": "Foutorugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 5.75,
+        "elev ft": 246,
+        "pop est": 13254
+    },
+    {
+        "name": "Frankagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 5.35,
+        "elev ft": 0,
+        "pop est": 7087
+    },
+    {
+        "name": "Frukama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 5.8,
+        "elev ft": 52,
+        "pop est": 13676
+    },
+    {
+        "name": "Gbaregolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.8,
+        "elev ft": 75,
+        "pop est": 28287
+    },
+    {
+        "name": "Gbarigolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.8,
+        "elev ft": 75,
+        "pop est": 28287
+    },
+    {
+        "name": "Gbarigolo-Obolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 5.77,
+        "elev ft": 65,
+        "pop est": 19290
+    },
+    {
+        "name": "Gbarogolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.8,
+        "elev ft": 75,
+        "pop est": 28287
+    },
+    {
+        "name": "Gbege Eke",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 4.99,
+        "elev ft": 0,
+        "pop est": 5770
+    },
+    {
+        "name": "Gbekabo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.71,
+        "elev ft": 3,
+        "pop est": 13518
+    },
+    {
+        "name": "Gbekebo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.71,
+        "elev ft": 3,
+        "pop est": 13518
+    },
+    {
+        "name": "Gbekebor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.71,
+        "elev ft": 3,
+        "pop est": 13518
+    },
+    {
+        "name": "Gbekeboro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.71,
+        "elev ft": 3,
+        "pop est": 13518
+    },
+    {
+        "name": "Gbenebiti",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.05,
+        "elev ft": 3,
+        "pop est": 6164
+    },
+    {
+        "name": "Gbimidaka",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.72,
+        "elev ft": 88,
+        "pop est": 51564
+    },
+    {
+        "name": "Gbodoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.17,
+        "elev ft": 3,
+        "pop est": 4302
+    },
+    {
+        "name": "Gbokoda",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.12,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Gbokoko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 5.58,
+        "elev ft": 95,
+        "pop est": 29971
+    },
+    {
+        "name": "Gbongbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 6.14,
+        "elev ft": 351,
+        "pop est": 52822
+    },
+    {
+        "name": "Gbosien",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 5.63,
+        "elev ft": 91,
+        "pop est": 37727
+    },
+    {
+        "name": "Gbukurusu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 5.6,
+        "elev ft": 88,
+        "pop est": 34772
+    },
+    {
+        "name": "Gburudu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 5.15,
+        "elev ft": 75,
+        "pop est": 6930
+    },
+    {
+        "name": "German I",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.16,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "German II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.15,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "German III",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.15,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Ghana Quarters",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.15,
+        "elev ft": 265,
+        "pop est": 15537
+    },
+    {
+        "name": "Gholo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 6.08,
+        "elev ft": 351,
+        "pop est": 45953
+    },
+    {
+        "name": "God-Deygbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 6.15,
+        "elev ft": 278,
+        "pop est": 38574
+    },
+    {
+        "name": "Gold Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 6.2,
+        "elev ft": 278,
+        "pop est": 35992
+    },
+    {
+        "name": "Good Hope",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 5.25,
+        "elev ft": 101,
+        "pop est": 5439
+    },
+    {
+        "name": "Gourudu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 5.15,
+        "elev ft": 75,
+        "pop est": 6930
+    },
+    {
+        "name": "Gula",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.33,
+        "elev ft": 39,
+        "pop est": 4252
+    },
+    {
+        "name": "Gulani",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.33,
+        "elev ft": 39,
+        "pop est": 4252
+    },
+    {
+        "name": "Guogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.33,
+        "elev ft": 0,
+        "pop est": 6662
+    },
+    {
+        "name": "Guoghene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.33,
+        "elev ft": 0,
+        "pop est": 6662
+    },
+    {
+        "name": "Ibada",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 5.87,
+        "elev ft": 141,
+        "pop est": 60176
+    },
+    {
+        "name": "Ibada",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.74,
+        "elev ft": 104,
+        "pop est": 48543
+    },
+    {
+        "name": "Ibada",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 5.96,
+        "elev ft": 144,
+        "pop est": 54012
+    },
+    {
+        "name": "Ibedeni",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.34,
+        "elev ft": 344,
+        "pop est": 19188
+    },
+    {
+        "name": "Ibrede",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.39,
+        "elev ft": 370,
+        "pop est": 25153
+    },
+    {
+        "name": "Ibredeni",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 6.34,
+        "elev ft": 337,
+        "pop est": 16738
+    },
+    {
+        "name": "Ibusa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 6.63,
+        "elev ft": 400,
+        "pop est": 18457
+    },
+    {
+        "name": "Ibusa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.55,
+        "elev ft": 396,
+        "pop est": 9397
+    },
+    {
+        "name": "Ibuwo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.7,
+        "elev ft": 95,
+        "pop est": 42425
+    },
+    {
+        "name": "Idedaka-Jesse",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 5.77,
+        "elev ft": 131,
+        "pop est": 31479
+    },
+    {
+        "name": "Idegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 5.7,
+        "elev ft": 45,
+        "pop est": 13112
+    },
+    {
+        "name": "Idheze",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 6.28,
+        "elev ft": 367,
+        "pop est": 36610
+    },
+    {
+        "name": "Idjere",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 6.14,
+        "elev ft": 111,
+        "pop est": 19779
+    },
+    {
+        "name": "Idomeza",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 92619
+    },
+    {
+        "name": "Iduemewan",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 18764
+    },
+    {
+        "name": "Iduleha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.12,
+        "elev ft": 830,
+        "pop est": 11652
+    },
+    {
+        "name": "Idumeje-Ugboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.4,
+        "elev ft": 830,
+        "pop est": 21581
+    },
+    {
+        "name": "Idumesa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 6.24,
+        "elev ft": 830,
+        "pop est": 18765
+    },
+    {
+        "name": "Idumoza",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 92619
+    },
+    {
+        "name": "Idumu-Isogba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 8831
+    },
+    {
+        "name": "Idumuesah",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 6.24,
+        "elev ft": 830,
+        "pop est": 18765
+    },
+    {
+        "name": "Idumuje-Ugboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.4,
+        "elev ft": 830,
+        "pop est": 21581
+    },
+    {
+        "name": "Idumuje-Uno",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.45,
+        "elev ft": 830,
+        "pop est": 23534
+    },
+    {
+        "name": "Idumujugboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.4,
+        "elev ft": 830,
+        "pop est": 21581
+    },
+    {
+        "name": "Idumujuno",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.45,
+        "elev ft": 830,
+        "pop est": 23534
+    },
+    {
+        "name": "Iffia",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Ifie",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 5.69,
+        "elev ft": 45,
+        "pop est": 21245
+    },
+    {
+        "name": "Ifikivwe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.02,
+        "elev ft": 190,
+        "pop est": 15470
+    },
+    {
+        "name": "Igawidi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.99,
+        "elev ft": 111,
+        "pop est": 42185
+    },
+    {
+        "name": "Igbado-Igboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.33,
+        "elev ft": 830,
+        "pop est": 14149
+    },
+    {
+        "name": "Igbe-Ogume",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 6.32,
+        "elev ft": 308,
+        "pop est": 26373
+    },
+    {
+        "name": "Igbegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 6.21,
+        "elev ft": 278,
+        "pop est": 30066
+    },
+    {
+        "name": "Igbekebo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.71,
+        "elev ft": 3,
+        "pop est": 13518
+    },
+    {
+        "name": "Igbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.48,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "Igbide",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.17,
+        "elev ft": 193,
+        "pop est": 39560
+    },
+    {
+        "name": "Igbide",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 6.14,
+        "elev ft": 183,
+        "pop est": 44118
+    },
+    {
+        "name": "Igbide",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.14,
+        "elev ft": 308,
+        "pop est": 32659
+    },
+    {
+        "name": "Igbodo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 6.37,
+        "elev ft": 830,
+        "pop est": 21543
+    },
+    {
+        "name": "Igbodo-Igboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.33,
+        "elev ft": 830,
+        "pop est": 14149
+    },
+    {
+        "name": "Igbogidi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 5.82,
+        "elev ft": 88,
+        "pop est": 57818
+    },
+    {
+        "name": "Igbogilete",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 5.57,
+        "elev ft": 98,
+        "pop est": 17715
+    },
+    {
+        "name": "Igbogili",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 9142
+    },
+    {
+        "name": "Igbogilli",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 9142
+    },
+    {
+        "name": "Igbomaja Inland",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.83,
+        "elev ft": 144,
+        "pop est": 33399
+    },
+    {
+        "name": "Igbomoya",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.78,
+        "elev ft": 127,
+        "pop est": 37581
+    },
+    {
+        "name": "Igbomoya Waterside",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.78,
+        "elev ft": 127,
+        "pop est": 37581
+    },
+    {
+        "name": "Igbudu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 5.77,
+        "elev ft": 75,
+        "pop est": 76727
+    },
+    {
+        "name": "Igbuku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.18,
+        "elev ft": 177,
+        "pop est": 47252
+    },
+    {
+        "name": "Igbuku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.41,
+        "elev ft": 370,
+        "pop est": 11323
+    },
+    {
+        "name": "Igbuku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 6.15,
+        "elev ft": 114,
+        "pop est": 18461
+    },
+    {
+        "name": "Ige",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.42,
+        "elev ft": 367,
+        "pop est": 17381
+    },
+    {
+        "name": "Ighwre-Okpe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 5.92,
+        "elev ft": 137,
+        "pop est": 14351
+    },
+    {
+        "name": "Ighwreku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 5.99,
+        "elev ft": 85,
+        "pop est": 192798
+    },
+    {
+        "name": "Ighwremaro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 5.96,
+        "elev ft": 82,
+        "pop est": 189479
+    },
+    {
+        "name": "Ighwrenene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.99,
+        "elev ft": 91,
+        "pop est": 193349
+    },
+    {
+        "name": "Iginene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 5.77,
+        "elev ft": 91,
+        "pop est": 64451
+    },
+    {
+        "name": "Igomersi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 92619
+    },
+    {
+        "name": "Igun Waterside",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.97,
+        "elev ft": 173,
+        "pop est": 30161
+    },
+    {
+        "name": "Ijansa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 5.53,
+        "elev ft": 3,
+        "pop est": 8816
+    },
+    {
+        "name": "Ijelejele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 5.54,
+        "elev ft": 3,
+        "pop est": 8815
+    },
+    {
+        "name": "Ijema",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.37,
+        "elev ft": 830,
+        "pop est": 23078
+    },
+    {
+        "name": "Ijemma Unor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.37,
+        "elev ft": 830,
+        "pop est": 23078
+    },
+    {
+        "name": "Ijomi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 5.72,
+        "elev ft": 137,
+        "pop est": 27962
+    },
+    {
+        "name": "Ikegwu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 6.5,
+        "elev ft": 285,
+        "pop est": 7543
+    },
+    {
+        "name": "Ikoto",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.54,
+        "elev ft": 3,
+        "pop est": 13717
+    },
+    {
+        "name": "Ikpaka",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.58,
+        "elev ft": 830,
+        "pop est": 7385
+    },
+    {
+        "name": "Ikpede",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.33,
+        "elev ft": 278,
+        "pop est": 15108
+    },
+    {
+        "name": "Ikpidiar",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.33,
+        "elev ft": 278,
+        "pop est": 15108
+    },
+    {
+        "name": "Ikpokpogri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 5.74,
+        "elev ft": 85,
+        "pop est": 60723
+    },
+    {
+        "name": "Ikpolonfe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.49,
+        "elev ft": 830,
+        "pop est": 21307
+    },
+    {
+        "name": "Iku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.18,
+        "elev ft": 396,
+        "pop est": 33146
+    },
+    {
+        "name": "Ikwewu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 5.73,
+        "elev ft": 118,
+        "pop est": 40919
+    },
+    {
+        "name": "Ikwewu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 5.86,
+        "elev ft": 114,
+        "pop est": 51961
+    },
+    {
+        "name": "Illah",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 6.65,
+        "elev ft": 265,
+        "pop est": 19188
+    },
+    {
+        "name": "Illah",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.67,
+        "elev ft": 259,
+        "pop est": 19696
+    },
+    {
+        "name": "Illah Waterside",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 6.67,
+        "elev ft": 180,
+        "pop est": 22024
+    },
+    {
+        "name": "Illutitun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 5.03,
+        "elev ft": 3,
+        "pop est": 3951
+    },
+    {
+        "name": "Ilokiri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.57,
+        "elev ft": 3,
+        "pop est": 13293
+    },
+    {
+        "name": "Ilu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 6.28,
+        "elev ft": 311,
+        "pop est": 49274
+    },
+    {
+        "name": "Ilue-Ologbo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 6.2,
+        "elev ft": 180,
+        "pop est": 44164
+    },
+    {
+        "name": "Ilueologbo Owe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 6.2,
+        "elev ft": 180,
+        "pop est": 44164
+    },
+    {
+        "name": "Imiroje",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 6.09,
+        "elev ft": 101,
+        "pop est": 26069
+    },
+    {
+        "name": "Imode",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.87,
+        "elev ft": 59,
+        "pop est": 26042
+    },
+    {
+        "name": "Imodje",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 5.98,
+        "elev ft": 147,
+        "pop est": 53640
+    },
+    {
+        "name": "Imodje",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 6.12,
+        "elev ft": 111,
+        "pop est": 18299
+    },
+    {
+        "name": "Inam",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 6.18,
+        "elev ft": 111,
+        "pop est": 20864
+    },
+    {
+        "name": "Ingene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.67,
+        "elev ft": 259,
+        "pop est": 19449
+    },
+    {
+        "name": "Inigu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 5.87,
+        "elev ft": 141,
+        "pop est": 60700
+    },
+    {
+        "name": "Inoma",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 6.54,
+        "elev ft": 387,
+        "pop est": 15030
+    },
+    {
+        "name": "Inorin",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 5.68,
+        "elev ft": 22,
+        "pop est": 15937
+    },
+    {
+        "name": "Inorin Fishing Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 5.61,
+        "elev ft": 3,
+        "pop est": 13432
+    },
+    {
+        "name": "Inyanagu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 5310
+    },
+    {
+        "name": "Inyi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.6,
+        "elev ft": 830,
+        "pop est": 7688
+    },
+    {
+        "name": "Inyi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.59,
+        "elev ft": 830,
+        "pop est": 11254
+    },
+    {
+        "name": "Ireruke",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 6.02,
+        "elev ft": 187,
+        "pop est": 15513
+    },
+    {
+        "name": "Irhodo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 5.83,
+        "elev ft": 147,
+        "pop est": 29513
+    },
+    {
+        "name": "Iriama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 5.72,
+        "elev ft": 78,
+        "pop est": 55551
+    },
+    {
+        "name": "Irri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.21,
+        "elev ft": 308,
+        "pop est": 35015
+    },
+    {
+        "name": "Isa-Ogwashi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 6.5,
+        "elev ft": 830,
+        "pop est": 21307
+    },
+    {
+        "name": "Isaba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.72,
+        "elev ft": 29,
+        "pop est": 17598
+    },
+    {
+        "name": "Ise Abuato",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.57,
+        "elev ft": 187,
+        "pop est": 17093
+    },
+    {
+        "name": "Ise Edeugbana",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.59,
+        "elev ft": 180,
+        "pop est": 18626
+    },
+    {
+        "name": "Ise-Abuato",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.53,
+        "elev ft": 180,
+        "pop est": 15325
+    },
+    {
+        "name": "Ise-Edeogbana",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.53,
+        "elev ft": 180,
+        "pop est": 15325
+    },
+    {
+        "name": "Ise-Elili",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.53,
+        "elev ft": 180,
+        "pop est": 17660
+    },
+    {
+        "name": "Ise-Ogwudu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.53,
+        "elev ft": 180,
+        "pop est": 15916
+    },
+    {
+        "name": "Ise-Owulume",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.53,
+        "elev ft": 180,
+        "pop est": 15325
+    },
+    {
+        "name": "Ise-Owulume",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.57,
+        "elev ft": 196,
+        "pop est": 16236
+    },
+    {
+        "name": "Iseato Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 6.6,
+        "elev ft": 180,
+        "pop est": 16730
+    },
+    {
+        "name": "Iseede Egerega",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 6.56,
+        "elev ft": 252,
+        "pop est": 12472
+    },
+    {
+        "name": "Iselebegu-Isagu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 6.58,
+        "elev ft": 830,
+        "pop est": 7301
+    },
+    {
+        "name": "Iselegu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.47,
+        "elev ft": 830,
+        "pop est": 9033
+    },
+    {
+        "name": "Iseogu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.56,
+        "elev ft": 193,
+        "pop est": 15021
+    },
+    {
+        "name": "Iseonukpo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 6.57,
+        "elev ft": 180,
+        "pop est": 18924
+    },
+    {
+        "name": "Isetegu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.47,
+        "elev ft": 830,
+        "pop est": 9033
+    },
+    {
+        "name": "Ishiagu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.55,
+        "elev ft": 830,
+        "pop est": 18342
+    },
+    {
+        "name": "Isikaguma",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.2,
+        "elev ft": 127,
+        "pop est": 25445
+    },
+    {
+        "name": "Isikaguma Quarters",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.2,
+        "elev ft": 127,
+        "pop est": 25445
+    },
+    {
+        "name": "Isikite",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.54,
+        "elev ft": 830,
+        "pop est": 16533
+    },
+    {
+        "name": "Isiokolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.0,
+        "elev ft": 114,
+        "pop est": 35668
+    },
+    {
+        "name": "Isiokolo-Agbon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.0,
+        "elev ft": 114,
+        "pop est": 35668
+    },
+    {
+        "name": "Islokolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.0,
+        "elev ft": 114,
+        "pop est": 35668
+    },
+    {
+        "name": "Isoba Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 6.55,
+        "elev ft": 344,
+        "pop est": 12974
+    },
+    {
+        "name": "Isompe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.32,
+        "elev ft": 830,
+        "pop est": 21910
+    },
+    {
+        "name": "Ison",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 5.66,
+        "elev ft": 3,
+        "pop est": 13095
+    },
+    {
+        "name": "Issele Asaba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 6.6,
+        "elev ft": 830,
+        "pop est": 19868
+    },
+    {
+        "name": "Issele-Azagba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 6.6,
+        "elev ft": 830,
+        "pop est": 19868
+    },
+    {
+        "name": "Issele-Mkpitime",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.54,
+        "elev ft": 830,
+        "pop est": 22089
+    },
+    {
+        "name": "Issele-Uku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 6.48,
+        "elev ft": 853,
+        "pop est": 22792
+    },
+    {
+        "name": "Isuaja Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.55,
+        "elev ft": 334,
+        "pop est": 12865
+    },
+    {
+        "name": "Itebiege",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.44,
+        "elev ft": 354,
+        "pop est": 14433
+    },
+    {
+        "name": "Itebiege",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 6.45,
+        "elev ft": 278,
+        "pop est": 9942
+    },
+    {
+        "name": "Iteregbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.37,
+        "elev ft": 377,
+        "pop est": 30503
+    },
+    {
+        "name": "Iterege",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.37,
+        "elev ft": 377,
+        "pop est": 30503
+    },
+    {
+        "name": "Iterigbi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 5.84,
+        "elev ft": 101,
+        "pop est": 45018
+    },
+    {
+        "name": "Itifuru Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.62,
+        "elev ft": 183,
+        "pop est": 24365
+    },
+    {
+        "name": "Itobi-Ige",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.42,
+        "elev ft": 367,
+        "pop est": 16363
+    },
+    {
+        "name": "Itoyo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 5.02,
+        "elev ft": 3,
+        "pop est": 13062
+    },
+    {
+        "name": "Itsekiri Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.61,
+        "elev ft": 216,
+        "pop est": 25971
+    },
+    {
+        "name": "Itsekiri Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.6,
+        "elev ft": 252,
+        "pop est": 21372
+    },
+    {
+        "name": "Ituru",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.71,
+        "elev ft": 91,
+        "pop est": 42425
+    },
+    {
+        "name": "Ivori",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.31,
+        "elev ft": 830,
+        "pop est": 28181
+    },
+    {
+        "name": "Ivori-Irri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.32,
+        "elev ft": 830,
+        "pop est": 29021
+    },
+    {
+        "name": "Ivorogbo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.34,
+        "elev ft": 347,
+        "pop est": 22790
+    },
+    {
+        "name": "Ivrogbo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.34,
+        "elev ft": 344,
+        "pop est": 20709
+    },
+    {
+        "name": "Ivrogbo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.13,
+        "elev ft": 121,
+        "pop est": 42047
+    },
+    {
+        "name": "Ivwitapere",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.03,
+        "elev ft": 82,
+        "pop est": 95971
+    },
+    {
+        "name": "Ivwride",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.09,
+        "elev ft": 147,
+        "pop est": 34506
+    },
+    {
+        "name": "Iwele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.31,
+        "elev ft": 278,
+        "pop est": 16413
+    },
+    {
+        "name": "Iwhr",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 6.15,
+        "elev ft": 360,
+        "pop est": 28929
+    },
+    {
+        "name": "Iwhrakara",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.86,
+        "elev ft": 114,
+        "pop est": 21382
+    },
+    {
+        "name": "Iwhre",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 6.15,
+        "elev ft": 360,
+        "pop est": 28929
+    },
+    {
+        "name": "Iwhre-Olomoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.17,
+        "elev ft": 344,
+        "pop est": 34785
+    },
+    {
+        "name": "Iwhredolor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.87,
+        "elev ft": 114,
+        "pop est": 18954
+    },
+    {
+        "name": "Iwhregolor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.87,
+        "elev ft": 114,
+        "pop est": 18954
+    },
+    {
+        "name": "Iwhreka",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 5.88,
+        "elev ft": 75,
+        "pop est": 39574
+    },
+    {
+        "name": "Iwhrekpo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.17,
+        "elev ft": 374,
+        "pop est": 31060
+    },
+    {
+        "name": "Iwhremahwe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 5.91,
+        "elev ft": 206,
+        "pop est": 24762
+    },
+    {
+        "name": "Iwhreoguname",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 5.92,
+        "elev ft": 75,
+        "pop est": 44820
+    },
+    {
+        "name": "Iwhrepanama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 6.34,
+        "elev ft": 341,
+        "pop est": 19188
+    },
+    {
+        "name": "Iwhreredje",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.93,
+        "elev ft": 173,
+        "pop est": 14500
+    },
+    {
+        "name": "Iwhreregbedi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.89,
+        "elev ft": 134,
+        "pop est": 18055
+    },
+    {
+        "name": "Iwhrerewhewhu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.93,
+        "elev ft": 173,
+        "pop est": 14606
+    },
+    {
+        "name": "Iwhrerhe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.07,
+        "elev ft": 360,
+        "pop est": 16641
+    },
+    {
+        "name": "Iwhresi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.94,
+        "elev ft": 209,
+        "pop est": 14453
+    },
+    {
+        "name": "Iwhreuhukpe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.17,
+        "elev ft": 374,
+        "pop est": 31060
+    },
+    {
+        "name": "Iwhreurhukpe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.17,
+        "elev ft": 374,
+        "pop est": 31060
+    },
+    {
+        "name": "Iwhrobi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.84,
+        "elev ft": 104,
+        "pop est": 19984
+    },
+    {
+        "name": "Iwhrogboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.34,
+        "elev ft": 278,
+        "pop est": 13967
+    },
+    {
+        "name": "Iwhrogeged",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 5.9,
+        "elev ft": 72,
+        "pop est": 33402
+    },
+    {
+        "name": "Iwhrogoni",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 5.94,
+        "elev ft": 78,
+        "pop est": 86476
+    },
+    {
+        "name": "Iwhrogun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.94,
+        "elev ft": 229,
+        "pop est": 14716
+    },
+    {
+        "name": "Iwhrohu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 5.83,
+        "elev ft": 52,
+        "pop est": 25325
+    },
+    {
+        "name": "Iwhrokpe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 5.92,
+        "elev ft": 137,
+        "pop est": 14351
+    },
+    {
+        "name": "Iwhroku",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 5.83,
+        "elev ft": 52,
+        "pop est": 25325
+    },
+    {
+        "name": "Iwhrorha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.02,
+        "elev ft": 190,
+        "pop est": 15470
+    },
+    {
+        "name": "Iwhrorude",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 6.02,
+        "elev ft": 187,
+        "pop est": 15513
+    },
+    {
+        "name": "Iwnr",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 6.15,
+        "elev ft": 360,
+        "pop est": 28929
+    },
+    {
+        "name": "Iwre-Grigri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.11,
+        "elev ft": 108,
+        "pop est": 40182
+    },
+    {
+        "name": "Iwrekpokpo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.02,
+        "elev ft": 88,
+        "pop est": 175767
+    },
+    {
+        "name": "Iwrekpokpor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.12,
+        "elev ft": 114,
+        "pop est": 37392
+    },
+    {
+        "name": "Iwrekreka",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 5.89,
+        "elev ft": 85,
+        "pop est": 39279
+    },
+    {
+        "name": "Iwremeragha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 6.03,
+        "elev ft": 98,
+        "pop est": 88859
+    },
+    {
+        "name": "Iwremero",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.3,
+        "elev ft": 282,
+        "pop est": 19568
+    },
+    {
+        "name": "Iwreurie",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.29,
+        "elev ft": 308,
+        "pop est": 19568
+    },
+    {
+        "name": "Iwrogbovwa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.02,
+        "elev ft": 95,
+        "pop est": 125040
+    },
+    {
+        "name": "Iwrohwaro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.0,
+        "elev ft": 95,
+        "pop est": 143079
+    },
+    {
+        "name": "Iyanawo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.28,
+        "elev ft": 0,
+        "pop est": 6641
+    },
+    {
+        "name": "Iyedame",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 6.45,
+        "elev ft": 275,
+        "pop est": 9942
+    },
+    {
+        "name": "Iyede",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.43,
+        "elev ft": 354,
+        "pop est": 14433
+    },
+    {
+        "name": "Iyede",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.1,
+        "elev ft": 183,
+        "pop est": 33213
+    },
+    {
+        "name": "Iyede Ame",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.44,
+        "elev ft": 354,
+        "pop est": 14433
+    },
+    {
+        "name": "Iyedema",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.45,
+        "elev ft": 324,
+        "pop est": 13140
+    },
+    {
+        "name": "Iyere Shrine",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.3,
+        "elev ft": 314,
+        "pop est": 43513
+    },
+    {
+        "name": "Iyiba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 6.7,
+        "elev ft": 242,
+        "pop est": 187869
+    },
+    {
+        "name": "Iyiwundon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 6.71,
+        "elev ft": 200,
+        "pop est": 46507
+    },
+    {
+        "name": "Iyom",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.6,
+        "elev ft": 180,
+        "pop est": 16730
+    },
+    {
+        "name": "Jaghala",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.27,
+        "elev ft": 3,
+        "pop est": 9526
+    },
+    {
+        "name": "Jakpa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 5.07,
+        "elev ft": 3,
+        "pop est": 5225
+    },
+    {
+        "name": "Jakpa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.67,
+        "elev ft": 78,
+        "pop est": 41111
+    },
+    {
+        "name": "Jakpa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 5.73,
+        "elev ft": 82,
+        "pop est": 58234
+    },
+    {
+        "name": "Jakpa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Jakpa Tie",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 5.1,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Jalla",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 5.69,
+        "elev ft": 32,
+        "pop est": 19453
+    },
+    {
+        "name": "Jalla",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 5.07,
+        "elev ft": 3,
+        "pop est": 4656
+    },
+    {
+        "name": "James Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 6.53,
+        "elev ft": 830,
+        "pop est": 21307
+    },
+    {
+        "name": "James Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 6.09,
+        "elev ft": 334,
+        "pop est": 47886
+    },
+    {
+        "name": "Jatitor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 5.67,
+        "elev ft": 75,
+        "pop est": 36412
+    },
+    {
+        "name": "Jaweregbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 6.17,
+        "elev ft": 337,
+        "pop est": 40703
+    },
+    {
+        "name": "Jeddo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 5.7,
+        "elev ft": 75,
+        "pop est": 38966
+    },
+    {
+        "name": "Jekota",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.01,
+        "elev ft": 75,
+        "pop est": 36804
+    },
+    {
+        "name": "Jelly",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.46,
+        "elev ft": 78,
+        "pop est": 7942
+    },
+    {
+        "name": "Jelu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 5.66,
+        "elev ft": 65,
+        "pop est": 28250
+    },
+    {
+        "name": "Jerbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 5.77,
+        "elev ft": 131,
+        "pop est": 31479
+    },
+    {
+        "name": "Jeremi Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 5.88,
+        "elev ft": 72,
+        "pop est": 35743
+    },
+    {
+        "name": "Jerhe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 5.75,
+        "elev ft": 121,
+        "pop est": 34383
+    },
+    {
+        "name": "Jerimaya-Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 6.01,
+        "elev ft": 406,
+        "pop est": 35601
+    },
+    {
+        "name": "Jesse",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 5.75,
+        "elev ft": 121,
+        "pop est": 34383
+    },
+    {
+        "name": "John Holt",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.92,
+        "elev ft": 170,
+        "pop est": 41927
+    },
+    {
+        "name": "Johngbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 40218
+    },
+    {
+        "name": "Kalafigbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 5.6,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "Kalafiogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 5.6,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "Kalaftogbene Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 5.58,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "Kalawari",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.39,
+        "elev ft": 16,
+        "pop est": 15943
+    },
+    {
+        "name": "Kaloba Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.42,
+        "elev ft": 3,
+        "pop est": 9259
+    },
+    {
+        "name": "Kalorugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 5.42,
+        "elev ft": 3,
+        "pop est": 11639
+    },
+    {
+        "name": "Kamotu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 5.77,
+        "elev ft": 68,
+        "pop est": 24265
+    },
+    {
+        "name": "Kampta",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 5.74,
+        "elev ft": 49,
+        "pop est": 15395
+    },
+    {
+        "name": "Kantu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 5.36,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Kantu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 13408
+    },
+    {
+        "name": "Katu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 13408
+    },
+    {
+        "name": "Katun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 5.36,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Kemerun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.61,
+        "elev ft": 830,
+        "pop est": 7323
+    },
+    {
+        "name": "Keonokpo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.59,
+        "elev ft": 183,
+        "pop est": 19727
+    },
+    {
+        "name": "Keremo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.46,
+        "elev ft": 3,
+        "pop est": 6538
+    },
+    {
+        "name": "Keremo-Zion",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.47,
+        "elev ft": 3,
+        "pop est": 6236
+    },
+    {
+        "name": "Kiagbodo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 5.89,
+        "elev ft": 52,
+        "pop est": 14059
+    },
+    {
+        "name": "Kiagbodor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.11,
+        "elev ft": 196,
+        "pop est": 31870
+    },
+    {
+        "name": "Kimgbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 36937
+    },
+    {
+        "name": "Koko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.46,
+        "elev ft": 78,
+        "pop est": 7989
+    },
+    {
+        "name": "Koko Beach",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.46,
+        "elev ft": 78,
+        "pop est": 7942
+    },
+    {
+        "name": "Koko Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.46,
+        "elev ft": 78,
+        "pop est": 7989
+    },
+    {
+        "name": "Kokori",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.04,
+        "elev ft": 118,
+        "pop est": 34525
+    },
+    {
+        "name": "Kokori",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 5.97,
+        "elev ft": 173,
+        "pop est": 30161
+    },
+    {
+        "name": "Koloiliare II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 36937
+    },
+    {
+        "name": "Kolokola",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 5.18,
+        "elev ft": 19,
+        "pop est": 6556
+    },
+    {
+        "name": "Kolokolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 5.18,
+        "elev ft": 19,
+        "pop est": 6556
+    },
+    {
+        "name": "Kolomi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.14,
+        "elev ft": 370,
+        "pop est": 28359
+    },
+    {
+        "name": "Koloware",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.16,
+        "elev ft": 387,
+        "pop est": 49487
+    },
+    {
+        "name": "Koloware",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 37108
+    },
+    {
+        "name": "Koloware II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 36937
+    },
+    {
+        "name": "Kpakiama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 5.95,
+        "elev ft": 830,
+        "pop est": 44168
+    },
+    {
+        "name": "Kpariama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 5.95,
+        "elev ft": 830,
+        "pop est": 44168
+    },
+    {
+        "name": "Kpokiti",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 5.63,
+        "elev ft": 42,
+        "pop est": 18136
+    },
+    {
+        "name": "Kpokpo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.24,
+        "elev ft": 3,
+        "pop est": 7310
+    },
+    {
+        "name": "Kpukpugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 5.9,
+        "elev ft": 242,
+        "pop est": 35528
+    },
+    {
+        "name": "Krikridoge",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 5.61,
+        "elev ft": 62,
+        "pop est": 16157
+    },
+    {
+        "name": "Krukanbi Creek",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 5.37,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Kugbedi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.12,
+        "elev ft": 167,
+        "pop est": 42293
+    },
+    {
+        "name": "Kuku Camps",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 5.31,
+        "elev ft": 3,
+        "pop est": 14690
+    },
+    {
+        "name": "Kumkoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 5.52,
+        "elev ft": 3,
+        "pop est": 10717
+    },
+    {
+        "name": "Kurukunama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.33,
+        "elev ft": 3,
+        "pop est": 15614
+    },
+    {
+        "name": "Kurutie",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Kuture",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.14,
+        "elev ft": 374,
+        "pop est": 29339
+    },
+    {
+        "name": "Kwale",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.43,
+        "elev ft": 413,
+        "pop est": 19852
+    },
+    {
+        "name": "Kwale",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 6.1,
+        "elev ft": 219,
+        "pop est": 13889
+    },
+    {
+        "name": "Kwale Station",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.43,
+        "elev ft": 413,
+        "pop est": 19852
+    },
+    {
+        "name": "Laboloseigha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 5.64,
+        "elev ft": 29,
+        "pop est": 13112
+    },
+    {
+        "name": "Lagos Iyede-Ame",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.4,
+        "elev ft": 367,
+        "pop est": 26756
+    },
+    {
+        "name": "Lagos-Iyidi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.45,
+        "elev ft": 341,
+        "pop est": 13893
+    },
+    {
+        "name": "Layer-Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 6.13,
+        "elev ft": 830,
+        "pop est": 46298
+    },
+    {
+        "name": "Lolo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 5.17,
+        "elev ft": 0,
+        "pop est": 3322
+    },
+    {
+        "name": "London",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 5.79,
+        "elev ft": 111,
+        "pop est": 65279
+    },
+    {
+        "name": "Madagho",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.23,
+        "elev ft": 3,
+        "pop est": 6796
+    },
+    {
+        "name": "Madagho-Ajeda",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.23,
+        "elev ft": 3,
+        "pop est": 6796
+    },
+    {
+        "name": "Maholo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 6.35,
+        "elev ft": 830,
+        "pop est": 20120
+    },
+    {
+        "name": "Makoghwre",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.09,
+        "elev ft": 104,
+        "pop est": 21547
+    },
+    {
+        "name": "Mbiri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 14990
+    },
+    {
+        "name": "Mbiri Farm Settlement",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.27,
+        "elev ft": 830,
+        "pop est": 11610
+    },
+    {
+        "name": "Mbiri-Igboko",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.3,
+        "elev ft": 830,
+        "pop est": 13010
+    },
+    {
+        "name": "Mbu Ntu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 5.4,
+        "elev ft": 22,
+        "pop est": 12874
+    },
+    {
+        "name": "Mele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 5.7,
+        "elev ft": 111,
+        "pop est": 88183
+    },
+    {
+        "name": "Mereje",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 5.71,
+        "elev ft": 78,
+        "pop est": 54765
+    },
+    {
+        "name": "Mgbalagwu Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.59,
+        "elev ft": 354,
+        "pop est": 10188
+    },
+    {
+        "name": "Miregbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 40524
+    },
+    {
+        "name": "Miyegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 48991
+    },
+    {
+        "name": "Mokonokpor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 6.37,
+        "elev ft": 830,
+        "pop est": 23524
+    },
+    {
+        "name": "Molume",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 5.0,
+        "elev ft": 98,
+        "pop est": 4703
+    },
+    {
+        "name": "Molume",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.05,
+        "elev ft": 3,
+        "pop est": 3996
+    },
+    {
+        "name": "Mosagon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 5.73,
+        "elev ft": 114,
+        "pop est": 64756
+    },
+    {
+        "name": "Moses-Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 6.01,
+        "elev ft": 406,
+        "pop est": 38750
+    },
+    {
+        "name": "Mukoro Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.2,
+        "elev ft": 275,
+        "pop est": 37021
+    },
+    {
+        "name": "Mukoro Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 6.17,
+        "elev ft": 337,
+        "pop est": 40703
+    },
+    {
+        "name": "Nakebi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 5.65,
+        "elev ft": 29,
+        "pop est": 13112
+    },
+    {
+        "name": "Ndoni",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.32,
+        "elev ft": 364,
+        "pop est": 45865
+    },
+    {
+        "name": "Ndoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.6,
+        "elev ft": 3,
+        "pop est": 13267
+    },
+    {
+        "name": "Ndoro",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 5.61,
+        "elev ft": 3,
+        "pop est": 13174
+    },
+    {
+        "name": "Ndoro (II)",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.6,
+        "elev ft": 3,
+        "pop est": 13267
+    },
+    {
+        "name": "Ndoro II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 5.6,
+        "elev ft": 3,
+        "pop est": 13267
+    },
+    {
+        "name": "Ndoro Market",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 5.59,
+        "elev ft": 3,
+        "pop est": 13112
+    },
+    {
+        "name": "New-Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 5.71,
+        "elev ft": 16,
+        "pop est": 13130
+    },
+    {
+        "name": "Ngegu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.67,
+        "elev ft": 272,
+        "pop est": 19378
+    },
+    {
+        "name": "Ngegwu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 6.67,
+        "elev ft": 272,
+        "pop est": 19378
+    },
+    {
+        "name": "Nikorogha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 5.71,
+        "elev ft": 42,
+        "pop est": 13112
+    },
+    {
+        "name": "Nsukwa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.44,
+        "elev ft": 830,
+        "pop est": 21905
+    },
+    {
+        "name": "Ntezi Camp",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.37,
+        "elev ft": 285,
+        "pop est": 8817
+    },
+    {
+        "name": "Panripon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 5.18,
+        "elev ft": 3,
+        "pop est": 2614
+    },
+    {
+        "name": "Pata I",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 6.66,
+        "elev ft": 180,
+        "pop est": 37461
+    },
+    {
+        "name": "Pata II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.66,
+        "elev ft": 180,
+        "pop est": 45019
+    },
+    {
+        "name": "Pata III",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.66,
+        "elev ft": 180,
+        "pop est": 41644
+    },
+    {
+        "name": "Patani",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 37606
+    },
+    {
+        "name": "Peikumogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.6,
+        "elev ft": 36,
+        "pop est": 13092
+    },
+    {
+        "name": "Pepegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.34,
+        "elev ft": 3,
+        "pop est": 15905
+    },
+    {
+        "name": "Perawari",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 6.28,
+        "elev ft": 278,
+        "pop est": 18590
+    },
+    {
+        "name": "Pomogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 5.81,
+        "elev ft": 45,
+        "pop est": 13942
+    },
+    {
+        "name": "QRW",
+        "what": "city",
+        "region": "Delta State",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.75,
+        "elev ft": 62,
+        "pop est": 66642
+    },
+    {
+        "name": "Remure",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.25,
+        "elev ft": 3,
+        "pop est": 7987
+    },
+    {
+        "name": "Riabome",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 5.69,
+        "elev ft": 82,
+        "pop est": 47556
+    },
+    {
+        "name": "Richardgbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 6.12,
+        "elev ft": 305,
+        "pop est": 37814
+    },
+    {
+        "name": "River",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 6.69,
+        "elev ft": 180,
+        "pop est": 23003
+    },
+    {
+        "name": "River Kwan-Kwo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 6.69,
+        "elev ft": 180,
+        "pop est": 23003
+    },
+    {
+        "name": "Robson",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 5.0,
+        "elev ft": 49,
+        "pop est": 16309
+    },
+    {
+        "name": "Rorvwu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.16,
+        "elev ft": 183,
+        "pop est": 43776
+    },
+    {
+        "name": "Saba",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.78,
+        "elev ft": 42,
+        "pop est": 28204
+    },
+    {
+        "name": "Sabachi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 5.21,
+        "elev ft": 75,
+        "pop est": 6556
+    },
+    {
+        "name": "Saghara",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 5.2,
+        "elev ft": 3,
+        "pop est": 6313
+    },
+    {
+        "name": "Samagidi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.0,
+        "elev ft": 164,
+        "pop est": 46050
+    },
+    {
+        "name": "Samagidi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 6.08,
+        "elev ft": 101,
+        "pop est": 20845
+    },
+    {
+        "name": "Sanubi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.02,
+        "elev ft": 200,
+        "pop est": 17888
+    },
+    {
+        "name": "Sapele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.29,
+        "elev ft": 370,
+        "pop est": 20431
+    },
+    {
+        "name": "Sapele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.3,
+        "elev ft": 311,
+        "pop est": 20431
+    },
+    {
+        "name": "Sapele",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 5.68,
+        "elev ft": 108,
+        "pop est": 89774
+    },
+    {
+        "name": "Sara",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 5.2,
+        "elev ft": 3,
+        "pop est": 6313
+    },
+    {
+        "name": "Seikir Gbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 6.14,
+        "elev ft": 351,
+        "pop est": 52822
+    },
+    {
+        "name": "Serorun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Setorum",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Setorun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.37,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Setorun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Signal Station",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 5.18,
+        "elev ft": 0,
+        "pop est": 3855
+    },
+    {
+        "name": "Sobolo-Obotobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.31,
+        "elev ft": 0,
+        "pop est": 6490
+    },
+    {
+        "name": "Sokolobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.27,
+        "elev ft": 13,
+        "pop est": 5136
+    },
+    {
+        "name": "Sokolobo-Obotobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.31,
+        "elev ft": 0,
+        "pop est": 6490
+    },
+    {
+        "name": "Sovie",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.07,
+        "elev ft": 209,
+        "pop est": 12329
+    },
+    {
+        "name": "Sumasegbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 6.2,
+        "elev ft": 278,
+        "pop est": 34608
+    },
+    {
+        "name": "Sumoge",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 5.14,
+        "elev ft": 3,
+        "pop est": 3744
+    },
+    {
+        "name": "Suoroagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 5.64,
+        "elev ft": 3,
+        "pop est": 13896
+    },
+    {
+        "name": "Takanbogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.53,
+        "elev ft": 3,
+        "pop est": 9224
+    },
+    {
+        "name": "Tamegbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 5.85,
+        "elev ft": 265,
+        "pop est": 14803
+    },
+    {
+        "name": "Tamigbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 5.85,
+        "elev ft": 265,
+        "pop est": 14803
+    },
+    {
+        "name": "Tamigbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 5.79,
+        "elev ft": 124,
+        "pop est": 13152
+    },
+    {
+        "name": "Tebegbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 5.87,
+        "elev ft": 282,
+        "pop est": 19326
+    },
+    {
+        "name": "Tebu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.14,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Tebu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.11,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Tebu I",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.11,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Tebu II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 5.14,
+        "elev ft": 3,
+        "pop est": 6556
+    },
+    {
+        "name": "Tetepon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.35,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Tisun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 5.21,
+        "elev ft": 9,
+        "pop est": 6556
+    },
+    {
+        "name": "Tokogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 5.66,
+        "elev ft": 22,
+        "pop est": 13112
+    },
+    {
+        "name": "Tomadon",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 5.38,
+        "elev ft": 3,
+        "pop est": 15943
+    },
+    {
+        "name": "Tongafa",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 5.16,
+        "elev ft": 59,
+        "pop est": 6556
+    },
+    {
+        "name": "Torfagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 5.58,
+        "elev ft": 3,
+        "pop est": 12194
+    },
+    {
+        "name": "Torogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 5.42,
+        "elev ft": 3,
+        "pop est": 9281
+    },
+    {
+        "name": "Torogun",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.89,
+        "elev ft": 65,
+        "pop est": 27448
+    },
+    {
+        "name": "Torogvn",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 5.89,
+        "elev ft": 65,
+        "pop est": 27448
+    },
+    {
+        "name": "Toru-Angiama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 6.11,
+        "elev ft": 318,
+        "pop est": 42903
+    },
+    {
+        "name": "Torugbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 5.74,
+        "elev ft": 42,
+        "pop est": 13165
+    },
+    {
+        "name": "Torunbubo Camp I",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 37108
+    },
+    {
+        "name": "Torunbubo Camp II",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 6.19,
+        "elev ft": 278,
+        "pop est": 37108
+    },
+    {
+        "name": "Tubegbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 5.87,
+        "elev ft": 282,
+        "pop est": 19326
+    },
+    {
+        "name": "Tudogbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 5.53,
+        "elev ft": 3,
+        "pop est": 12371
+    },
+    {
+        "name": "Tukama",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 5.74,
+        "elev ft": 42,
+        "pop est": 13165
+    },
+    {
+        "name": "Tunwe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 5.18,
+        "elev ft": 3,
+        "pop est": 4070
+    },
+    {
+        "name": "Tuoma",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 5.88,
+        "elev ft": 275,
+        "pop est": 16858
+    },
+    {
+        "name": "Tuomo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 5.88,
+        "elev ft": 275,
+        "pop est": 16858
+    },
+    {
+        "name": "Tuomor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 5.88,
+        "elev ft": 275,
+        "pop est": 16858
+    },
+    {
+        "name": "Twhrorha",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.02,
+        "elev ft": 190,
+        "pop est": 15470
+    },
+    {
+        "name": "Warifi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.62,
+        "elev ft": 101,
+        "pop est": 33634
+    },
+    {
+        "name": "Warigi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.62,
+        "elev ft": 101,
+        "pop est": 33634
+    },
+    {
+        "name": "Warri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 5.75,
+        "elev ft": 62,
+        "pop est": 66642
+    },
+    {
+        "name": "Warri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.43,
+        "elev ft": 354,
+        "pop est": 15763
+    },
+    {
+        "name": "Warri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 6.49,
+        "elev ft": 180,
+        "pop est": 17786
+    },
+    {
+        "name": "Warri Irri",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.48,
+        "elev ft": 196,
+        "pop est": 15646
+    },
+    {
+        "name": "Warrigi",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 5.62,
+        "elev ft": 101,
+        "pop est": 33634
+    },
+    {
+        "name": "White Tappers",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.8,
+        "elev ft": 85,
+        "pop est": 22790
+    },
+    {
+        "name": "Wine Tappers",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 5.8,
+        "elev ft": 85,
+        "pop est": 22790
+    },
+    {
+        "name": "Wonuagbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 5.29,
+        "elev ft": 3,
+        "pop est": 13216
+    },
+    {
+        "name": "Yanagho",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 5.09,
+        "elev ft": 3,
+        "pop est": 5310
+    },
+    {
+        "name": "Yeye",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 5.43,
+        "elev ft": 3,
+        "pop est": 7422
+    },
+    {
+        "name": "Yobebe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 5.33,
+        "elev ft": 39,
+        "pop est": 4252
+    },
+    {
+        "name": "Yoki Village",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 5.29,
+        "elev ft": 0,
+        "pop est": 5678
+    },
+    {
+        "name": "Yokri Egbe",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 5.3,
+        "elev ft": 0,
+        "pop est": 5921
+    },
+    {
+        "name": "Yokri Sobo",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 5.29,
+        "elev ft": 0,
+        "pop est": 5678
+    },
+    {
+        "name": "Yoturu",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 5.34,
+        "elev ft": 0,
+        "pop est": 6815
+    },
+    {
+        "name": "Young Town",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 5.3,
+        "elev ft": 36,
+        "pop est": 5977
+    },
+    {
+        "name": "Zaphor",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 5.51,
+        "elev ft": 3,
+        "pop est": 10114
+    },
+    {
+        "name": "Zideyeregbene",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 5.76,
+        "elev ft": 78,
+        "pop est": 13170
+    },
+    {
+        "name": "Zion",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 5.27,
+        "elev ft": 3,
+        "pop est": 10368
+    },
+    {
+        "name": "Zion",
+        "what": "city",
+        "region": "Delta",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 5.07,
+        "elev ft": 3,
+        "pop est": 4656
+    }
+]

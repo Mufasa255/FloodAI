@@ -1,0 +1,5242 @@
+[
+    {
+        "name": "Abalabi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.13,
+        "elev ft": 249,
+        "pop est": 17399
+    },
+    {
+        "name": "Abaren",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.41,
+        "elev ft": 190,
+        "pop est": 12407
+    },
+    {
+        "name": "Abatiwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.71,
+        "elev ft": 164,
+        "pop est": 12236
+    },
+    {
+        "name": "Abede",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.02,
+        "elev ft": 167,
+        "pop est": 18027
+    },
+    {
+        "name": "Abeokuta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 3.35,
+        "elev ft": 219,
+        "pop est": 401720
+    },
+    {
+        "name": "Aberebi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.53,
+        "elev ft": 252,
+        "pop est": 13112
+    },
+    {
+        "name": "Abesse",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.22,
+        "elev ft": 219,
+        "pop est": 48060
+    },
+    {
+        "name": "Abidagba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.82,
+        "elev ft": 223,
+        "pop est": 6633
+    },
+    {
+        "name": "Abidagba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.01,
+        "elev ft": 196,
+        "pop est": 11033
+    },
+    {
+        "name": "Abigi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.4,
+        "elev ft": 187,
+        "pop est": 11501
+    },
+    {
+        "name": "Ab\u1eb9\u0301\u00f2k\u00fata",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 3.35,
+        "elev ft": 219,
+        "pop est": 401720
+    },
+    {
+        "name": "Adegboye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.38,
+        "elev ft": 216,
+        "pop est": 12367
+    },
+    {
+        "name": "Adekanbi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.02,
+        "elev ft": 190,
+        "pop est": 29462
+    },
+    {
+        "name": "Adenrele",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.16,
+        "elev ft": 229,
+        "pop est": 62349
+    },
+    {
+        "name": "Adeyokum",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.52,
+        "elev ft": 262,
+        "pop est": 12367
+    },
+    {
+        "name": "Adeyokun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.52,
+        "elev ft": 262,
+        "pop est": 12367
+    },
+    {
+        "name": "Adiyan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.34,
+        "elev ft": 147,
+        "pop est": 725297
+    },
+    {
+        "name": "Afojupa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.43,
+        "elev ft": 219,
+        "pop est": 12367
+    },
+    {
+        "name": "Afojupa-Kekere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.43,
+        "elev ft": 219,
+        "pop est": 12367
+    },
+    {
+        "name": "Afowowa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.25,
+        "elev ft": 200,
+        "pop est": 13107
+    },
+    {
+        "name": "Agbara",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.1,
+        "elev ft": 121,
+        "pop est": 283738
+    },
+    {
+        "name": "Agbile",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.87,
+        "elev ft": 180,
+        "pop est": 13498
+    },
+    {
+        "name": "Agboju",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.98,
+        "elev ft": 187,
+        "pop est": 8910
+    },
+    {
+        "name": "Agbowa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.99,
+        "elev ft": 252,
+        "pop est": 108228
+    },
+    {
+        "name": "Agbure",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.4,
+        "elev ft": 206,
+        "pop est": 12001
+    },
+    {
+        "name": "Agerige",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 4.35,
+        "elev ft": 0,
+        "pop est": 4970
+    },
+    {
+        "name": "Ago",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.92,
+        "elev ft": 232,
+        "pop est": 14903
+    },
+    {
+        "name": "Ago-Ijebu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.52,
+        "elev ft": 213,
+        "pop est": 15872
+    },
+    {
+        "name": "Ago-Iwoye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.92,
+        "elev ft": 232,
+        "pop est": 14903
+    },
+    {
+        "name": "Agodo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.35,
+        "elev ft": 206,
+        "pop est": 11774
+    },
+    {
+        "name": "Agodo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.1,
+        "elev ft": 249,
+        "pop est": 19729
+    },
+    {
+        "name": "Agoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.24,
+        "elev ft": 183,
+        "pop est": 129627
+    },
+    {
+        "name": "Agoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.86,
+        "elev ft": 223,
+        "pop est": 89936
+    },
+    {
+        "name": "Aguda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.35,
+        "elev ft": 206,
+        "pop est": 11774
+    },
+    {
+        "name": "Aguntoye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.46,
+        "elev ft": 177,
+        "pop est": 12901
+    },
+    {
+        "name": "Aha",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.94,
+        "elev ft": 242,
+        "pop est": 53699
+    },
+    {
+        "name": "Aiyede",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 4.55,
+        "elev ft": 331,
+        "pop est": 12961
+    },
+    {
+        "name": "Aiyepe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.74,
+        "elev ft": 196,
+        "pop est": 53794
+    },
+    {
+        "name": "Aiyesan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.52,
+        "elev ft": 219,
+        "pop est": 11794
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.54,
+        "elev ft": 252,
+        "pop est": 13180
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 3.03,
+        "elev ft": 314,
+        "pop est": 10863
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.18,
+        "elev ft": 167,
+        "pop est": 159470
+    },
+    {
+        "name": "Ajabata",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.31,
+        "elev ft": 180,
+        "pop est": 12712
+    },
+    {
+        "name": "Ajasa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.14,
+        "elev ft": 219,
+        "pop est": 14269
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.34,
+        "elev ft": 170,
+        "pop est": 12634
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.33,
+        "elev ft": 196,
+        "pop est": 12511
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.06,
+        "elev ft": 164,
+        "pop est": 13167
+    },
+    {
+        "name": "Ajelanwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.06,
+        "elev ft": 213,
+        "pop est": 22600
+    },
+    {
+        "name": "Ajeregun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.8,
+        "elev ft": 223,
+        "pop est": 7340
+    },
+    {
+        "name": "Ajeregun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 3.67,
+        "elev ft": 173,
+        "pop est": 13108
+    },
+    {
+        "name": "Ajibawo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.05,
+        "elev ft": 183,
+        "pop est": 19384
+    },
+    {
+        "name": "Ajipatutu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.17,
+        "elev ft": 229,
+        "pop est": 13112
+    },
+    {
+        "name": "Ajura",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.61,
+        "elev ft": 229,
+        "pop est": 24768
+    },
+    {
+        "name": "Akaka",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.72,
+        "elev ft": 249,
+        "pop est": 52602
+    },
+    {
+        "name": "Akata",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.04,
+        "elev ft": 183,
+        "pop est": 6699
+    },
+    {
+        "name": "Akete",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.08,
+        "elev ft": 157,
+        "pop est": 16044
+    },
+    {
+        "name": "Aketu-Oja",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.37,
+        "elev ft": 141,
+        "pop est": 600589
+    },
+    {
+        "name": "Akila",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.33,
+        "elev ft": 193,
+        "pop est": 8002
+    },
+    {
+        "name": "Akilla",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.33,
+        "elev ft": 193,
+        "pop est": 8002
+    },
+    {
+        "name": "Akinbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.48,
+        "elev ft": 291,
+        "pop est": 12367
+    },
+    {
+        "name": "Akinde",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.09,
+        "elev ft": 249,
+        "pop est": 21184
+    },
+    {
+        "name": "Akio",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.74,
+        "elev ft": 160,
+        "pop est": 12046
+    },
+    {
+        "name": "Akore",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.1,
+        "elev ft": 154,
+        "pop est": 13209
+    },
+    {
+        "name": "Akute-Oja",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.37,
+        "elev ft": 141,
+        "pop est": 600589
+    },
+    {
+        "name": "Ala",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.88,
+        "elev ft": 190,
+        "pop est": 45397
+    },
+    {
+        "name": "Ala",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.27,
+        "elev ft": 173,
+        "pop est": 10835
+    },
+    {
+        "name": "Alagba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.04,
+        "elev ft": 164,
+        "pop est": 13157
+    },
+    {
+        "name": "Alagbado",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.04,
+        "elev ft": 164,
+        "pop est": 13157
+    },
+    {
+        "name": "Alagbado-Ile",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.27,
+        "elev ft": 154,
+        "pop est": 619773
+    },
+    {
+        "name": "Alahun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.48,
+        "elev ft": 193,
+        "pop est": 12917
+    },
+    {
+        "name": "Alakuka",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 4.13,
+        "elev ft": 226,
+        "pop est": 2980
+    },
+    {
+        "name": "Alakuko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 4.13,
+        "elev ft": 226,
+        "pop est": 2980
+    },
+    {
+        "name": "Alakuko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 4.16,
+        "elev ft": 265,
+        "pop est": 2980
+    },
+    {
+        "name": "Alaluko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 4.16,
+        "elev ft": 265,
+        "pop est": 2980
+    },
+    {
+        "name": "Alaluko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 4.13,
+        "elev ft": 226,
+        "pop est": 2980
+    },
+    {
+        "name": "Alapandi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.31,
+        "elev ft": 160,
+        "pop est": 13089
+    },
+    {
+        "name": "Alapapo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.08,
+        "elev ft": 246,
+        "pop est": 23786
+    },
+    {
+        "name": "Alapoti",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.03,
+        "elev ft": 164,
+        "pop est": 13746
+    },
+    {
+        "name": "Alatare",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.08,
+        "elev ft": 249,
+        "pop est": 23582
+    },
+    {
+        "name": "Alhaji",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.53,
+        "elev ft": 249,
+        "pop est": 12376
+    },
+    {
+        "name": "Alo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.27,
+        "elev ft": 173,
+        "pop est": 10835
+    },
+    {
+        "name": "Apakoso",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.05,
+        "elev ft": 223,
+        "pop est": 31302
+    },
+    {
+        "name": "Aparaki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.98,
+        "elev ft": 242,
+        "pop est": 67404
+    },
+    {
+        "name": "Apata",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.35,
+        "elev ft": 206,
+        "pop est": 11692
+    },
+    {
+        "name": "Apeji",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.11,
+        "elev ft": 239,
+        "pop est": 4575
+    },
+    {
+        "name": "Apena",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.58,
+        "elev ft": 236,
+        "pop est": 50705
+    },
+    {
+        "name": "Apoje",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.11,
+        "elev ft": 239,
+        "pop est": 4575
+    },
+    {
+        "name": "Apoje-Orile",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.11,
+        "elev ft": 239,
+        "pop est": 4575
+    },
+    {
+        "name": "Apomu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.21,
+        "elev ft": 236,
+        "pop est": 64382
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.02,
+        "elev ft": 249,
+        "pop est": 14422
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.55,
+        "elev ft": 177,
+        "pop est": 13473
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.04,
+        "elev ft": 137,
+        "pop est": 42945
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.08,
+        "elev ft": 252,
+        "pop est": 23746
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.78,
+        "elev ft": 219,
+        "pop est": 17162
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.63,
+        "elev ft": 213,
+        "pop est": 47954
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.6,
+        "elev ft": 249,
+        "pop est": 59486
+    },
+    {
+        "name": "Araromi-Odo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 4.55,
+        "elev ft": 177,
+        "pop est": 11593
+    },
+    {
+        "name": "Araromi-Oke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.55,
+        "elev ft": 177,
+        "pop est": 13473
+    },
+    {
+        "name": "Araromi-Orita",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.07,
+        "elev ft": 226,
+        "pop est": 19136
+    },
+    {
+        "name": "Are-Ago",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.12,
+        "elev ft": 252,
+        "pop est": 21174
+    },
+    {
+        "name": "Arigbabu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.56,
+        "elev ft": 236,
+        "pop est": 18163
+    },
+    {
+        "name": "Arijan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.52,
+        "elev ft": 219,
+        "pop est": 11900
+    },
+    {
+        "name": "Ariwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.51,
+        "elev ft": 246,
+        "pop est": 12367
+    },
+    {
+        "name": "Arodara",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.5,
+        "elev ft": 226,
+        "pop est": 12367
+    },
+    {
+        "name": "Arogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.45,
+        "elev ft": 187,
+        "pop est": 12414
+    },
+    {
+        "name": "Arugudu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.29,
+        "elev ft": 170,
+        "pop est": 30155
+    },
+    {
+        "name": "Asa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.29,
+        "elev ft": 167,
+        "pop est": 15848
+    },
+    {
+        "name": "Asa-Oke-Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.08,
+        "elev ft": 246,
+        "pop est": 17900
+    },
+    {
+        "name": "Asa-Olowo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.08,
+        "elev ft": 242,
+        "pop est": 20648
+    },
+    {
+        "name": "Asehan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.58,
+        "elev ft": 252,
+        "pop est": 12371
+    },
+    {
+        "name": "Asha",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.29,
+        "elev ft": 167,
+        "pop est": 15848
+    },
+    {
+        "name": "Asha-Oke-Obo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.08,
+        "elev ft": 246,
+        "pop est": 17900
+    },
+    {
+        "name": "Asha-Oke-Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.08,
+        "elev ft": 246,
+        "pop est": 17900
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.09,
+        "elev ft": 183,
+        "pop est": 13112
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 4.01,
+        "elev ft": 249,
+        "pop est": 42783
+    },
+    {
+        "name": "Atogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.35,
+        "elev ft": 150,
+        "pop est": 212511
+    },
+    {
+        "name": "Atola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.08,
+        "elev ft": 242,
+        "pop est": 13778
+    },
+    {
+        "name": "Atoyo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 4.09,
+        "elev ft": 196,
+        "pop est": 8688
+    },
+    {
+        "name": "Awa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.94,
+        "elev ft": 242,
+        "pop est": 53699
+    },
+    {
+        "name": "Awdeda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 3.53,
+        "elev ft": 830,
+        "pop est": 2980
+    },
+    {
+        "name": "Awo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.55,
+        "elev ft": 246,
+        "pop est": 12591
+    },
+    {
+        "name": "Awodikora",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.41,
+        "elev ft": 157,
+        "pop est": 9652
+    },
+    {
+        "name": "Awodikora",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.41,
+        "elev ft": 164,
+        "pop est": 8973
+    },
+    {
+        "name": "Ayetoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 3.03,
+        "elev ft": 314,
+        "pop est": 10863
+    },
+    {
+        "name": "Ayila",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 4.54,
+        "elev ft": 285,
+        "pop est": 12789
+    },
+    {
+        "name": "Baba Ilugun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 22156
+    },
+    {
+        "name": "Bafo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.42,
+        "elev ft": 157,
+        "pop est": 18325
+    },
+    {
+        "name": "Bala",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.43,
+        "elev ft": 200,
+        "pop est": 12367
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.43,
+        "elev ft": 200,
+        "pop est": 12367
+    },
+    {
+        "name": "Bale-Akiosi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.35,
+        "elev ft": 144,
+        "pop est": 752834
+    },
+    {
+        "name": "Balefun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.64,
+        "elev ft": 203,
+        "pop est": 89108
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.46,
+        "elev ft": 255,
+        "pop est": 12367
+    },
+    {
+        "name": "Batolu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.5,
+        "elev ft": 255,
+        "pop est": 12367
+    },
+    {
+        "name": "Bereje",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 4.54,
+        "elev ft": 193,
+        "pop est": 17725
+    },
+    {
+        "name": "Berese",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.03,
+        "elev ft": 154,
+        "pop est": 13112
+    },
+    {
+        "name": "Budo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.34,
+        "elev ft": 154,
+        "pop est": 8393
+    },
+    {
+        "name": "Coker",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.14,
+        "elev ft": 223,
+        "pop est": 21914
+    },
+    {
+        "name": "Daddy",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.45,
+        "elev ft": 223,
+        "pop est": 12367
+    },
+    {
+        "name": "Dopanu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.15,
+        "elev ft": 150,
+        "pop est": 2791
+    },
+    {
+        "name": "Dosumu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.1,
+        "elev ft": 249,
+        "pop est": 18832
+    },
+    {
+        "name": "Dunuren",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 4.16,
+        "elev ft": 177,
+        "pop est": 3142
+    },
+    {
+        "name": "Eba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 4.49,
+        "elev ft": 170,
+        "pop est": 12167
+    },
+    {
+        "name": "Eba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.45,
+        "elev ft": 160,
+        "pop est": 11091
+    },
+    {
+        "name": "Ebute Oni",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.22,
+        "elev ft": 157,
+        "pop est": 7276
+    },
+    {
+        "name": "Ebuts-Oni",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.22,
+        "elev ft": 157,
+        "pop est": 7276
+    },
+    {
+        "name": "Edina",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.59,
+        "elev ft": 246,
+        "pop est": 26642
+    },
+    {
+        "name": "Efire",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.42,
+        "elev ft": 190,
+        "pop est": 11542
+    },
+    {
+        "name": "Egan-Elegbewa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 4.04,
+        "elev ft": 249,
+        "pop est": 66831
+    },
+    {
+        "name": "Egan-Imoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.06,
+        "elev ft": 249,
+        "pop est": 54899
+    },
+    {
+        "name": "Egbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 4.01,
+        "elev ft": 249,
+        "pop est": 50722
+    },
+    {
+        "name": "Egbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.89,
+        "elev ft": 213,
+        "pop est": 107477
+    },
+    {
+        "name": "Egudu-Bale",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.04,
+        "elev ft": 127,
+        "pop est": 58670
+    },
+    {
+        "name": "Egundugbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.86,
+        "elev ft": 249,
+        "pop est": 4172
+    },
+    {
+        "name": "Elebu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 4.05,
+        "elev ft": 246,
+        "pop est": 10126
+    },
+    {
+        "name": "Elepete",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.46,
+        "elev ft": 150,
+        "pop est": 271568
+    },
+    {
+        "name": "Elere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.16,
+        "elev ft": 229,
+        "pop est": 13112
+    },
+    {
+        "name": "Emuren",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.62,
+        "elev ft": 209,
+        "pop est": 20079
+    },
+    {
+        "name": "Epoto",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.07,
+        "elev ft": 232,
+        "pop est": 28984
+    },
+    {
+        "name": "Eredo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.0,
+        "elev ft": 242,
+        "pop est": 41124
+    },
+    {
+        "name": "Eredo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.8,
+        "elev ft": 236,
+        "pop est": 6942
+    },
+    {
+        "name": "Eredo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.91,
+        "elev ft": 173,
+        "pop est": 11163
+    },
+    {
+        "name": "Erefu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.48,
+        "elev ft": 187,
+        "pop est": 40136
+    },
+    {
+        "name": "Eregu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.23,
+        "elev ft": 242,
+        "pop est": 2980
+    },
+    {
+        "name": "Eridu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 4.15,
+        "elev ft": 246,
+        "pop est": 2980
+    },
+    {
+        "name": "Erikekere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 4.07,
+        "elev ft": 252,
+        "pop est": 56565
+    },
+    {
+        "name": "Eriki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.42,
+        "elev ft": 229,
+        "pop est": 12367
+    },
+    {
+        "name": "Eriki-Odofin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.42,
+        "elev ft": 229,
+        "pop est": 12367
+    },
+    {
+        "name": "Erinle",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.11,
+        "elev ft": 157,
+        "pop est": 13112
+    },
+    {
+        "name": "Erinmerunmu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.41,
+        "elev ft": 164,
+        "pop est": 12621
+    },
+    {
+        "name": "Eruku",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.01,
+        "elev ft": 121,
+        "pop est": 29403
+    },
+    {
+        "name": "Erunwon",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.97,
+        "elev ft": 252,
+        "pop est": 136793
+    },
+    {
+        "name": "Etebu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 4.05,
+        "elev ft": 246,
+        "pop est": 10126
+    },
+    {
+        "name": "Ewekora",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.21,
+        "elev ft": 209,
+        "pop est": 13664
+    },
+    {
+        "name": "Ewekoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.21,
+        "elev ft": 209,
+        "pop est": 13664
+    },
+    {
+        "name": "Ewu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.2,
+        "elev ft": 157,
+        "pop est": 245007
+    },
+    {
+        "name": "Ewu-Lema",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.65,
+        "elev ft": 170,
+        "pop est": 13180
+    },
+    {
+        "name": "Ewu-Ode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.57,
+        "elev ft": 226,
+        "pop est": 40493
+    },
+    {
+        "name": "Ewu-Ogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.5,
+        "elev ft": 193,
+        "pop est": 12837
+    },
+    {
+        "name": "Ewu-Oliwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.65,
+        "elev ft": 173,
+        "pop est": 13174
+    },
+    {
+        "name": "Ewu-Osi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.53,
+        "elev ft": 213,
+        "pop est": 12811
+    },
+    {
+        "name": "Eyinodo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.93,
+        "elev ft": 236,
+        "pop est": 37467
+    },
+    {
+        "name": "Eyinwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.79,
+        "elev ft": 173,
+        "pop est": 12968
+    },
+    {
+        "name": "Eyita",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.54,
+        "elev ft": 206,
+        "pop est": 102853
+    },
+    {
+        "name": "Fagbayi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.17,
+        "elev ft": 190,
+        "pop est": 46423
+    },
+    {
+        "name": "Fajege",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.61,
+        "elev ft": 223,
+        "pop est": 33471
+    },
+    {
+        "name": "Fakale",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.56,
+        "elev ft": 226,
+        "pop est": 62396
+    },
+    {
+        "name": "Faleke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.56,
+        "elev ft": 226,
+        "pop est": 62396
+    },
+    {
+        "name": "Fashola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.29,
+        "elev ft": 170,
+        "pop est": 14859
+    },
+    {
+        "name": "Fotedo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 4.16,
+        "elev ft": 173,
+        "pop est": 3301
+    },
+    {
+        "name": "Fowoseje",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 4.18,
+        "elev ft": 180,
+        "pop est": 3030
+    },
+    {
+        "name": "Fowoseji",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 4.18,
+        "elev ft": 180,
+        "pop est": 3030
+    },
+    {
+        "name": "Fowowawo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.14,
+        "elev ft": 147,
+        "pop est": 35697
+    },
+    {
+        "name": "Garo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.84,
+        "elev ft": 180,
+        "pop est": 12140
+    },
+    {
+        "name": "Gbara Bagbimo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.57,
+        "elev ft": 242,
+        "pop est": 17908
+    },
+    {
+        "name": "Gbawojo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 4.04,
+        "elev ft": 249,
+        "pop est": 55615
+    },
+    {
+        "name": "Gbenga",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.13,
+        "elev ft": 164,
+        "pop est": 34946
+    },
+    {
+        "name": "Gbodomo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.56,
+        "elev ft": 246,
+        "pop est": 13217
+    },
+    {
+        "name": "Gbomo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.6,
+        "elev ft": 242,
+        "pop est": 47237
+    },
+    {
+        "name": "Gudugbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.23,
+        "elev ft": 219,
+        "pop est": 13112
+    },
+    {
+        "name": "Jaguna",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.5,
+        "elev ft": 216,
+        "pop est": 12433
+    },
+    {
+        "name": "Jaguna",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.22,
+        "elev ft": 200,
+        "pop est": 13112
+    },
+    {
+        "name": "Jaguna",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.31,
+        "elev ft": 170,
+        "pop est": 12976
+    },
+    {
+        "name": "Jako-Petedo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.08,
+        "elev ft": 124,
+        "pop est": 165137
+    },
+    {
+        "name": "Jambu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.15,
+        "elev ft": 223,
+        "pop est": 44514
+    },
+    {
+        "name": "Jibowu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.54,
+        "elev ft": 249,
+        "pop est": 12375
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.1,
+        "elev ft": 164,
+        "pop est": 13112
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.24,
+        "elev ft": 203,
+        "pop est": 65226
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.58,
+        "elev ft": 249,
+        "pop est": 30061
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.48,
+        "elev ft": 173,
+        "pop est": 114724
+    },
+    {
+        "name": "Kara-Ewumi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.39,
+        "elev ft": 177,
+        "pop est": 12544
+    },
+    {
+        "name": "Kayoju",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.5,
+        "elev ft": 226,
+        "pop est": 21234
+    },
+    {
+        "name": "Kemta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.17,
+        "elev ft": 226,
+        "pop est": 13112
+    },
+    {
+        "name": "Kesumeta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 4.54,
+        "elev ft": 177,
+        "pop est": 9861
+    },
+    {
+        "name": "Kesumeta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 4.43,
+        "elev ft": 0,
+        "pop est": 6019
+    },
+    {
+        "name": "Kesun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.49,
+        "elev ft": 173,
+        "pop est": 98223
+    },
+    {
+        "name": "Koboro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.19,
+        "elev ft": 223,
+        "pop est": 13112
+    },
+    {
+        "name": "Konigbagbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.57,
+        "elev ft": 246,
+        "pop est": 29320
+    },
+    {
+        "name": "Kososi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.37,
+        "elev ft": 203,
+        "pop est": 12367
+    },
+    {
+        "name": "Kudoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.58,
+        "elev ft": 246,
+        "pop est": 12406
+    },
+    {
+        "name": "Labori",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.53,
+        "elev ft": 249,
+        "pop est": 35420
+    },
+    {
+        "name": "Ladesuwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.62,
+        "elev ft": 216,
+        "pop est": 99579
+    },
+    {
+        "name": "Lafalu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.51,
+        "elev ft": 226,
+        "pop est": 12367
+    },
+    {
+        "name": "Lafenwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.2,
+        "elev ft": 150,
+        "pop est": 245007
+    },
+    {
+        "name": "Lagbarun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.91,
+        "elev ft": 170,
+        "pop est": 11277
+    },
+    {
+        "name": "Lala",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.11,
+        "elev ft": 246,
+        "pop est": 17282
+    },
+    {
+        "name": "Laloko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.47,
+        "elev ft": 269,
+        "pop est": 12367
+    },
+    {
+        "name": "Lambe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.35,
+        "elev ft": 150,
+        "pop est": 489506
+    },
+    {
+        "name": "Lamiro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 4.49,
+        "elev ft": 236,
+        "pop est": 12117
+    },
+    {
+        "name": "Lapeleko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.21,
+        "elev ft": 206,
+        "pop est": 13112
+    },
+    {
+        "name": "Layemi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.32,
+        "elev ft": 160,
+        "pop est": 14399
+    },
+    {
+        "name": "Lemomu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.55,
+        "elev ft": 252,
+        "pop est": 12367
+    },
+    {
+        "name": "Lemomu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.11,
+        "elev ft": 160,
+        "pop est": 13112
+    },
+    {
+        "name": "Lerin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.24,
+        "elev ft": 219,
+        "pop est": 63029
+    },
+    {
+        "name": "Lido",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.1,
+        "elev ft": 223,
+        "pop est": 6880
+    },
+    {
+        "name": "Likosi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.53,
+        "elev ft": 249,
+        "pop est": 14999
+    },
+    {
+        "name": "Litan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.54,
+        "elev ft": 269,
+        "pop est": 12367
+    },
+    {
+        "name": "Loburo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.45,
+        "elev ft": 183,
+        "pop est": 12584
+    },
+    {
+        "name": "Logede",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.53,
+        "elev ft": 196,
+        "pop est": 17013
+    },
+    {
+        "name": "Lomiro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 4.49,
+        "elev ft": 236,
+        "pop est": 12117
+    },
+    {
+        "name": "Lufape",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.49,
+        "elev ft": 203,
+        "pop est": 12552
+    },
+    {
+        "name": "Lukosi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.34,
+        "elev ft": 170,
+        "pop est": 12675
+    },
+    {
+        "name": "Lukosi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.15,
+        "elev ft": 216,
+        "pop est": 38766
+    },
+    {
+        "name": "Lumogo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.28,
+        "elev ft": 203,
+        "pop est": 2980
+    },
+    {
+        "name": "Lupaye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.13,
+        "elev ft": 150,
+        "pop est": 2817
+    },
+    {
+        "name": "Luwako",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 4.18,
+        "elev ft": 157,
+        "pop est": 2790
+    },
+    {
+        "name": "Maba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.43,
+        "elev ft": 164,
+        "pop est": 12676
+    },
+    {
+        "name": "Magado",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.41,
+        "elev ft": 157,
+        "pop est": 32662
+    },
+    {
+        "name": "Magbon",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.48,
+        "elev ft": 173,
+        "pop est": 140031
+    },
+    {
+        "name": "Magboro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.4,
+        "elev ft": 150,
+        "pop est": 138848
+    },
+    {
+        "name": "Magboro-Akeran",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.4,
+        "elev ft": 150,
+        "pop est": 138848
+    },
+    {
+        "name": "Magboro-Shofolarin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.41,
+        "elev ft": 157,
+        "pop est": 32662
+    },
+    {
+        "name": "Makun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.19,
+        "elev ft": 164,
+        "pop est": 3015
+    },
+    {
+        "name": "Makun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.4,
+        "elev ft": 170,
+        "pop est": 10105
+    },
+    {
+        "name": "Makun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.63,
+        "elev ft": 223,
+        "pop est": 110180
+    },
+    {
+        "name": "Malajo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.59,
+        "elev ft": 246,
+        "pop est": 15151
+    },
+    {
+        "name": "Malara",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 4.16,
+        "elev ft": 177,
+        "pop est": 3206
+    },
+    {
+        "name": "Maweje",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.92,
+        "elev ft": 193,
+        "pop est": 84003
+    },
+    {
+        "name": "Mawere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.38,
+        "elev ft": 134,
+        "pop est": 815187
+    },
+    {
+        "name": "Mawkawlawki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.38,
+        "elev ft": 183,
+        "pop est": 12387
+    },
+    {
+        "name": "Maya",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.65,
+        "elev ft": 203,
+        "pop est": 59039
+    },
+    {
+        "name": "Mayaka",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.51,
+        "elev ft": 219,
+        "pop est": 12384
+    },
+    {
+        "name": "Mebisere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.51,
+        "elev ft": 200,
+        "pop est": 77023
+    },
+    {
+        "name": "Mede",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.59,
+        "elev ft": 252,
+        "pop est": 25254
+    },
+    {
+        "name": "Mekkaw",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 2.84,
+        "elev ft": 830,
+        "pop est": 9875
+    },
+    {
+        "name": "Meko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 2.84,
+        "elev ft": 830,
+        "pop est": 9875
+    },
+    {
+        "name": "Mero",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.13,
+        "elev ft": 216,
+        "pop est": 14101
+    },
+    {
+        "name": "Mesan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.13,
+        "elev ft": 160,
+        "pop est": 30054
+    },
+    {
+        "name": "Mob",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.34,
+        "elev ft": 160,
+        "pop est": 9611
+    },
+    {
+        "name": "Mob",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.32,
+        "elev ft": 157,
+        "pop est": 9669
+    },
+    {
+        "name": "Moba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.32,
+        "elev ft": 157,
+        "pop est": 9669
+    },
+    {
+        "name": "Moba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.43,
+        "elev ft": 164,
+        "pop est": 12676
+    },
+    {
+        "name": "Mobalufon",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.9,
+        "elev ft": 206,
+        "pop est": 126100
+    },
+    {
+        "name": "Mobarode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.88,
+        "elev ft": 226,
+        "pop est": 4419
+    },
+    {
+        "name": "Mobi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 4.17,
+        "elev ft": 157,
+        "pop est": 2697
+    },
+    {
+        "name": "Mokoloki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.38,
+        "elev ft": 183,
+        "pop est": 12387
+    },
+    {
+        "name": "Molekere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.53,
+        "elev ft": 239,
+        "pop est": 54503
+    },
+    {
+        "name": "Mopin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.18,
+        "elev ft": 167,
+        "pop est": 192682
+    },
+    {
+        "name": "More",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.51,
+        "elev ft": 206,
+        "pop est": 13997
+    },
+    {
+        "name": "Moro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.58,
+        "elev ft": 229,
+        "pop est": 20378
+    },
+    {
+        "name": "Mosafejo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.29,
+        "elev ft": 167,
+        "pop est": 151929
+    },
+    {
+        "name": "Mosafejo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.15,
+        "elev ft": 170,
+        "pop est": 84359
+    },
+    {
+        "name": "Mosan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.19,
+        "elev ft": 239,
+        "pop est": 13112
+    },
+    {
+        "name": "Moshan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.19,
+        "elev ft": 239,
+        "pop est": 13112
+    },
+    {
+        "name": "Mosimi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.55,
+        "elev ft": 255,
+        "pop est": 17836
+    },
+    {
+        "name": "Mowe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.44,
+        "elev ft": 180,
+        "pop est": 12534
+    },
+    {
+        "name": "Muta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.15,
+        "elev ft": 144,
+        "pop est": 194359
+    },
+    {
+        "name": "Nene",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.87,
+        "elev ft": 242,
+        "pop est": 4172
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.3,
+        "elev ft": 183,
+        "pop est": 12825
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.46,
+        "elev ft": 150,
+        "pop est": 186683
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.39,
+        "elev ft": 157,
+        "pop est": 34019
+    },
+    {
+        "name": "Ode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.68,
+        "elev ft": 390,
+        "pop est": 76082
+    },
+    {
+        "name": "Ode-Lemaw",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.66,
+        "elev ft": 177,
+        "pop est": 16424
+    },
+    {
+        "name": "Ode-Lemo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.66,
+        "elev ft": 177,
+        "pop est": 16424
+    },
+    {
+        "name": "Ode-Omi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.33,
+        "elev ft": 160,
+        "pop est": 7453
+    },
+    {
+        "name": "Ode-Remo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.68,
+        "elev ft": 390,
+        "pop est": 76082
+    },
+    {
+        "name": "Odeda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 3.53,
+        "elev ft": 830,
+        "pop est": 2980
+    },
+    {
+        "name": "Odeda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 3.51,
+        "elev ft": 830,
+        "pop est": 2980
+    },
+    {
+        "name": "Odeda Farm Settlement",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 3.51,
+        "elev ft": 830,
+        "pop est": 2980
+    },
+    {
+        "name": "Odedah",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 3.53,
+        "elev ft": 830,
+        "pop est": 2980
+    },
+    {
+        "name": "Odo-Agboju",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.98,
+        "elev ft": 187,
+        "pop est": 8910
+    },
+    {
+        "name": "Odo-Ajatun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.96,
+        "elev ft": 183,
+        "pop est": 21842
+    },
+    {
+        "name": "Odo-Gbuwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.77,
+        "elev ft": 187,
+        "pop est": 26967
+    },
+    {
+        "name": "Odo-Idako",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.82,
+        "elev ft": 236,
+        "pop est": 5747
+    },
+    {
+        "name": "Odo-Senlu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.71,
+        "elev ft": 164,
+        "pop est": 12386
+    },
+    {
+        "name": "Ododayo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.07,
+        "elev ft": 239,
+        "pop est": 8878
+    },
+    {
+        "name": "Ododeyo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.07,
+        "elev ft": 239,
+        "pop est": 8878
+    },
+    {
+        "name": "Odofin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.4,
+        "elev ft": 196,
+        "pop est": 12367
+    },
+    {
+        "name": "Odogbolo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.76,
+        "elev ft": 213,
+        "pop est": 74126
+    },
+    {
+        "name": "Odogbolu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.76,
+        "elev ft": 213,
+        "pop est": 74126
+    },
+    {
+        "name": "Odometi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 4.04,
+        "elev ft": 249,
+        "pop est": 43878
+    },
+    {
+        "name": "Odoroga",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 4.01,
+        "elev ft": 196,
+        "pop est": 20653
+    },
+    {
+        "name": "Odosenlu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.84,
+        "elev ft": 249,
+        "pop est": 4385
+    },
+    {
+        "name": "Odoye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.79,
+        "elev ft": 239,
+        "pop est": 7481
+    },
+    {
+        "name": "Oduatayo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.57,
+        "elev ft": 252,
+        "pop est": 14239
+    },
+    {
+        "name": "Ofada",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.43,
+        "elev ft": 196,
+        "pop est": 12369
+    },
+    {
+        "name": "Oga",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.51,
+        "elev ft": 242,
+        "pop est": 12982
+    },
+    {
+        "name": "Ogbaga",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.15,
+        "elev ft": 249,
+        "pop est": 21760
+    },
+    {
+        "name": "Ogbere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 4.16,
+        "elev ft": 265,
+        "pop est": 2980
+    },
+    {
+        "name": "Ogbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.92,
+        "elev ft": 196,
+        "pop est": 99478
+    },
+    {
+        "name": "Ogbogbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.96,
+        "elev ft": 249,
+        "pop est": 127695
+    },
+    {
+        "name": "Ogere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.64,
+        "elev ft": 236,
+        "pop est": 70710
+    },
+    {
+        "name": "Ogigo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.51,
+        "elev ft": 193,
+        "pop est": 89486
+    },
+    {
+        "name": "Ogijo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.51,
+        "elev ft": 193,
+        "pop est": 89486
+    },
+    {
+        "name": "Ogoji",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.77,
+        "elev ft": 193,
+        "pop est": 46378
+    },
+    {
+        "name": "Ogunleke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.05,
+        "elev ft": 164,
+        "pop est": 13558
+    },
+    {
+        "name": "Ogunlenu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 3.84,
+        "elev ft": 249,
+        "pop est": 4270
+    },
+    {
+        "name": "Ogunlogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.47,
+        "elev ft": 150,
+        "pop est": 306097
+    },
+    {
+        "name": "Ogunmola-Oke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.27,
+        "elev ft": 177,
+        "pop est": 13072
+    },
+    {
+        "name": "Ogunrun-Ori",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.43,
+        "elev ft": 173,
+        "pop est": 12573
+    },
+    {
+        "name": "Ogunseye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.5,
+        "elev ft": 206,
+        "pop est": 12541
+    },
+    {
+        "name": "Ogunsolu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.26,
+        "elev ft": 216,
+        "pop est": 12975
+    },
+    {
+        "name": "Oguru",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.14,
+        "elev ft": 196,
+        "pop est": 3690
+    },
+    {
+        "name": "Oka",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.41,
+        "elev ft": 0,
+        "pop est": 6227
+    },
+    {
+        "name": "Oke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.38,
+        "elev ft": 134,
+        "pop est": 885796
+    },
+    {
+        "name": "Oke Aye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 4.03,
+        "elev ft": 249,
+        "pop est": 34352
+    },
+    {
+        "name": "Oke-Ako",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.98,
+        "elev ft": 200,
+        "pop est": 25957
+    },
+    {
+        "name": "Oke-Aro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.32,
+        "elev ft": 150,
+        "pop est": 804287
+    },
+    {
+        "name": "Oke-Arobi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.6,
+        "elev ft": 216,
+        "pop est": 30217
+    },
+    {
+        "name": "Oke-Ate",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.54,
+        "elev ft": 229,
+        "pop est": 17325
+    },
+    {
+        "name": "Oke-Eki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 4.05,
+        "elev ft": 229,
+        "pop est": 15102
+    },
+    {
+        "name": "Oke-Eri",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.95,
+        "elev ft": 246,
+        "pop est": 99044
+    },
+    {
+        "name": "Oke-Ogbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.82,
+        "elev ft": 249,
+        "pop est": 4848
+    },
+    {
+        "name": "Oke-Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.01,
+        "elev ft": 167,
+        "pop est": 18893
+    },
+    {
+        "name": "Oke-Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.17,
+        "elev ft": 226,
+        "pop est": 13112
+    },
+    {
+        "name": "Oke-Olowu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 3.99,
+        "elev ft": 249,
+        "pop est": 76642
+    },
+    {
+        "name": "Okelisa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.94,
+        "elev ft": 180,
+        "pop est": 10950
+    },
+    {
+        "name": "Okenla",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.18,
+        "elev ft": 242,
+        "pop est": 75207
+    },
+    {
+        "name": "Okenla",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.06,
+        "elev ft": 180,
+        "pop est": 6323
+    },
+    {
+        "name": "Okenla",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.29,
+        "elev ft": 170,
+        "pop est": 14859
+    },
+    {
+        "name": "Okeyejo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 4.02,
+        "elev ft": 242,
+        "pop est": 34827
+    },
+    {
+        "name": "Oki-Gbode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 4.13,
+        "elev ft": 160,
+        "pop est": 3427
+    },
+    {
+        "name": "Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.47,
+        "elev ft": 216,
+        "pop est": 12367
+    },
+    {
+        "name": "Oko-Eko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 4.13,
+        "elev ft": 226,
+        "pop est": 2980
+    },
+    {
+        "name": "Oko-Makun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.19,
+        "elev ft": 164,
+        "pop est": 3015
+    },
+    {
+        "name": "Oko-Odo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.88,
+        "elev ft": 236,
+        "pop est": 4172
+    },
+    {
+        "name": "Okomi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.13,
+        "elev ft": 150,
+        "pop est": 13112
+    },
+    {
+        "name": "Okun-Awwaw",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.81,
+        "elev ft": 216,
+        "pop est": 37844
+    },
+    {
+        "name": "Okun-Owa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.81,
+        "elev ft": 216,
+        "pop est": 37844
+    },
+    {
+        "name": "Olatilewa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.02,
+        "elev ft": 190,
+        "pop est": 27469
+    },
+    {
+        "name": "Ologbosere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.51,
+        "elev ft": 213,
+        "pop est": 13335
+    },
+    {
+        "name": "Ologbun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.51,
+        "elev ft": 239,
+        "pop est": 14965
+    },
+    {
+        "name": "Olojo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.59,
+        "elev ft": 249,
+        "pop est": 19471
+    },
+    {
+        "name": "Olokata",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.5,
+        "elev ft": 0,
+        "pop est": 6992
+    },
+    {
+        "name": "Oloki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.34,
+        "elev ft": 164,
+        "pop est": 12946
+    },
+    {
+        "name": "Oloko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.6,
+        "elev ft": 236,
+        "pop est": 18639
+    },
+    {
+        "name": "Olokota",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.5,
+        "elev ft": 0,
+        "pop est": 6992
+    },
+    {
+        "name": "Olori",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.36,
+        "elev ft": 144,
+        "pop est": 653912
+    },
+    {
+        "name": "Olorunda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 3.37,
+        "elev ft": 236,
+        "pop est": 12367
+    },
+    {
+        "name": "Olorunda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 3.12,
+        "elev ft": 229,
+        "pop est": 14378
+    },
+    {
+        "name": "Olorunda",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.07,
+        "elev ft": 242,
+        "pop est": 26308
+    },
+    {
+        "name": "Olorunda Agana",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 3.12,
+        "elev ft": 229,
+        "pop est": 14378
+    },
+    {
+        "name": "Olorunkemi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.03,
+        "elev ft": 177,
+        "pop est": 22242
+    },
+    {
+        "name": "Olorunsola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.03,
+        "elev ft": 164,
+        "pop est": 13746
+    },
+    {
+        "name": "Olowo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 3.11,
+        "elev ft": 246,
+        "pop est": 17083
+    },
+    {
+        "name": "Olowola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.34,
+        "elev ft": 173,
+        "pop est": 12656
+    },
+    {
+        "name": "Olowotedo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.43,
+        "elev ft": 170,
+        "pop est": 12652
+    },
+    {
+        "name": "Olowu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.02,
+        "elev ft": 183,
+        "pop est": 25551
+    },
+    {
+        "name": "Olowu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.34,
+        "elev ft": 154,
+        "pop est": 8393
+    },
+    {
+        "name": "Olugbode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.2,
+        "elev ft": 150,
+        "pop est": 236582
+    },
+    {
+        "name": "Olujobi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.19,
+        "elev ft": 213,
+        "pop est": 13112
+    },
+    {
+        "name": "Oluke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.25,
+        "elev ft": 193,
+        "pop est": 13103
+    },
+    {
+        "name": "Oluke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.16,
+        "elev ft": 144,
+        "pop est": 77405
+    },
+    {
+        "name": "Oluke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.29,
+        "elev ft": 177,
+        "pop est": 25655
+    },
+    {
+        "name": "Olukogbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.36,
+        "elev ft": 209,
+        "pop est": 11823
+    },
+    {
+        "name": "Oluwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.4,
+        "elev ft": 203,
+        "pop est": 12367
+    },
+    {
+        "name": "Oluwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.3,
+        "elev ft": 157,
+        "pop est": 544644
+    },
+    {
+        "name": "Oluwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.32,
+        "elev ft": 190,
+        "pop est": 12570
+    },
+    {
+        "name": "Oluwo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.62,
+        "elev ft": 232,
+        "pop est": 32576
+    },
+    {
+        "name": "Omu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.86,
+        "elev ft": 173,
+        "pop est": 11636
+    },
+    {
+        "name": "Oni",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.24,
+        "elev ft": 160,
+        "pop est": 9228
+    },
+    {
+        "name": "Onibido",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.36,
+        "elev ft": 147,
+        "pop est": 464380
+    },
+    {
+        "name": "Onibotuje",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.28,
+        "elev ft": 196,
+        "pop est": 12826
+    },
+    {
+        "name": "Onibudo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.36,
+        "elev ft": 147,
+        "pop est": 464380
+    },
+    {
+        "name": "Onibuku",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.34,
+        "elev ft": 164,
+        "pop est": 12946
+    },
+    {
+        "name": "Onibukun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.12,
+        "elev ft": 180,
+        "pop est": 25355
+    },
+    {
+        "name": "Onidajo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.08,
+        "elev ft": 246,
+        "pop est": 23786
+    },
+    {
+        "name": "Onigari",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.89,
+        "elev ft": 173,
+        "pop est": 11544
+    },
+    {
+        "name": "Onigbedu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 3.13,
+        "elev ft": 232,
+        "pop est": 12978
+    },
+    {
+        "name": "Onigbongbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.08,
+        "elev ft": 160,
+        "pop est": 13112
+    },
+    {
+        "name": "Onihale",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.21,
+        "elev ft": 187,
+        "pop est": 114110
+    },
+    {
+        "name": "Onilogbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.02,
+        "elev ft": 127,
+        "pop est": 24190
+    },
+    {
+        "name": "Onimosalasi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.03,
+        "elev ft": 147,
+        "pop est": 18331
+    },
+    {
+        "name": "Onipanu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.2,
+        "elev ft": 173,
+        "pop est": 258754
+    },
+    {
+        "name": "Onisopi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.58,
+        "elev ft": 219,
+        "pop est": 49955
+    },
+    {
+        "name": "Oniyamo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 3.1,
+        "elev ft": 249,
+        "pop est": 19841
+    },
+    {
+        "name": "Oniyangi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.8,
+        "elev ft": 239,
+        "pop est": 7219
+    },
+    {
+        "name": "Opeilu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 3.29,
+        "elev ft": 157,
+        "pop est": 604040
+    },
+    {
+        "name": "Ordu-Olokan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.33,
+        "elev ft": 154,
+        "pop est": 142933
+    },
+    {
+        "name": "Orente",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.22,
+        "elev ft": 180,
+        "pop est": 273917
+    },
+    {
+        "name": "Oresa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.05,
+        "elev ft": 150,
+        "pop est": 23319
+    },
+    {
+        "name": "Origbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.18,
+        "elev ft": 154,
+        "pop est": 2689
+    },
+    {
+        "name": "Orile-Egudu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.04,
+        "elev ft": 127,
+        "pop est": 58670
+    },
+    {
+        "name": "Orile-Igbehin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.51,
+        "elev ft": 209,
+        "pop est": 12569
+    },
+    {
+        "name": "Orile-Igbein",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.51,
+        "elev ft": 209,
+        "pop est": 12569
+    },
+    {
+        "name": "Orile-Kajola",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.23,
+        "elev ft": 200,
+        "pop est": 96948
+    },
+    {
+        "name": "Orile-Makun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.63,
+        "elev ft": 223,
+        "pop est": 110180
+    },
+    {
+        "name": "Orile_Imo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.56,
+        "elev ft": 252,
+        "pop est": 13451
+    },
+    {
+        "name": "Orita-Atoyo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.64,
+        "elev ft": 203,
+        "pop est": 81312
+    },
+    {
+        "name": "Orita-Odo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.64,
+        "elev ft": 190,
+        "pop est": 24031
+    },
+    {
+        "name": "Oriwu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 4.03,
+        "elev ft": 246,
+        "pop est": 24733
+    },
+    {
+        "name": "Oriyanrin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.2,
+        "elev ft": 154,
+        "pop est": 3040
+    },
+    {
+        "name": "Orogbe",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.31,
+        "elev ft": 160,
+        "pop est": 75218
+    },
+    {
+        "name": "Orogbo Lamodi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.4,
+        "elev ft": 213,
+        "pop est": 12367
+    },
+    {
+        "name": "Orogbo-Lemodi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.4,
+        "elev ft": 213,
+        "pop est": 12367
+    },
+    {
+        "name": "Orogbo-Olamodi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 3.4,
+        "elev ft": 213,
+        "pop est": 12367
+    },
+    {
+        "name": "Orokiti",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 4.56,
+        "elev ft": 167,
+        "pop est": 16769
+    },
+    {
+        "name": "Oru",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.94,
+        "elev ft": 239,
+        "pop est": 59822
+    },
+    {
+        "name": "Orudu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.33,
+        "elev ft": 154,
+        "pop est": 142933
+    },
+    {
+        "name": "Orudu-Olokan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.33,
+        "elev ft": 154,
+        "pop est": 142933
+    },
+    {
+        "name": "Oruntu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 3.46,
+        "elev ft": 249,
+        "pop est": 12367
+    },
+    {
+        "name": "Orunwa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 4.07,
+        "elev ft": 226,
+        "pop est": 16481
+    },
+    {
+        "name": "Osasa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.86,
+        "elev ft": 203,
+        "pop est": 64371
+    },
+    {
+        "name": "Osho",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.31,
+        "elev ft": 252,
+        "pop est": 3303
+    },
+    {
+        "name": "Oshosun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.23,
+        "elev ft": 232,
+        "pop est": 62350
+    },
+    {
+        "name": "Oso",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.52,
+        "elev ft": 232,
+        "pop est": 12973
+    },
+    {
+        "name": "Oso",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 4.31,
+        "elev ft": 252,
+        "pop est": 3303
+    },
+    {
+        "name": "Osoko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.34,
+        "elev ft": 173,
+        "pop est": 12536
+    },
+    {
+        "name": "Ososa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.86,
+        "elev ft": 203,
+        "pop est": 64371
+    },
+    {
+        "name": "Ososo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.48,
+        "elev ft": 190,
+        "pop est": 12891
+    },
+    {
+        "name": "Ososun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.23,
+        "elev ft": 232,
+        "pop est": 62350
+    },
+    {
+        "name": "Osuke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.16,
+        "elev ft": 144,
+        "pop est": 77405
+    },
+    {
+        "name": "Ota",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.23,
+        "elev ft": 167,
+        "pop est": 352260
+    },
+    {
+        "name": "Otere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.49,
+        "elev ft": 216,
+        "pop est": 12431
+    },
+    {
+        "name": "Otere-Eruke",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 3.49,
+        "elev ft": 216,
+        "pop est": 12431
+    },
+    {
+        "name": "Oto-Owu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.2,
+        "elev ft": 131,
+        "pop est": 350421
+    },
+    {
+        "name": "Otogun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 4.3,
+        "elev ft": 183,
+        "pop est": 8476
+    },
+    {
+        "name": "Otta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.0,
+        "elev ft": 193,
+        "pop est": 9698
+    },
+    {
+        "name": "Otta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.23,
+        "elev ft": 167,
+        "pop est": 352260
+    },
+    {
+        "name": "Otugade",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.3,
+        "elev ft": 190,
+        "pop est": 12745
+    },
+    {
+        "name": "Otun",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.37,
+        "elev ft": 144,
+        "pop est": 496825
+    },
+    {
+        "name": "Otunba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 3.34,
+        "elev ft": 167,
+        "pop est": 12901
+    },
+    {
+        "name": "Otunba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 3.59,
+        "elev ft": 242,
+        "pop est": 12438
+    },
+    {
+        "name": "Otungbade",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 3.3,
+        "elev ft": 190,
+        "pop est": 12745
+    },
+    {
+        "name": "Owere",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.32,
+        "elev ft": 196,
+        "pop est": 12522
+    },
+    {
+        "name": "Owode",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 3.51,
+        "elev ft": 242,
+        "pop est": 12367
+    },
+    {
+        "name": "Owode-Bale",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.84,
+        "elev ft": 239,
+        "pop est": 4172
+    },
+    {
+        "name": "Owoye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.08,
+        "elev ft": 157,
+        "pop est": 16044
+    },
+    {
+        "name": "Owu-Ikija",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 4.03,
+        "elev ft": 249,
+        "pop est": 45412
+    },
+    {
+        "name": "Oyegbami",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.62,
+        "elev ft": 219,
+        "pop est": 87428
+    },
+    {
+        "name": "Oyero",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 3.28,
+        "elev ft": 173,
+        "pop est": 59184
+    },
+    {
+        "name": "Pakoto",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 3.2,
+        "elev ft": 213,
+        "pop est": 78235
+    },
+    {
+        "name": "Pakuraw",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.42,
+        "elev ft": 173,
+        "pop est": 12536
+    },
+    {
+        "name": "Pakuro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 3.42,
+        "elev ft": 173,
+        "pop est": 12536
+    },
+    {
+        "name": "Papa Alanto",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.19,
+        "elev ft": 236,
+        "pop est": 33531
+    },
+    {
+        "name": "Papa-Ifa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.1,
+        "elev ft": 242,
+        "pop est": 11826
+    },
+    {
+        "name": "Papalanto",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.19,
+        "elev ft": 236,
+        "pop est": 33531
+    },
+    {
+        "name": "QAT",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 3.35,
+        "elev ft": 219,
+        "pop est": 401720
+    },
+    {
+        "name": "Rasusi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.56,
+        "elev ft": 232,
+        "pop est": 19748
+    },
+    {
+        "name": "Sagamu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.65,
+        "elev ft": 209,
+        "pop est": 128707
+    },
+    {
+        "name": "Sango-Otta",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.24,
+        "elev ft": 173,
+        "pop est": 346687
+    },
+    {
+        "name": "Sanngo-Ota",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 3.24,
+        "elev ft": 173,
+        "pop est": 346687
+    },
+    {
+        "name": "Sapeti",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.25,
+        "elev ft": 183,
+        "pop est": 13108
+    },
+    {
+        "name": "Sare",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.34,
+        "elev ft": 206,
+        "pop est": 12421
+    },
+    {
+        "name": "Sefu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.41,
+        "elev ft": 160,
+        "pop est": 15650
+    },
+    {
+        "name": "Sefu-Sote",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.4,
+        "elev ft": 160,
+        "pop est": 20618
+    },
+    {
+        "name": "Seidu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 3.51,
+        "elev ft": 236,
+        "pop est": 53418
+    },
+    {
+        "name": "Sepeti",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.25,
+        "elev ft": 183,
+        "pop est": 13108
+    },
+    {
+        "name": "Seriki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.62,
+        "elev ft": 249,
+        "pop est": 26600
+    },
+    {
+        "name": "Seriki-Oko",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.25,
+        "elev ft": 206,
+        "pop est": 53907
+    },
+    {
+        "name": "Shagamu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.65,
+        "elev ft": 209,
+        "pop est": 128707
+    },
+    {
+        "name": "Share",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.34,
+        "elev ft": 206,
+        "pop est": 12421
+    },
+    {
+        "name": "Shefu-Ota",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.41,
+        "elev ft": 160,
+        "pop est": 15650
+    },
+    {
+        "name": "Shimawa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.49,
+        "elev ft": 219,
+        "pop est": 13057
+    },
+    {
+        "name": "Shojuolu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.15,
+        "elev ft": 249,
+        "pop est": 44532
+    },
+    {
+        "name": "Simawa",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.49,
+        "elev ft": 219,
+        "pop est": 13057
+    },
+    {
+        "name": "Singiokolo Creek",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.04,
+        "elev ft": 164,
+        "pop est": 13157
+    },
+    {
+        "name": "Soderu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.25,
+        "elev ft": 177,
+        "pop est": 26017
+    },
+    {
+        "name": "Sogoye",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 3.52,
+        "elev ft": 239,
+        "pop est": 12367
+    },
+    {
+        "name": "Sojuolu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 3.15,
+        "elev ft": 249,
+        "pop est": 44532
+    },
+    {
+        "name": "Sokan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 3.29,
+        "elev ft": 173,
+        "pop est": 12992
+    },
+    {
+        "name": "Somo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 3.52,
+        "elev ft": 206,
+        "pop est": 12828
+    },
+    {
+        "name": "Sonde",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.29,
+        "elev ft": 173,
+        "pop est": 15880
+    },
+    {
+        "name": "Sotubo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 3.59,
+        "elev ft": 242,
+        "pop est": 46413
+    },
+    {
+        "name": "Sowo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 3.66,
+        "elev ft": 183,
+        "pop est": 28251
+    },
+    {
+        "name": "Sowunmi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 3.26,
+        "elev ft": 180,
+        "pop est": 13627
+    },
+    {
+        "name": "Sumoge",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.28,
+        "elev ft": 177,
+        "pop est": 8326
+    },
+    {
+        "name": "Sunmoge",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.28,
+        "elev ft": 177,
+        "pop est": 8326
+    },
+    {
+        "name": "Talafanmu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 3.97,
+        "elev ft": 242,
+        "pop est": 70069
+    },
+    {
+        "name": "Temidire",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.25,
+        "elev ft": 219,
+        "pop est": 2980
+    },
+    {
+        "name": "Tibade",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 4.36,
+        "elev ft": 209,
+        "pop est": 11771
+    },
+    {
+        "name": "Tidenuren",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 4.16,
+        "elev ft": 177,
+        "pop est": 3142
+    },
+    {
+        "name": "Tidenurin",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 4.16,
+        "elev ft": 177,
+        "pop est": 3142
+    },
+    {
+        "name": "Tido",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.1,
+        "elev ft": 223,
+        "pop est": 6880
+    },
+    {
+        "name": "Tidowo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.1,
+        "elev ft": 223,
+        "pop est": 6880
+    },
+    {
+        "name": "Tigara",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.36,
+        "elev ft": 209,
+        "pop est": 11772
+    },
+    {
+        "name": "Tigaro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.36,
+        "elev ft": 209,
+        "pop est": 11772
+    },
+    {
+        "name": "Tigbo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.18,
+        "elev ft": 183,
+        "pop est": 97187
+    },
+    {
+        "name": "Tigbo Ogan",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 3.18,
+        "elev ft": 183,
+        "pop est": 97187
+    },
+    {
+        "name": "Tigbori",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 4.13,
+        "elev ft": 226,
+        "pop est": 2980
+    },
+    {
+        "name": "Tiluba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 4.1,
+        "elev ft": 242,
+        "pop est": 5125
+    },
+    {
+        "name": "Tirianga",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 4.2,
+        "elev ft": 190,
+        "pop est": 2980
+    },
+    {
+        "name": "Tiyanbaki",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 4.09,
+        "elev ft": 242,
+        "pop est": 13321
+    },
+    {
+        "name": "Togusilu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 4.2,
+        "elev ft": 173,
+        "pop est": 3061
+    },
+    {
+        "name": "Tololu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.09,
+        "elev ft": 236,
+        "pop est": 7589
+    },
+    {
+        "name": "Tomoba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 4.06,
+        "elev ft": 180,
+        "pop est": 7041
+    },
+    {
+        "name": "Torotoro",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 3.4,
+        "elev ft": 173,
+        "pop est": 12521
+    },
+    {
+        "name": "Toto-Owu",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.2,
+        "elev ft": 131,
+        "pop est": 350421
+    },
+    {
+        "name": "Uba",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 4.15,
+        "elev ft": 167,
+        "pop est": 3318
+    },
+    {
+        "name": "Wasimi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 3.23,
+        "elev ft": 236,
+        "pop est": 13111
+    },
+    {
+        "name": "Wasimi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 3.48,
+        "elev ft": 314,
+        "pop est": 12367
+    },
+    {
+        "name": "Wasimi",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.15,
+        "elev ft": 246,
+        "pop est": 13112
+    },
+    {
+        "name": "Wasimi Alafia",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 3.15,
+        "elev ft": 246,
+        "pop est": 13112
+    },
+    {
+        "name": "Yobo",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 3.12,
+        "elev ft": 246,
+        "pop est": 14760
+    },
+    {
+        "name": "Zion",
+        "what": "city",
+        "region": "Ogun",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.4,
+        "elev ft": 203,
+        "pop est": 11822
+    }
+]

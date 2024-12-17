@@ -1,0 +1,43 @@
+Wind Farm Capacity by Installation Type and Region (MW),,,,,,,,,,,
+"Global Wind Power Tracker, December 2023",,,,,,,,,,,
+Tracker includes wind farm phases 10 MW and greater.,,,,,,,,,,,
+Regions in bold were updated for the December 2023 release. All others were last updated May 2023.,,,,,,,,,,,
+Global Energy Monitor,,,,,,,,,,,
+,,,,,,,,,,,
+Region,Subregion,Installation Type,Operating,Construction,Pre-construction,Announced,"Prospective (Sum of Construction, Pre-construction, Announced)",Shelved,Mothballed,Retired,Cancelled
+Africa,Northern Africa,offshore,0,0,"1,500",0,"1,500",0,0,0,0
+,,onshore,"3,748","3,620","34,641","7,500","45,761",234,0,0,156
+,,unknown,0,0,"8,610","20,525","29,135",0,0,0,50
+,Sub-Saharan Africa,offshore,0,0,0,0,0,50,0,0,50
+,,onshore,"5,187","1,352","7,517","2,882","11,751","2,702",0,10,"2,140"
+,,unknown,100,0,0,"33,280","33,280",0,0,0,0
+Americas,Latin America and the Caribbean,offshore,0,0,"60,841","80,067","140,908",576,0,0,0
+,,onshore,"48,779","12,770","53,609","23,542","89,921","3,593",86,0,"13,265"
+,Northern America,offshore,42,"2,147","28,090","28,567","58,804",0,0,0,"11,375"
+,,onshore,"160,182","11,036","44,068","15,970","71,074","4,253",0,"12,883","27,419"
+Asia,Central Asia,onshore,904,"1,048",850,"4,755","6,653","1,040",0,0,"3,022"
+,Eastern Asia,offshore,"35,580","26,505","78,845","58,350","163,700","17,765",0,0,"38,715"
+,,onshore,"315,011","119,586","190,327","57,397","367,310","5,387",50,805,"6,189"
+,,unknown,781,0,40,0,40,0,0,0,25
+,South-eastern Asia,offshore,"2,085",252,"97,378","26,525","124,155","37,937",0,0,618
+,,onshore,"7,305","1,772","14,257","8,161","24,190","2,686",0,0,"1,437"
+,,unknown,0,0,0,"1,870","1,870",0,0,0,0
+,Southern Asia,offshore,0,0,0,"2,900","2,900",0,0,0,400
+,,onshore,"38,015","3,245","9,070","1,253","13,568","2,814",0,0,"2,175"
+,Western Asia,offshore,0,0,0,500,500,0,0,0,198
+,,onshore,"13,205","3,228","34,959","4,493","42,680","1,050",0,0,"2,183"
+,,unknown,0,0,"1,550",727,"2,277",110,0,0,100
+Europe,Eastern Europe,offshore,0,0,"8,870","9,488","18,358",0,0,0,110
+,,onshore,"16,522","1,219","4,746","2,783","8,748","3,582","1,329",27,"7,575"
+,Northern Europe,offshore,"16,340","9,276","158,966","158,447","326,689","7,573",0,21,"34,906"
+,,onshore,"42,381","7,819","36,788","14,472","59,078","5,813",26,339,"34,696"
+,Southern Europe,offshore,170,0,"19,193","34,927","54,120",285,0,0,"4,634"
+,,onshore,"48,349","6,227","52,345","16,293","74,865","1,466",0,488,"11,026"
+,Western Europe,offshore,"14,486","4,367","22,204","21,243","47,814",303,0,17,"7,342"
+,,onshore,"65,074","2,180","6,726","10,115","19,021",941,10,"1,418",711
+,,unknown,253,14,0,43,58,0,0,0,0
+Oceania,Australia and New Zealand,offshore,0,0,"25,099","73,581","98,680","5,800",0,0,"1,100"
+,,onshore,"12,481","3,967","51,914","58,540","114,421","3,576",0,0,"8,637"
+,Melanesia,onshore,22,0,0,0,0,20,0,0,0
+,Micronesia,onshore,0,0,0,0,0,0,0,0,10
+,Polynesia,onshore,0,0,0,0,0,42,0,0,0

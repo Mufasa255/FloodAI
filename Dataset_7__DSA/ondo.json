@@ -1,0 +1,5762 @@
+[
+    {
+        "name": "Babasale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.33,
+        "elev ft": 1030,
+        "pop est": 12760
+    },
+    {
+        "name": "Badejo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.41,
+        "elev ft": 1000,
+        "pop est": 10115
+    },
+    {
+        "name": "Baga",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 5.52,
+        "elev ft": 997,
+        "pop est": 9139
+    },
+    {
+        "name": "Bajulaiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.02,
+        "long": 5.22,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 5.44,
+        "elev ft": 971,
+        "pop est": 6810
+    },
+    {
+        "name": "Bambomo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 5.48,
+        "elev ft": 964,
+        "pop est": 5619
+    },
+    {
+        "name": "Bateru",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.65,
+        "elev ft": 177,
+        "pop est": 20300
+    },
+    {
+        "name": "Bawa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.71,
+        "elev ft": 164,
+        "pop est": 21155
+    },
+    {
+        "name": "Biagbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 4.99,
+        "elev ft": 59,
+        "pop est": 22201
+    },
+    {
+        "name": "Biagbene II",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 4.98,
+        "elev ft": 55,
+        "pop est": 22201
+    },
+    {
+        "name": "Bijimi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.64,
+        "elev ft": 173,
+        "pop est": 20713
+    },
+    {
+        "name": "Bijimi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 4.82,
+        "elev ft": 137,
+        "pop est": 11753
+    },
+    {
+        "name": "Binibiagbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.06,
+        "elev ft": 45,
+        "pop est": 19719
+    },
+    {
+        "name": "Binigbolo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 4.8,
+        "elev ft": 121,
+        "pop est": 17455
+    },
+    {
+        "name": "Bogoubo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 6465
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.35,
+        "elev ft": 1043,
+        "pop est": 12824
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.42,
+        "elev ft": 1089,
+        "pop est": 10674
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 5.01,
+        "elev ft": 249,
+        "pop est": 13033
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 4.96,
+        "elev ft": 925,
+        "pop est": 13308
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.69,
+        "elev ft": 830,
+        "pop est": 9156
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 4.69,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Boluwaduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.4,
+        "elev ft": 1000,
+        "pop est": 10651
+    },
+    {
+        "name": "Boropa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 5.85,
+        "elev ft": 1669,
+        "pop est": 17905
+    },
+    {
+        "name": "Daba Bilobu Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 4.99,
+        "elev ft": 9,
+        "pop est": 22201
+    },
+    {
+        "name": "Daba-Bilolu Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 4.99,
+        "elev ft": 9,
+        "pop est": 22201
+    },
+    {
+        "name": "Daja",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 5.88,
+        "elev ft": 1669,
+        "pop est": 25265
+    },
+    {
+        "name": "Ebule Ipara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.68,
+        "elev ft": 177,
+        "pop est": 21796
+    },
+    {
+        "name": "Ebute Erinje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.72,
+        "elev ft": 196,
+        "pop est": 18166
+    },
+    {
+        "name": "Ebute Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.62,
+        "elev ft": 255,
+        "pop est": 18845
+    },
+    {
+        "name": "Ebute-Ero",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.62,
+        "elev ft": 173,
+        "pop est": 19999
+    },
+    {
+        "name": "Ebute-Ipare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.68,
+        "elev ft": 177,
+        "pop est": 21796
+    },
+    {
+        "name": "Edunbiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.94,
+        "elev ft": 249,
+        "pop est": 20691
+    },
+    {
+        "name": "Effa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.91,
+        "elev ft": 1669,
+        "pop est": 26309
+    },
+    {
+        "name": "Efifa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.91,
+        "elev ft": 1669,
+        "pop est": 26309
+    },
+    {
+        "name": "Efife",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.91,
+        "elev ft": 1669,
+        "pop est": 26309
+    },
+    {
+        "name": "Efufu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.48,
+        "elev ft": 997,
+        "pop est": 4362
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.34,
+        "elev ft": 928,
+        "pop est": 11501
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.49,
+        "elev ft": 1013,
+        "pop est": 4396
+    },
+    {
+        "name": "Egun-Egbedigbon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 5.09,
+        "elev ft": 938,
+        "pop est": 14252
+    },
+    {
+        "name": "Egure-Ayadi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.18,
+        "elev ft": 971,
+        "pop est": 9777
+    },
+    {
+        "name": "Egwe Inana",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 5.03,
+        "elev ft": 118,
+        "pop est": 15297
+    },
+    {
+        "name": "Ehinala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.29,
+        "elev ft": 997,
+        "pop est": 14833
+    },
+    {
+        "name": "Ekigwe Camp",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 5.04,
+        "elev ft": 908,
+        "pop est": 25803
+    },
+    {
+        "name": "Ekpemi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.86,
+        "elev ft": 1669,
+        "pop est": 27018
+    },
+    {
+        "name": "Elejoka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.38,
+        "elev ft": 1000,
+        "pop est": 12670
+    },
+    {
+        "name": "Elemile",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.44,
+        "elev ft": 1003,
+        "pop est": 6681
+    },
+    {
+        "name": "Elemirin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.11,
+        "elev ft": 977,
+        "pop est": 12202
+    },
+    {
+        "name": "Elepo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.46,
+        "elev ft": 1049,
+        "pop est": 5358
+    },
+    {
+        "name": "Eleyowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 5.3,
+        "elev ft": 1079,
+        "pop est": 34765
+    },
+    {
+        "name": "Emaojoma",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 5900
+    },
+    {
+        "name": "Emaojomo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 5900
+    },
+    {
+        "name": "Emiloro-Oda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.23,
+        "elev ft": 1007,
+        "pop est": 53788
+    },
+    {
+        "name": "Emure",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.51,
+        "elev ft": 997,
+        "pop est": 12942
+    },
+    {
+        "name": "Emure-Ile",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.52,
+        "elev ft": 997,
+        "pop est": 8602
+    },
+    {
+        "name": "Epene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 4.57,
+        "elev ft": 0,
+        "pop est": 10873
+    },
+    {
+        "name": "Epeni",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 4.89,
+        "elev ft": 124,
+        "pop est": 22201
+    },
+    {
+        "name": "Epenmen",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 5.92,
+        "elev ft": 1076,
+        "pop est": 26958
+    },
+    {
+        "name": "Epinnipinni",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.77,
+        "elev ft": 226,
+        "pop est": 121873
+    },
+    {
+        "name": "Eporo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 5.5,
+        "elev ft": 1030,
+        "pop est": 11579
+    },
+    {
+        "name": "Erekiti",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 4.62,
+        "elev ft": 830,
+        "pop est": 16490
+    },
+    {
+        "name": "Ereyi Market",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 4.85,
+        "elev ft": 830,
+        "pop est": 8058
+    },
+    {
+        "name": "Erinje-Ekeji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.75,
+        "elev ft": 180,
+        "pop est": 17895
+    },
+    {
+        "name": "Erinla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.82,
+        "elev ft": 830,
+        "pop est": 8237
+    },
+    {
+        "name": "Eripose",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.04,
+        "elev ft": 830,
+        "pop est": 7550
+    },
+    {
+        "name": "Ero",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.45,
+        "elev ft": 1000,
+        "pop est": 5678
+    },
+    {
+        "name": "Ero",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 5.1,
+        "elev ft": 1108,
+        "pop est": 37995
+    },
+    {
+        "name": "Eruna-Eru",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 4.77,
+        "elev ft": 137,
+        "pop est": 11903
+    },
+    {
+        "name": "Erushu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 5.82,
+        "elev ft": 1669,
+        "pop est": 25142
+    },
+    {
+        "name": "Etikan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 4.63,
+        "elev ft": 173,
+        "pop est": 19069
+    },
+    {
+        "name": "Etioro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.72,
+        "elev ft": 1020,
+        "pop est": 44000
+    },
+    {
+        "name": "Fajaw",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.58,
+        "elev ft": 249,
+        "pop est": 13261
+    },
+    {
+        "name": "Fajo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.58,
+        "elev ft": 249,
+        "pop est": 13261
+    },
+    {
+        "name": "Fiabrasite",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 4.97,
+        "elev ft": 124,
+        "pop est": 22029
+    },
+    {
+        "name": "Foriku",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 4.84,
+        "elev ft": 209,
+        "pop est": 13261
+    },
+    {
+        "name": "Gaga",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.14,
+        "elev ft": 1148,
+        "pop est": 129565
+    },
+    {
+        "name": "Gbabijo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 4.7,
+        "elev ft": 0,
+        "pop est": 11778
+    },
+    {
+        "name": "Gbadamosi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 4.94,
+        "elev ft": 187,
+        "pop est": 21556
+    },
+    {
+        "name": "Gbadegur",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.48,
+        "elev ft": 1069,
+        "pop est": 9082
+    },
+    {
+        "name": "Gbalegi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.17,
+        "elev ft": 997,
+        "pop est": 9484
+    },
+    {
+        "name": "Gbekebo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.86,
+        "elev ft": 127,
+        "pop est": 21767
+    },
+    {
+        "name": "Gberiwojo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.05,
+        "elev ft": 830,
+        "pop est": 8128
+    },
+    {
+        "name": "Gbeta",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.48,
+        "elev ft": 830,
+        "pop est": 6667
+    },
+    {
+        "name": "Gbogbolowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.99,
+        "elev ft": 305,
+        "pop est": 19105
+    },
+    {
+        "name": "Gbogi Market",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 4.52,
+        "elev ft": 229,
+        "pop est": 12209
+    },
+    {
+        "name": "Gedege",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.68,
+        "elev ft": 242,
+        "pop est": 17373
+    },
+    {
+        "name": "Gedegede",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 5.88,
+        "elev ft": 1669,
+        "pop est": 25265
+    },
+    {
+        "name": "Gragbijo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 4.7,
+        "elev ft": 0,
+        "pop est": 11778
+    },
+    {
+        "name": "Gutan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.55,
+        "elev ft": 272,
+        "pop est": 16807
+    },
+    {
+        "name": "Iba-Abala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 4.61,
+        "elev ft": 173,
+        "pop est": 18626
+    },
+    {
+        "name": "Iba-Ibala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 4.61,
+        "elev ft": 173,
+        "pop est": 18626
+    },
+    {
+        "name": "Ibagba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 4.85,
+        "elev ft": 830,
+        "pop est": 8058
+    },
+    {
+        "name": "Ibarram",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.85,
+        "elev ft": 1669,
+        "pop est": 23631
+    },
+    {
+        "name": "Ibila",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Ibilla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Ibuji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.07,
+        "elev ft": 1246,
+        "pop est": 51952
+    },
+    {
+        "name": "Ibula",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.11,
+        "elev ft": 1072,
+        "pop est": 107163
+    },
+    {
+        "name": "Ibule",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.11,
+        "elev ft": 1072,
+        "pop est": 107163
+    },
+    {
+        "name": "Idanre",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.12,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Idele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 4.63,
+        "elev ft": 177,
+        "pop est": 20713
+    },
+    {
+        "name": "Idi Itala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.9,
+        "elev ft": 229,
+        "pop est": 18943
+    },
+    {
+        "name": "Idi-Mango",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.59,
+        "elev ft": 187,
+        "pop est": 20665
+    },
+    {
+        "name": "Idiogba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 4.79,
+        "elev ft": 131,
+        "pop est": 13286
+    },
+    {
+        "name": "Idita",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.16,
+        "elev ft": 1036,
+        "pop est": 31885
+    },
+    {
+        "name": "Idoani",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 5.85,
+        "elev ft": 1069,
+        "pop est": 9983
+    },
+    {
+        "name": "Idofin-Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 5.73,
+        "elev ft": 997,
+        "pop est": 27118
+    },
+    {
+        "name": "Idogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 4.73,
+        "elev ft": 0,
+        "pop est": 10986
+    },
+    {
+        "name": "Idogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 5.9,
+        "elev ft": 875,
+        "pop est": 10265
+    },
+    {
+        "name": "Idosale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.82,
+        "elev ft": 869,
+        "pop est": 9983
+    },
+    {
+        "name": "Ifira",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 5.92,
+        "elev ft": 997,
+        "pop est": 21412
+    },
+    {
+        "name": "Ifira-Isale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 5.91,
+        "elev ft": 1026,
+        "pop est": 19522
+    },
+    {
+        "name": "Ifon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 5.77,
+        "elev ft": 830,
+        "pop est": 10418
+    },
+    {
+        "name": "Igangbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.87,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Igashi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 5.8,
+        "elev ft": 1669,
+        "pop est": 23740
+    },
+    {
+        "name": "Igashi Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 5.8,
+        "elev ft": 1669,
+        "pop est": 23740
+    },
+    {
+        "name": "Igasi-Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 5.8,
+        "elev ft": 1669,
+        "pop est": 23740
+    },
+    {
+        "name": "Igbaje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.79,
+        "elev ft": 187,
+        "pop est": 111275
+    },
+    {
+        "name": "Igbanran",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.8,
+        "elev ft": 160,
+        "pop est": 17624
+    },
+    {
+        "name": "Igbara-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 5.06,
+        "elev ft": 1171,
+        "pop est": 41779
+    },
+    {
+        "name": "Igbaraoke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 5.06,
+        "elev ft": 1171,
+        "pop est": 41779
+    },
+    {
+        "name": "Igbatayo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.28,
+        "elev ft": 1069,
+        "pop est": 81310
+    },
+    {
+        "name": "Igbatoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.36,
+        "elev ft": 830,
+        "pop est": 10145
+    },
+    {
+        "name": "Igbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 5.78,
+        "elev ft": 1669,
+        "pop est": 169311
+    },
+    {
+        "name": "Igbekebo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.86,
+        "elev ft": 127,
+        "pop est": 21767
+    },
+    {
+        "name": "Igbelowowa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.23,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Igbindo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.72,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Igbisan Oloto",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.63,
+        "elev ft": 232,
+        "pop est": 19096
+    },
+    {
+        "name": "Igbisin Oloto",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.63,
+        "elev ft": 232,
+        "pop est": 19096
+    },
+    {
+        "name": "Igbo Ayeka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.8,
+        "elev ft": 203,
+        "pop est": 55932
+    },
+    {
+        "name": "Igbo-Agba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 4.66,
+        "elev ft": 167,
+        "pop est": 20931
+    },
+    {
+        "name": "Igbo-Edun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 4.52,
+        "elev ft": 173,
+        "pop est": 14263
+    },
+    {
+        "name": "Igbo-Egunrin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.62,
+        "elev ft": 209,
+        "pop est": 19752
+    },
+    {
+        "name": "Igbo-Epo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 5.08,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Igbo-Epo-Aiyemofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 5.09,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Igbo-Epo-Owomofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.06,
+        "elev ft": 849,
+        "pop est": 7165
+    },
+    {
+        "name": "Igbo-Olokun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.14,
+        "elev ft": 997,
+        "pop est": 7152
+    },
+    {
+        "name": "Igbobi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.6,
+        "elev ft": 236,
+        "pop est": 19496
+    },
+    {
+        "name": "Igbobini",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 4.83,
+        "elev ft": 173,
+        "pop est": 111194
+    },
+    {
+        "name": "Igbodi-Aragbaiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.46,
+        "elev ft": 925,
+        "pop est": 6835
+    },
+    {
+        "name": "Igbodigo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.75,
+        "elev ft": 239,
+        "pop est": 63344
+    },
+    {
+        "name": "Igbodo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 5.47,
+        "elev ft": 1089,
+        "pop est": 8102
+    },
+    {
+        "name": "Igbogi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.86,
+        "elev ft": 144,
+        "pop est": 18983
+    },
+    {
+        "name": "Igbokoda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 4.8,
+        "elev ft": 131,
+        "pop est": 20949
+    },
+    {
+        "name": "Igbokuta",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 4.79,
+        "elev ft": 164,
+        "pop est": 22201
+    },
+    {
+        "name": "Igboluoye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 4.73,
+        "elev ft": 255,
+        "pop est": 15555
+    },
+    {
+        "name": "Igbotako",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.64,
+        "elev ft": 830,
+        "pop est": 16837
+    },
+    {
+        "name": "Igbotako-Erinje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.75,
+        "elev ft": 187,
+        "pop est": 17448
+    },
+    {
+        "name": "Igbotu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 4.89,
+        "elev ft": 193,
+        "pop est": 19756
+    },
+    {
+        "name": "Igele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.44,
+        "elev ft": 1003,
+        "pop est": 6459
+    },
+    {
+        "name": "Igodan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.74,
+        "elev ft": 255,
+        "pop est": 100382
+    },
+    {
+        "name": "Igodan-Lisa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.77,
+        "elev ft": 216,
+        "pop est": 48808
+    },
+    {
+        "name": "Igogu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 4.6,
+        "elev ft": 173,
+        "pop est": 18417
+    },
+    {
+        "name": "Igorin Itaja",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.11,
+        "elev ft": 1233,
+        "pop est": 7152
+    },
+    {
+        "name": "Igunshin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.86,
+        "elev ft": 830,
+        "pop est": 8850
+    },
+    {
+        "name": "Igunsin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.86,
+        "elev ft": 830,
+        "pop est": 8850
+    },
+    {
+        "name": "Igunsin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 5.26,
+        "elev ft": 1013,
+        "pop est": 68124
+    },
+    {
+        "name": "Igurowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 4.88,
+        "elev ft": 830,
+        "pop est": 10710
+    },
+    {
+        "name": "Ihapin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 4.66,
+        "elev ft": 177,
+        "pop est": 21004
+    },
+    {
+        "name": "Ijagba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 5.76,
+        "elev ft": 265,
+        "pop est": 11201
+    },
+    {
+        "name": "Ijama-Odo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.05,
+        "elev ft": 879,
+        "pop est": 7395
+    },
+    {
+        "name": "Ijare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 58321
+    },
+    {
+        "name": "Ijegunmo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.6,
+        "elev ft": 866,
+        "pop est": 50384
+    },
+    {
+        "name": "Ijojo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 5.32,
+        "elev ft": 1017,
+        "pop est": 13017
+    },
+    {
+        "name": "Iju",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 5.26,
+        "elev ft": 1230,
+        "pop est": 12783
+    },
+    {
+        "name": "Ijuodo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.65,
+        "elev ft": 400,
+        "pop est": 16837
+    },
+    {
+        "name": "Ijuoshun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 5.02,
+        "elev ft": 114,
+        "pop est": 15632
+    },
+    {
+        "name": "Ijuosun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 5.02,
+        "elev ft": 114,
+        "pop est": 15632
+    },
+    {
+        "name": "Ikare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 5.75,
+        "elev ft": 1669,
+        "pop est": 231331
+    },
+    {
+        "name": "Ikare-Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 5.75,
+        "elev ft": 1669,
+        "pop est": 231331
+    },
+    {
+        "name": "Ikeram",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.86,
+        "elev ft": 1669,
+        "pop est": 23492
+    },
+    {
+        "name": "Ikeram",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.87,
+        "elev ft": 1669,
+        "pop est": 25080
+    },
+    {
+        "name": "Ikota",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 5.15,
+        "elev ft": 1669,
+        "pop est": 92268
+    },
+    {
+        "name": "Ikoya",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.69,
+        "elev ft": 291,
+        "pop est": 16837
+    },
+    {
+        "name": "Ikpobo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 4.88,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Ikun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.78,
+        "elev ft": 1017,
+        "pop est": 20391
+    },
+    {
+        "name": "Ilado",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.24,
+        "elev ft": 1177,
+        "pop est": 72986
+    },
+    {
+        "name": "Ilado",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 5.27,
+        "elev ft": 1007,
+        "pop est": 43093
+    },
+    {
+        "name": "Ilado",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 4.6,
+        "elev ft": 370,
+        "pop est": 15539
+    },
+    {
+        "name": "Ilale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.57,
+        "elev ft": 997,
+        "pop est": 118292
+    },
+    {
+        "name": "Ilaleri-Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.96,
+        "elev ft": 124,
+        "pop est": 22131
+    },
+    {
+        "name": "Ilara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 5.11,
+        "elev ft": 1059,
+        "pop est": 83815
+    },
+    {
+        "name": "Ilare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 5.11,
+        "elev ft": 1059,
+        "pop est": 83815
+    },
+    {
+        "name": "Ile-Oluji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 4.87,
+        "elev ft": 980,
+        "pop est": 19179
+    },
+    {
+        "name": "Ile-Romaba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.16,
+        "elev ft": 1036,
+        "pop est": 7152
+    },
+    {
+        "name": "Ilegbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.81,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Ilegboro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.81,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Ilemo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Ilepete",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 4.86,
+        "elev ft": 0,
+        "pop est": 11399
+    },
+    {
+        "name": "Ilere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.17,
+        "elev ft": 1669,
+        "pop est": 157364
+    },
+    {
+        "name": "Ilesha",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.26,
+        "elev ft": 977,
+        "pop est": 11958
+    },
+    {
+        "name": "Ileyo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 5.31,
+        "elev ft": 997,
+        "pop est": 13095
+    },
+    {
+        "name": "Iloro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 5.15,
+        "elev ft": 1089,
+        "pop est": 13477
+    },
+    {
+        "name": "Ilowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 4.84,
+        "elev ft": 141,
+        "pop est": 11577
+    },
+    {
+        "name": "Ilu-Alaso",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.59,
+        "elev ft": 160,
+        "pop est": 19359
+    },
+    {
+        "name": "Ilunla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 4.89,
+        "elev ft": 830,
+        "pop est": 8120
+    },
+    {
+        "name": "Ilutitun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 4.64,
+        "elev ft": 364,
+        "pop est": 16842
+    },
+    {
+        "name": "Ilutitun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 4.94,
+        "elev ft": 830,
+        "pop est": 8950
+    },
+    {
+        "name": "Imafon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.26,
+        "elev ft": 1030,
+        "pop est": 82467
+    },
+    {
+        "name": "Imolumo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 5.12,
+        "elev ft": 951,
+        "pop est": 7861
+    },
+    {
+        "name": "Imoluwa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.63,
+        "elev ft": 190,
+        "pop est": 20269
+    },
+    {
+        "name": "Imoru",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 5.76,
+        "elev ft": 337,
+        "pop est": 11235
+    },
+    {
+        "name": "Imorun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.9,
+        "elev ft": 200,
+        "pop est": 20497
+    },
+    {
+        "name": "Imure-Ile",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.47,
+        "elev ft": 1036,
+        "pop est": 5358
+    },
+    {
+        "name": "Inakpome",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 4.97,
+        "elev ft": 180,
+        "pop est": 20708
+    },
+    {
+        "name": "Ipara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.67,
+        "elev ft": 177,
+        "pop est": 21406
+    },
+    {
+        "name": "Ipare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.67,
+        "elev ft": 177,
+        "pop est": 21406
+    },
+    {
+        "name": "Ipele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.67,
+        "elev ft": 977,
+        "pop est": 4552
+    },
+    {
+        "name": "Ipele Junction",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.66,
+        "elev ft": 849,
+        "pop est": 4601
+    },
+    {
+        "name": "Ipeme",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.61,
+        "elev ft": 987,
+        "pop est": 83709
+    },
+    {
+        "name": "Ipeme",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.62,
+        "elev ft": 925,
+        "pop est": 68682
+    },
+    {
+        "name": "Ipensa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.15,
+        "elev ft": 1227,
+        "pop est": 138807
+    },
+    {
+        "name": "Ipere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 4.61,
+        "elev ft": 170,
+        "pop est": 17218
+    },
+    {
+        "name": "Ipere-Atijo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 4.61,
+        "elev ft": 170,
+        "pop est": 17218
+    },
+    {
+        "name": "Ipesi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.95,
+        "elev ft": 1017,
+        "pop est": 18940
+    },
+    {
+        "name": "Ipinlerere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.04,
+        "elev ft": 830,
+        "pop est": 12939
+    },
+    {
+        "name": "Ipinlerere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.03,
+        "elev ft": 830,
+        "pop est": 7443
+    },
+    {
+        "name": "Ipinme",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.62,
+        "elev ft": 925,
+        "pop est": 68682
+    },
+    {
+        "name": "Ipinsa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.15,
+        "elev ft": 1227,
+        "pop est": 138807
+    },
+    {
+        "name": "Ipoba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.13,
+        "elev ft": 980,
+        "pop est": 20385
+    },
+    {
+        "name": "Ipoba-Sama",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.1,
+        "elev ft": 938,
+        "pop est": 8384
+    },
+    {
+        "name": "Ipogu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 5.08,
+        "elev ft": 997,
+        "pop est": 43235
+    },
+    {
+        "name": "Ipogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 5.08,
+        "elev ft": 997,
+        "pop est": 43235
+    },
+    {
+        "name": "Ipoke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.86,
+        "elev ft": 144,
+        "pop est": 20395
+    },
+    {
+        "name": "Ira",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 4.6,
+        "elev ft": 318,
+        "pop est": 16928
+    },
+    {
+        "name": "Ira-Atijo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.6,
+        "elev ft": 301,
+        "pop est": 17722
+    },
+    {
+        "name": "Irele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.87,
+        "elev ft": 216,
+        "pop est": 21210
+    },
+    {
+        "name": "Irese",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 5.2,
+        "elev ft": 1669,
+        "pop est": 91145
+    },
+    {
+        "name": "Iromi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 5.96,
+        "elev ft": 1007,
+        "pop est": 17940
+    },
+    {
+        "name": "Irowa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 4.6,
+        "elev ft": 360,
+        "pop est": 15325
+    },
+    {
+        "name": "Irun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 5.67,
+        "elev ft": 1669,
+        "pop est": 24794
+    },
+    {
+        "name": "Isagba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 5.27,
+        "elev ft": 997,
+        "pop est": 12939
+    },
+    {
+        "name": "Isarun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 5.07,
+        "elev ft": 1181,
+        "pop est": 39463
+    },
+    {
+        "name": "Isewe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.61,
+        "elev ft": 830,
+        "pop est": 5581
+    },
+    {
+        "name": "Ishe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 5.92,
+        "elev ft": 1118,
+        "pop est": 21034
+    },
+    {
+        "name": "Isho",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 5.42,
+        "elev ft": 1033,
+        "pop est": 8565
+    },
+    {
+        "name": "Ishua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.96,
+        "elev ft": 958,
+        "pop est": 24782
+    },
+    {
+        "name": "Ishua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.91,
+        "elev ft": 1223,
+        "pop est": 27118
+    },
+    {
+        "name": "Ishua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.9,
+        "elev ft": 1669,
+        "pop est": 26630
+    },
+    {
+        "name": "Iso",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 5.42,
+        "elev ft": 1033,
+        "pop est": 8565
+    },
+    {
+        "name": "Isua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.9,
+        "elev ft": 1669,
+        "pop est": 26630
+    },
+    {
+        "name": "Isua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.91,
+        "elev ft": 1223,
+        "pop est": 27118
+    },
+    {
+        "name": "Isua",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.96,
+        "elev ft": 958,
+        "pop est": 24782
+    },
+    {
+        "name": "Isua Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.91,
+        "elev ft": 1223,
+        "pop est": 27118
+    },
+    {
+        "name": "Isuada",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.55,
+        "elev ft": 1000,
+        "pop est": 85268
+    },
+    {
+        "name": "Ita Lisa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.12,
+        "elev ft": 1053,
+        "pop est": 96973
+    },
+    {
+        "name": "Ita Oniga",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.09,
+        "elev ft": 1003,
+        "pop est": 47585
+    },
+    {
+        "name": "Ita Oniyan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 5.16,
+        "elev ft": 1210,
+        "pop est": 199392
+    },
+    {
+        "name": "Ita-Aiyelala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 4.82,
+        "elev ft": 131,
+        "pop est": 22201
+    },
+    {
+        "name": "Ita-Ogbolu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.25,
+        "elev ft": 1141,
+        "pop est": 13108
+    },
+    {
+        "name": "Ita-Olorun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.14,
+        "elev ft": 1003,
+        "pop est": 11307
+    },
+    {
+        "name": "Ita-Oniyan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.09,
+        "elev ft": 1003,
+        "pop est": 47585
+    },
+    {
+        "name": "Itaja",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.09,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Italepo-Oda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 5.23,
+        "elev ft": 1043,
+        "pop est": 91231
+    },
+    {
+        "name": "Italita",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.62,
+        "elev ft": 183,
+        "pop est": 21196
+    },
+    {
+        "name": "Itaogbolu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.25,
+        "elev ft": 1141,
+        "pop est": 13108
+    },
+    {
+        "name": "Itebukumi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.6,
+        "elev ft": 200,
+        "pop est": 20755
+    },
+    {
+        "name": "Itebukunmi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.6,
+        "elev ft": 200,
+        "pop est": 20755
+    },
+    {
+        "name": "Iwada",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.6,
+        "elev ft": 351,
+        "pop est": 15847
+    },
+    {
+        "name": "Iwanja-Moferere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 5.12,
+        "elev ft": 1056,
+        "pop est": 7152
+    },
+    {
+        "name": "Iwoye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.12,
+        "elev ft": 1003,
+        "pop est": 37653
+    },
+    {
+        "name": "Iyansan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 5.12,
+        "elev ft": 147,
+        "pop est": 12005
+    },
+    {
+        "name": "Iyere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.61,
+        "elev ft": 1003,
+        "pop est": 114105
+    },
+    {
+        "name": "Jemidudu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 4.8,
+        "elev ft": 190,
+        "pop est": 114172
+    },
+    {
+        "name": "Jimgbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 5.19,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Josiah",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.44,
+        "elev ft": 918,
+        "pop est": 7949
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.38,
+        "elev ft": 1007,
+        "pop est": 12589
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 5.35,
+        "elev ft": 885,
+        "pop est": 11152
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.4,
+        "elev ft": 351,
+        "pop est": 10122
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.0,
+        "elev ft": 830,
+        "pop est": 11613
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.09,
+        "elev ft": 931,
+        "pop est": 22711
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.52,
+        "elev ft": 255,
+        "pop est": 13261
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.33,
+        "elev ft": 1043,
+        "pop est": 14833
+    },
+    {
+        "name": "Kajola Owena",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.0,
+        "elev ft": 830,
+        "pop est": 11613
+    },
+    {
+        "name": "Kalarejo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 4.89,
+        "elev ft": 141,
+        "pop est": 22201
+    },
+    {
+        "name": "Kekemeke-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.97,
+        "elev ft": 144,
+        "pop est": 21134
+    },
+    {
+        "name": "Keregbon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.69,
+        "elev ft": 252,
+        "pop est": 16867
+    },
+    {
+        "name": "Keremeke-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.97,
+        "elev ft": 144,
+        "pop est": 21134
+    },
+    {
+        "name": "Kiribo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.92,
+        "elev ft": 160,
+        "pop est": 22165
+    },
+    {
+        "name": "Kofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 4.8,
+        "elev ft": 127,
+        "pop est": 19460
+    },
+    {
+        "name": "Kokotoru",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 5.09,
+        "elev ft": 65,
+        "pop est": 14089
+    },
+    {
+        "name": "Koropengbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 5.01,
+        "elev ft": 62,
+        "pop est": 22201
+    },
+    {
+        "name": "Koropengbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 4.98,
+        "elev ft": 55,
+        "pop est": 22201
+    },
+    {
+        "name": "Krugbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.8,
+        "elev ft": 127,
+        "pop est": 20519
+    },
+    {
+        "name": "Kugbanre",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 4.68,
+        "elev ft": 0,
+        "pop est": 9540
+    },
+    {
+        "name": "Kugbonre",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 4.68,
+        "elev ft": 0,
+        "pop est": 9540
+    },
+    {
+        "name": "Kurawe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 4.81,
+        "elev ft": 131,
+        "pop est": 22201
+    },
+    {
+        "name": "Kurugbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.8,
+        "elev ft": 127,
+        "pop est": 20519
+    },
+    {
+        "name": "Labuwa-Odole",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.27,
+        "elev ft": 830,
+        "pop est": 7227
+    },
+    {
+        "name": "Ladan Camp",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 4.91,
+        "elev ft": 367,
+        "pop est": 18429
+    },
+    {
+        "name": "Ladokun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.49,
+        "elev ft": 1033,
+        "pop est": 4396
+    },
+    {
+        "name": "Lafiaji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.0,
+        "elev ft": 885,
+        "pop est": 16042
+    },
+    {
+        "name": "Lalate",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 4.96,
+        "elev ft": 65,
+        "pop est": 22201
+    },
+    {
+        "name": "Lalupon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.5,
+        "elev ft": 1010,
+        "pop est": 6223
+    },
+    {
+        "name": "Lamu Laje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 4.68,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Lamudifa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 4.9,
+        "elev ft": 272,
+        "pop est": 13261
+    },
+    {
+        "name": "Laworo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 4.92,
+        "elev ft": 347,
+        "pop est": 18588
+    },
+    {
+        "name": "Legbira",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.17,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Legbogbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 4.9,
+        "elev ft": 324,
+        "pop est": 17077
+    },
+    {
+        "name": "Legha",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 4.84,
+        "elev ft": 124,
+        "pop est": 22201
+    },
+    {
+        "name": "Lekki",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.83,
+        "elev ft": 124,
+        "pop est": 20870
+    },
+    {
+        "name": "Lerinin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.77,
+        "elev ft": 144,
+        "pop est": 20741
+    },
+    {
+        "name": "Lerinrin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.77,
+        "elev ft": 144,
+        "pop est": 20741
+    },
+    {
+        "name": "Lisagha",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.29,
+        "elev ft": 971,
+        "pop est": 7577
+    },
+    {
+        "name": "Loipo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.74,
+        "elev ft": 187,
+        "pop est": 17954
+    },
+    {
+        "name": "Mahin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 4.8,
+        "elev ft": 124,
+        "pop est": 22201
+    },
+    {
+        "name": "Mahintedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.58,
+        "elev ft": 295,
+        "pop est": 18054
+    },
+    {
+        "name": "Manran",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 4.68,
+        "elev ft": 0,
+        "pop est": 11114
+    },
+    {
+        "name": "Maran",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 4.68,
+        "elev ft": 0,
+        "pop est": 11114
+    },
+    {
+        "name": "Mekuluya",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 4.86,
+        "elev ft": 131,
+        "pop est": 22201
+    },
+    {
+        "name": "Mobaolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 4.96,
+        "elev ft": 925,
+        "pop est": 13308
+    },
+    {
+        "name": "Mobaredele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 5.11,
+        "elev ft": 892,
+        "pop est": 7152
+    },
+    {
+        "name": "Mobolonduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 4.96,
+        "elev ft": 925,
+        "pop est": 13308
+    },
+    {
+        "name": "Mobolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 4.96,
+        "elev ft": 925,
+        "pop est": 13308
+    },
+    {
+        "name": "Mobolorunduro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.02,
+        "long": 5.16,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Moferere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 4.94,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Mofetokun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.67,
+        "elev ft": 164,
+        "pop est": 20668
+    },
+    {
+        "name": "Mokunwaje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.83,
+        "elev ft": 157,
+        "pop est": 21959
+    },
+    {
+        "name": "Molume",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 4.92,
+        "elev ft": 0,
+        "pop est": 11464
+    },
+    {
+        "name": "Moreya",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 5.31,
+        "elev ft": 1023,
+        "pop est": 27240
+    },
+    {
+        "name": "Moriwo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 5.1,
+        "elev ft": 1069,
+        "pop est": 44248
+    },
+    {
+        "name": "Moro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 5.02,
+        "elev ft": 26,
+        "pop est": 22109
+    },
+    {
+        "name": "Motiala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 4.81,
+        "elev ft": 164,
+        "pop est": 21996
+    },
+    {
+        "name": "Motoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 4.67,
+        "elev ft": 0,
+        "pop est": 11445
+    },
+    {
+        "name": "Mount Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.69,
+        "elev ft": 173,
+        "pop est": 19795
+    },
+    {
+        "name": "Nse",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 5.92,
+        "elev ft": 1118,
+        "pop est": 21034
+    },
+    {
+        "name": "Nyan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 4.98,
+        "elev ft": 78,
+        "pop est": 22201
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 5.73,
+        "elev ft": 921,
+        "pop est": 24525
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.26,
+        "elev ft": 1076,
+        "pop est": 118962
+    },
+    {
+        "name": "Oba-Ile",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.26,
+        "elev ft": 1076,
+        "pop est": 118962
+    },
+    {
+        "name": "Obadamisoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 5.45,
+        "elev ft": 1115,
+        "pop est": 10784
+    },
+    {
+        "name": "Obado",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.0,
+        "elev ft": 977,
+        "pop est": 19953
+    },
+    {
+        "name": "Obamotula",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 5.03,
+        "elev ft": 830,
+        "pop est": 7564
+    },
+    {
+        "name": "Obaseki",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.43,
+        "elev ft": 1013,
+        "pop est": 7365
+    },
+    {
+        "name": "Obasheki",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 5.64,
+        "elev ft": 830,
+        "pop est": 11519
+    },
+    {
+        "name": "Obasoto",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.46,
+        "elev ft": 944,
+        "pop est": 7616
+    },
+    {
+        "name": "Obatedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.05,
+        "elev ft": 1105,
+        "pop est": 7429
+    },
+    {
+        "name": "Obe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 4.87,
+        "elev ft": 147,
+        "pop est": 12680
+    },
+    {
+        "name": "Obe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 4.9,
+        "elev ft": 150,
+        "pop est": 11177
+    },
+    {
+        "name": "Obe Adu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 4.87,
+        "elev ft": 147,
+        "pop est": 12680
+    },
+    {
+        "name": "Obe-Adun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 4.87,
+        "elev ft": 147,
+        "pop est": 12680
+    },
+    {
+        "name": "Obe-Nla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 4.88,
+        "elev ft": 0,
+        "pop est": 11132
+    },
+    {
+        "name": "Obo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 4.9,
+        "elev ft": 150,
+        "pop est": 11177
+    },
+    {
+        "name": "Obode",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.72,
+        "elev ft": 196,
+        "pop est": 18166
+    },
+    {
+        "name": "Obote",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 4.74,
+        "elev ft": 0,
+        "pop est": 10722
+    },
+    {
+        "name": "Oda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.24,
+        "elev ft": 1007,
+        "pop est": 48480
+    },
+    {
+        "name": "Ode",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 5.47,
+        "elev ft": 1000,
+        "pop est": 4814
+    },
+    {
+        "name": "Ode",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.71,
+        "elev ft": 1669,
+        "pop est": 11940
+    },
+    {
+        "name": "Ode-Aye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 4.74,
+        "elev ft": 305,
+        "pop est": 16595
+    },
+    {
+        "name": "Ode-Erinje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.73,
+        "elev ft": 229,
+        "pop est": 16872
+    },
+    {
+        "name": "Ode-Igbodigo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.75,
+        "elev ft": 239,
+        "pop est": 63344
+    },
+    {
+        "name": "Ode-Irele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.87,
+        "elev ft": 216,
+        "pop est": 21210
+    },
+    {
+        "name": "Odeya",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.54,
+        "elev ft": 1003,
+        "pop est": 28089
+    },
+    {
+        "name": "Odigbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 4.87,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Odo-Isa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Ododin Odewu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.17,
+        "elev ft": 941,
+        "pop est": 7915
+    },
+    {
+        "name": "Ododin-Adaja",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.2,
+        "elev ft": 925,
+        "pop est": 9443
+    },
+    {
+        "name": "Odofin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 5.37,
+        "elev ft": 1079,
+        "pop est": 12951
+    },
+    {
+        "name": "Odofin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 5.41,
+        "elev ft": 1059,
+        "pop est": 10469
+    },
+    {
+        "name": "Odogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 5.37,
+        "elev ft": 1062,
+        "pop est": 12108
+    },
+    {
+        "name": "Odoji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 7236
+    },
+    {
+        "name": "Odoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 5.06,
+        "elev ft": 1669,
+        "pop est": 7361
+    },
+    {
+        "name": "Odole",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 5.15,
+        "elev ft": 997,
+        "pop est": 7173
+    },
+    {
+        "name": "Odole",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.78,
+        "elev ft": 190,
+        "pop est": 17454
+    },
+    {
+        "name": "Odowara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.77,
+        "elev ft": 1669,
+        "pop est": 55108
+    },
+    {
+        "name": "Odulagba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 4.75,
+        "elev ft": 180,
+        "pop est": 22201
+    },
+    {
+        "name": "Odulawo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.71,
+        "elev ft": 242,
+        "pop est": 16884
+    },
+    {
+        "name": "Ofosu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 5.14,
+        "elev ft": 229,
+        "pop est": 6692
+    },
+    {
+        "name": "Ofosun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.23,
+        "elev ft": 971,
+        "pop est": 7308
+    },
+    {
+        "name": "Ogbagi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 5.71,
+        "elev ft": 1669,
+        "pop est": 65446
+    },
+    {
+        "name": "Ogbe Adun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 4.87,
+        "elev ft": 147,
+        "pop est": 12680
+    },
+    {
+        "name": "Ogberuwen",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 5.65,
+        "elev ft": 282,
+        "pop est": 9983
+    },
+    {
+        "name": "Ogbesse",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.38,
+        "elev ft": 1020,
+        "pop est": 11323
+    },
+    {
+        "name": "Ogbodun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.45,
+        "elev ft": 839,
+        "pop est": 8417
+    },
+    {
+        "name": "Ogidigba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 4.94,
+        "elev ft": 72,
+        "pop est": 22201
+    },
+    {
+        "name": "Ogidigba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 4.89,
+        "elev ft": 108,
+        "pop est": 22201
+    },
+    {
+        "name": "Ogogoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.6,
+        "elev ft": 173,
+        "pop est": 18461
+    },
+    {
+        "name": "Ogogoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 4.65,
+        "elev ft": 0,
+        "pop est": 10562
+    },
+    {
+        "name": "Ogolo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 5.78,
+        "elev ft": 219,
+        "pop est": 10225
+    },
+    {
+        "name": "Ogorogoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 4.65,
+        "elev ft": 0,
+        "pop est": 10562
+    },
+    {
+        "name": "Ogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 4.69,
+        "elev ft": 0,
+        "pop est": 12073
+    },
+    {
+        "name": "Ogutabo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.88,
+        "elev ft": 196,
+        "pop est": 18909
+    },
+    {
+        "name": "Ojigbobini",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.97,
+        "elev ft": 167,
+        "pop est": 20963
+    },
+    {
+        "name": "Ojikene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.72,
+        "elev ft": 255,
+        "pop est": 16844
+    },
+    {
+        "name": "Ojimu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.71,
+        "elev ft": 232,
+        "pop est": 17117
+    },
+    {
+        "name": "Ojo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.89,
+        "elev ft": 1669,
+        "pop est": 26923
+    },
+    {
+        "name": "Ojo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.39,
+        "elev ft": 1013,
+        "pop est": 10951
+    },
+    {
+        "name": "Ojuala",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.87,
+        "elev ft": 144,
+        "pop est": 19950
+    },
+    {
+        "name": "Ojugbere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.5,
+        "elev ft": 830,
+        "pop est": 5765
+    },
+    {
+        "name": "Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 5.92,
+        "elev ft": 1076,
+        "pop est": 26958
+    },
+    {
+        "name": "Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.8,
+        "elev ft": 1988,
+        "pop est": 73012
+    },
+    {
+        "name": "Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.62,
+        "elev ft": 1026,
+        "pop est": 24560
+    },
+    {
+        "name": "Oka-Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.8,
+        "elev ft": 1988,
+        "pop est": 73012
+    },
+    {
+        "name": "Oke Agbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.1,
+        "elev ft": 1013,
+        "pop est": 57613
+    },
+    {
+        "name": "Oke Atan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 5.15,
+        "elev ft": 1669,
+        "pop est": 92268
+    },
+    {
+        "name": "Oke-Agbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 5.76,
+        "elev ft": 1669,
+        "pop est": 29204
+    },
+    {
+        "name": "Oke-Alafia",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.02,
+        "long": 5.23,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Oke-Alafia",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 5.01,
+        "elev ft": 830,
+        "pop est": 7647
+    },
+    {
+        "name": "Oke-Apedu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 5.31,
+        "elev ft": 997,
+        "pop est": 13112
+    },
+    {
+        "name": "Oke-Igbaro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.0,
+        "elev ft": 830,
+        "pop est": 7891
+    },
+    {
+        "name": "Oke-Ipa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.76,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Oke-Olasan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 5.16,
+        "elev ft": 994,
+        "pop est": 7152
+    },
+    {
+        "name": "Okeagbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 5.76,
+        "elev ft": 1669,
+        "pop est": 29204
+    },
+    {
+        "name": "Okealafia",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.44,
+        "elev ft": 830,
+        "pop est": 12531
+    },
+    {
+        "name": "Okele",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.48,
+        "elev ft": 1013,
+        "pop est": 4289
+    },
+    {
+        "name": "Okeluse",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 5.59,
+        "elev ft": 239,
+        "pop est": 9401
+    },
+    {
+        "name": "Okemeji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.26,
+        "elev ft": 1010,
+        "pop est": 34129
+    },
+    {
+        "name": "Okeodo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 5.39,
+        "elev ft": 1020,
+        "pop est": 10815
+    },
+    {
+        "name": "Okia-Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.83,
+        "elev ft": 1686,
+        "pop est": 26555
+    },
+    {
+        "name": "Okitiofa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 5.67,
+        "elev ft": 830,
+        "pop est": 7674
+    },
+    {
+        "name": "Okitipupa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.78,
+        "elev ft": 193,
+        "pop est": 122161
+    },
+    {
+        "name": "Oko-Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.65,
+        "elev ft": 990,
+        "pop est": 26187
+    },
+    {
+        "name": "Oko-Oluhen",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.69,
+        "elev ft": 167,
+        "pop est": 21176
+    },
+    {
+        "name": "Okuesi-Oka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 5.73,
+        "elev ft": 1007,
+        "pop est": 27118
+    },
+    {
+        "name": "Okundara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.46,
+        "elev ft": 931,
+        "pop est": 7297
+    },
+    {
+        "name": "Old Idanre",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 7152
+    },
+    {
+        "name": "Olebaki",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.69,
+        "elev ft": 830,
+        "pop est": 7690
+    },
+    {
+        "name": "Olefah",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 5.52,
+        "elev ft": 990,
+        "pop est": 6547
+    },
+    {
+        "name": "Olobi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.33,
+        "elev ft": 997,
+        "pop est": 12380
+    },
+    {
+        "name": "Olofintogun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.41,
+        "elev ft": 990,
+        "pop est": 10802
+    },
+    {
+        "name": "Ologboyo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.39,
+        "elev ft": 1003,
+        "pop est": 11197
+    },
+    {
+        "name": "Ologede",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 5.43,
+        "elev ft": 997,
+        "pop est": 7949
+    },
+    {
+        "name": "Ologere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.27,
+        "elev ft": 958,
+        "pop est": 11253
+    },
+    {
+        "name": "Olokun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 4.61,
+        "elev ft": 0,
+        "pop est": 10936
+    },
+    {
+        "name": "Olokuta",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.1,
+        "elev ft": 964,
+        "pop est": 25794
+    },
+    {
+        "name": "Olokuta",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.34,
+        "elev ft": 971,
+        "pop est": 11981
+    },
+    {
+        "name": "Olomididun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 20289
+    },
+    {
+        "name": "Olomidudu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.57,
+        "elev ft": 160,
+        "pop est": 19028
+    },
+    {
+        "name": "Olomo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 5.31,
+        "elev ft": 1013,
+        "pop est": 13101
+    },
+    {
+        "name": "Olomopupa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 4.95,
+        "elev ft": 121,
+        "pop est": 22201
+    },
+    {
+        "name": "Olopo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.65,
+        "elev ft": 177,
+        "pop est": 21174
+    },
+    {
+        "name": "Olorunsogo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 5.0,
+        "elev ft": 265,
+        "pop est": 13088
+    },
+    {
+        "name": "Oloruntedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.03,
+        "elev ft": 869,
+        "pop est": 17626
+    },
+    {
+        "name": "Oloruntedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.02,
+        "elev ft": 921,
+        "pop est": 19959
+    },
+    {
+        "name": "Oloruntedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.21,
+        "elev ft": 915,
+        "pop est": 8135
+    },
+    {
+        "name": "Oloruntedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 4.78,
+        "elev ft": 830,
+        "pop est": 8727
+    },
+    {
+        "name": "Olotu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 4.76,
+        "elev ft": 0,
+        "pop est": 10625
+    },
+    {
+        "name": "Olowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 4.87,
+        "elev ft": 226,
+        "pop est": 13261
+    },
+    {
+        "name": "Oluagbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 4.8,
+        "elev ft": 177,
+        "pop est": 122095
+    },
+    {
+        "name": "Oludemi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.5,
+        "elev ft": 830,
+        "pop est": 5679
+    },
+    {
+        "name": "Oluka",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.46,
+        "elev ft": 977,
+        "pop est": 5504
+    },
+    {
+        "name": "Olumofe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.82,
+        "elev ft": 173,
+        "pop est": 56270
+    },
+    {
+        "name": "Olutedo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 5.47,
+        "elev ft": 1079,
+        "pop est": 6384
+    },
+    {
+        "name": "Omi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 4.91,
+        "elev ft": 288,
+        "pop est": 18762
+    },
+    {
+        "name": "Omi Olosun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.19,
+        "elev ft": 879,
+        "pop est": 8162
+    },
+    {
+        "name": "Omi-Alaja",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 5.1,
+        "elev ft": 1062,
+        "pop est": 7152
+    },
+    {
+        "name": "Omialafara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 5.73,
+        "elev ft": 830,
+        "pop est": 9983
+    },
+    {
+        "name": "Omifun-Odo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 4.62,
+        "elev ft": 0,
+        "pop est": 12164
+    },
+    {
+        "name": "Omifunfun",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 5.2,
+        "elev ft": 830,
+        "pop est": 7037
+    },
+    {
+        "name": "Omilifon",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 5.21,
+        "elev ft": 994,
+        "pop est": 7152
+    },
+    {
+        "name": "Ominla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 4.85,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Omokehin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 5.43,
+        "elev ft": 948,
+        "pop est": 10252
+    },
+    {
+        "name": "Omolege",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 5.66,
+        "elev ft": 236,
+        "pop est": 9539
+    },
+    {
+        "name": "Omolege Junction",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 5.65,
+        "elev ft": 249,
+        "pop est": 9978
+    },
+    {
+        "name": "Omolomo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 4.92,
+        "elev ft": 0,
+        "pop est": 11464
+    },
+    {
+        "name": "Omomeji",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.32,
+        "elev ft": 1026,
+        "pop est": 16625
+    },
+    {
+        "name": "Omotosho",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.65,
+        "elev ft": 360,
+        "pop est": 13654
+    },
+    {
+        "name": "Omuo-Obadore",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.73,
+        "elev ft": 1669,
+        "pop est": 15481
+    },
+    {
+        "name": "Omuo-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 5.75,
+        "elev ft": 1669,
+        "pop est": 10686
+    },
+    {
+        "name": "Ondo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 4.84,
+        "elev ft": 951,
+        "pop est": 261650
+    },
+    {
+        "name": "Onigbeyero",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.43,
+        "elev ft": 967,
+        "pop est": 8223
+    },
+    {
+        "name": "Onipako",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 5.08,
+        "elev ft": 229,
+        "pop est": 10744
+    },
+    {
+        "name": "Onipanu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.33,
+        "elev ft": 1017,
+        "pop est": 12760
+    },
+    {
+        "name": "Oniparaga",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.45,
+        "elev ft": 830,
+        "pop est": 13188
+    },
+    {
+        "name": "Onipepeiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.03,
+        "elev ft": 830,
+        "pop est": 7473
+    },
+    {
+        "name": "Onishere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 5.1,
+        "elev ft": 219,
+        "pop est": 11597
+    },
+    {
+        "name": "Oniti",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 4.42,
+        "elev ft": 830,
+        "pop est": 11314
+    },
+    {
+        "name": "Oniyewu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.02,
+        "long": 5.18,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Onyin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.76,
+        "elev ft": 1669,
+        "pop est": 27029
+    },
+    {
+        "name": "Onyin Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.76,
+        "elev ft": 1669,
+        "pop est": 27029
+    },
+    {
+        "name": "Opa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.17,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Opa-Arapa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.18,
+        "elev ft": 925,
+        "pop est": 7273
+    },
+    {
+        "name": "Opa-Idanre",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 5.15,
+        "elev ft": 994,
+        "pop est": 7152
+    },
+    {
+        "name": "Opolo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 4.81,
+        "elev ft": 127,
+        "pop est": 22201
+    },
+    {
+        "name": "Opuba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 4.91,
+        "elev ft": 55,
+        "pop est": 21897
+    },
+    {
+        "name": "Opuba-Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 4.91,
+        "elev ft": 42,
+        "pop est": 22201
+    },
+    {
+        "name": "Ora Ojora",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.89,
+        "elev ft": 1669,
+        "pop est": 26923
+    },
+    {
+        "name": "Ora Ojora",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 5.89,
+        "elev ft": 1669,
+        "pop est": 26165
+    },
+    {
+        "name": "Ore",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 4.88,
+        "elev ft": 285,
+        "pop est": 13261
+    },
+    {
+        "name": "Ore-Alaba",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 4.88,
+        "elev ft": 242,
+        "pop est": 13261
+    },
+    {
+        "name": "Orere-Ara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.69,
+        "elev ft": 173,
+        "pop est": 19402
+    },
+    {
+        "name": "Origbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.45,
+        "elev ft": 252,
+        "pop est": 13009
+    },
+    {
+        "name": "Orisa-Odo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.89,
+        "elev ft": 177,
+        "pop est": 20657
+    },
+    {
+        "name": "Orisaye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 5.26,
+        "elev ft": 954,
+        "pop est": 11629
+    },
+    {
+        "name": "Orita",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.36,
+        "elev ft": 1030,
+        "pop est": 12287
+    },
+    {
+        "name": "Oriyanrin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 4.45,
+        "elev ft": 337,
+        "pop est": 13261
+    },
+    {
+        "name": "Oriye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 4.58,
+        "elev ft": 173,
+        "pop est": 17321
+    },
+    {
+        "name": "Oro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 4.9,
+        "elev ft": 830,
+        "pop est": 12142
+    },
+    {
+        "name": "Orofin",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.56,
+        "elev ft": 173,
+        "pop est": 19471
+    },
+    {
+        "name": "Orokiti",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.55,
+        "elev ft": 160,
+        "pop est": 17729
+    },
+    {
+        "name": "Oroto",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 4.81,
+        "elev ft": 131,
+        "pop est": 11813
+    },
+    {
+        "name": "Oroyo-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 4.64,
+        "elev ft": 167,
+        "pop est": 17104
+    },
+    {
+        "name": "Oroyo-Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 4.65,
+        "elev ft": 164,
+        "pop est": 14193
+    },
+    {
+        "name": "Orugbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.48,
+        "elev ft": 931,
+        "pop est": 6010
+    },
+    {
+        "name": "Osanpon Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.64,
+        "elev ft": 308,
+        "pop est": 17498
+    },
+    {
+        "name": "Osokoro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 5.17,
+        "elev ft": 173,
+        "pop est": 6796
+    },
+    {
+        "name": "Osurowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 5.49,
+        "elev ft": 997,
+        "pop est": 4208
+    },
+    {
+        "name": "Otayo-Onaiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 5.44,
+        "elev ft": 1095,
+        "pop est": 9194
+    },
+    {
+        "name": "Otayo-Onaiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 5.45,
+        "elev ft": 1076,
+        "pop est": 7105
+    },
+    {
+        "name": "Otu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 4.94,
+        "elev ft": 262,
+        "pop est": 13261
+    },
+    {
+        "name": "Otugbembo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 5.03,
+        "elev ft": 252,
+        "pop est": 16411
+    },
+    {
+        "name": "Owabamibo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 5.13,
+        "elev ft": 216,
+        "pop est": 9358
+    },
+    {
+        "name": "Owajalaiye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 9235
+    },
+    {
+        "name": "Owalaye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 5.48,
+        "elev ft": 994,
+        "pop est": 4442
+    },
+    {
+        "name": "Owena",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 5.01,
+        "elev ft": 1076,
+        "pop est": 39090
+    },
+    {
+        "name": "Owena",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.02,
+        "elev ft": 830,
+        "pop est": 13041
+    },
+    {
+        "name": "Owena-Egbeda",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 5.02,
+        "elev ft": 830,
+        "pop est": 7489
+    },
+    {
+        "name": "Owenna",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.02,
+        "elev ft": 830,
+        "pop est": 13041
+    },
+    {
+        "name": "Owo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 5.59,
+        "elev ft": 1000,
+        "pop est": 163709
+    },
+    {
+        "name": "Owo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.62,
+        "elev ft": 925,
+        "pop est": 68682
+    },
+    {
+        "name": "Owobamibo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 5.13,
+        "elev ft": 219,
+        "pop est": 8599
+    },
+    {
+        "name": "Owode",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.26,
+        "elev ft": 1010,
+        "pop est": 25305
+    },
+    {
+        "name": "Owofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 5.13,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Owojalaye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 9235
+    },
+    {
+        "name": "Owolanke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.37,
+        "elev ft": 1000,
+        "pop est": 13000
+    },
+    {
+        "name": "Owolawa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 4.93,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Owomama",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 4.92,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Owomofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.08,
+        "long": 5.03,
+        "elev ft": 830,
+        "pop est": 7506
+    },
+    {
+        "name": "Owomofewa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 5.29,
+        "elev ft": 908,
+        "pop est": 7946
+    },
+    {
+        "name": "Owomomilowo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 5.02,
+        "elev ft": 898,
+        "pop est": 21872
+    },
+    {
+        "name": "Owosi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 5.48,
+        "elev ft": 1085,
+        "pop est": 13112
+    },
+    {
+        "name": "Oyigbobini",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 4.97,
+        "elev ft": 167,
+        "pop est": 20963
+    },
+    {
+        "name": "Oyin Akoko",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.76,
+        "elev ft": 1669,
+        "pop est": 27029
+    },
+    {
+        "name": "Pakindeje",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 4.73,
+        "elev ft": 177,
+        "pop est": 22042
+    },
+    {
+        "name": "Pelebosu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 5.02,
+        "elev ft": 88,
+        "pop est": 18330
+    },
+    {
+        "name": "Perawe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 4.81,
+        "elev ft": 131,
+        "pop est": 22201
+    },
+    {
+        "name": "Potogri",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 5.03,
+        "elev ft": 118,
+        "pop est": 15297
+    },
+    {
+        "name": "Railhead",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.76,
+        "elev ft": 249,
+        "pop est": 15754
+    },
+    {
+        "name": "Rawe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 4.81,
+        "elev ft": 131,
+        "pop est": 22201
+    },
+    {
+        "name": "Rufus",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.43,
+        "elev ft": 941,
+        "pop est": 8481
+    },
+    {
+        "name": "Sabere Odo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 5.46,
+        "elev ft": 1003,
+        "pop est": 5315
+    },
+    {
+        "name": "Safarogbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 5.02,
+        "elev ft": 72,
+        "pop est": 14466
+    },
+    {
+        "name": "Saforogbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 5.02,
+        "elev ft": 72,
+        "pop est": 14466
+    },
+    {
+        "name": "Sajiyan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.48,
+        "elev ft": 1000,
+        "pop est": 4375
+    },
+    {
+        "name": "Sajiyan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 5.44,
+        "elev ft": 1000,
+        "pop est": 6080
+    },
+    {
+        "name": "Salawa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 4.96,
+        "elev ft": 200,
+        "pop est": 20778
+    },
+    {
+        "name": "Salawa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.98,
+        "elev ft": 255,
+        "pop est": 19568
+    },
+    {
+        "name": "Salawa Odo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.98,
+        "elev ft": 255,
+        "pop est": 19568
+    },
+    {
+        "name": "Sanusi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 7473
+    },
+    {
+        "name": "Sanusi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 5.62,
+        "elev ft": 830,
+        "pop est": 8205
+    },
+    {
+        "name": "Saribi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.3,
+        "elev ft": 1049,
+        "pop est": 39931
+    },
+    {
+        "name": "Sasere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 5.45,
+        "elev ft": 1010,
+        "pop est": 5327
+    },
+    {
+        "name": "Shabomi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.89,
+        "elev ft": 203,
+        "pop est": 19203
+    },
+    {
+        "name": "Shashere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 5.64,
+        "elev ft": 830,
+        "pop est": 11344
+    },
+    {
+        "name": "Shosan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 5.92,
+        "elev ft": 1023,
+        "pop est": 24394
+    },
+    {
+        "name": "Shosan-Isale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 5.92,
+        "elev ft": 1023,
+        "pop est": 24394
+    },
+    {
+        "name": "Shosan-Oke",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 5.92,
+        "elev ft": 1076,
+        "pop est": 26958
+    },
+    {
+        "name": "Shupare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.69,
+        "elev ft": 1076,
+        "pop est": 45719
+    },
+    {
+        "name": "Sobe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 5.78,
+        "elev ft": 232,
+        "pop est": 11610
+    },
+    {
+        "name": "Sopare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.69,
+        "elev ft": 1076,
+        "pop est": 45719
+    },
+    {
+        "name": "Supare",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.69,
+        "elev ft": 1076,
+        "pop est": 45719
+    },
+    {
+        "name": "Tebuju",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 4.91,
+        "elev ft": 124,
+        "pop est": 22201
+    },
+    {
+        "name": "Tejugbola",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 5.14,
+        "elev ft": 830,
+        "pop est": 7152
+    },
+    {
+        "name": "Tikagbene",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.04,
+        "elev ft": 49,
+        "pop est": 21139
+    },
+    {
+        "name": "Tsekelewu",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 4.98,
+        "elev ft": 62,
+        "pop est": 21561
+    },
+    {
+        "name": "Ubale",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 5.49,
+        "elev ft": 1007,
+        "pop est": 4179
+    },
+    {
+        "name": "Ubarogbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.02,
+        "elev ft": 91,
+        "pop est": 14903
+    },
+    {
+        "name": "Ubasa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.52,
+        "elev ft": 167,
+        "pop est": 14981
+    },
+    {
+        "name": "Ugbe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 5.82,
+        "elev ft": 1669,
+        "pop est": 71179
+    },
+    {
+        "name": "Ugbene Biere",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 18742
+    },
+    {
+        "name": "Ugbene Omi",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 18742
+    },
+    {
+        "name": "Ugbene Yoyo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.82,
+        "elev ft": 127,
+        "pop est": 18742
+    },
+    {
+        "name": "Ugbo",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 4.79,
+        "elev ft": 124,
+        "pop est": 21577
+    },
+    {
+        "name": "Ugbolan",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 5.7,
+        "elev ft": 830,
+        "pop est": 9983
+    },
+    {
+        "name": "Ugbonla",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 4.79,
+        "elev ft": 124,
+        "pop est": 19744
+    },
+    {
+        "name": "Ukpe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 5.85,
+        "elev ft": 1669,
+        "pop est": 22420
+    },
+    {
+        "name": "Umoboro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 4.8,
+        "elev ft": 830,
+        "pop est": 8103
+    },
+    {
+        "name": "Upe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 4.97,
+        "elev ft": 42,
+        "pop est": 22201
+    },
+    {
+        "name": "Upe",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 4.95,
+        "elev ft": 16,
+        "pop est": 22201
+    },
+    {
+        "name": "Uro",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 5.83,
+        "elev ft": 1669,
+        "pop est": 28744
+    },
+    {
+        "name": "Uro Ajowa",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 5.83,
+        "elev ft": 1669,
+        "pop est": 28744
+    },
+    {
+        "name": "Use",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 5.59,
+        "elev ft": 239,
+        "pop est": 9401
+    },
+    {
+        "name": "Ute",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 5.63,
+        "elev ft": 830,
+        "pop est": 9342
+    },
+    {
+        "name": "Ute",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 5.6,
+        "elev ft": 252,
+        "pop est": 9161
+    },
+    {
+        "name": "Yaya",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 5.87,
+        "elev ft": 1007,
+        "pop est": 10019
+    },
+    {
+        "name": "Yaye",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 4.75,
+        "elev ft": 124,
+        "pop est": 12085
+    },
+    {
+        "name": "Yopeara",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 5.08,
+        "elev ft": 147,
+        "pop est": 16070
+    },
+    {
+        "name": "Zion",
+        "what": "city",
+        "region": "Ondo",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.72,
+        "elev ft": 167,
+        "pop est": 19288
+    }
+]

@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+	
+	<title>My Cloud hosting for everyone</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="crossorigin="anonymous"/>
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css2? family=Lato:wght@300&display=swap');
+
+		/*---========================== Tablets and under ============================ */
+		@media(max-width: 768px){
+			.grid,
+			.showcase .grid,
+			.stats .grid,
+			.cli .grid,
+			.cloud .grid,
+			.features-main .grid,
+			.docs-main .grid {
+				grid-template-columns: 1fr;
+				grid-auto-rows: 1fr;
+			}
+
+			.features-head,
+			.features-sub-head,
+			.docs-head {
+				text-align: center;
+
+			}
+
+			.features-head img,
+			.features-sub-head img,
+			.docs-head img {
+				justify-self: center;
+				
+			}
+
+		}
+/*---========================== mobile ============================ */
+		@media(max-width: 500px){
+			.navbar {
+				height: 100px;
+			}
+			.navbar .flex {
+				flex-direction: column;
+			}
+
+			.navbar ul {
+				padding: 10px;
+				background-color: rgba(0, 0, 0, 0.1);
+			}
+		}
+
+		:root{
+			--primary-color: #047aed;
+			--secondary-color: #1c3fa8;
+			--dark-color: #002240;
+			--light-color: #f4f4f4;
+		}
+
+		*{
+			box-sizing: border-box;
+			padding: 0;
+			margin: 0;
+		}
+		body{
+			background-color: #666600;
+			font-family: 'times', sans-serif;
+			color: #333;
+			line-height: 1.6;
+			background-attachment: fixed;
+
+		}
+
+		ul{
+			list-style-type: none;
+
+		}
+
+		a{
+			text-decoration: none;
+			color: #333;
+		}
+
+		h1, h2{
+			font-weight: 300;
+			line-height: 1.2;
+			margin: 10px;
+		}
+
+		p{
+			margin: 10px;
+
+		}
+
+		
+		/* ===================Navbar========================== */
+		.navbar ul{
+			display: flex;
+		}
+
+		.navbar a{
+			color: #fff;
+			padding: 10px;
+			margin: 0 5px;
+		}
+
+		.navbar a:hover{
+			border-bottom: 2px #fff solid;
+		}
+		.navbar{
+			background-color: var(--primary-color);
+			color: #fff;
+			height: 70px;
+
+		}
+
+		.navbar .flex{
+			justify-content: space-between;
+		}
+
+		/* ========================== Showcase =================== */
+
+		.showcase{
+			height: 400px;
+			background-color: var(--primary-color);
+			color: #fff;
+			position: relative;
+		}
+		.showcase h1{
+			font-size: 30px;
+
+		}
+
+		.showcase p{
+			margin: 20px 0;
+		}
+
+		.showcase .grid{
+			overflow: visible;
+			grid-template-columns: 55% 45%;
+			gap: 30px;
+		}
+
+		.grid{
+			margin-top: 50px;
+			display: grid;
+			grid-template-columns: repeat(4, 1fr);
+			gap: 20px;
+			justify-content: center;
+			align-items: center;
+			height: 100%;
+		}
+
+		.grid .grid-3{
+			grid-template-columns: repeat(4, 1fr);
+			top: 150px;
+		}
+
+		.showcase-form{
+			position: relative;
+			top: 60px;
+			height: 350px;
+			width: 400px;
+			padding: 40px;
+			z-index: 100;
+		}
+
+		.showcase-form .form-control{
+			margin: 30px 0;
+
+		}
+
+		.showcase-form input[type='text'],
+		.showcase-form input[type='email'] {
+
+			border: 0;
+			border-bottom: 1px solid #b4becb;
+			width: 100%;
+			padding: 3px;
+			font-size: 16px;
+		}
+
+		.showcase-form input:focus{
+			outline: none;
+		}
+
+		.showcase::before,
+		 .showcase::after{
+		 	content: '';
+		 	position: absolute;
+		 	height: 100px;
+		 	bottom: -70px;
+		 	right: 0;
+		 	left: 0;
+		 	background-color: #fff;
+		 	transform: skewY(-5deg);
+		 	-webkit-transform: skewY(-5deg);
+		 	-moz-transform: skewY(-5deg);
+		 	-ms-transform: skewY(-5deg);
+		}
+		<!-- ===========================Stats ================ -->
+
+		.stats{
+			
+			padding-top: 60px;
+			justify-content: center;
+			align-items: center;
+		}
+/*=============================== Utilities ==========================*/
+		.container{
+			max-width: 1100px;
+			margin: 0 auto;
+			overflow: auto;
+			padding: 0 40px;
+		}
+
+		.flex{
+		 display: flex;
+		 justify-content: center;
+		 align-items: center;
+		 height: 100%;
+		}
+
+		.card{
+			background-color: #fff;
+			color: #333;
+			border-radius: 10px;
+			box-shadow: 0 3px 10px rgba(0,0,0, 0.2);
+			padding: 20px;
+			margin: 10px;
+		}
+
+		.btn{
+			display: inline-block;
+			padding: 10px 30px;
+			cursor: pointer;
+			background-color: var(--primary-color);
+			color: #fff;
+			border: none;
+			border-radius: 5px;
+
+		}
+
+		.btn-outline{
+			background-color: transparent;
+			border: 1px #fff solid;
+			height: 38px;
+			width: 150px;
+
+		}
+		.btn:hover{
+			transform: scale(0.98);
+		}
+		/*--========================== text sizes ===================== --> */
+		.lead{
+			font-size: 20px;
+		}
+
+		.sm {
+			font-size: 1rem;
+		}
+
+		.md {
+			font-size: 2rem;
+		}
+
+		.lg {
+			font-size: 3rem;
+		}
+
+		.xl {
+			font-size: 4rem;
+		}
+		<!--================ background & colored buttons ============ -->
+
+		.bg-secondary,
+		.btn-secondary {
+			background-color: var(--secondary-color);
+			color: #fff;
+		}
+
+		.bg-dark,
+		.btn-dark {
+			background-color: var(--dark-color);
+			color: #fff;
+		}
+
+		.bg-light,
+		.btn-light {
+			background-color: var(--light-color);
+			color: #333;
+		}
+
+		.bg-primary a,
+		.btn-primary a,
+		.bg-secondary a,
+		.btn-secondary a,
+		.bg-dark a,
+		.btn-dark a{
+			color: #fff;
+		}
+
+		.showcase {
+			height: auto;
+		}
+
+		.showcase-text{
+			text-align: center;
+			margin-top: 40px;
+		}
+		.showcase-form{
+		justif-self: center;
+		margin: auto;
+		}
+
+		.cli .grid > *:first-child {
+			grid-column: 1;
+			grid-row: 1;
+		}
+
+<!----------------------------margin------------------>
+		.my-1 {
+			margin: 1rem 0;
+		}
+
+		.my-2 {
+			margin: 1.5rem 0;
+		}
+
+		.my-3 {
+			margin: 2rem 0;
+		}
+
+		.my-4 {
+			margin: 3rem 0;
+		}
+
+		.my-5 {
+			margin: 4rem 0;
+		}
+
+		.m-1 {
+			margin: 1rem;
+		}
+
+		.m-2 {
+			margin: 1.5rem;
+		}
+
+		.m-3 {
+			margin: 2rem;
+		}
+
+		.m-4 {
+			margin: 3rem;
+		}
+
+		.m-5 {
+			margin: 4rem;
+		}
+<!----------------------------padding------------------>
+		.py-1 {
+			padding: 1rem 0;
+		}
+
+		.py-2 {
+			padding: 1.5rem 0;
+		}
+
+		.py-3 {
+			padding: 2rem 0;
+		}
+
+		.py-4 {
+			padding: 3rem 0;
+		}
+
+		.py-5 {
+			padding: 4rem 0;
+		}
+
+		.p-1 {
+			padding: 1rem;
+		}
+
+		.p-2 {
+			padding: 1.5rem;
+		}
+
+		.p-3 {
+			padding: 2rem;
+		}
+
+		.p-4 {
+			padding: 3rem;
+		}
+
+		.p-5 {
+			padding: 4rem;
+		}
+		.space{
+			height: 10px;
+		}
+		<!-- ================== Heading ======================== -->
+
+		.stats-heading {
+			max-width: 500px;
+			margin: auto;
+		}
+
+		.container .grid {
+			height: 200px;
+		}
+
+		.stats .grid h3 {
+			font-size: 35px;
+		}
+
+		.stats .grid p {
+			font-size: 20px;
+			font-weight: bold;
+		}
+<!--========================CLI ====================================-->
+		.cli .grid{
+			grid-template-columns: repeat(3, 1fr);
+			grid-template-rows: repeat(2, 1fr);
+		}
+
+		.cli .grid > *:first-child {
+			
+			grid-row: 1 / span 2;
+		}
+
+		.cloud .grid {
+			grid-template-columns: 4fr 3fr;
+			background-color: var(--secondary-color);
+			color: #fff;
+			height: 250px;
+			border-radius: 20px;
+			border: 1rem;
+			overflow: visible;
+			text-align: center;
+		}
+
+		.push{
+			
+			width: 850px;
+			margin-top: -50px;
+			margin-left: -150px;
+		}
+
+
+		<!-- ============================= Languages =================================-->
+
+		.languages .card{
+			text-align: center;
+			margin: 18px 10pp 40px;
+			transition: transform 0.05s ease-in;
+
+
+		}
+
+		.languages .flex{
+			flex-wrap: wrap;
+
+
+		}
+
+		.languages .card h4{
+			font-size: 20px;
+			margin-bottom: 10px;
+		}
+
+		.languages .card:hover{
+			transform: translateY(-15px);
+		}
+
+		<!--========================Features ========================= -->
+
+		.features-head{
+
+			width: 1000px;
+			color: #fff;
+			
+
+		}
+
+		.features-head img{
+			width: 250px;
+			justify-self: flex-end;
+			
+			border-radius: 10px;
+			
+
+		}
+
+		.features-sub-head
+
+		.features-main .card > *:i {
+			margin-left: 30px;
+
+		}
+		.features-main:hover{
+			transform: translateY(-15px);
+		}
+		.features-main .grid{
+			padding: 30px;
+
+		}
+
+		.features-main .grid > *:first-child{
+			grid-column: 1 /span 3;
+
+		}	
+		.features-main .grid > *:nth-child(2){
+			grid-column: 1 /span 2;
+		}
+
+		.footer .social a{
+			margin: 0 10px;
+		}
+
+		.footer {
+			
+			width: 1100px;
+			margin-left: 100px;
+			border-radius: 35px;
+		}
+
+		.b13{
+			width: 500px;
+			height: 100px;
+			
+		}
+
+		.navf a:hover{
+			border-bottom: 2px #047aed; solid;
+		}
+		.cloudimg{
+			padding-left: 100px;
+		}
+
+		.fucha{
+			height: 200px;
+			width: 800px;
+			
+		}
+
+		.fucha-features{
+			height: 200px;
+			width: 800px;
+			color:
+		}
+
+		.features-sub-head {
+			margin-left: 60px;
+			width: 1150px;
+			border-radius: 20px;
+		}
+
+		.features-sub-head img {
+			width: 260px;
+			justify-self: flex-end;
+			
+			border-radius: 10px;
+		}
+	</style>
+</head>
+<body>
+<!-- =========================================Navbar==================================== -->
+<div class="navbar">
+	<div class="container flex">
+		<h1 class="logo">Bthirteen Cloud Blog</h1>
+		<nav>
+			<ul>
+				<li><a href="blog.html">Home</a></li>
+				<li><a href="features.html">Features</a></li>
+				<li><a href="docs.html">Docs</a></li>
+			</ul>
+		</nav>		
+	</div>
+	</div>
+
+<!-- ============================Closed Navbar ========================================-->	
+<!-- =========================== Head ===================================== -->
+	<section class="features-head bg-primary py-3">
+		<div class="container grid">
+			<div class="fucha-features" style="color: #fff">
+				<h1 class="xl" style="color:  #d34fd4;">Features</h1>
+				<p class="lead">Check out the features of Bthirteen Cloud Blog that seperate us from the competition </p>
+				<p class="lead">We are not a part of the system. We are above the System let's make 2021 a grate year!!</p>
+			</div>
+			<img src="images/server.png">
+			
+		</div>
+		
+	</section>
+
+	<!-- ================================ Sub Head =============================== -->
+	<section class="features-sub-head bg-light py-3">
+		<div class="container grid">
+			<div class="fucha">
+				<h1 class="md">Bthirteen Cloud Blog Platform</h1>
+				<p class="">Our aim is to reach out to everyone with low price web hosting Server.</p>
+				<p class="">We offer free 30 days for every new member. The number one Web hosting Server. Thank you for choosing us.</p>
+			</div>
+			<img src="images/server1.png">
+		</div>
+		
+	</section>
+	<!--============================Features Main ====================== -->
+
+	<section class="features-mein my-2">
+		<div class="container grid grid-3">
+			<div class="card flex">
+				<i class="fas fa-server fa-4x"></i>
+				<p>This is our plan for 2021. We offer free 30 days for every new member.</p>
+				<p>Top five rated. Fast, Efficient and Scalable Server ever.</p>
+				
+			</div>
+
+			<div class="card flex">
+				<i class="fas fa-database fa-4x"></i>
+				<p>We offer 10GB storage to a new client with a fair low cost</p>
+				<p>Fast, Efficient and Scalable Server ever.</p>
+				
+			</div>
+
+			<div class="card flex">
+				<i class="fas fa-power-off fa-4x"></i>
+				<p>Our  Server works 24/7 </p>
+				<p>Our Support team are best all the time.</p>
+				
+			</div>
+
+			<div class="card flex">
+				<i class="fas fa-upload fa-4x"></i>
+				<p>Client can upload up to 4GB in trial period.</p>
+				<p>.</p>
+				
+			</div>
+			
+		</div>
+		
+	</section>
+	<!-- ===================================Footer====================-->
+	<footer class="footer bg-dark py-5">
+		<div class="container grid grid-3">
+			<div class="b13">
+				<h1>Bthirteen Cloud Blog</h1>
+				
+				<p>copyright &copy; 2020 @cyberlnk_B13</p>
+			</div>
+			<nav class="navf">
+				<ul>
+					<li><a href="blog.html">Home</a></li>
+					<li><a href="features.html">Features</a></li>
+					<li><a href="docs.html">Docs</a></li>
+				</ul>
+			</nav>	
+			<div class="social">
+				<a href="#"><i class="fab fa-github fa-1x"></a>
+				<a href="#"><i class="fab fa-facebook fa-1"></a>
+				<a href="#"><i class="fab fa-instagram fa-1"></a>
+				<a href="#"><i class="fab fa-twitter fa-1"></a>
+				<a href="#"><i class="fab fa-whatsapp fa-1"></a>
+			</div>		
+		</div>
+		
+	</footer>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="js/materialize.js"></script>
+  <script src="js/init.js"></script>
+</body>
+</html>

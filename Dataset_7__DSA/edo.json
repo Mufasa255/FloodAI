@@ -1,0 +1,2392 @@
+[
+    {
+        "name": "Abere",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 5.14,
+        "elev ft": 75,
+        "pop est": 6073
+    },
+    {
+        "name": "Abiala",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.3,
+        "elev ft": 88,
+        "pop est": 4385
+    },
+    {
+        "name": "Abiala",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 5.32,
+        "elev ft": 75,
+        "pop est": 4531
+    },
+    {
+        "name": "Abibu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 12179
+    },
+    {
+        "name": "Abilogun",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 5.33,
+        "elev ft": 52,
+        "pop est": 5504
+    },
+    {
+        "name": "Abudu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.03,
+        "elev ft": 301,
+        "pop est": 5714
+    },
+    {
+        "name": "Abumwemre",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 6.04,
+        "elev ft": 830,
+        "pop est": 7332
+    },
+    {
+        "name": "Abumwenre",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 5.6,
+        "elev ft": 246,
+        "pop est": 5960
+    },
+    {
+        "name": "Abunwa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 5.91,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Aburu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 6.36,
+        "elev ft": 830,
+        "pop est": 9536
+    },
+    {
+        "name": "Ada-Obadan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 5.85,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Adaigievbe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 6.07,
+        "elev ft": 830,
+        "pop est": 5761
+    },
+    {
+        "name": "Adama",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 5.46,
+        "elev ft": 164,
+        "pop est": 4886
+    },
+    {
+        "name": "Adeyanba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.92,
+        "elev ft": 236,
+        "pop est": 5662
+    },
+    {
+        "name": "Aduhanhan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 5.8,
+        "elev ft": 242,
+        "pop est": 6669
+    },
+    {
+        "name": "Adukuia",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 6.45,
+        "elev ft": 396,
+        "pop est": 6729
+    },
+    {
+        "name": "Aduwawa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.68,
+        "elev ft": 272,
+        "pop est": 389829
+    },
+    {
+        "name": "Afana",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 6.39,
+        "elev ft": 830,
+        "pop est": 9378
+    },
+    {
+        "name": "Afuda",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 6.36,
+        "elev ft": 830,
+        "pop est": 21040
+    },
+    {
+        "name": "Afuje",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 6.04,
+        "elev ft": 830,
+        "pop est": 13857
+    },
+    {
+        "name": "Afuji",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 6.04,
+        "elev ft": 830,
+        "pop est": 13857
+    },
+    {
+        "name": "Afuze",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 6.04,
+        "elev ft": 830,
+        "pop est": 13857
+    },
+    {
+        "name": "Agadaga",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.31,
+        "elev ft": 830,
+        "pop est": 12824
+    },
+    {
+        "name": "Agadega",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 6.28,
+        "elev ft": 915,
+        "pop est": 25498
+    },
+    {
+        "name": "Agasa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 6.23,
+        "elev ft": 1220,
+        "pop est": 394995
+    },
+    {
+        "name": "Agaua",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 5.52,
+        "elev ft": 252,
+        "pop est": 5947
+    },
+    {
+        "name": "Agbanikaka",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 5.78,
+        "elev ft": 216,
+        "pop est": 7985
+    },
+    {
+        "name": "Agbanoko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 5.48,
+        "elev ft": 226,
+        "pop est": 5625
+    },
+    {
+        "name": "Agbarha",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.91,
+        "elev ft": 157,
+        "pop est": 25139
+    },
+    {
+        "name": "Agbede",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 6.26,
+        "elev ft": 830,
+        "pop est": 6562
+    },
+    {
+        "name": "Agbelekaka",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 5.78,
+        "elev ft": 216,
+        "pop est": 7985
+    },
+    {
+        "name": "Agbobome",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.28,
+        "elev ft": 114,
+        "pop est": 4175
+    },
+    {
+        "name": "Agbonmoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 5.48,
+        "elev ft": 226,
+        "pop est": 5625
+    },
+    {
+        "name": "Agbonmoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 5.45,
+        "elev ft": 150,
+        "pop est": 4276
+    },
+    {
+        "name": "Agemopa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 5.58,
+        "elev ft": 209,
+        "pop est": 5960
+    },
+    {
+        "name": "Agenebode",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.69,
+        "elev ft": 196,
+        "pop est": 65618
+    },
+    {
+        "name": "Agepano",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 5.57,
+        "elev ft": 209,
+        "pop est": 6359
+    },
+    {
+        "name": "Agepanu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 5.57,
+        "elev ft": 209,
+        "pop est": 6359
+    },
+    {
+        "name": "Aghobahi",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 5.29,
+        "elev ft": 249,
+        "pop est": 4172
+    },
+    {
+        "name": "Ago",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.07,
+        "elev ft": 830,
+        "pop est": 9270
+    },
+    {
+        "name": "Ago Jimmy",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 5.3,
+        "elev ft": 121,
+        "pop est": 4172
+    },
+    {
+        "name": "Ago-Akinde",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 5.21,
+        "elev ft": 246,
+        "pop est": 4185
+    },
+    {
+        "name": "Ago-Iredia",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 5.44,
+        "elev ft": 147,
+        "pop est": 4200
+    },
+    {
+        "name": "Ago-Isame",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 6.2,
+        "elev ft": 830,
+        "pop est": 11948
+    },
+    {
+        "name": "Ago-Isobo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 5.12,
+        "elev ft": 141,
+        "pop est": 10332
+    },
+    {
+        "name": "Ago-Nathaniel",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.11,
+        "elev ft": 127,
+        "pop est": 6522
+    },
+    {
+        "name": "Ago-Orere Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 6.44,
+        "elev ft": 830,
+        "pop est": 9536
+    },
+    {
+        "name": "Agor",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 6.69,
+        "elev ft": 226,
+        "pop est": 51046
+    },
+    {
+        "name": "Agwa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 6.24,
+        "elev ft": 1669,
+        "pop est": 37431
+    },
+    {
+        "name": "Ahanechi",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 6.23,
+        "elev ft": 1122,
+        "pop est": 452554
+    },
+    {
+        "name": "Ahia",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 6.45,
+        "elev ft": 830,
+        "pop est": 9536
+    },
+    {
+        "name": "Aho",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 5.72,
+        "elev ft": 830,
+        "pop est": 38712
+    },
+    {
+        "name": "Ahor",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 5.72,
+        "elev ft": 830,
+        "pop est": 38712
+    },
+    {
+        "name": "Aifesoaba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 5.38,
+        "elev ft": 216,
+        "pop est": 4322
+    },
+    {
+        "name": "Aifesoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 5.38,
+        "elev ft": 216,
+        "pop est": 4322
+    },
+    {
+        "name": "Aigere",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 6.57,
+        "elev ft": 380,
+        "pop est": 13379
+    },
+    {
+        "name": "Aigiere",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 6.57,
+        "elev ft": 380,
+        "pop est": 13379
+    },
+    {
+        "name": "Aihobabekun",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 5.68,
+        "elev ft": 830,
+        "pop est": 5904
+    },
+    {
+        "name": "Aihuobabekun",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 5.68,
+        "elev ft": 830,
+        "pop est": 5904
+    },
+    {
+        "name": "Aiyegunle",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 6.08,
+        "elev ft": 1669,
+        "pop est": 16331
+    },
+    {
+        "name": "Aiyeteju",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 6.0,
+        "elev ft": 948,
+        "pop est": 15997
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 6.09,
+        "elev ft": 1017,
+        "pop est": 16376
+    },
+    {
+        "name": "Aiyetoro Egbunbe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 6.08,
+        "elev ft": 830,
+        "pop est": 15222
+    },
+    {
+        "name": "Ajafitor",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 5.92,
+        "elev ft": 167,
+        "pop est": 31590
+    },
+    {
+        "name": "Ajakurama",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 5.16,
+        "elev ft": 85,
+        "pop est": 5883
+    },
+    {
+        "name": "Ajamogha",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 5.43,
+        "elev ft": 78,
+        "pop est": 7434
+    },
+    {
+        "name": "Ajatiton",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 5.3,
+        "elev ft": 36,
+        "pop est": 5449
+    },
+    {
+        "name": "Ajatitun",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 5.13,
+        "elev ft": 49,
+        "pop est": 9495
+    },
+    {
+        "name": "Ajayibo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 5.91,
+        "elev ft": 157,
+        "pop est": 27562
+    },
+    {
+        "name": "Ajiko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 5.23,
+        "elev ft": 127,
+        "pop est": 4172
+    },
+    {
+        "name": "Ajoki",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 5.45,
+        "elev ft": 75,
+        "pop est": 8331
+    },
+    {
+        "name": "Akahia",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 6.15,
+        "elev ft": 1026,
+        "pop est": 44857
+    },
+    {
+        "name": "Ake",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 6.02,
+        "elev ft": 997,
+        "pop est": 13857
+    },
+    {
+        "name": "Akeke",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 6.12,
+        "elev ft": 830,
+        "pop est": 12819
+    },
+    {
+        "name": "Akhia",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 6.15,
+        "elev ft": 1026,
+        "pop est": 44857
+    },
+    {
+        "name": "Akho-Irrua",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 6.23,
+        "elev ft": 1669,
+        "pop est": 37768
+    },
+    {
+        "name": "Akiuwa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 5.64,
+        "elev ft": 232,
+        "pop est": 277104
+    },
+    {
+        "name": "Akpobome",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.28,
+        "elev ft": 114,
+        "pop est": 4175
+    },
+    {
+        "name": "Akugbe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 6.02,
+        "elev ft": 318,
+        "pop est": 5662
+    },
+    {
+        "name": "Akughe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 6.02,
+        "elev ft": 318,
+        "pop est": 5662
+    },
+    {
+        "name": "Akure",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.01,
+        "elev ft": 196,
+        "pop est": 15577
+    },
+    {
+        "name": "Akwakwa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 5.5,
+        "elev ft": 150,
+        "pop est": 9816
+    },
+    {
+        "name": "Ala na Onugwe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 6.68,
+        "elev ft": 187,
+        "pop est": 12711
+    },
+    {
+        "name": "Alagbon",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 6.23,
+        "elev ft": 830,
+        "pop est": 6027
+    },
+    {
+        "name": "Alashio",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 6.31,
+        "elev ft": 830,
+        "pop est": 66358
+    },
+    {
+        "name": "Alegbetta",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.58,
+        "elev ft": 196,
+        "pop est": 4866
+    },
+    {
+        "name": "Alegbette",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.58,
+        "elev ft": 196,
+        "pop est": 4866
+    },
+    {
+        "name": "Aligholo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 5.22,
+        "elev ft": 187,
+        "pop est": 4158
+    },
+    {
+        "name": "Amah",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.4,
+        "elev ft": 830,
+        "pop est": 11263
+    },
+    {
+        "name": "Amah-Naitioa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 6.41,
+        "elev ft": 830,
+        "pop est": 7089
+    },
+    {
+        "name": "Amaho",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 6.2,
+        "elev ft": 830,
+        "pop est": 33870
+    },
+    {
+        "name": "Amahor",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 6.2,
+        "elev ft": 830,
+        "pop est": 33870
+    },
+    {
+        "name": "Amahor",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 14710
+    },
+    {
+        "name": "Amahor Southwest",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 6.14,
+        "elev ft": 830,
+        "pop est": 14710
+    },
+    {
+        "name": "Amalu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 6.58,
+        "elev ft": 196,
+        "pop est": 8205
+    },
+    {
+        "name": "Amaru",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 6.58,
+        "elev ft": 196,
+        "pop est": 8205
+    },
+    {
+        "name": "Amasowomwan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.04,
+        "elev ft": 396,
+        "pop est": 5996
+    },
+    {
+        "name": "Amede",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 6.11,
+        "elev ft": 935,
+        "pop est": 26672
+    },
+    {
+        "name": "Amedokai",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.37,
+        "elev ft": 1000,
+        "pop est": 75548
+    },
+    {
+        "name": "Amendhokian",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.37,
+        "elev ft": 1000,
+        "pop est": 75548
+    },
+    {
+        "name": "Amendhoklan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.37,
+        "elev ft": 1000,
+        "pop est": 75548
+    },
+    {
+        "name": "Amieghomwan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 5.42,
+        "elev ft": 255,
+        "pop est": 4419
+    },
+    {
+        "name": "Amoya",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 6.0,
+        "elev ft": 1210,
+        "pop est": 13864
+    },
+    {
+        "name": "Anemene",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 6.59,
+        "elev ft": 183,
+        "pop est": 8891
+    },
+    {
+        "name": "Anibon",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 5.9,
+        "elev ft": 154,
+        "pop est": 28480
+    },
+    {
+        "name": "Anighore Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.11,
+        "elev ft": 383,
+        "pop est": 8711
+    },
+    {
+        "name": "Anyara",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 5.97,
+        "elev ft": 928,
+        "pop est": 24620
+    },
+    {
+        "name": "Anyara",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 22760
+    },
+    {
+        "name": "Anyaran",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 22760
+    },
+    {
+        "name": "Arah",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 5.52,
+        "elev ft": 259,
+        "pop est": 6128
+    },
+    {
+        "name": "Aroko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 5.98,
+        "elev ft": 931,
+        "pop est": 13857
+    },
+    {
+        "name": "Arue",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 6.3,
+        "elev ft": 1256,
+        "pop est": 85789
+    },
+    {
+        "name": "Asaboro",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 5.72,
+        "elev ft": 147,
+        "pop est": 12832
+    },
+    {
+        "name": "Atawa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 6.66,
+        "elev ft": 180,
+        "pop est": 14809
+    },
+    {
+        "name": "Ato-Ubierumu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 6.29,
+        "elev ft": 1187,
+        "pop est": 52568
+    },
+    {
+        "name": "Atoruru",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 5.86,
+        "elev ft": 236,
+        "pop est": 13857
+    },
+    {
+        "name": "Atu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 6.29,
+        "elev ft": 1187,
+        "pop est": 52568
+    },
+    {
+        "name": "Atuagbo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 6.33,
+        "elev ft": 830,
+        "pop est": 26364
+    },
+    {
+        "name": "Auchi",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 6.26,
+        "elev ft": 830,
+        "pop est": 108654
+    },
+    {
+        "name": "Auguanguili",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 5.2,
+        "elev ft": 121,
+        "pop est": 4698
+    },
+    {
+        "name": "Auiowri",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.4,
+        "elev ft": 859,
+        "pop est": 8316
+    },
+    {
+        "name": "Avbhupu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 6.36,
+        "elev ft": 830,
+        "pop est": 9536
+    },
+    {
+        "name": "Avbiaman",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.68,
+        "elev ft": 249,
+        "pop est": 390817
+    },
+    {
+        "name": "Avbiele",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 23128
+    },
+    {
+        "name": "Avbiugu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 5.84,
+        "elev ft": 242,
+        "pop est": 6058
+    },
+    {
+        "name": "Avblaman",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.68,
+        "elev ft": 249,
+        "pop est": 390817
+    },
+    {
+        "name": "Aviosi",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 5.91,
+        "elev ft": 830,
+        "pop est": 13857
+    },
+    {
+        "name": "Awa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 64005
+    },
+    {
+        "name": "Awiwabekun",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 5.68,
+        "elev ft": 830,
+        "pop est": 5904
+    },
+    {
+        "name": "Awo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 6.37,
+        "elev ft": 1036,
+        "pop est": 72808
+    },
+    {
+        "name": "Awoiki",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.51,
+        "elev ft": 406,
+        "pop est": 10310
+    },
+    {
+        "name": "Ayabo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 5.95,
+        "elev ft": 830,
+        "pop est": 13444
+    },
+    {
+        "name": "Ayegbe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.91,
+        "long": 6.36,
+        "elev ft": 393,
+        "pop est": 4619
+    },
+    {
+        "name": "Ayen",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 5.74,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Ayeri-Ubiane",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 51819
+    },
+    {
+        "name": "Ayetoro",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 6.07,
+        "elev ft": 1026,
+        "pop est": 14565
+    },
+    {
+        "name": "Ayiado",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 6.56,
+        "elev ft": 396,
+        "pop est": 12998
+    },
+    {
+        "name": "Ayo-Isule",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 5.58,
+        "elev ft": 203,
+        "pop est": 5960
+    },
+    {
+        "name": "Ayoguri",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.4,
+        "elev ft": 859,
+        "pop est": 8316
+    },
+    {
+        "name": "Benesipi",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 5.33,
+        "elev ft": 124,
+        "pop est": 4172
+    },
+    {
+        "name": "Benim",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Benin City",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Benin Siti",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Benin by",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Benin-Stadt",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Benin-stad",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Beninas",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Beninurbo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Ben\u00ednborg",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Bidenu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 6.26,
+        "elev ft": 1669,
+        "pop est": 37131
+    },
+    {
+        "name": "Binidodogha",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 5.27,
+        "elev ft": 108,
+        "pop est": 4668
+    },
+    {
+        "name": "Bunele",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 6.18,
+        "elev ft": 830,
+        "pop est": 10376
+    },
+    {
+        "name": "Burasana Potolo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.22,
+        "elev ft": 118,
+        "pop est": 4980
+    },
+    {
+        "name": "B\u00e9nin",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Ciudad de Ben\u00edn",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Consin Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 6.07,
+        "elev ft": 334,
+        "pop est": 7473
+    },
+    {
+        "name": "Dagbala",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 6.23,
+        "elev ft": 1246,
+        "pop est": 15752
+    },
+    {
+        "name": "Dankoroba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 5.31,
+        "elev ft": 124,
+        "pop est": 4172
+    },
+    {
+        "name": "Ditah",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.21,
+        "elev ft": 830,
+        "pop est": 92095
+    },
+    {
+        "name": "Fugar",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 6.5,
+        "elev ft": 830,
+        "pop est": 12937
+    },
+    {
+        "name": "Gbagere",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 16133
+    },
+    {
+        "name": "Gbakel",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 6.67,
+        "elev ft": 200,
+        "pop est": 11970
+    },
+    {
+        "name": "Gbelegan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 5.32,
+        "elev ft": 246,
+        "pop est": 4172
+    },
+    {
+        "name": "Gbelekegan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 5.17,
+        "elev ft": 114,
+        "pop est": 4172
+    },
+    {
+        "name": "Gbelemotin",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.08,
+        "elev ft": 124,
+        "pop est": 9522
+    },
+    {
+        "name": "Gbelemotin (1)",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 5.07,
+        "elev ft": 121,
+        "pop est": 11403
+    },
+    {
+        "name": "Gbelemotin (2)",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.08,
+        "elev ft": 124,
+        "pop est": 9522
+    },
+    {
+        "name": "Gbelemotin 1",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 5.07,
+        "elev ft": 121,
+        "pop est": 11403
+    },
+    {
+        "name": "Gbelemotin 2",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.08,
+        "elev ft": 124,
+        "pop est": 9522
+    },
+    {
+        "name": "Gbelemotin Oke",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 5.08,
+        "elev ft": 124,
+        "pop est": 9522
+    },
+    {
+        "name": "Gbelemotin-Odo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 5.07,
+        "elev ft": 121,
+        "pop est": 11403
+    },
+    {
+        "name": "Gbeoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 5.2,
+        "elev ft": 134,
+        "pop est": 4215
+    },
+    {
+        "name": "Gbokuli",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 5.58,
+        "elev ft": 206,
+        "pop est": 6022
+    },
+    {
+        "name": "Gili-Gili",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 5.35,
+        "elev ft": 127,
+        "pop est": 4172
+    },
+    {
+        "name": "Gilli-Gilli",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 5.35,
+        "elev ft": 127,
+        "pop est": 4172
+    },
+    {
+        "name": "Harrisons Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 5.26,
+        "elev ft": 108,
+        "pop est": 4801
+    },
+    {
+        "name": "Hassan Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 6.35,
+        "elev ft": 406,
+        "pop est": 4619
+    },
+    {
+        "name": "Hwohwokpa Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.11,
+        "elev ft": 364,
+        "pop est": 8163
+    },
+    {
+        "name": "Jagbe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.28,
+        "elev ft": 830,
+        "pop est": 20217
+    },
+    {
+        "name": "Jattu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 6.3,
+        "elev ft": 830,
+        "pop est": 92693
+    },
+    {
+        "name": "Jobruse",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 6.44,
+        "elev ft": 830,
+        "pop est": 9536
+    },
+    {
+        "name": "Kakuma",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 6.01,
+        "elev ft": 1145,
+        "pop est": 12386
+    },
+    {
+        "name": "Kakumu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 6.01,
+        "elev ft": 1145,
+        "pop est": 12386
+    },
+    {
+        "name": "Kaloko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 5.18,
+        "elev ft": 187,
+        "pop est": 6359
+    },
+    {
+        "name": "Kogbota",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 5.37,
+        "elev ft": 137,
+        "pop est": 4172
+    },
+    {
+        "name": "Kolokolo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 5.47,
+        "elev ft": 78,
+        "pop est": 8999
+    },
+    {
+        "name": "Kolokolo (II)",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 5.47,
+        "elev ft": 78,
+        "pop est": 8999
+    },
+    {
+        "name": "Kolokolo II",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 5.47,
+        "elev ft": 78,
+        "pop est": 8999
+    },
+    {
+        "name": "Kominio",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 6.38,
+        "elev ft": 1669,
+        "pop est": 13410
+    },
+    {
+        "name": "Korobapele",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 5.25,
+        "elev ft": 108,
+        "pop est": 5100
+    },
+    {
+        "name": "Koroko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 6.24,
+        "elev ft": 1003,
+        "pop est": 394560
+    },
+    {
+        "name": "Kota Benin",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Kwale",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.46,
+        "elev ft": 167,
+        "pop est": 4610
+    },
+    {
+        "name": "Kwanwan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 5.33,
+        "elev ft": 246,
+        "pop est": 4172
+    },
+    {
+        "name": "Lakolako",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 5.18,
+        "elev ft": 187,
+        "pop est": 6359
+    },
+    {
+        "name": "Lanamu Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.05,
+        "elev ft": 830,
+        "pop est": 7300
+    },
+    {
+        "name": "Madagbayo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 5.1,
+        "elev ft": 131,
+        "pop est": 9822
+    },
+    {
+        "name": "Madagbayu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 5.1,
+        "elev ft": 131,
+        "pop est": 9822
+    },
+    {
+        "name": "Makeke",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 6.21,
+        "elev ft": 1669,
+        "pop est": 15965
+    },
+    {
+        "name": "Maternity",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 6.32,
+        "elev ft": 1046,
+        "pop est": 70600
+    },
+    {
+        "name": "Mayan",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 5.24,
+        "elev ft": 249,
+        "pop est": 4172
+    },
+    {
+        "name": "Meke",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 6.26,
+        "elev ft": 830,
+        "pop est": 49025
+    },
+    {
+        "name": "Nikorogba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 5.36,
+        "elev ft": 137,
+        "pop est": 4172
+    },
+    {
+        "name": "Nikrowa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 5.36,
+        "elev ft": 137,
+        "pop est": 4172
+    },
+    {
+        "name": "Noami",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 5.44,
+        "elev ft": 180,
+        "pop est": 5137
+    },
+    {
+        "name": "Nogororo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.11,
+        "elev ft": 383,
+        "pop est": 8163
+    },
+    {
+        "name": "Pabe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.26,
+        "elev ft": 114,
+        "pop est": 4217
+    },
+    {
+        "name": "Pamu",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 6.35,
+        "elev ft": 380,
+        "pop est": 4619
+    },
+    {
+        "name": "Potolo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.22,
+        "elev ft": 118,
+        "pop est": 4980
+    },
+    {
+        "name": "Rofie",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.49,
+        "elev ft": 216,
+        "pop est": 5976
+    },
+    {
+        "name": "Sabon Gida",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 5.93,
+        "elev ft": 246,
+        "pop est": 13857
+    },
+    {
+        "name": "Sabongida-Ora",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 5.93,
+        "elev ft": 246,
+        "pop est": 13857
+    },
+    {
+        "name": "Sabongidda",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 5.93,
+        "elev ft": 246,
+        "pop est": 13857
+    },
+    {
+        "name": "Sabongidda Ora",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 5.93,
+        "elev ft": 246,
+        "pop est": 13857
+    },
+    {
+        "name": "Safarogbon",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 5.06,
+        "elev ft": 72,
+        "pop est": 9516
+    },
+    {
+        "name": "Saforogbo",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 5.06,
+        "elev ft": 72,
+        "pop est": 9516
+    },
+    {
+        "name": "Saforogbon",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 5.06,
+        "elev ft": 72,
+        "pop est": 9516
+    },
+    {
+        "name": "Sakpoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 5.33,
+        "elev ft": 246,
+        "pop est": 4510
+    },
+    {
+        "name": "Sapoba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 5.9,
+        "elev ft": 239,
+        "pop est": 5662
+    },
+    {
+        "name": "Sasaro",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 6.15,
+        "elev ft": 830,
+        "pop est": 16142
+    },
+    {
+        "name": "Sebe",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 6.13,
+        "elev ft": 830,
+        "pop est": 13857
+    },
+    {
+        "name": "Sejen",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 5.27,
+        "elev ft": 249,
+        "pop est": 4172
+    },
+    {
+        "name": "Semolika",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 6.13,
+        "elev ft": 1889,
+        "pop est": 16376
+    },
+    {
+        "name": "Sikolaba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.11,
+        "elev ft": 114,
+        "pop est": 4172
+    },
+    {
+        "name": "Sikoloba",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 5.11,
+        "elev ft": 114,
+        "pop est": 4172
+    },
+    {
+        "name": "Siluko",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 5.16,
+        "elev ft": 167,
+        "pop est": 9833
+    },
+    {
+        "name": "Sogbojaya Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.09,
+        "elev ft": 387,
+        "pop est": 8333
+    },
+    {
+        "name": "Suberu Debowa Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.09,
+        "elev ft": 387,
+        "pop est": 8292
+    },
+    {
+        "name": "Sukoro",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 6.47,
+        "elev ft": 347,
+        "pop est": 4748
+    },
+    {
+        "name": "Talagbene",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 5.11,
+        "elev ft": 104,
+        "pop est": 4172
+    },
+    {
+        "name": "Taragbeni",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 5.11,
+        "elev ft": 104,
+        "pop est": 4172
+    },
+    {
+        "name": "Th\u00e0nh ph\u1ed1 Benin",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 5.63,
+        "elev ft": 262,
+        "pop est": 551760
+    },
+    {
+        "name": "Warrake",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 6.17,
+        "elev ft": 830,
+        "pop est": 11795
+    },
+    {
+        "name": "Wire Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 6.37,
+        "elev ft": 830,
+        "pop est": 10765
+    },
+    {
+        "name": "Wiri-Ale",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.23,
+        "elev ft": 830,
+        "pop est": 7713
+    },
+    {
+        "name": "Wnioke",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 6.33,
+        "elev ft": 830,
+        "pop est": 9684
+    },
+    {
+        "name": "Yare",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 6.54,
+        "elev ft": 830,
+        "pop est": 13410
+    },
+    {
+        "name": "Yelwa",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.3,
+        "elev ft": 830,
+        "pop est": 71526
+    },
+    {
+        "name": "Yusufu Camp",
+        "what": "city",
+        "region": "Edo",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 6.27,
+        "elev ft": 403,
+        "pop est": 4620
+    }
+]

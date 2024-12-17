@@ -1,0 +1,6082 @@
+[
+    {
+        "name": "Babubua",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 9.16,
+        "elev ft": 830,
+        "pop est": 22190
+    },
+    {
+        "name": "Bagani",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 8.07,
+        "elev ft": 318,
+        "pop est": 10399
+    },
+    {
+        "name": "Bagbikba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 9.17,
+        "elev ft": 908,
+        "pop est": 10356
+    },
+    {
+        "name": "Bagga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 9.42,
+        "elev ft": 1669,
+        "pop est": 8220
+    },
+    {
+        "name": "Baggo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 9.39,
+        "elev ft": 2509,
+        "pop est": 8046
+    },
+    {
+        "name": "Bagiaba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 9.17,
+        "elev ft": 1115,
+        "pop est": 16153
+    },
+    {
+        "name": "Bagiachru",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 9.2,
+        "elev ft": 1092,
+        "pop est": 10600
+    },
+    {
+        "name": "Baiyasung",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 9.25,
+        "elev ft": 1669,
+        "pop est": 8050
+    },
+    {
+        "name": "Bakalum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 9.08,
+        "elev ft": 1197,
+        "pop est": 10412
+    },
+    {
+        "name": "Bakoko",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 8.37,
+        "elev ft": 344,
+        "pop est": 38466
+    },
+    {
+        "name": "Balegeta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 9.34,
+        "elev ft": 2007,
+        "pop est": 7043
+    },
+    {
+        "name": "Balep",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Bamba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 9.11,
+        "elev ft": 1181,
+        "pop est": 8344
+    },
+    {
+        "name": "Bandi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 9.17,
+        "elev ft": 974,
+        "pop est": 8730
+    },
+    {
+        "name": "Bankpo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.89,
+        "elev ft": 830,
+        "pop est": 14793
+    },
+    {
+        "name": "Bankpo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20749
+    },
+    {
+        "name": "Bansan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.75,
+        "elev ft": 830,
+        "pop est": 8382
+    },
+    {
+        "name": "Bansan Mbube",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Bansara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.55,
+        "elev ft": 383,
+        "pop est": 19258
+    },
+    {
+        "name": "Baraki",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.52,
+        "elev ft": 377,
+        "pop est": 11771
+    },
+    {
+        "name": "Barikun",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.64,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Bashu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 9.16,
+        "elev ft": 830,
+        "pop est": 5860
+    },
+    {
+        "name": "Basna",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.98,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Bassinge",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 9.43,
+        "elev ft": 1709,
+        "pop est": 8157
+    },
+    {
+        "name": "Basua",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.98,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Baunchor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.99,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Bawo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 21454
+    },
+    {
+        "name": "Bawop",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.79,
+        "elev ft": 830,
+        "pop est": 17706
+    },
+    {
+        "name": "Bayaba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.24,
+        "elev ft": 1043,
+        "pop est": 8046
+    },
+    {
+        "name": "Bayaga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 9.22,
+        "elev ft": 987,
+        "pop est": 10236
+    },
+    {
+        "name": "Bayaluga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 9.31,
+        "elev ft": 1669,
+        "pop est": 8050
+    },
+    {
+        "name": "Bayasung",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 9.25,
+        "elev ft": 1669,
+        "pop est": 8050
+    },
+    {
+        "name": "Bayayam",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 9.2,
+        "elev ft": 1669,
+        "pop est": 13364
+    },
+    {
+        "name": "Bebi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 9.31,
+        "elev ft": 1669,
+        "pop est": 8050
+    },
+    {
+        "name": "Bebuachuan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 9.14,
+        "elev ft": 830,
+        "pop est": 24448
+    },
+    {
+        "name": "Beche",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 8.03,
+        "elev ft": 318,
+        "pop est": 10373
+    },
+    {
+        "name": "Bedia",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 9.13,
+        "elev ft": 921,
+        "pop est": 22369
+    },
+    {
+        "name": "Bekwara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 18728
+    },
+    {
+        "name": "Bekwara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.94,
+        "elev ft": 830,
+        "pop est": 20332
+    },
+    {
+        "name": "Bekwarra",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.94,
+        "elev ft": 830,
+        "pop est": 20332
+    },
+    {
+        "name": "Belegeta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 9.34,
+        "elev ft": 2007,
+        "pop est": 7043
+    },
+    {
+        "name": "Belesa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 9.25,
+        "elev ft": 1003,
+        "pop est": 8524
+    },
+    {
+        "name": "Bendeghe-Ekim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.87,
+        "elev ft": 830,
+        "pop est": 8440
+    },
+    {
+        "name": "Bendi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 9.17,
+        "elev ft": 974,
+        "pop est": 8730
+    },
+    {
+        "name": "Bendiga Afi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.7,
+        "elev ft": 830,
+        "pop est": 8489
+    },
+    {
+        "name": "Bendiga Ayuk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 8448
+    },
+    {
+        "name": "Benekabo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.44,
+        "elev ft": 341,
+        "pop est": 14465
+    },
+    {
+        "name": "Benkpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20749
+    },
+    {
+        "name": "Benta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 12718
+    },
+    {
+        "name": "Berekpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.09,
+        "elev ft": 321,
+        "pop est": 10877
+    },
+    {
+        "name": "Berukpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 8.1,
+        "elev ft": 321,
+        "pop est": 10865
+    },
+    {
+        "name": "Betem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 8.98,
+        "elev ft": 830,
+        "pop est": 21231
+    },
+    {
+        "name": "Betem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 8.18,
+        "elev ft": 380,
+        "pop est": 9845
+    },
+    {
+        "name": "Betem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.94,
+        "elev ft": 830,
+        "pop est": 20591
+    },
+    {
+        "name": "Betukwel",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 9.11,
+        "elev ft": 830,
+        "pop est": 27693
+    },
+    {
+        "name": "Biakpai Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.99,
+        "elev ft": 318,
+        "pop est": 10801
+    },
+    {
+        "name": "Biakpaii Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.99,
+        "elev ft": 318,
+        "pop est": 10801
+    },
+    {
+        "name": "Biakpan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.93,
+        "elev ft": 400,
+        "pop est": 10920
+    },
+    {
+        "name": "Biakpan Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.99,
+        "elev ft": 318,
+        "pop est": 10801
+    },
+    {
+        "name": "Biekpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 8.08,
+        "elev ft": 318,
+        "pop est": 10427
+    },
+    {
+        "name": "Bikpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 17046
+    },
+    {
+        "name": "Bitol",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.49,
+        "elev ft": 357,
+        "pop est": 16876
+    },
+    {
+        "name": "Bitutu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.49,
+        "elev ft": 341,
+        "pop est": 16236
+    },
+    {
+        "name": "Bitutum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.49,
+        "elev ft": 341,
+        "pop est": 16236
+    },
+    {
+        "name": "Blukono",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 9.33,
+        "elev ft": 1669,
+        "pop est": 8083
+    },
+    {
+        "name": "Bogene",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 9.29,
+        "elev ft": 1115,
+        "pop est": 8046
+    },
+    {
+        "name": "Boje",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.94,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Boje",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Boji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Boshi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.27,
+        "elev ft": 2057,
+        "pop est": 8046
+    },
+    {
+        "name": "British Obokum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 6408
+    },
+    {
+        "name": "Buagbong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 9.18,
+        "elev ft": 830,
+        "pop est": 18024
+    },
+    {
+        "name": "Buahuan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 9.18,
+        "elev ft": 830,
+        "pop est": 17787
+    },
+    {
+        "name": "Buanchor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.99,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Budena",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 3898
+    },
+    {
+        "name": "Bukumanya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 9.2,
+        "elev ft": 1207,
+        "pop est": 13180
+    },
+    {
+        "name": "Bumbe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 9.01,
+        "elev ft": 830,
+        "pop est": 26033
+    },
+    {
+        "name": "Busangfong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 9.22,
+        "elev ft": 1013,
+        "pop est": 11132
+    },
+    {
+        "name": "Calabar",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 8.33,
+        "elev ft": 314,
+        "pop est": 301227
+    },
+    {
+        "name": "Canaan Akwa Otop",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 8.44,
+        "elev ft": 337,
+        "pop est": 14264
+    },
+    {
+        "name": "Canaan Oqua Otop",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 8.44,
+        "elev ft": 337,
+        "pop est": 14264
+    },
+    {
+        "name": "Chakpu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 8.83,
+        "elev ft": 830,
+        "pop est": 11757
+    },
+    {
+        "name": "Creek Town",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 8.28,
+        "elev ft": 324,
+        "pop est": 97473
+    },
+    {
+        "name": "Cross River Mills",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.32,
+        "elev ft": 830,
+        "pop est": 23395
+    },
+    {
+        "name": "Danare",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 9.06,
+        "elev ft": 830,
+        "pop est": 6057
+    },
+    {
+        "name": "Danare II",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 9.06,
+        "elev ft": 830,
+        "pop est": 6057
+    },
+    {
+        "name": "Datan Okpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.08,
+        "elev ft": 321,
+        "pop est": 10877
+    },
+    {
+        "name": "Dogu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.39,
+        "elev ft": 830,
+        "pop est": 14123
+    },
+    {
+        "name": "Duwang Uyang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 4230
+    },
+    {
+        "name": "Ebariba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.97,
+        "elev ft": 321,
+        "pop est": 82369
+    },
+    {
+        "name": "Ebegang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.93,
+        "elev ft": 830,
+        "pop est": 20760
+    },
+    {
+        "name": "Ebem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.82,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Ebereti",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 8.16,
+        "elev ft": 403,
+        "pop est": 35073
+    },
+    {
+        "name": "Ebiet Okon Archibong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 8.41,
+        "elev ft": 308,
+        "pop est": 99294
+    },
+    {
+        "name": "Ebijok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.35,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ebindi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ebinjok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.35,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ebiom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.33,
+        "elev ft": 344,
+        "pop est": 25574
+    },
+    {
+        "name": "Ebom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.97,
+        "elev ft": 321,
+        "pop est": 97824
+    },
+    {
+        "name": "Ebom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.99,
+        "elev ft": 314,
+        "pop est": 23099
+    },
+    {
+        "name": "Echimoefana",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 13472
+    },
+    {
+        "name": "Echimoga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 8.79,
+        "elev ft": 830,
+        "pop est": 11771
+    },
+    {
+        "name": "Edede",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20749
+    },
+    {
+        "name": "Edem Esa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.47,
+        "elev ft": 269,
+        "pop est": 20562
+    },
+    {
+        "name": "Edem-Nwosu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.98,
+        "elev ft": 311,
+        "pop est": 32481
+    },
+    {
+        "name": "Edep",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ediba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 8.02,
+        "elev ft": 331,
+        "pop est": 26441
+    },
+    {
+        "name": "Ediba Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 8.37,
+        "elev ft": 275,
+        "pop est": 274194
+    },
+    {
+        "name": "Edide",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20749
+    },
+    {
+        "name": "Edik Idim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.51,
+        "elev ft": 236,
+        "pop est": 19097
+    },
+    {
+        "name": "Edik Iko",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 8.17,
+        "elev ft": 314,
+        "pop est": 8642
+    },
+    {
+        "name": "Edik Okon Idem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 8.57,
+        "elev ft": 219,
+        "pop est": 16266
+    },
+    {
+        "name": "Edondon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 19602
+    },
+    {
+        "name": "Edor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.61,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Edor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.56,
+        "elev ft": 396,
+        "pop est": 8493
+    },
+    {
+        "name": "Edor-Abangok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Edor-Abangork",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Efam",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 10744
+    },
+    {
+        "name": "Efan Fon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.54,
+        "elev ft": 354,
+        "pop est": 9416
+    },
+    {
+        "name": "Efanfon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.54,
+        "elev ft": 354,
+        "pop est": 9416
+    },
+    {
+        "name": "Efedem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.14,
+        "elev ft": 390,
+        "pop est": 8733
+    },
+    {
+        "name": "Efefiom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 8.24,
+        "elev ft": 406,
+        "pop est": 5519
+    },
+    {
+        "name": "Efem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 10744
+    },
+    {
+        "name": "Efferaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 8.72,
+        "elev ft": 403,
+        "pop est": 8493
+    },
+    {
+        "name": "Effraya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 8.72,
+        "elev ft": 403,
+        "pop est": 8493
+    },
+    {
+        "name": "Efut",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 8.09,
+        "elev ft": 351,
+        "pop est": 11045
+    },
+    {
+        "name": "Efut Abua",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 8.44,
+        "elev ft": 255,
+        "pop est": 18829
+    },
+    {
+        "name": "Efut Abua Essighi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 8.44,
+        "elev ft": 255,
+        "pop est": 18829
+    },
+    {
+        "name": "Efut Eso",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 8.09,
+        "elev ft": 351,
+        "pop est": 11045
+    },
+    {
+        "name": "Efut Nesi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.6,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Eganga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.49,
+        "elev ft": 328,
+        "pop est": 10577
+    },
+    {
+        "name": "Egbe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.93,
+        "elev ft": 830,
+        "pop est": 21278
+    },
+    {
+        "name": "Egbe Obudu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.94,
+        "elev ft": 830,
+        "pop est": 21596
+    },
+    {
+        "name": "Egbokoriko",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.71,
+        "elev ft": 403,
+        "pop est": 12337
+    },
+    {
+        "name": "Egbong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.64,
+        "elev ft": 830,
+        "pop est": 20049
+    },
+    {
+        "name": "Egboro Enye",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 8.04,
+        "elev ft": 334,
+        "pop est": 11549
+    },
+    {
+        "name": "Egononko",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.58,
+        "elev ft": 377,
+        "pop est": 8493
+    },
+    {
+        "name": "Egrude",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 8.7,
+        "elev ft": 400,
+        "pop est": 51490
+    },
+    {
+        "name": "Egue",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Egumgum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.52,
+        "elev ft": 351,
+        "pop est": 16199
+    },
+    {
+        "name": "Ehume",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 94299
+    },
+    {
+        "name": "Eja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Eja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 8.75,
+        "elev ft": 830,
+        "pop est": 11819
+    },
+    {
+        "name": "Eja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.43,
+        "elev ft": 301,
+        "pop est": 16407
+    },
+    {
+        "name": "Ejeghe Agoma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.45,
+        "elev ft": 288,
+        "pop est": 15543
+    },
+    {
+        "name": "Ejekwe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.44,
+        "elev ft": 830,
+        "pop est": 13440
+    },
+    {
+        "name": "Ejibafara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 8.41,
+        "elev ft": 249,
+        "pop est": 17623
+    },
+    {
+        "name": "Ejibafun",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.47,
+        "elev ft": 311,
+        "pop est": 11443
+    },
+    {
+        "name": "Ejibafut",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.47,
+        "elev ft": 311,
+        "pop est": 11443
+    },
+    {
+        "name": "Ejirawo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.59,
+        "elev ft": 383,
+        "pop est": 8493
+    },
+    {
+        "name": "Eka Ekong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.53,
+        "elev ft": 393,
+        "pop est": 18692
+    },
+    {
+        "name": "Ekakong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.53,
+        "elev ft": 393,
+        "pop est": 18692
+    },
+    {
+        "name": "Ekamtonofo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.63,
+        "elev ft": 383,
+        "pop est": 8493
+    },
+    {
+        "name": "Ekara Mbang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 8.36,
+        "elev ft": 351,
+        "pop est": 75558
+    },
+    {
+        "name": "Ekenge",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 8.22,
+        "elev ft": 377,
+        "pop est": 8642
+    },
+    {
+        "name": "Ekenge Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 8.24,
+        "elev ft": 374,
+        "pop est": 8642
+    },
+    {
+        "name": "Eketekwe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.41,
+        "elev ft": 396,
+        "pop est": 16868
+    },
+    {
+        "name": "Ekim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.97,
+        "elev ft": 354,
+        "pop est": 8790
+    },
+    {
+        "name": "Ekim Ebebit",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 8.12,
+        "elev ft": 380,
+        "pop est": 10417
+    },
+    {
+        "name": "Ekim Ito",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.97,
+        "elev ft": 337,
+        "pop est": 8888
+    },
+    {
+        "name": "Ekimaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 8.72,
+        "elev ft": 403,
+        "pop est": 8493
+    },
+    {
+        "name": "Ekimbe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 8.24,
+        "elev ft": 351,
+        "pop est": 8642
+    },
+    {
+        "name": "Ekoi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.93,
+        "elev ft": 341,
+        "pop est": 29962
+    },
+    {
+        "name": "Ekom Agoi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 8.23,
+        "elev ft": 410,
+        "pop est": 15153
+    },
+    {
+        "name": "Ekon Ntan Oku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.22,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Ekong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 8.56,
+        "elev ft": 892,
+        "pop est": 3874
+    },
+    {
+        "name": "Ekong Ntan Oku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.22,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Ekongahaku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 8.64,
+        "elev ft": 393,
+        "pop est": 3910
+    },
+    {
+        "name": "Ekosaro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.53,
+        "elev ft": 360,
+        "pop est": 10363
+    },
+    {
+        "name": "Ekoti",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.39,
+        "elev ft": 830,
+        "pop est": 14151
+    },
+    {
+        "name": "Ekpari",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ekparikabo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.98,
+        "elev ft": 830,
+        "pop est": 22986
+    },
+    {
+        "name": "Ekpene",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 8.12,
+        "elev ft": 377,
+        "pop est": 8781
+    },
+    {
+        "name": "Ekpene Esuk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.43,
+        "elev ft": 249,
+        "pop est": 18178
+    },
+    {
+        "name": "Ekpene Esuk Essighi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.43,
+        "elev ft": 249,
+        "pop est": 18178
+    },
+    {
+        "name": "Ekpene Tete",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 8.43,
+        "elev ft": 246,
+        "pop est": 33469
+    },
+    {
+        "name": "Ekperinyi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 8.83,
+        "elev ft": 410,
+        "pop est": 13154
+    },
+    {
+        "name": "Ekpokpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.62,
+        "elev ft": 396,
+        "pop est": 8493
+    },
+    {
+        "name": "Ekpolokown",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.72,
+        "elev ft": 830,
+        "pop est": 17609
+    },
+    {
+        "name": "Ekpri Adiabo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 8.24,
+        "elev ft": 367,
+        "pop est": 8642
+    },
+    {
+        "name": "Ekpri Ikang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 8.51,
+        "elev ft": 252,
+        "pop est": 19424
+    },
+    {
+        "name": "Ekpugeromo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.52,
+        "elev ft": 370,
+        "pop est": 18231
+    },
+    {
+        "name": "Ekuaro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.58,
+        "elev ft": 380,
+        "pop est": 19326
+    },
+    {
+        "name": "Ekukata",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 5499
+    },
+    {
+        "name": "Ekukunela",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 8.54,
+        "elev ft": 830,
+        "pop est": 10084
+    },
+    {
+        "name": "Ekukunela",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.56,
+        "elev ft": 396,
+        "pop est": 10391
+    },
+    {
+        "name": "Ekukuri",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 18941
+    },
+    {
+        "name": "Ekumba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 15053
+    },
+    {
+        "name": "Ekumpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 15053
+    },
+    {
+        "name": "Ekumtak",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 19787
+    },
+    {
+        "name": "Ekunpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 13158
+    },
+    {
+        "name": "Ekurekunta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.99,
+        "elev ft": 337,
+        "pop est": 14147
+    },
+    {
+        "name": "Ekuri",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 8.12,
+        "elev ft": 354,
+        "pop est": 12959
+    },
+    {
+        "name": "Ekuri Awai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 8.39,
+        "elev ft": 830,
+        "pop est": 8557
+    },
+    {
+        "name": "Ekuri Owai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 16783
+    },
+    {
+        "name": "Ekwatai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 5499
+    },
+    {
+        "name": "Ekwere Kunta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.03,
+        "elev ft": 341,
+        "pop est": 19438
+    },
+    {
+        "name": "Ekwereku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.03,
+        "elev ft": 341,
+        "pop est": 19438
+    },
+    {
+        "name": "Ekwerekunta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.03,
+        "elev ft": 341,
+        "pop est": 19438
+    },
+    {
+        "name": "Elahen Wanakande",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.47,
+        "elev ft": 830,
+        "pop est": 13404
+    },
+    {
+        "name": "Elegabor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.58,
+        "elev ft": 830,
+        "pop est": 15411
+    },
+    {
+        "name": "Eligere",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 8.05,
+        "elev ft": 331,
+        "pop est": 11514
+    },
+    {
+        "name": "Emandak",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 18964
+    },
+    {
+        "name": "Emandak",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 20705
+    },
+    {
+        "name": "Emanduk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 20705
+    },
+    {
+        "name": "Emangkpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.64,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Emekpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.64,
+        "elev ft": 830,
+        "pop est": 20525
+    },
+    {
+        "name": "Emin Ekpon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 8.03,
+        "elev ft": 331,
+        "pop est": 11473
+    },
+    {
+        "name": "Enangendak",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 19584
+    },
+    {
+        "name": "Enen-Ito",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.97,
+        "elev ft": 337,
+        "pop est": 8888
+    },
+    {
+        "name": "England",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 20698
+    },
+    {
+        "name": "Enjija",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.45,
+        "elev ft": 288,
+        "pop est": 15543
+    },
+    {
+        "name": "Enyi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.6,
+        "elev ft": 830,
+        "pop est": 15268
+    },
+    {
+        "name": "Enyi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Epenti",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 8.1,
+        "elev ft": 337,
+        "pop est": 15059
+    },
+    {
+        "name": "Esabang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 8.45,
+        "elev ft": 830,
+        "pop est": 19141
+    },
+    {
+        "name": "Esaja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.51,
+        "elev ft": 354,
+        "pop est": 8493
+    },
+    {
+        "name": "Esam",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 20708
+    },
+    {
+        "name": "Eseku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 8.23,
+        "elev ft": 344,
+        "pop est": 8642
+    },
+    {
+        "name": "Esin Ufot Eyamba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 8.42,
+        "elev ft": 246,
+        "pop est": 19024
+    },
+    {
+        "name": "Esoka",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.51,
+        "elev ft": 396,
+        "pop est": 11802
+    },
+    {
+        "name": "Essien",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 8.06,
+        "elev ft": 318,
+        "pop est": 10212
+    },
+    {
+        "name": "Essighi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.46,
+        "elev ft": 255,
+        "pop est": 20442
+    },
+    {
+        "name": "Esuk Agbung",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 8.4,
+        "elev ft": 351,
+        "pop est": 6871
+    },
+    {
+        "name": "Esuk Akpai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 8.06,
+        "elev ft": 324,
+        "pop est": 10842
+    },
+    {
+        "name": "Esuk Atan Eki",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 8.01,
+        "elev ft": 314,
+        "pop est": 12011
+    },
+    {
+        "name": "Esuk Atimbo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 8.39,
+        "elev ft": 255,
+        "pop est": 171299
+    },
+    {
+        "name": "Esuk Aye",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 8.67,
+        "elev ft": 242,
+        "pop est": 8004
+    },
+    {
+        "name": "Esuk Ekpo Eyo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 8.39,
+        "elev ft": 255,
+        "pop est": 171299
+    },
+    {
+        "name": "Esuk Ekpo Eyo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 8.39,
+        "elev ft": 255,
+        "pop est": 142164
+    },
+    {
+        "name": "Esuk Ikot Andong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 8.21,
+        "elev ft": 396,
+        "pop est": 7839
+    },
+    {
+        "name": "Esuk John",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 8.42,
+        "elev ft": 337,
+        "pop est": 7416
+    },
+    {
+        "name": "Esuk Mba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.39,
+        "elev ft": 249,
+        "pop est": 95493
+    },
+    {
+        "name": "Esuk Mba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 8.39,
+        "elev ft": 242,
+        "pop est": 17367
+    },
+    {
+        "name": "Esuk Mbai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 8.39,
+        "elev ft": 242,
+        "pop est": 17367
+    },
+    {
+        "name": "Esuk Mbat",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.39,
+        "elev ft": 249,
+        "pop est": 95493
+    },
+    {
+        "name": "Esuk Mesembe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 8.6,
+        "elev ft": 314,
+        "pop est": 15293
+    },
+    {
+        "name": "Esuk Odot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.22,
+        "elev ft": 400,
+        "pop est": 7695
+    },
+    {
+        "name": "Esuk Okon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.56,
+        "elev ft": 219,
+        "pop est": 15722
+    },
+    {
+        "name": "Esuk Otu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 8.31,
+        "elev ft": 331,
+        "pop est": 151611
+    },
+    {
+        "name": "Esuk Ukot Ebi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.13,
+        "elev ft": 354,
+        "pop est": 8639
+    },
+    {
+        "name": "Esuk Utan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 8.34,
+        "elev ft": 318,
+        "pop est": 269902
+    },
+    {
+        "name": "Esukokon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.56,
+        "elev ft": 219,
+        "pop est": 15722
+    },
+    {
+        "name": "Esukpai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 8.06,
+        "elev ft": 324,
+        "pop est": 10842
+    },
+    {
+        "name": "Esuokon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.56,
+        "elev ft": 219,
+        "pop est": 15722
+    },
+    {
+        "name": "Etak Ekom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.58,
+        "elev ft": 830,
+        "pop est": 20209
+    },
+    {
+        "name": "Etak-Ekon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.58,
+        "elev ft": 830,
+        "pop est": 20209
+    },
+    {
+        "name": "Etako",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.57,
+        "elev ft": 370,
+        "pop est": 8493
+    },
+    {
+        "name": "Etandere",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 12444
+    },
+    {
+        "name": "Etankpini",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 8.4,
+        "elev ft": 347,
+        "pop est": 7951
+    },
+    {
+        "name": "Etikpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Etikumi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 8.41,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Etim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 17001
+    },
+    {
+        "name": "Eto Mkpe Archibong Edem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 8.44,
+        "elev ft": 242,
+        "pop est": 33585
+    },
+    {
+        "name": "Eto Mkpe Yellow Duke",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 8.46,
+        "elev ft": 262,
+        "pop est": 19443
+    },
+    {
+        "name": "Eto Nkpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 8.46,
+        "elev ft": 262,
+        "pop est": 19443
+    },
+    {
+        "name": "Etomi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 8.8,
+        "elev ft": 410,
+        "pop est": 18658
+    },
+    {
+        "name": "Etono",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 8.02,
+        "elev ft": 321,
+        "pop est": 10877
+    },
+    {
+        "name": "Etono 1",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 8.02,
+        "elev ft": 321,
+        "pop est": 10877
+    },
+    {
+        "name": "Etura",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 19936
+    },
+    {
+        "name": "Ewe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 9168
+    },
+    {
+        "name": "Ewe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.0,
+        "elev ft": 347,
+        "pop est": 9689
+    },
+    {
+        "name": "Ewe (1)",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 9168
+    },
+    {
+        "name": "Ewe (2)",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.0,
+        "elev ft": 347,
+        "pop est": 9689
+    },
+    {
+        "name": "Ewe 1",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 9168
+    },
+    {
+        "name": "Ewe 2",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.0,
+        "elev ft": 347,
+        "pop est": 9689
+    },
+    {
+        "name": "Ewen",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 8.22,
+        "elev ft": 406,
+        "pop est": 5109
+    },
+    {
+        "name": "Ewen-Ukwa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.99,
+        "elev ft": 347,
+        "pop est": 9433
+    },
+    {
+        "name": "Ewendiulu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.02,
+        "elev ft": 328,
+        "pop est": 10126
+    },
+    {
+        "name": "Eyimi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 20592
+    },
+    {
+        "name": "Eyombon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.68,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ezekwe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.44,
+        "elev ft": 830,
+        "pop est": 13440
+    },
+    {
+        "name": "Fkuri Awai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 8.39,
+        "elev ft": 830,
+        "pop est": 8557
+    },
+    {
+        "name": "Four Corners",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 8.73,
+        "elev ft": 403,
+        "pop est": 53893
+    },
+    {
+        "name": "Gabu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 11819
+    },
+    {
+        "name": "Gabu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 8.74,
+        "elev ft": 830,
+        "pop est": 11877
+    },
+    {
+        "name": "Gakem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 8.99,
+        "elev ft": 830,
+        "pop est": 21955
+    },
+    {
+        "name": "Ghana",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.61,
+        "elev ft": 406,
+        "pop est": 8493
+    },
+    {
+        "name": "Gross River Mill",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.32,
+        "elev ft": 830,
+        "pop est": 23395
+    },
+    {
+        "name": "Jerusalem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 20782
+    },
+    {
+        "name": "Kaifa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.19,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Kakube",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.93,
+        "elev ft": 830,
+        "pop est": 9998
+    },
+    {
+        "name": "Kakulaka",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.18,
+        "elev ft": 1007,
+        "pop est": 10434
+    },
+    {
+        "name": "Kakum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 9.12,
+        "elev ft": 830,
+        "pop est": 27868
+    },
+    {
+        "name": "Kakwagum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 16360
+    },
+    {
+        "name": "Kalabaras",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 8.33,
+        "elev ft": 314,
+        "pop est": 301227
+    },
+    {
+        "name": "Kalabaro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 8.33,
+        "elev ft": 314,
+        "pop est": 301227
+    },
+    {
+        "name": "Kanyang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 9.03,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Kashenkasa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 17001
+    },
+    {
+        "name": "Kashiotu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 16766
+    },
+    {
+        "name": "Kationg",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 9.2,
+        "elev ft": 1036,
+        "pop est": 12234
+    },
+    {
+        "name": "Katuan Ode",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.87,
+        "elev ft": 830,
+        "pop est": 11989
+    },
+    {
+        "name": "Katuanode",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.87,
+        "elev ft": 830,
+        "pop est": 11989
+    },
+    {
+        "name": "Kekpoti",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 8.19,
+        "elev ft": 357,
+        "pop est": 19618
+    },
+    {
+        "name": "Ketaban",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Ketabor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Kpambpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.7,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Kpantre",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Kundege",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 9.35,
+        "elev ft": 2027,
+        "pop est": 8046
+    },
+    {
+        "name": "Kundeve",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 9.35,
+        "elev ft": 2027,
+        "pop est": 8046
+    },
+    {
+        "name": "Kundfve",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 9.35,
+        "elev ft": 2027,
+        "pop est": 8046
+    },
+    {
+        "name": "Kureke",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 9.45,
+        "elev ft": 1925,
+        "pop est": 7834
+    },
+    {
+        "name": "Kurete",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 9.45,
+        "elev ft": 1925,
+        "pop est": 7834
+    },
+    {
+        "name": "Kutia",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 9.09,
+        "elev ft": 830,
+        "pop est": 27505
+    },
+    {
+        "name": "Lefin",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 13363
+    },
+    {
+        "name": "Lefin",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.46,
+        "elev ft": 830,
+        "pop est": 13650
+    },
+    {
+        "name": "Leshiche",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 9.22,
+        "elev ft": 1669,
+        "pop est": 9550
+    },
+    {
+        "name": "Lifuojong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.64,
+        "elev ft": 390,
+        "pop est": 8493
+    },
+    {
+        "name": "Little Agbokum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 8.72,
+        "elev ft": 400,
+        "pop est": 34374
+    },
+    {
+        "name": "Little Akbokum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 8.72,
+        "elev ft": 400,
+        "pop est": 34374
+    },
+    {
+        "name": "Little Obokum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 8.72,
+        "elev ft": 400,
+        "pop est": 34374
+    },
+    {
+        "name": "Lyokom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.51,
+        "elev ft": 390,
+        "pop est": 11771
+    },
+    {
+        "name": "Maghabe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 13844
+    },
+    {
+        "name": "Mandem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.52,
+        "elev ft": 354,
+        "pop est": 13428
+    },
+    {
+        "name": "Manden",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.52,
+        "elev ft": 354,
+        "pop est": 13428
+    },
+    {
+        "name": "Matene",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 9.33,
+        "elev ft": 1669,
+        "pop est": 6135
+    },
+    {
+        "name": "Mbagidi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.77,
+        "elev ft": 830,
+        "pop est": 20265
+    },
+    {
+        "name": "Mbaka",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.66,
+        "elev ft": 416,
+        "pop est": 8493
+    },
+    {
+        "name": "Mbarakom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 8.32,
+        "elev ft": 830,
+        "pop est": 4224
+    },
+    {
+        "name": "Mbarakom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 8.31,
+        "elev ft": 830,
+        "pop est": 5108
+    },
+    {
+        "name": "Mbarakom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 8.33,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Mbarakpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Mbarakpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 8.46,
+        "elev ft": 403,
+        "pop est": 3874
+    },
+    {
+        "name": "Mbaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 16326
+    },
+    {
+        "name": "Mbebu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 8.51,
+        "elev ft": 396,
+        "pop est": 11310
+    },
+    {
+        "name": "Mbenkpi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.61,
+        "elev ft": 406,
+        "pop est": 20082
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.97,
+        "elev ft": 396,
+        "pop est": 9108
+    },
+    {
+        "name": "Mbiabong Ito",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.93,
+        "elev ft": 400,
+        "pop est": 9154
+    },
+    {
+        "name": "Mbok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 18184
+    },
+    {
+        "name": "Mbok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 18373
+    },
+    {
+        "name": "Mbombori",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 8.19,
+        "elev ft": 318,
+        "pop est": 8646
+    },
+    {
+        "name": "Mbor",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 8.79,
+        "elev ft": 830,
+        "pop est": 11696
+    },
+    {
+        "name": "Mbora",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.47,
+        "elev ft": 347,
+        "pop est": 17514
+    },
+    {
+        "name": "Mbur",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 8.79,
+        "elev ft": 830,
+        "pop est": 11696
+    },
+    {
+        "name": "Mburukem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 10863
+    },
+    {
+        "name": "Mebrukpa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.46,
+        "elev ft": 301,
+        "pop est": 14139
+    },
+    {
+        "name": "Mfamosing",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 8.51,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Mfom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 18697
+    },
+    {
+        "name": "Mfom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.56,
+        "elev ft": 370,
+        "pop est": 16396
+    },
+    {
+        "name": "Mfom Two",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.56,
+        "elev ft": 370,
+        "pop est": 16396
+    },
+    {
+        "name": "Mfum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 8.84,
+        "elev ft": 413,
+        "pop est": 7275
+    },
+    {
+        "name": "Mfuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.45,
+        "elev ft": 357,
+        "pop est": 15892
+    },
+    {
+        "name": "Mgbaka",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.64,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Mgbaka",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.66,
+        "elev ft": 416,
+        "pop est": 8493
+    },
+    {
+        "name": "Mgbege",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 12817
+    },
+    {
+        "name": "Mgbumgangbom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.58,
+        "elev ft": 830,
+        "pop est": 18536
+    },
+    {
+        "name": "Mkot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 8.7,
+        "elev ft": 830,
+        "pop est": 4770
+    },
+    {
+        "name": "Mkpani",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 8.16,
+        "elev ft": 400,
+        "pop est": 43565
+    },
+    {
+        "name": "Mkpara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 8.28,
+        "elev ft": 347,
+        "pop est": 18709
+    },
+    {
+        "name": "Mkpara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.58,
+        "elev ft": 370,
+        "pop est": 8493
+    },
+    {
+        "name": "Mkpatala",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.53,
+        "elev ft": 383,
+        "pop est": 8493
+    },
+    {
+        "name": "Mkpatuk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 8.11,
+        "elev ft": 357,
+        "pop est": 9021
+    },
+    {
+        "name": "Mkpauno",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 8.12,
+        "elev ft": 367,
+        "pop est": 10670
+    },
+    {
+        "name": "Mkpaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.44,
+        "elev ft": 275,
+        "pop est": 15676
+    },
+    {
+        "name": "Mkpot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 8.7,
+        "elev ft": 830,
+        "pop est": 4770
+    },
+    {
+        "name": "Mkpot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 8.72,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Mkpot Akpankpang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 8.7,
+        "elev ft": 830,
+        "pop est": 4770
+    },
+    {
+        "name": "Mkpot Isong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 8.72,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Mkpute",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 20159
+    },
+    {
+        "name": "Mofre",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.52,
+        "elev ft": 370,
+        "pop est": 14482
+    },
+    {
+        "name": "Mojebekabe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.72,
+        "elev ft": 830,
+        "pop est": 20662
+    },
+    {
+        "name": "Monkom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.6,
+        "elev ft": 387,
+        "pop est": 19763
+    },
+    {
+        "name": "Mpam Bentem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 16753
+    },
+    {
+        "name": "Mpamaji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 20782
+    },
+    {
+        "name": "Mpamaji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.9,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Mpambeku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 17408
+    },
+    {
+        "name": "Mpambekwel",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 19787
+    },
+    {
+        "name": "Mpamgbenyi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 20423
+    },
+    {
+        "name": "Mpumbeku",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 17408
+    },
+    {
+        "name": "Mtimtim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.53,
+        "elev ft": 367,
+        "pop est": 16121
+    },
+    {
+        "name": "Ndar",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nde",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.64,
+        "elev ft": 387,
+        "pop est": 8493
+    },
+    {
+        "name": "Nde",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.68,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nde Akwara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 9639
+    },
+    {
+        "name": "Nde Clan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nde Okoro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 9242
+    },
+    {
+        "name": "Nde Okwara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 9639
+    },
+    {
+        "name": "Ndeacha",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.1,
+        "elev ft": 357,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndeacho",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.1,
+        "elev ft": 357,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndeakpachara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 8.08,
+        "elev ft": 374,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndealicha",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 8.15,
+        "elev ft": 377,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndealiche",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 8.15,
+        "elev ft": 377,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndealichi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 8.15,
+        "elev ft": 377,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndebbiji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 8.83,
+        "elev ft": 3349,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndebiji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 8.8,
+        "elev ft": 1824,
+        "pop est": 3802
+    },
+    {
+        "name": "Ndebiji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 8.83,
+        "elev ft": 3349,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndekke",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 8.59,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndekpo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 8.09,
+        "elev ft": 364,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndeokpai",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 8.15,
+        "elev ft": 403,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndi-Okoroji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.92,
+        "elev ft": 396,
+        "pop est": 9246
+    },
+    {
+        "name": "Ndijere",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 10877
+    },
+    {
+        "name": "Ndijom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.99,
+        "elev ft": 387,
+        "pop est": 9450
+    },
+    {
+        "name": "Ndim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.57,
+        "elev ft": 370,
+        "pop est": 8565
+    },
+    {
+        "name": "Ndingan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.53,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndingane",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.53,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndingene",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.53,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ndiro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.95,
+        "elev ft": 377,
+        "pop est": 10381
+    },
+    {
+        "name": "Ndiugu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 8.0,
+        "elev ft": 331,
+        "pop est": 9377
+    },
+    {
+        "name": "Ndiweya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.44,
+        "elev ft": 347,
+        "pop est": 14465
+    },
+    {
+        "name": "Ndoduo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 8.2,
+        "elev ft": 377,
+        "pop est": 8642
+    },
+    {
+        "name": "Ndom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.56,
+        "elev ft": 830,
+        "pop est": 16275
+    },
+    {
+        "name": "Ndon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.17,
+        "elev ft": 403,
+        "pop est": 7890
+    },
+    {
+        "name": "Ndon Nwang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 8.17,
+        "elev ft": 396,
+        "pop est": 8403
+    },
+    {
+        "name": "Ndon Nwon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 8.17,
+        "elev ft": 396,
+        "pop est": 8403
+    },
+    {
+        "name": "Ndon Nwong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 8.17,
+        "elev ft": 396,
+        "pop est": 8403
+    },
+    {
+        "name": "Ndonyam",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.15,
+        "elev ft": 360,
+        "pop est": 8642
+    },
+    {
+        "name": "Ndubi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nduk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.79,
+        "elev ft": 830,
+        "pop est": 20313
+    },
+    {
+        "name": "Nduk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.8,
+        "elev ft": 830,
+        "pop est": 18701
+    },
+    {
+        "name": "Netim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.36,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "New Netim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 8.35,
+        "elev ft": 413,
+        "pop est": 7261
+    },
+    {
+        "name": "Nfamebine Akpama",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 8.74,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nfom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.57,
+        "elev ft": 377,
+        "pop est": 14356
+    },
+    {
+        "name": "Nfom One",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.57,
+        "elev ft": 377,
+        "pop est": 14356
+    },
+    {
+        "name": "Nfom Two",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.57,
+        "elev ft": 377,
+        "pop est": 14356
+    },
+    {
+        "name": "Ngag",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 19543
+    },
+    {
+        "name": "Ngarabe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 8.02,
+        "elev ft": 337,
+        "pop est": 16989
+    },
+    {
+        "name": "Ngidi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 12553
+    },
+    {
+        "name": "Ngiti",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.56,
+        "elev ft": 390,
+        "pop est": 19417
+    },
+    {
+        "name": "Ngo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.45,
+        "elev ft": 278,
+        "pop est": 13609
+    },
+    {
+        "name": "Ngo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.48,
+        "elev ft": 337,
+        "pop est": 9665
+    },
+    {
+        "name": "Ngom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.47,
+        "elev ft": 357,
+        "pop est": 17251
+    },
+    {
+        "name": "Ngon Aya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 8.44,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ngulya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.57,
+        "elev ft": 370,
+        "pop est": 18523
+    },
+    {
+        "name": "Niayi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 8.77,
+        "elev ft": 1715,
+        "pop est": 3874
+    },
+    {
+        "name": "Niua-Bano",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.83,
+        "elev ft": 830,
+        "pop est": 19310
+    },
+    {
+        "name": "Njahasang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 5684
+    },
+    {
+        "name": "Njakasang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 5684
+    },
+    {
+        "name": "Njakina",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Njimaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.45,
+        "elev ft": 318,
+        "pop est": 15036
+    },
+    {
+        "name": "Njometom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.51,
+        "elev ft": 374,
+        "pop est": 8871
+    },
+    {
+        "name": "Njua",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.88,
+        "elev ft": 830,
+        "pop est": 8344
+    },
+    {
+        "name": "Njua-Bano",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.83,
+        "elev ft": 830,
+        "pop est": 19310
+    },
+    {
+        "name": "Njuabano",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.83,
+        "elev ft": 830,
+        "pop est": 19310
+    },
+    {
+        "name": "Nkakat Ikot Eyamba",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 8.42,
+        "elev ft": 242,
+        "pop est": 18764
+    },
+    {
+        "name": "Nkamoro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.56,
+        "elev ft": 377,
+        "pop est": 18819
+    },
+    {
+        "name": "Nkankpo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 8.08,
+        "elev ft": 344,
+        "pop est": 141323
+    },
+    {
+        "name": "Nkanya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 10481
+    },
+    {
+        "name": "Nkanya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.85,
+        "elev ft": 830,
+        "pop est": 9840
+    },
+    {
+        "name": "Nkarasi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkarasi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 8772
+    },
+    {
+        "name": "Nkarasi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 8489
+    },
+    {
+        "name": "Nkarasi One",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 8772
+    },
+    {
+        "name": "Nkarasi Two",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkata",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.0,
+        "elev ft": 357,
+        "pop est": 9467
+    },
+    {
+        "name": "Nkim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 23714
+    },
+    {
+        "name": "Nkim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkim Station",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkimera",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.62,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nkimoja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 8.03,
+        "elev ft": 321,
+        "pop est": 10264
+    },
+    {
+        "name": "Nkitta",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 8.18,
+        "elev ft": 377,
+        "pop est": 8642
+    },
+    {
+        "name": "Nko",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 8.19,
+        "elev ft": 406,
+        "pop est": 13656
+    },
+    {
+        "name": "Nkomfap",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 15682
+    },
+    {
+        "name": "Nkonfap",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.67,
+        "elev ft": 830,
+        "pop est": 15682
+    },
+    {
+        "name": "Nkpakna",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.63,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nkpanfa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 8.08,
+        "elev ft": 347,
+        "pop est": 20045
+    },
+    {
+        "name": "Nkpanghe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.58,
+        "elev ft": 830,
+        "pop est": 20545
+    },
+    {
+        "name": "Nkpani",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 8.16,
+        "elev ft": 400,
+        "pop est": 43565
+    },
+    {
+        "name": "Nkpanyen",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.84,
+        "elev ft": 830,
+        "pop est": 17279
+    },
+    {
+        "name": "Nkrigom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.61,
+        "elev ft": 830,
+        "pop est": 10125
+    },
+    {
+        "name": "Nkum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.73,
+        "elev ft": 830,
+        "pop est": 8437
+    },
+    {
+        "name": "Nkum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.72,
+        "elev ft": 413,
+        "pop est": 42813
+    },
+    {
+        "name": "Nkum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.66,
+        "elev ft": 830,
+        "pop est": 20559
+    },
+    {
+        "name": "Nkum",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 8.64,
+        "elev ft": 390,
+        "pop est": 8493
+    },
+    {
+        "name": "Nkum Akpambe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.48,
+        "elev ft": 347,
+        "pop est": 12583
+    },
+    {
+        "name": "Nkum Apambe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.51,
+        "elev ft": 380,
+        "pop est": 14162
+    },
+    {
+        "name": "Nkum Apambe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.48,
+        "elev ft": 347,
+        "pop est": 12583
+    },
+    {
+        "name": "Nkum Plantation",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 8.66,
+        "elev ft": 396,
+        "pop est": 15399
+    },
+    {
+        "name": "Nkunaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 8.44,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Nkwande",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.53,
+        "elev ft": 351,
+        "pop est": 9778
+    },
+    {
+        "name": "Nlul",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 10925
+    },
+    {
+        "name": "Nlul",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 10223
+    },
+    {
+        "name": "Nlul One",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 10925
+    },
+    {
+        "name": "Nlul Two",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.65,
+        "elev ft": 830,
+        "pop est": 10223
+    },
+    {
+        "name": "Nnamg",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nnang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.69,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Nsadop",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 8367
+    },
+    {
+        "name": "Nsadup",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 8367
+    },
+    {
+        "name": "Nsak",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.59,
+        "elev ft": 390,
+        "pop est": 8493
+    },
+    {
+        "name": "Nsan",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 8.39,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Nsele",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.52,
+        "elev ft": 387,
+        "pop est": 10561
+    },
+    {
+        "name": "Nselle",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.52,
+        "elev ft": 380,
+        "pop est": 9037
+    },
+    {
+        "name": "Nshebori",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 18791
+    },
+    {
+        "name": "Nsinjob",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.72,
+        "elev ft": 830,
+        "pop est": 20683
+    },
+    {
+        "name": "Nsisat",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 8.13,
+        "elev ft": 367,
+        "pop est": 9175
+    },
+    {
+        "name": "Nsodup",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 8367
+    },
+    {
+        "name": "Nsofang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 8.71,
+        "elev ft": 413,
+        "pop est": 8493
+    },
+    {
+        "name": "Nsun Odot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.16,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Nta Asim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 8.18,
+        "elev ft": 396,
+        "pop est": 8600
+    },
+    {
+        "name": "Ntamante",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.75,
+        "elev ft": 830,
+        "pop est": 15198
+    },
+    {
+        "name": "Ntan Beach",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.95,
+        "elev ft": 311,
+        "pop est": 38586
+    },
+    {
+        "name": "Ntan Mbat",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.93,
+        "elev ft": 344,
+        "pop est": 45328
+    },
+    {
+        "name": "Ntanante",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.75,
+        "elev ft": 830,
+        "pop est": 15198
+    },
+    {
+        "name": "Ntara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.59,
+        "elev ft": 830,
+        "pop est": 20439
+    },
+    {
+        "name": "Ntara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.61,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ntara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.52,
+        "elev ft": 364,
+        "pop est": 17192
+    },
+    {
+        "name": "Ntara",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.58,
+        "elev ft": 413,
+        "pop est": 20038
+    },
+    {
+        "name": "Ntara Ayimaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.52,
+        "elev ft": 364,
+        "pop est": 17192
+    },
+    {
+        "name": "Ntara Njemaya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.49,
+        "elev ft": 364,
+        "pop est": 16171
+    },
+    {
+        "name": "Ntara One",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.58,
+        "elev ft": 413,
+        "pop est": 20038
+    },
+    {
+        "name": "Ntara Three",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.61,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ntara Two",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.59,
+        "elev ft": 830,
+        "pop est": 20439
+    },
+    {
+        "name": "Ntara-Waterside",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.49,
+        "elev ft": 364,
+        "pop est": 16171
+    },
+    {
+        "name": "Ntimtim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.53,
+        "elev ft": 367,
+        "pop est": 16121
+    },
+    {
+        "name": "Ntingna",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.61,
+        "elev ft": 830,
+        "pop est": 18355
+    },
+    {
+        "name": "Ntinub",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.68,
+        "elev ft": 830,
+        "pop est": 20555
+    },
+    {
+        "name": "Ntrigom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.42,
+        "elev ft": 351,
+        "pop est": 15918
+    },
+    {
+        "name": "Ntu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.5,
+        "elev ft": 360,
+        "pop est": 10303
+    },
+    {
+        "name": "Nwang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.6,
+        "elev ft": 830,
+        "pop est": 20660
+    },
+    {
+        "name": "Nwang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.75,
+        "elev ft": 830,
+        "pop est": 19454
+    },
+    {
+        "name": "Nwang-elsi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.59,
+        "elev ft": 830,
+        "pop est": 20279
+    },
+    {
+        "name": "Nya Asang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 5684
+    },
+    {
+        "name": "Nyaje",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 8.77,
+        "elev ft": 1715,
+        "pop est": 3874
+    },
+    {
+        "name": "Nyakasang",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 8.21,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Nyanya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 22222
+    },
+    {
+        "name": "Nyatkpok",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.53,
+        "elev ft": 364,
+        "pop est": 10540
+    },
+    {
+        "name": "Nyatkpot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.53,
+        "elev ft": 364,
+        "pop est": 10540
+    },
+    {
+        "name": "Nyene Kusun",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 10805
+    },
+    {
+        "name": "Nyokebika",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 8.31,
+        "elev ft": 357,
+        "pop est": 45276
+    },
+    {
+        "name": "Nyon Idibi Ikot Umo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 8.55,
+        "elev ft": 328,
+        "pop est": 18134
+    },
+    {
+        "name": "Nyonya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.97,
+        "elev ft": 830,
+        "pop est": 22222
+    },
+    {
+        "name": "Panya",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.84,
+        "elev ft": 830,
+        "pop est": 14352
+    },
+    {
+        "name": "Sankwala",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.22,
+        "elev ft": 1669,
+        "pop est": 8046
+    },
+    {
+        "name": "Shikpeshi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 9.24,
+        "elev ft": 1023,
+        "pop est": 8946
+    },
+    {
+        "name": "Shingile",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 13784
+    },
+    {
+        "name": "Shipeshi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 9.24,
+        "elev ft": 1023,
+        "pop est": 8946
+    },
+    {
+        "name": "Susu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 9.54,
+        "elev ft": 1194,
+        "pop est": 6048
+    },
+    {
+        "name": "Tizi-n-Tadart",
+        "what": "city",
+        "region": "Cross River State",
+        "country": "Nigeria",
+        "lat": 31.1,
+        "long": -6.43,
+        "elev ft": 4340,
+        "pop est": 0
+    },
+    {
+        "name": "Uba Mbat",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 8.14,
+        "elev ft": 314,
+        "pop est": 8417
+    },
+    {
+        "name": "Ubat Mbat",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 8.14,
+        "elev ft": 314,
+        "pop est": 8417
+    },
+    {
+        "name": "Ubong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 9.13,
+        "elev ft": 1738,
+        "pop est": 15540
+    },
+    {
+        "name": "Uchu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 8.84,
+        "elev ft": 830,
+        "pop est": 11720
+    },
+    {
+        "name": "Udem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 8.03,
+        "elev ft": 321,
+        "pop est": 10643
+    },
+    {
+        "name": "Udenyuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.57,
+        "elev ft": 377,
+        "pop est": 11771
+    },
+    {
+        "name": "Ufak Efin",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 8.07,
+        "elev ft": 314,
+        "pop est": 18594
+    },
+    {
+        "name": "Ufok Ubet",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 8.21,
+        "elev ft": 337,
+        "pop est": 8642
+    },
+    {
+        "name": "Ufut",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 8.03,
+        "elev ft": 321,
+        "pop est": 10576
+    },
+    {
+        "name": "Ugaga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.73,
+        "elev ft": 413,
+        "pop est": 12169
+    },
+    {
+        "name": "Uganga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.43,
+        "elev ft": 830,
+        "pop est": 13198
+    },
+    {
+        "name": "Ugbem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 8.01,
+        "elev ft": 321,
+        "pop est": 10870
+    },
+    {
+        "name": "Ugboro",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.85,
+        "elev ft": 406,
+        "pop est": 19217
+    },
+    {
+        "name": "Ugep",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 8.08,
+        "elev ft": 347,
+        "pop est": 145147
+    },
+    {
+        "name": "Ughu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 8.73,
+        "elev ft": 830,
+        "pop est": 23628
+    },
+    {
+        "name": "Ujari",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10471
+    },
+    {
+        "name": "Ujari & Amanagu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.98,
+        "elev ft": 314,
+        "pop est": 14553
+    },
+    {
+        "name": "Ujisim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.4,
+        "elev ft": 830,
+        "pop est": 13929
+    },
+    {
+        "name": "Ujussim",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.4,
+        "elev ft": 830,
+        "pop est": 13929
+    },
+    {
+        "name": "Ukambi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 9.14,
+        "elev ft": 830,
+        "pop est": 26564
+    },
+    {
+        "name": "Ukanga",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.57,
+        "elev ft": 374,
+        "pop est": 8565
+    },
+    {
+        "name": "Ukashie",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.12,
+        "elev ft": 1669,
+        "pop est": 20161
+    },
+    {
+        "name": "Ukem Ikot Ekpo Ene",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 8.22,
+        "elev ft": 351,
+        "pop est": 8642
+    },
+    {
+        "name": "Ukem Ikot Nyong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 8.22,
+        "elev ft": 347,
+        "pop est": 8642
+    },
+    {
+        "name": "Ukend",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.74,
+        "elev ft": 416,
+        "pop est": 18431
+    },
+    {
+        "name": "Ukim Ita",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 8.24,
+        "elev ft": 341,
+        "pop est": 8642
+    },
+    {
+        "name": "Ukim Ita",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 8.26,
+        "elev ft": 341,
+        "pop est": 17569
+    },
+    {
+        "name": "Ukip",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 8.01,
+        "elev ft": 314,
+        "pop est": 14409
+    },
+    {
+        "name": "Ukoshie",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 9.12,
+        "elev ft": 1669,
+        "pop est": 20161
+    },
+    {
+        "name": "Ukpada",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.9,
+        "elev ft": 830,
+        "pop est": 19045
+    },
+    {
+        "name": "Ukpagada",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.73,
+        "elev ft": 830,
+        "pop est": 19979
+    },
+    {
+        "name": "Ukpah",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.91,
+        "elev ft": 830,
+        "pop est": 20711
+    },
+    {
+        "name": "Ukpah",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.87,
+        "elev ft": 416,
+        "pop est": 20708
+    },
+    {
+        "name": "Ukpah-Ribo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.92,
+        "elev ft": 830,
+        "pop est": 20733
+    },
+    {
+        "name": "Ukpakata",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 8.27,
+        "elev ft": 344,
+        "pop est": 28479
+    },
+    {
+        "name": "Ukpe",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.76,
+        "elev ft": 830,
+        "pop est": 19578
+    },
+    {
+        "name": "Ukwa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.97,
+        "elev ft": 396,
+        "pop est": 9108
+    },
+    {
+        "name": "Ukwa",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 8.01,
+        "elev ft": 318,
+        "pop est": 10037
+    },
+    {
+        "name": "Ukwa-Nkasi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.97,
+        "elev ft": 383,
+        "pop est": 9569
+    },
+    {
+        "name": "Umaji",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 9.25,
+        "elev ft": 2509,
+        "pop est": 8151
+    },
+    {
+        "name": "Umon",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 8.08,
+        "elev ft": 318,
+        "pop est": 10427
+    },
+    {
+        "name": "Umon Town",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 8.08,
+        "elev ft": 318,
+        "pop est": 10427
+    },
+    {
+        "name": "Umu Ekwule",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 61821
+    },
+    {
+        "name": "Umuaja",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.82,
+        "elev ft": 406,
+        "pop est": 12845
+    },
+    {
+        "name": "Umuchiakuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.97,
+        "elev ft": 383,
+        "pop est": 9413
+    },
+    {
+        "name": "Umuebo-Akabo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 99403
+    },
+    {
+        "name": "Urua Etak Uyo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 8.22,
+        "elev ft": 351,
+        "pop est": 8642
+    },
+    {
+        "name": "Urua Ndung Efana",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 8.51,
+        "elev ft": 380,
+        "pop est": 14383
+    },
+    {
+        "name": "Usumutong",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 8.01,
+        "elev ft": 314,
+        "pop est": 35099
+    },
+    {
+        "name": "Usun Odot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.16,
+        "elev ft": 383,
+        "pop est": 8642
+    },
+    {
+        "name": "Usung Esuk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 8.16,
+        "elev ft": 328,
+        "pop est": 8642
+    },
+    {
+        "name": "Usung Esuk",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.14,
+        "elev ft": 360,
+        "pop est": 8642
+    },
+    {
+        "name": "Usung Esuk Odot",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.14,
+        "elev ft": 360,
+        "pop est": 8642
+    },
+    {
+        "name": "Usung Urua",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 8.17,
+        "elev ft": 324,
+        "pop est": 8642
+    },
+    {
+        "name": "Utuhu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 9.2,
+        "elev ft": 954,
+        "pop est": 13031
+    },
+    {
+        "name": "Utukpo",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.6,
+        "elev ft": 383,
+        "pop est": 12072
+    },
+    {
+        "name": "Utuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 8.05,
+        "elev ft": 324,
+        "pop est": 10784
+    },
+    {
+        "name": "Utuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 8.07,
+        "elev ft": 321,
+        "pop est": 10874
+    },
+    {
+        "name": "Utuma",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 8.04,
+        "elev ft": 328,
+        "pop est": 10643
+    },
+    {
+        "name": "Uwet",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 8.23,
+        "elev ft": 406,
+        "pop est": 5268
+    },
+    {
+        "name": "Uyanga Okpo Usun",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 5117
+    },
+    {
+        "name": "Wanagina",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.47,
+        "elev ft": 830,
+        "pop est": 13748
+    },
+    {
+        "name": "Wanakande",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.51,
+        "elev ft": 830,
+        "pop est": 13140
+    },
+    {
+        "name": "Wanakom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 12553
+    },
+    {
+        "name": "Wanakom Ngidi",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 12553
+    },
+    {
+        "name": "Wanakonde",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.45,
+        "elev ft": 830,
+        "pop est": 12948
+    },
+    {
+        "name": "Wanakonde",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.51,
+        "elev ft": 830,
+        "pop est": 13140
+    },
+    {
+        "name": "Wanikande",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.51,
+        "elev ft": 830,
+        "pop est": 13140
+    },
+    {
+        "name": "Wanishem",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.52,
+        "elev ft": 830,
+        "pop est": 13318
+    },
+    {
+        "name": "Wankom",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.42,
+        "elev ft": 830,
+        "pop est": 12553
+    },
+    {
+        "name": "Wannajinna",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.47,
+        "elev ft": 830,
+        "pop est": 13748
+    },
+    {
+        "name": "Wanubu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.41,
+        "elev ft": 830,
+        "pop est": 12690
+    },
+    {
+        "name": "Wanudu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.47,
+        "elev ft": 347,
+        "pop est": 17584
+    },
+    {
+        "name": "Wanudu",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.44,
+        "elev ft": 830,
+        "pop est": 13411
+    },
+    {
+        "name": "Woda",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.66,
+        "elev ft": 390,
+        "pop est": 12003
+    },
+    {
+        "name": "Wonye",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 8.86,
+        "elev ft": 830,
+        "pop est": 11725
+    },
+    {
+        "name": "Wula",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 9.09,
+        "elev ft": 1669,
+        "pop est": 16307
+    },
+    {
+        "name": "Zaria",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.9,
+        "elev ft": 830,
+        "pop est": 20645
+    },
+    {
+        "name": "Zaria",
+        "what": "city",
+        "region": "Cross River",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.81,
+        "elev ft": 830,
+        "pop est": 19310
+    }
+]

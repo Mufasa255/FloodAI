@@ -1,0 +1,25 @@
+Wind Farm Capacity by Region (MW),,,,,,,,,,
+"Global Wind Power Tracker, December 2023",,,,,,,,,,
+Tracker includes wind farm phases 10 MW and greater.,,,,,,,,,,
+Regions in bold were updated for the December 2023 release. All others were last updated May 2023.,,,,,,,,,,
+The Global Wind Power Tracker uses UN's definition of global regions.,,,,,,,,,,
+Global Energy Monitor,,,,,,,,,,
+Region,Subregion,Operating,Construction,Pre-construction,Announced,"Prospective (Sum of Construction, Pre-construction, Announced)",Shelved,Mothballed,Retired,Cancelled
+Global Total,,"846,999","221,630","1,053,003","779,194","2,053,827","109,598","1,501","16,008","220,263"
+Africa,Northern Africa,"3,748","3,620","44,751","28,025","76,396",234,0,0,206
+,Sub-Saharan Africa,"5,287","1,352","7,517","36,162","45,031","2,752",0,10,"2,190"
+Americas,Latin America and the Caribbean,"48,779","12,770","114,450","103,609","230,829","4,169",86,0,"13,265"
+,Northern America,"160,224","13,183","72,158","44,537","129,878","4,253",0,"12,883","38,794"
+Asia,Central Asia,904,"1,048",850,"4,755","6,653","1,040",0,0,"3,022"
+,Eastern Asia,"351,372","146,090","269,212","115,747","531,049","23,152",50,805,"44,929"
+,South-eastern Asia,"9,390","2,024","111,635","36,556","150,215","40,623",0,0,"2,055"
+,Southern Asia,"38,015","3,245","9,070","4,153","16,468","2,814",0,0,"2,575"
+,Western Asia,"13,205","3,228","36,509","5,720","45,457","1,160",0,0,"2,481"
+Europe,Eastern Europe,"16,522","1,219","13,616","12,271","27,106","3,582","1,329",27,"7,685"
+,Northern Europe,"58,721","17,095","195,754","172,918","385,767","13,386",26,360,"69,602"
+,Southern Europe,"48,519","6,227","71,538","51,220","128,985","1,751",0,488,"15,660"
+,Western Europe,"79,814","6,562","28,930","31,401","66,893","1,244",10,"1,435","8,053"
+Oceania,Australia and New Zealand,"12,481","3,967","77,013","132,121","213,101","9,376",0,0,"9,737"
+,Melanesia,22,0,0,0,0,20,0,0,0
+,Micronesia,0,0,0,0,0,0,0,0,10
+,Polynesia,0,0,0,0,0,42,0,0,0

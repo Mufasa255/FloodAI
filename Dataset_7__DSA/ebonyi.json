@@ -1,0 +1,6602 @@
+[
+    {
+        "name": "Abakaliki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.11,
+        "elev ft": 383,
+        "pop est": 102229
+    },
+    {
+        "name": "Abakalikis",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.11,
+        "elev ft": 383,
+        "pop est": 102229
+    },
+    {
+        "name": "Abarigwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 20305
+    },
+    {
+        "name": "Abba Omege",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.0,
+        "elev ft": 341,
+        "pop est": 22637
+    },
+    {
+        "name": "Abba-Omega",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.0,
+        "elev ft": 341,
+        "pop est": 22637
+    },
+    {
+        "name": "Abina",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.11,
+        "elev ft": 347,
+        "pop est": 35513
+    },
+    {
+        "name": "Abina",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 8.13,
+        "elev ft": 337,
+        "pop est": 28605
+    },
+    {
+        "name": "Aboffia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.13,
+        "elev ft": 383,
+        "pop est": 84692
+    },
+    {
+        "name": "Abofifia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.13,
+        "elev ft": 383,
+        "pop est": 84692
+    },
+    {
+        "name": "Aboine",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 7.83,
+        "elev ft": 410,
+        "pop est": 22231
+    },
+    {
+        "name": "Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.18,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Achara Ndiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.15,
+        "elev ft": 347,
+        "pop est": 37664
+    },
+    {
+        "name": "Achara Ndiagu Omegio",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.15,
+        "elev ft": 347,
+        "pop est": 37664
+    },
+    {
+        "name": "Achara-Ezza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.02,
+        "elev ft": 370,
+        "pop est": 53837
+    },
+    {
+        "name": "Achara-Ida",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.07,
+        "elev ft": 396,
+        "pop est": 68720
+    },
+    {
+        "name": "Achara-Ikwo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.26,
+        "elev ft": 341,
+        "pop est": 36653
+    },
+    {
+        "name": "Achara-Unuhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.06,
+        "elev ft": 380,
+        "pop est": 43224
+    },
+    {
+        "name": "Achoro-Ndiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.15,
+        "elev ft": 347,
+        "pop est": 37664
+    },
+    {
+        "name": "Adumu Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.26,
+        "elev ft": 374,
+        "pop est": 18751
+    },
+    {
+        "name": "Adumu-Igbadu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.26,
+        "elev ft": 374,
+        "pop est": 18751
+    },
+    {
+        "name": "Afiaelem",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.14,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Afiaenwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 17998
+    },
+    {
+        "name": "Afikpo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.94,
+        "elev ft": 374,
+        "pop est": 114709
+    },
+    {
+        "name": "Agalaga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.06,
+        "elev ft": 403,
+        "pop est": 73160
+    },
+    {
+        "name": "Agalagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 16866
+    },
+    {
+        "name": "Agalagu-Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.14,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Agalegu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.07,
+        "elev ft": 367,
+        "pop est": 25691
+    },
+    {
+        "name": "Agba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.87,
+        "elev ft": 364,
+        "pop est": 45411
+    },
+    {
+        "name": "Agbabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.83,
+        "elev ft": 360,
+        "pop est": 39544
+    },
+    {
+        "name": "Agbabor-Isu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.83,
+        "elev ft": 360,
+        "pop est": 39544
+    },
+    {
+        "name": "Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 18007
+    },
+    {
+        "name": "Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 18509
+    },
+    {
+        "name": "Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 17652
+    },
+    {
+        "name": "Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.11,
+        "elev ft": 370,
+        "pop est": 66190
+    },
+    {
+        "name": "Agbanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.2,
+        "elev ft": 337,
+        "pop est": 37635
+    },
+    {
+        "name": "Agbara Oza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Aghameghu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.13,
+        "elev ft": 403,
+        "pop est": 44309
+    },
+    {
+        "name": "Aghara-Oza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Agharauga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.03,
+        "elev ft": 383,
+        "pop est": 39394
+    },
+    {
+        "name": "Agodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 82202
+    },
+    {
+        "name": "Agu-Akpu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.08,
+        "elev ft": 370,
+        "pop est": 36241
+    },
+    {
+        "name": "Agubala",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 48286
+    },
+    {
+        "name": "Agubia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.11,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Agukpobe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.08,
+        "elev ft": 367,
+        "pop est": 27928
+    },
+    {
+        "name": "Aguokwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ahu Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.37,
+        "elev ft": 265,
+        "pop est": 16467
+    },
+    {
+        "name": "Ahumahum",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.11,
+        "elev ft": 347,
+        "pop est": 36542
+    },
+    {
+        "name": "Ahumanum",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.11,
+        "elev ft": 347,
+        "pop est": 36542
+    },
+    {
+        "name": "Aja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 13913
+    },
+    {
+        "name": "Akahufu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.23,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Akahufu-Akpanundele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.23,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Akalaku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 17059
+    },
+    {
+        "name": "Akanto",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 19597
+    },
+    {
+        "name": "Akataka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.35,
+        "elev ft": 383,
+        "pop est": 19519
+    },
+    {
+        "name": "Akpafu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.39,
+        "elev ft": 377,
+        "pop est": 19519
+    },
+    {
+        "name": "Akpanundele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.23,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Akpanwudele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.1,
+        "elev ft": 351,
+        "pop est": 37749
+    },
+    {
+        "name": "Akparata",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.32,
+        "elev ft": 357,
+        "pop est": 17772
+    },
+    {
+        "name": "Akpatakpa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.18,
+        "elev ft": 410,
+        "pop est": 18539
+    },
+    {
+        "name": "Akpatakpaba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.18,
+        "elev ft": 410,
+        "pop est": 18539
+    },
+    {
+        "name": "Akpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.31,
+        "elev ft": 341,
+        "pop est": 13258
+    },
+    {
+        "name": "Akpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.34,
+        "elev ft": 331,
+        "pop est": 13823
+    },
+    {
+        "name": "Akpu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Akunakuna",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.14,
+        "elev ft": 341,
+        "pop est": 37118
+    },
+    {
+        "name": "Akwarata Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 19306
+    },
+    {
+        "name": "Alibaluhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.15,
+        "elev ft": 351,
+        "pop est": 29160
+    },
+    {
+        "name": "Alibaroho",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 75235
+    },
+    {
+        "name": "Alibaruhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 18211
+    },
+    {
+        "name": "Alibaruhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 15969
+    },
+    {
+        "name": "Ama-Okpo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.16,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Ama-Uda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.33,
+        "elev ft": 390,
+        "pop est": 19519
+    },
+    {
+        "name": "Amachara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 18073
+    },
+    {
+        "name": "Amachara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.12,
+        "elev ft": 357,
+        "pop est": 27619
+    },
+    {
+        "name": "Amachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.27,
+        "elev ft": 354,
+        "pop est": 13840
+    },
+    {
+        "name": "Amachi-Amachu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.18,
+        "elev ft": 364,
+        "pop est": 77646
+    },
+    {
+        "name": "Amadu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.05,
+        "elev ft": 354,
+        "pop est": 41584
+    },
+    {
+        "name": "Amaeka-Iza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 128360
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.12,
+        "elev ft": 357,
+        "pop est": 25513
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.08,
+        "elev ft": 370,
+        "pop est": 23471
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.41,
+        "elev ft": 374,
+        "pop est": 19501
+    },
+    {
+        "name": "Amagu-Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.41,
+        "elev ft": 374,
+        "pop est": 19501
+    },
+    {
+        "name": "Amagu-Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.41,
+        "elev ft": 374,
+        "pop est": 19494
+    },
+    {
+        "name": "Amaguanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.39,
+        "elev ft": 390,
+        "pop est": 19026
+    },
+    {
+        "name": "Amaiyima-Onuhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 108455
+    },
+    {
+        "name": "Amakka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 7.87,
+        "elev ft": 364,
+        "pop est": 46108
+    },
+    {
+        "name": "Amala",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.31,
+        "elev ft": 347,
+        "pop est": 14384
+    },
+    {
+        "name": "Amana",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.04,
+        "elev ft": 364,
+        "pop est": 50666
+    },
+    {
+        "name": "Amananta",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 28033
+    },
+    {
+        "name": "Amanata",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 28033
+    },
+    {
+        "name": "Amangbara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.95,
+        "elev ft": 341,
+        "pop est": 114299
+    },
+    {
+        "name": "Amaseri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 47988
+    },
+    {
+        "name": "Amata",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.31,
+        "elev ft": 347,
+        "pop est": 14384
+    },
+    {
+        "name": "Amate-Enu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.93,
+        "elev ft": 374,
+        "pop est": 56597
+    },
+    {
+        "name": "Amauro",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.88,
+        "elev ft": 383,
+        "pop est": 23807
+    },
+    {
+        "name": "Amechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 77075
+    },
+    {
+        "name": "Amechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.86,
+        "elev ft": 360,
+        "pop est": 34969
+    },
+    {
+        "name": "Amechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.9,
+        "elev ft": 354,
+        "pop est": 32451
+    },
+    {
+        "name": "Amegu-Ezza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.04,
+        "elev ft": 360,
+        "pop est": 49254
+    },
+    {
+        "name": "Ameka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.11,
+        "elev ft": 357,
+        "pop est": 35585
+    },
+    {
+        "name": "Ameka-Ikwo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.09,
+        "elev ft": 351,
+        "pop est": 41307
+    },
+    {
+        "name": "Amenu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.87,
+        "elev ft": 360,
+        "pop est": 32056
+    },
+    {
+        "name": "Amenyi-Opuitumo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.08,
+        "elev ft": 344,
+        "pop est": 32419
+    },
+    {
+        "name": "Ameri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.14,
+        "elev ft": 354,
+        "pop est": 29381
+    },
+    {
+        "name": "Ameta",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.99,
+        "elev ft": 331,
+        "pop est": 59860
+    },
+    {
+        "name": "Amezekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.07,
+        "elev ft": 360,
+        "pop est": 45194
+    },
+    {
+        "name": "Amiyima",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 24369
+    },
+    {
+        "name": "Amizu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.94,
+        "elev ft": 351,
+        "pop est": 114559
+    },
+    {
+        "name": "Amofia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.94,
+        "elev ft": 344,
+        "pop est": 32200
+    },
+    {
+        "name": "Amokwo Okposieshi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 13154
+    },
+    {
+        "name": "Amon",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.17,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Amoncha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.93,
+        "elev ft": 318,
+        "pop est": 72467
+    },
+    {
+        "name": "Amorie",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.14,
+        "elev ft": 351,
+        "pop est": 35840
+    },
+    {
+        "name": "Amuda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Amudo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.01,
+        "elev ft": 357,
+        "pop est": 52245
+    },
+    {
+        "name": "Amuro",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.93,
+        "elev ft": 367,
+        "pop est": 114632
+    },
+    {
+        "name": "Amuzu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.21,
+        "elev ft": 377,
+        "pop est": 40217
+    },
+    {
+        "name": "Amuzu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.03,
+        "elev ft": 370,
+        "pop est": 50785
+    },
+    {
+        "name": "Amuzu-Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.21,
+        "elev ft": 377,
+        "pop est": 40217
+    },
+    {
+        "name": "Anofia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.93,
+        "elev ft": 318,
+        "pop est": 52360
+    },
+    {
+        "name": "Anofia Nkanu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.95,
+        "elev ft": 321,
+        "pop est": 114299
+    },
+    {
+        "name": "Anu-Akpanundele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.17,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Anyanwigwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 17173
+    },
+    {
+        "name": "Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.41,
+        "elev ft": 374,
+        "pop est": 19501
+    },
+    {
+        "name": "Anyim-Opuitumo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.06,
+        "elev ft": 344,
+        "pop est": 28104
+    },
+    {
+        "name": "Aru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.18,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Arugbaru-Nkareku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 19140
+    },
+    {
+        "name": "Asumgbom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.75,
+        "elev ft": 400,
+        "pop est": 37010
+    },
+    {
+        "name": "Awumniri-Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 16646
+    },
+    {
+        "name": "Awunmiri Nkareku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 17030
+    },
+    {
+        "name": "Azu Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.37,
+        "elev ft": 265,
+        "pop est": 16467
+    },
+    {
+        "name": "Azu-Owuchele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 43650
+    },
+    {
+        "name": "Azugu-Olua",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 19452
+    },
+    {
+        "name": "Benekaba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 15922
+    },
+    {
+        "name": "Bikobiko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.31,
+        "elev ft": 337,
+        "pop est": 30867
+    },
+    {
+        "name": "Ebiogi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.21,
+        "elev ft": 351,
+        "pop est": 30496
+    },
+    {
+        "name": "Ebiom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.2,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Ebonie",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.06,
+        "elev ft": 413,
+        "pop est": 113240
+    },
+    {
+        "name": "Echara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.17,
+        "elev ft": 347,
+        "pop est": 31315
+    },
+    {
+        "name": "Echara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 34004
+    },
+    {
+        "name": "Echara Onu-Ebonyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Echara-Anuaboyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Echara-Onuaboyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Echialike",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.22,
+        "elev ft": 351,
+        "pop est": 24861
+    },
+    {
+        "name": "Echialiki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.22,
+        "elev ft": 351,
+        "pop est": 24861
+    },
+    {
+        "name": "Echibokum",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.3,
+        "elev ft": 351,
+        "pop est": 13880
+    },
+    {
+        "name": "Edda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 30337
+    },
+    {
+        "name": "Edema",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 22635
+    },
+    {
+        "name": "Edenyaka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.28,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Edufachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 18306
+    },
+    {
+        "name": "Edukwu Egbu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 16983
+    },
+    {
+        "name": "Edukwu Iyima",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 15956
+    },
+    {
+        "name": "Effium",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 134326
+    },
+    {
+        "name": "Efie-Mgbabu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.16,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Egedegebe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 30327
+    },
+    {
+        "name": "Egudenago",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.28,
+        "elev ft": 354,
+        "pop est": 14326
+    },
+    {
+        "name": "Egwenedoha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 48941
+    },
+    {
+        "name": "Egwudinagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 41835
+    },
+    {
+        "name": "Egwudinagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.28,
+        "elev ft": 354,
+        "pop est": 14326
+    },
+    {
+        "name": "Egwuduiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 41835
+    },
+    {
+        "name": "Ehugbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.94,
+        "elev ft": 374,
+        "pop est": 114709
+    },
+    {
+        "name": "Ejaga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.34,
+        "elev ft": 337,
+        "pop est": 14310
+    },
+    {
+        "name": "Eka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.01,
+        "elev ft": 370,
+        "pop est": 52705
+    },
+    {
+        "name": "Eka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.14,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Ekaeru-Inyimagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.15,
+        "elev ft": 380,
+        "pop est": 102481
+    },
+    {
+        "name": "Eke-Beligwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.26,
+        "elev ft": 374,
+        "pop est": 18730
+    },
+    {
+        "name": "Eke-Moha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.03,
+        "elev ft": 367,
+        "pop est": 50127
+    },
+    {
+        "name": "Ekebeligwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 13155
+    },
+    {
+        "name": "Ekepobe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.18,
+        "elev ft": 354,
+        "pop est": 20352
+    },
+    {
+        "name": "Ekerigwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 22612
+    },
+    {
+        "name": "Eketube",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.18,
+        "elev ft": 354,
+        "pop est": 20352
+    },
+    {
+        "name": "Ekka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 128213
+    },
+    {
+        "name": "Eleke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.16,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Emeri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 53936
+    },
+    {
+        "name": "Emezu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 22645
+    },
+    {
+        "name": "Eneagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.81,
+        "elev ft": 374,
+        "pop est": 39621
+    },
+    {
+        "name": "Enuago",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.81,
+        "elev ft": 374,
+        "pop est": 39621
+    },
+    {
+        "name": "Enyebichiri Ndechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.32,
+        "elev ft": 380,
+        "pop est": 19519
+    },
+    {
+        "name": "Enyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.26,
+        "elev ft": 347,
+        "pop est": 36777
+    },
+    {
+        "name": "Enyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.28,
+        "elev ft": 344,
+        "pop est": 30471
+    },
+    {
+        "name": "Enyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.06,
+        "elev ft": 403,
+        "pop est": 80462
+    },
+    {
+        "name": "Enyibichiri Iz",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.06,
+        "elev ft": 403,
+        "pop est": 80462
+    },
+    {
+        "name": "Enyibichiri-Izi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.06,
+        "elev ft": 403,
+        "pop est": 80462
+    },
+    {
+        "name": "Enyigba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.28,
+        "elev ft": 347,
+        "pop est": 21614
+    },
+    {
+        "name": "Enyigba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.14,
+        "elev ft": 354,
+        "pop est": 25270
+    },
+    {
+        "name": "Enyigba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.24,
+        "elev ft": 351,
+        "pop est": 24126
+    },
+    {
+        "name": "Eseagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.28,
+        "elev ft": 351,
+        "pop est": 13931
+    },
+    {
+        "name": "Ete",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.37,
+        "elev ft": 328,
+        "pop est": 13336
+    },
+    {
+        "name": "Ete",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.36,
+        "elev ft": 318,
+        "pop est": 13346
+    },
+    {
+        "name": "Ete",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 15827
+    },
+    {
+        "name": "Ezamgbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 61789
+    },
+    {
+        "name": "Eze",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.36,
+        "elev ft": 387,
+        "pop est": 19519
+    },
+    {
+        "name": "Eze",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.23,
+        "elev ft": 406,
+        "pop est": 19519
+    },
+    {
+        "name": "Ezeakataka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 19209
+    },
+    {
+        "name": "Ezekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.05,
+        "elev ft": 357,
+        "pop est": 41892
+    },
+    {
+        "name": "Ezillo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.82,
+        "elev ft": 406,
+        "pop est": 22526
+    },
+    {
+        "name": "Ezilo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.82,
+        "elev ft": 406,
+        "pop est": 22526
+    },
+    {
+        "name": "Eziulo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.82,
+        "elev ft": 406,
+        "pop est": 22526
+    },
+    {
+        "name": "Ezza Abia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.04,
+        "elev ft": 374,
+        "pop est": 34210
+    },
+    {
+        "name": "Ezza Settlement",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.08,
+        "elev ft": 410,
+        "pop est": 87240
+    },
+    {
+        "name": "Ezza-Agu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.73,
+        "elev ft": 393,
+        "pop est": 23981
+    },
+    {
+        "name": "Ezza-Obeagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.72,
+        "elev ft": 406,
+        "pop est": 21966
+    },
+    {
+        "name": "Ezza-Ohu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 70658
+    },
+    {
+        "name": "Ezzagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.73,
+        "elev ft": 393,
+        "pop est": 23981
+    },
+    {
+        "name": "Ezzagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.16,
+        "elev ft": 393,
+        "pop est": 81402
+    },
+    {
+        "name": "Ezzamgbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 61789
+    },
+    {
+        "name": "Ezzo-Abia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.04,
+        "elev ft": 374,
+        "pop est": 34210
+    },
+    {
+        "name": "Gbudoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 134317
+    },
+    {
+        "name": "Hotekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 8.18,
+        "elev ft": 337,
+        "pop est": 33522
+    },
+    {
+        "name": "Ibam",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.17,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Ibenta-Iza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 129018
+    },
+    {
+        "name": "Ibi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.94,
+        "elev ft": 360,
+        "pop est": 92419
+    },
+    {
+        "name": "Ibinagalegu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 17895
+    },
+    {
+        "name": "Ibiteroku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.12,
+        "elev ft": 830,
+        "pop est": 64078
+    },
+    {
+        "name": "Iboko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.23,
+        "elev ft": 406,
+        "pop est": 19519
+    },
+    {
+        "name": "Idembia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.01,
+        "elev ft": 367,
+        "pop est": 56321
+    },
+    {
+        "name": "Idembia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 108578
+    },
+    {
+        "name": "Idembia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 104620
+    },
+    {
+        "name": "Idembia-Izi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 108578
+    },
+    {
+        "name": "Idiekebe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 16565
+    },
+    {
+        "name": "Idiete",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 15751
+    },
+    {
+        "name": "Idima",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 30337
+    },
+    {
+        "name": "Idimo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 30337
+    },
+    {
+        "name": "Ifilimi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.14,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Igbago",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.3,
+        "elev ft": 354,
+        "pop est": 14885
+    },
+    {
+        "name": "Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.19,
+        "elev ft": 380,
+        "pop est": 70804
+    },
+    {
+        "name": "Igbagu Clan",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.29,
+        "elev ft": 360,
+        "pop est": 17205
+    },
+    {
+        "name": "Igbere",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.04,
+        "elev ft": 344,
+        "pop est": 29455
+    },
+    {
+        "name": "Igberi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 8.04,
+        "elev ft": 344,
+        "pop est": 29455
+    },
+    {
+        "name": "Igbidu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.12,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Igboji",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Igboro",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 10546
+    },
+    {
+        "name": "Igbudu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.12,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Igbuhuotom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.19,
+        "elev ft": 413,
+        "pop est": 18788
+    },
+    {
+        "name": "Igenyia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.05,
+        "elev ft": 410,
+        "pop est": 108455
+    },
+    {
+        "name": "Igidagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.29,
+        "elev ft": 354,
+        "pop est": 13406
+    },
+    {
+        "name": "Igiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 11670
+    },
+    {
+        "name": "Igweledeoha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19513
+    },
+    {
+        "name": "Ihuibe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.69,
+        "elev ft": 416,
+        "pop est": 41751
+    },
+    {
+        "name": "Ijibollo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 13693
+    },
+    {
+        "name": "Ijibollo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.43,
+        "elev ft": 367,
+        "pop est": 18773
+    },
+    {
+        "name": "Ijibollor",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 13693
+    },
+    {
+        "name": "Ijibollor",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.43,
+        "elev ft": 367,
+        "pop est": 18773
+    },
+    {
+        "name": "Ijogo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 18914
+    },
+    {
+        "name": "Ike-Enyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.17,
+        "elev ft": 400,
+        "pop est": 49896
+    },
+    {
+        "name": "Ikelagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.24,
+        "elev ft": 400,
+        "pop est": 19519
+    },
+    {
+        "name": "Ikwo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.1,
+        "elev ft": 351,
+        "pop est": 37697
+    },
+    {
+        "name": "Imogu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.16,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Indiachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Indiechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 14728
+    },
+    {
+        "name": "Indigele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.31,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Indingele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.34,
+        "elev ft": 406,
+        "pop est": 19111
+    },
+    {
+        "name": "Indinwikwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.31,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Indiogbaga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Indiogogo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.33,
+        "elev ft": 410,
+        "pop est": 19368
+    },
+    {
+        "name": "Inkareku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 17988
+    },
+    {
+        "name": "Inyafor",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 134324
+    },
+    {
+        "name": "Inyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.01,
+        "elev ft": 354,
+        "pop est": 43484
+    },
+    {
+        "name": "Inyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.21,
+        "elev ft": 347,
+        "pop est": 34101
+    },
+    {
+        "name": "Inyimagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 33455
+    },
+    {
+        "name": "Inyinba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.29,
+        "elev ft": 413,
+        "pop est": 19519
+    },
+    {
+        "name": "Inyiniba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.29,
+        "elev ft": 413,
+        "pop est": 19519
+    },
+    {
+        "name": "Inyirigbada",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.26,
+        "elev ft": 403,
+        "pop est": 19519
+    },
+    {
+        "name": "Ipollo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.4,
+        "elev ft": 351,
+        "pop est": 17390
+    },
+    {
+        "name": "Ishiahia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 19267
+    },
+    {
+        "name": "Isi Ohumini",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 104277
+    },
+    {
+        "name": "Isi-Ohumini",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 18788
+    },
+    {
+        "name": "Isiaka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 37892
+    },
+    {
+        "name": "Isicha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.2,
+        "elev ft": 357,
+        "pop est": 19779
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 18046
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.14,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 15377
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 18482
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 108578
+    },
+    {
+        "name": "Isinkwo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.03,
+        "elev ft": 341,
+        "pop est": 24608
+    },
+    {
+        "name": "Isiogo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 18914
+    },
+    {
+        "name": "Isiohummini",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 104277
+    },
+    {
+        "name": "Isu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.8,
+        "elev ft": 370,
+        "pop est": 37366
+    },
+    {
+        "name": "Isuachara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.76,
+        "elev ft": 396,
+        "pop est": 28523
+    },
+    {
+        "name": "Isuachari",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.76,
+        "elev ft": 396,
+        "pop est": 28523
+    },
+    {
+        "name": "Item",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.08,
+        "elev ft": 341,
+        "pop est": 28687
+    },
+    {
+        "name": "Iyariya",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.26,
+        "elev ft": 354,
+        "pop est": 14588
+    },
+    {
+        "name": "Iyibichiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.01,
+        "elev ft": 354,
+        "pop est": 43484
+    },
+    {
+        "name": "Iza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 134317
+    },
+    {
+        "name": "Izekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.21,
+        "elev ft": 364,
+        "pop est": 45631
+    },
+    {
+        "name": "Izenyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 29192
+    },
+    {
+        "name": "Izenyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 21537
+    },
+    {
+        "name": "Izi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.4,
+        "elev ft": 387,
+        "pop est": 19026
+    },
+    {
+        "name": "Izibolo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 13693
+    },
+    {
+        "name": "Izicha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.27,
+        "elev ft": 387,
+        "pop est": 19519
+    },
+    {
+        "name": "Izicha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.2,
+        "elev ft": 357,
+        "pop est": 19779
+    },
+    {
+        "name": "Izilelu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 36220
+    },
+    {
+        "name": "Iziogo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 18914
+    },
+    {
+        "name": "Izzi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.4,
+        "elev ft": 387,
+        "pop est": 19026
+    },
+    {
+        "name": "Izzi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 66120
+    },
+    {
+        "name": "Izzi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 22243
+    },
+    {
+        "name": "Izzi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 92230
+    },
+    {
+        "name": "Mbabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.16,
+        "elev ft": 347,
+        "pop est": 33255
+    },
+    {
+        "name": "Mbabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 33455
+    },
+    {
+        "name": "Mbamini",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.37,
+        "elev ft": 377,
+        "pop est": 19519
+    },
+    {
+        "name": "Mbeke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 55203
+    },
+    {
+        "name": "Mbode",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.21,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Mgbabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 33455
+    },
+    {
+        "name": "Mgbabor",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.07,
+        "elev ft": 390,
+        "pop est": 67006
+    },
+    {
+        "name": "Mgbo Obe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 13173
+    },
+    {
+        "name": "Mgbom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.94,
+        "elev ft": 351,
+        "pop est": 114632
+    },
+    {
+        "name": "Mkpumeakwaokoro",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Nchoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.2,
+        "elev ft": 367,
+        "pop est": 59329
+    },
+    {
+        "name": "Nchoko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.2,
+        "elev ft": 367,
+        "pop est": 59329
+    },
+    {
+        "name": "Ndachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 20285
+    },
+    {
+        "name": "Ndeagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.29,
+        "elev ft": 357,
+        "pop est": 16008
+    },
+    {
+        "name": "Ndechi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.28,
+        "elev ft": 360,
+        "pop est": 17207
+    },
+    {
+        "name": "Ndegbaraso",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 14952
+    },
+    {
+        "name": "Ndegualeke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 17374
+    },
+    {
+        "name": "Ndenwenyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.38,
+        "elev ft": 347,
+        "pop est": 17727
+    },
+    {
+        "name": "Ndeogbu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.27,
+        "elev ft": 370,
+        "pop est": 19086
+    },
+    {
+        "name": "Ndeosibo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.37,
+        "elev ft": 377,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.32,
+        "elev ft": 357,
+        "pop est": 17758
+    },
+    {
+        "name": "Ndi Anamacha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.21,
+        "elev ft": 357,
+        "pop est": 20982
+    },
+    {
+        "name": "Ndi Buloffia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 18783
+    },
+    {
+        "name": "Ndi Egbe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 13488
+    },
+    {
+        "name": "Ndi Obasi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 9664
+    },
+    {
+        "name": "Ndi Offia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.22,
+        "elev ft": 406,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndi Ogodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 16071
+    },
+    {
+        "name": "Ndi-Ekpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.19,
+        "elev ft": 354,
+        "pop est": 21705
+    },
+    {
+        "name": "Ndi-Eze",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.37,
+        "elev ft": 383,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndi-Gboke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.31,
+        "elev ft": 328,
+        "pop est": 15839
+    },
+    {
+        "name": "Ndi-Nwikwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.34,
+        "elev ft": 396,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndi-Ogalagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 17756
+    },
+    {
+        "name": "Ndi-Owere Amangwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 11244
+    },
+    {
+        "name": "Ndi-Ube",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.26,
+        "elev ft": 351,
+        "pop est": 22842
+    },
+    {
+        "name": "Ndi-Udara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.2,
+        "elev ft": 364,
+        "pop est": 55497
+    },
+    {
+        "name": "Ndi-Ufumuta",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.09,
+        "elev ft": 351,
+        "pop est": 37268
+    },
+    {
+        "name": "Ndi-Ugbaleze",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.19,
+        "elev ft": 367,
+        "pop est": 70126
+    },
+    {
+        "name": "Ndiabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.07,
+        "elev ft": 370,
+        "pop est": 27935
+    },
+    {
+        "name": "Ndiabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.32,
+        "elev ft": 354,
+        "pop est": 17758
+    },
+    {
+        "name": "Ndiabo Isiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.18,
+        "elev ft": 393,
+        "pop est": 61645
+    },
+    {
+        "name": "Ndiabo Ohoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.04,
+        "elev ft": 403,
+        "pop est": 67781
+    },
+    {
+        "name": "Ndiabongiji",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.35,
+        "elev ft": 354,
+        "pop est": 18939
+    },
+    {
+        "name": "Ndiachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndiachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 20285
+    },
+    {
+        "name": "Ndiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 7.77,
+        "elev ft": 377,
+        "pop est": 28922
+    },
+    {
+        "name": "Ndiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.28,
+        "elev ft": 337,
+        "pop est": 34666
+    },
+    {
+        "name": "Ndiagu Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 8.14,
+        "elev ft": 337,
+        "pop est": 27083
+    },
+    {
+        "name": "Ndiagu-Amagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.12,
+        "elev ft": 341,
+        "pop est": 35342
+    },
+    {
+        "name": "Ndiagu-Azu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.22,
+        "elev ft": 347,
+        "pop est": 34509
+    },
+    {
+        "name": "Ndiagu-Noyo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.3,
+        "elev ft": 337,
+        "pop est": 34036
+    },
+    {
+        "name": "Ndiagu-Onicha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.76,
+        "elev ft": 400,
+        "pop est": 29306
+    },
+    {
+        "name": "Ndiaguagba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 13136
+    },
+    {
+        "name": "Ndiakochi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.22,
+        "elev ft": 354,
+        "pop est": 20604
+    },
+    {
+        "name": "Ndiakparata",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.35,
+        "elev ft": 347,
+        "pop est": 16275
+    },
+    {
+        "name": "Ndiakparata",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.36,
+        "elev ft": 354,
+        "pop est": 18099
+    },
+    {
+        "name": "Ndialagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndialagu-Akpu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndiamadu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 19461
+    },
+    {
+        "name": "Ndibe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.94,
+        "elev ft": 334,
+        "pop est": 114353
+    },
+    {
+        "name": "Ndibe Beach",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.95,
+        "elev ft": 321,
+        "pop est": 98202
+    },
+    {
+        "name": "Ndibinaofia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.32,
+        "elev ft": 396,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndibiofa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.32,
+        "elev ft": 396,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndibulofia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 18783
+    },
+    {
+        "name": "Ndichuku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 9542
+    },
+    {
+        "name": "Ndichukwu Leper Camp",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 9542
+    },
+    {
+        "name": "Ndieche-Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.19,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Ndiechi-Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.13,
+        "elev ft": 377,
+        "pop est": 112969
+    },
+    {
+        "name": "Ndiechi-Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.18,
+        "elev ft": 377,
+        "pop est": 78172
+    },
+    {
+        "name": "Ndiezeagu-Umuaru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.03,
+        "elev ft": 377,
+        "pop est": 41418
+    },
+    {
+        "name": "Ndiffi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 26520
+    },
+    {
+        "name": "Ndifu-Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Ndigele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndilche Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.19,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Ndingele",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.37,
+        "elev ft": 396,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndinkwoda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.29,
+        "elev ft": 364,
+        "pop est": 19137
+    },
+    {
+        "name": "Ndinwovukarivu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndiobom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.31,
+        "elev ft": 393,
+        "pop est": 19519
+    },
+    {
+        "name": "Ndiochigbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.12,
+        "elev ft": 830,
+        "pop est": 41420
+    },
+    {
+        "name": "Ndiofia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 15889
+    },
+    {
+        "name": "Ndiofuke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.12,
+        "elev ft": 344,
+        "pop est": 37105
+    },
+    {
+        "name": "Ndiofutu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 17984
+    },
+    {
+        "name": "Ndiogbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.25,
+        "elev ft": 380,
+        "pop est": 19391
+    },
+    {
+        "name": "Ndiogbokote",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 19446
+    },
+    {
+        "name": "Ndiogbu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.07,
+        "elev ft": 370,
+        "pop est": 27935
+    },
+    {
+        "name": "Ndiogodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 93134
+    },
+    {
+        "name": "Ndiogodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 29192
+    },
+    {
+        "name": "Ndiokabi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.11,
+        "elev ft": 410,
+        "pop est": 58685
+    },
+    {
+        "name": "Ndioko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 21291
+    },
+    {
+        "name": "Ndiokpoto",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.25,
+        "elev ft": 367,
+        "pop est": 16155
+    },
+    {
+        "name": "Ndiube",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.26,
+        "elev ft": 351,
+        "pop est": 22842
+    },
+    {
+        "name": "Ndiugbala",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 16353
+    },
+    {
+        "name": "Ndona",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 18548
+    },
+    {
+        "name": "Ndowa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.39,
+        "elev ft": 390,
+        "pop est": 19302
+    },
+    {
+        "name": "Ndowu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.39,
+        "elev ft": 390,
+        "pop est": 19302
+    },
+    {
+        "name": "Ndubia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 19406
+    },
+    {
+        "name": "Ndubia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.31,
+        "elev ft": 354,
+        "pop est": 16620
+    },
+    {
+        "name": "Ndubia-Igbagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.31,
+        "elev ft": 354,
+        "pop est": 16620
+    },
+    {
+        "name": "Nduoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ngabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.41,
+        "elev ft": 370,
+        "pop est": 19374
+    },
+    {
+        "name": "Ngba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 36035
+    },
+    {
+        "name": "Ngbabeluzo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.39,
+        "elev ft": 301,
+        "pop est": 14910
+    },
+    {
+        "name": "Ngbabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.41,
+        "elev ft": 370,
+        "pop est": 19374
+    },
+    {
+        "name": "Ngbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 36035
+    },
+    {
+        "name": "Ngbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 80638
+    },
+    {
+        "name": "Ngbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.15,
+        "elev ft": 393,
+        "pop est": 68116
+    },
+    {
+        "name": "Ngbo-Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.15,
+        "elev ft": 393,
+        "pop est": 68116
+    },
+    {
+        "name": "Ngeleged",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.22,
+        "elev ft": 354,
+        "pop est": 20604
+    },
+    {
+        "name": "Ngelegede",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.22,
+        "elev ft": 354,
+        "pop est": 20604
+    },
+    {
+        "name": "Ngusu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 100906
+    },
+    {
+        "name": "Nguzu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 100906
+    },
+    {
+        "name": "Nguzu Edda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 100906
+    },
+    {
+        "name": "Nkalago",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.78,
+        "elev ft": 416,
+        "pop est": 22648
+    },
+    {
+        "name": "Nkalagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.78,
+        "elev ft": 416,
+        "pop est": 22648
+    },
+    {
+        "name": "Nkalike",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.24,
+        "elev ft": 360,
+        "pop est": 19635
+    },
+    {
+        "name": "Nko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.14,
+        "elev ft": 341,
+        "pop est": 35362
+    },
+    {
+        "name": "Nkoleke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.4,
+        "elev ft": 357,
+        "pop est": 17887
+    },
+    {
+        "name": "Nkomoru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 7.92,
+        "elev ft": 393,
+        "pop est": 56440
+    },
+    {
+        "name": "Nkporowene",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.31,
+        "elev ft": 360,
+        "pop est": 19482
+    },
+    {
+        "name": "Nkpuma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.18,
+        "elev ft": 410,
+        "pop est": 18539
+    },
+    {
+        "name": "Nkpunia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.18,
+        "elev ft": 410,
+        "pop est": 18539
+    },
+    {
+        "name": "Nkumenye",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.29,
+        "elev ft": 390,
+        "pop est": 19519
+    },
+    {
+        "name": "Nkumoro",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 66508
+    },
+    {
+        "name": "Nkumoru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Nkwagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.11,
+        "elev ft": 367,
+        "pop est": 44230
+    },
+    {
+        "name": "Nkwoda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.29,
+        "elev ft": 364,
+        "pop est": 19137
+    },
+    {
+        "name": "Noyo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.3,
+        "elev ft": 337,
+        "pop est": 26199
+    },
+    {
+        "name": "Noyo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.23,
+        "elev ft": 351,
+        "pop est": 27699
+    },
+    {
+        "name": "Nsob",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.11,
+        "elev ft": 341,
+        "pop est": 33368
+    },
+    {
+        "name": "Nsobo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.11,
+        "elev ft": 341,
+        "pop est": 33368
+    },
+    {
+        "name": "Nsuba-Opuitumo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.07,
+        "elev ft": 347,
+        "pop est": 35153
+    },
+    {
+        "name": "Ntezi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 20867
+    },
+    {
+        "name": "Ntezi-Aba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.08,
+        "elev ft": 393,
+        "pop est": 76284
+    },
+    {
+        "name": "Nwafo Oge",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.15,
+        "elev ft": 351,
+        "pop est": 25270
+    },
+    {
+        "name": "Nwafo-Ogu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.15,
+        "elev ft": 351,
+        "pop est": 25270
+    },
+    {
+        "name": "Nwakpu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.14,
+        "elev ft": 351,
+        "pop est": 31683
+    },
+    {
+        "name": "Nwanu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Nwarem",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.24,
+        "elev ft": 364,
+        "pop est": 24308
+    },
+    {
+        "name": "Nwedogu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.27,
+        "elev ft": 351,
+        "pop est": 16237
+    },
+    {
+        "name": "Nwidogu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.27,
+        "elev ft": 351,
+        "pop est": 16237
+    },
+    {
+        "name": "Nwode",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.3,
+        "elev ft": 337,
+        "pop est": 24047
+    },
+    {
+        "name": "Nwofe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 19476
+    },
+    {
+        "name": "Nwofe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 16614
+    },
+    {
+        "name": "Nwofu-Abadja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 17192
+    },
+    {
+        "name": "Nwomila",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Nzazi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.21,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Nziashi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.24,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Obagu Ete",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.37,
+        "elev ft": 328,
+        "pop est": 13336
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 30229
+    },
+    {
+        "name": "Obeagu Ike-Enyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.2,
+        "elev ft": 410,
+        "pop est": 19476
+    },
+    {
+        "name": "Obeagu-Ezza Ohu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 56696
+    },
+    {
+        "name": "Obego",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 30229
+    },
+    {
+        "name": "Oberi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.22,
+        "elev ft": 354,
+        "pop est": 19335
+    },
+    {
+        "name": "Obiago-Ibom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.37,
+        "elev ft": 344,
+        "pop est": 14252
+    },
+    {
+        "name": "Obiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.72,
+        "elev ft": 406,
+        "pop est": 21966
+    },
+    {
+        "name": "Obiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.11,
+        "elev ft": 390,
+        "pop est": 81007
+    },
+    {
+        "name": "Obiagu Ibom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.4,
+        "elev ft": 331,
+        "pop est": 15000
+    },
+    {
+        "name": "Obiagu-Mebi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.86,
+        "elev ft": 364,
+        "pop est": 35194
+    },
+    {
+        "name": "Obina",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.77,
+        "elev ft": 390,
+        "pop est": 29627
+    },
+    {
+        "name": "Obiozara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 7.77,
+        "elev ft": 396,
+        "pop est": 38451
+    },
+    {
+        "name": "Obogu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 30229
+    },
+    {
+        "name": "Obuagu-Ohatekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.14,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Obugha-Amachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.18,
+        "elev ft": 360,
+        "pop est": 66452
+    },
+    {
+        "name": "Obusia-Amachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.17,
+        "elev ft": 370,
+        "pop est": 87563
+    },
+    {
+        "name": "Ochanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.09,
+        "elev ft": 341,
+        "pop est": 28006
+    },
+    {
+        "name": "Ocheobo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.21,
+        "elev ft": 364,
+        "pop est": 45631
+    },
+    {
+        "name": "Ochigba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 19272
+    },
+    {
+        "name": "Ochobo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.25,
+        "elev ft": 357,
+        "pop est": 14022
+    },
+    {
+        "name": "Ochoko-Okwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 117761
+    },
+    {
+        "name": "Ochokwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.21,
+        "elev ft": 337,
+        "pop est": 34638
+    },
+    {
+        "name": "Odagire-Edda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.17,
+        "elev ft": 357,
+        "pop est": 31013
+    },
+    {
+        "name": "Odareko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.4,
+        "elev ft": 370,
+        "pop est": 19008
+    },
+    {
+        "name": "Odariko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.4,
+        "elev ft": 370,
+        "pop est": 19008
+    },
+    {
+        "name": "Odenigbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.19,
+        "elev ft": 360,
+        "pop est": 44887
+    },
+    {
+        "name": "Ododo Okpa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.38,
+        "elev ft": 377,
+        "pop est": 19370
+    },
+    {
+        "name": "Odomoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 47723
+    },
+    {
+        "name": "Odomowo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.24,
+        "elev ft": 337,
+        "pop est": 36515
+    },
+    {
+        "name": "Ofe-Iyiokwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.11,
+        "elev ft": 380,
+        "pop est": 90146
+    },
+    {
+        "name": "Oferekpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ofianfu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.25,
+        "elev ft": 374,
+        "pop est": 18333
+    },
+    {
+        "name": "Ofianko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19069
+    },
+    {
+        "name": "Ofiaoku",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.3,
+        "elev ft": 351,
+        "pop est": 14336
+    },
+    {
+        "name": "Ofiaokuma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.28,
+        "elev ft": 364,
+        "pop est": 19509
+    },
+    {
+        "name": "Oforekpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Oforekpe Agbaja",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ofunyeonu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.38,
+        "elev ft": 357,
+        "pop est": 18485
+    },
+    {
+        "name": "Ofurekpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 8.31,
+        "elev ft": 334,
+        "pop est": 30653
+    },
+    {
+        "name": "Ofurekpe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.27,
+        "elev ft": 337,
+        "pop est": 34405
+    },
+    {
+        "name": "Ogabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 8.18,
+        "elev ft": 337,
+        "pop est": 34858
+    },
+    {
+        "name": "Ogba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 8.39,
+        "elev ft": 344,
+        "pop est": 14795
+    },
+    {
+        "name": "Ogbaga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.12,
+        "elev ft": 396,
+        "pop est": 54200
+    },
+    {
+        "name": "Ogbaje",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.12,
+        "elev ft": 396,
+        "pop est": 54200
+    },
+    {
+        "name": "Ogbala",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 15883
+    },
+    {
+        "name": "Ogbanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.39,
+        "elev ft": 383,
+        "pop est": 19519
+    },
+    {
+        "name": "Ogbodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.4,
+        "elev ft": 377,
+        "pop est": 19519
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.93,
+        "elev ft": 347,
+        "pop est": 27402
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.79,
+        "elev ft": 387,
+        "pop est": 36647
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.96,
+        "elev ft": 341,
+        "pop est": 31559
+    },
+    {
+        "name": "Ogurude",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.36,
+        "elev ft": 216,
+        "pop est": 21840
+    },
+    {
+        "name": "Oguzara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.26,
+        "elev ft": 364,
+        "pop est": 15798
+    },
+    {
+        "name": "Oguzara-Nwonya",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 32041
+    },
+    {
+        "name": "Oguzuruonweya",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.32,
+        "elev ft": 351,
+        "pop est": 15450
+    },
+    {
+        "name": "Ohachikwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 8.33,
+        "elev ft": 305,
+        "pop est": 18665
+    },
+    {
+        "name": "Ohage",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 23275
+    },
+    {
+        "name": "Ohagelede",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 15193
+    },
+    {
+        "name": "Ohaglede",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 15193
+    },
+    {
+        "name": "Ohagulode",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 8.21,
+        "elev ft": 380,
+        "pop est": 26771
+    },
+    {
+        "name": "Ohamini",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 8.08,
+        "elev ft": 367,
+        "pop est": 22459
+    },
+    {
+        "name": "Ohankwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.17,
+        "elev ft": 347,
+        "pop est": 37664
+    },
+    {
+        "name": "Ohatekwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.11,
+        "elev ft": 347,
+        "pop est": 37676
+    },
+    {
+        "name": "Oheki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 33382
+    },
+    {
+        "name": "Ohike",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.29,
+        "elev ft": 337,
+        "pop est": 33382
+    },
+    {
+        "name": "Ohofia-Agba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 32698
+    },
+    {
+        "name": "Ohoke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 18788
+    },
+    {
+        "name": "Oji Egbe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 8.31,
+        "elev ft": 416,
+        "pop est": 19271
+    },
+    {
+        "name": "Ojianya",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 17622
+    },
+    {
+        "name": "Ojiegbe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.25,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ojiegbe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 8.12,
+        "elev ft": 830,
+        "pop est": 28323
+    },
+    {
+        "name": "Ojron Market",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 8.28,
+        "elev ft": 341,
+        "pop est": 35815
+    },
+    {
+        "name": "Okaleru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 8.18,
+        "elev ft": 416,
+        "pop est": 18315
+    },
+    {
+        "name": "Okaria",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.35,
+        "elev ft": 291,
+        "pop est": 13382
+    },
+    {
+        "name": "Okirigwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 16639
+    },
+    {
+        "name": "Okoffia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.01,
+        "elev ft": 364,
+        "pop est": 54590
+    },
+    {
+        "name": "Okom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.26,
+        "elev ft": 354,
+        "pop est": 13311
+    },
+    {
+        "name": "Okom",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.31,
+        "elev ft": 344,
+        "pop est": 13312
+    },
+    {
+        "name": "Okomenyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.41,
+        "elev ft": 364,
+        "pop est": 18186
+    },
+    {
+        "name": "Okopoto-Agu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 26137
+    },
+    {
+        "name": "Okoria-Nkaliki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.13,
+        "elev ft": 410,
+        "pop est": 26941
+    },
+    {
+        "name": "Okpara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 8.23,
+        "elev ft": 341,
+        "pop est": 37697
+    },
+    {
+        "name": "Okparo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.33,
+        "elev ft": 275,
+        "pop est": 24905
+    },
+    {
+        "name": "Okpo-Ezi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.94,
+        "elev ft": 357,
+        "pop est": 41005
+    },
+    {
+        "name": "Okpobasi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 134317
+    },
+    {
+        "name": "Okpoduma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 100002
+    },
+    {
+        "name": "Okpoduma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.38,
+        "elev ft": 347,
+        "pop est": 16643
+    },
+    {
+        "name": "Okpoduma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.35,
+        "elev ft": 393,
+        "pop est": 19519
+    },
+    {
+        "name": "Okpoduma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 77931
+    },
+    {
+        "name": "Okpoduumu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.35,
+        "elev ft": 403,
+        "pop est": 19442
+    },
+    {
+        "name": "Okpoha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.97,
+        "elev ft": 334,
+        "pop est": 17408
+    },
+    {
+        "name": "Okponga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 19239
+    },
+    {
+        "name": "Okpora",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 121108
+    },
+    {
+        "name": "Okporo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 121108
+    },
+    {
+        "name": "Okporojo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 12717
+    },
+    {
+        "name": "Okposhi-Mgbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 41121
+    },
+    {
+        "name": "Okposi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.01,
+        "elev ft": 393,
+        "pop est": 45846
+    },
+    {
+        "name": "Okposi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.81,
+        "elev ft": 380,
+        "pop est": 42726
+    },
+    {
+        "name": "Okpoto",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 27104
+    },
+    {
+        "name": "Okpuitomo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 8.2,
+        "elev ft": 360,
+        "pop est": 24265
+    },
+    {
+        "name": "Okpuitumo-Onuhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.14,
+        "elev ft": 357,
+        "pop est": 39854
+    },
+    {
+        "name": "Okpuitumu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.32,
+        "elev ft": 337,
+        "pop est": 13199
+    },
+    {
+        "name": "Okpura Mamuzu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.06,
+        "elev ft": 370,
+        "pop est": 40303
+    },
+    {
+        "name": "Okpura-Egbu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.06,
+        "elev ft": 370,
+        "pop est": 40303
+    },
+    {
+        "name": "Okputumo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 8.03,
+        "elev ft": 347,
+        "pop est": 35091
+    },
+    {
+        "name": "Okum",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.31,
+        "elev ft": 344,
+        "pop est": 13312
+    },
+    {
+        "name": "Okumenyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.41,
+        "elev ft": 364,
+        "pop est": 18186
+    },
+    {
+        "name": "Okunyeonu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 8.38,
+        "elev ft": 357,
+        "pop est": 18485
+    },
+    {
+        "name": "Okuraka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Okurike",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.02,
+        "elev ft": 344,
+        "pop est": 26739
+    },
+    {
+        "name": "Okuyonu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.33,
+        "elev ft": 314,
+        "pop est": 15163
+    },
+    {
+        "name": "Okwaba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 63535
+    },
+    {
+        "name": "Okwaraka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Okwefurike",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.06,
+        "elev ft": 370,
+        "pop est": 31005
+    },
+    {
+        "name": "Okworeka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Okwu-Nyonu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.32,
+        "elev ft": 318,
+        "pop est": 28669
+    },
+    {
+        "name": "Okwuraka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 54852
+    },
+    {
+        "name": "Olua",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Omega-Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.23,
+        "elev ft": 337,
+        "pop est": 37697
+    },
+    {
+        "name": "Ominiyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.35,
+        "elev ft": 403,
+        "pop est": 19519
+    },
+    {
+        "name": "Ominyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 8.35,
+        "elev ft": 403,
+        "pop est": 19519
+    },
+    {
+        "name": "Omoniko",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.8,
+        "elev ft": 370,
+        "pop est": 36093
+    },
+    {
+        "name": "Omunuho",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 28940
+    },
+    {
+        "name": "Onicha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.82,
+        "elev ft": 370,
+        "pop est": 38844
+    },
+    {
+        "name": "Onicha-Uburu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.82,
+        "elev ft": 370,
+        "pop est": 38844
+    },
+    {
+        "name": "Onu Anyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 18007
+    },
+    {
+        "name": "Onu Ebonyi Echara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Onu-Kpara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 8.26,
+        "elev ft": 351,
+        "pop est": 17500
+    },
+    {
+        "name": "Onuakpara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 8.22,
+        "elev ft": 357,
+        "pop est": 18221
+    },
+    {
+        "name": "Onuankwo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 22648
+    },
+    {
+        "name": "Onuanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 16983
+    },
+    {
+        "name": "Onuanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.73,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 18007
+    },
+    {
+        "name": "Onuebonyi Echara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 8.15,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Onueke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 8.04,
+        "elev ft": 367,
+        "pop est": 51541
+    },
+    {
+        "name": "Onuhu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 8.08,
+        "elev ft": 396,
+        "pop est": 69053
+    },
+    {
+        "name": "Onuzo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.1,
+        "elev ft": 360,
+        "pop est": 26481
+    },
+    {
+        "name": "Onwenya",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 8.27,
+        "elev ft": 357,
+        "pop est": 14901
+    },
+    {
+        "name": "Onyikwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 8.16,
+        "elev ft": 347,
+        "pop est": 37361
+    },
+    {
+        "name": "Onyikwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.11,
+        "elev ft": 403,
+        "pop est": 51767
+    },
+    {
+        "name": "Onyikwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.39,
+        "elev ft": 328,
+        "pop est": 13897
+    },
+    {
+        "name": "Onyikwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.36,
+        "elev ft": 341,
+        "pop est": 14128
+    },
+    {
+        "name": "Onyirigbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.32,
+        "elev ft": 341,
+        "pop est": 13562
+    },
+    {
+        "name": "Opamma",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.17,
+        "elev ft": 351,
+        "pop est": 27012
+    },
+    {
+        "name": "Opankwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 8.35,
+        "elev ft": 403,
+        "pop est": 19274
+    },
+    {
+        "name": "Ope-Afia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Ope-Afifia",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Opuitumo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.11,
+        "elev ft": 344,
+        "pop est": 34297
+    },
+    {
+        "name": "Ora",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.97,
+        "elev ft": 324,
+        "pop est": 114054
+    },
+    {
+        "name": "Oronga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.1,
+        "elev ft": 344,
+        "pop est": 32540
+    },
+    {
+        "name": "Osebi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 8.3,
+        "elev ft": 390,
+        "pop est": 19519
+    },
+    {
+        "name": "Oshiri",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 7.89,
+        "elev ft": 354,
+        "pop est": 40552
+    },
+    {
+        "name": "Oso",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 9664
+    },
+    {
+        "name": "Osokpuru",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Otabo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.21,
+        "elev ft": 337,
+        "pop est": 34638
+    },
+    {
+        "name": "Otam",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 8.28,
+        "elev ft": 830,
+        "pop est": 19519
+    },
+    {
+        "name": "Otamnkaliki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 17994
+    },
+    {
+        "name": "Otere-Ofie",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.07,
+        "elev ft": 406,
+        "pop est": 94397
+    },
+    {
+        "name": "Otobo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 8.21,
+        "elev ft": 337,
+        "pop est": 34638
+    },
+    {
+        "name": "Ovoaba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 8.32,
+        "elev ft": 337,
+        "pop est": 13199
+    },
+    {
+        "name": "Oyina",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 8.3,
+        "elev ft": 337,
+        "pop est": 31329
+    },
+    {
+        "name": "Ozante",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 16231
+    },
+    {
+        "name": "Ozara-Ukwu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 91455
+    },
+    {
+        "name": "Ozente",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 16231
+    },
+    {
+        "name": "Ozi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.4,
+        "elev ft": 380,
+        "pop est": 19352
+    },
+    {
+        "name": "Ozizza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.97,
+        "elev ft": 324,
+        "pop est": 114112
+    },
+    {
+        "name": "River",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 31427
+    },
+    {
+        "name": "River",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 13150
+    },
+    {
+        "name": "River Atang",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 13150
+    },
+    {
+        "name": "River Ogba",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 31427
+    },
+    {
+        "name": "Ubagu Usoanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 8.31,
+        "elev ft": 360,
+        "pop est": 19519
+    },
+    {
+        "name": "Ubeagu-Ndikuda",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 8.32,
+        "elev ft": 360,
+        "pop est": 19519
+    },
+    {
+        "name": "Ubiagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.14,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Ubuagu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 8.14,
+        "elev ft": 347,
+        "pop est": 37697
+    },
+    {
+        "name": "Ubuagu-Eleki",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 8.13,
+        "elev ft": 344,
+        "pop est": 37697
+    },
+    {
+        "name": "Uburu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 7.76,
+        "elev ft": 400,
+        "pop est": 35066
+    },
+    {
+        "name": "Uburu-Amachi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.2,
+        "elev ft": 364,
+        "pop est": 46839
+    },
+    {
+        "name": "Udimowo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.24,
+        "elev ft": 337,
+        "pop est": 36515
+    },
+    {
+        "name": "Udomowo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 8.24,
+        "elev ft": 337,
+        "pop est": 36515
+    },
+    {
+        "name": "Uduku-Enyi",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 8.21,
+        "elev ft": 347,
+        "pop est": 35323
+    },
+    {
+        "name": "Ugbala",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 15883
+    },
+    {
+        "name": "Ugbodo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 17862
+    },
+    {
+        "name": "Ugbodo-Achara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 8.2,
+        "elev ft": 344,
+        "pop est": 37430
+    },
+    {
+        "name": "Ugbonga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 112025
+    },
+    {
+        "name": "Ugbongha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 112025
+    },
+    {
+        "name": "Ugbouga",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 112025
+    },
+    {
+        "name": "Ugbuloke",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 8.09,
+        "elev ft": 370,
+        "pop est": 58421
+    },
+    {
+        "name": "Ugede-Effium",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 71178
+    },
+    {
+        "name": "Uguago",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.94,
+        "elev ft": 344,
+        "pop est": 114353
+    },
+    {
+        "name": "Ugulangu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.88,
+        "elev ft": 357,
+        "pop est": 39959
+    },
+    {
+        "name": "Ugwuenu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 12928
+    },
+    {
+        "name": "Ujama",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 8.4,
+        "elev ft": 344,
+        "pop est": 15737
+    },
+    {
+        "name": "Ukwanyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 8.23,
+        "elev ft": 337,
+        "pop est": 36021
+    },
+    {
+        "name": "Umachalu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 129884
+    },
+    {
+        "name": "Ume-Igbudu",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 8.18,
+        "elev ft": 337,
+        "pop est": 34858
+    },
+    {
+        "name": "Umu-Aka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 8.07,
+        "elev ft": 354,
+        "pop est": 40985
+    },
+    {
+        "name": "Umuaghara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 8.02,
+        "elev ft": 403,
+        "pop est": 39405
+    },
+    {
+        "name": "Umuakpo-Mgbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 13165
+    },
+    {
+        "name": "Umuaru Clan",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 8.05,
+        "elev ft": 383,
+        "pop est": 43871
+    },
+    {
+        "name": "Umuaru-Ezza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 8.05,
+        "elev ft": 400,
+        "pop est": 67781
+    },
+    {
+        "name": "Umuezaka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 53436
+    },
+    {
+        "name": "Umuezaka Ngbo",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 43411
+    },
+    {
+        "name": "Umueze-Akwa",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.01,
+        "elev ft": 377,
+        "pop est": 51467
+    },
+    {
+        "name": "Umueze-Okoha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 8.03,
+        "elev ft": 377,
+        "pop est": 44168
+    },
+    {
+        "name": "Umuezeaka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.97,
+        "elev ft": 380,
+        "pop est": 56349
+    },
+    {
+        "name": "Umuezeka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 80598
+    },
+    {
+        "name": "Umuezekaoha",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 55701
+    },
+    {
+        "name": "Umuezeoka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.97,
+        "elev ft": 380,
+        "pop est": 56349
+    },
+    {
+        "name": "Umuezeoka-Iza",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 109798
+    },
+    {
+        "name": "Umughara",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 8.0,
+        "elev ft": 380,
+        "pop est": 53222
+    },
+    {
+        "name": "Umuigwe",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 48286
+    },
+    {
+        "name": "Umuka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.86,
+        "elev ft": 364,
+        "pop est": 41342
+    },
+    {
+        "name": "Umunuka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.86,
+        "elev ft": 364,
+        "pop est": 41342
+    },
+    {
+        "name": "Umunuka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.86,
+        "elev ft": 364,
+        "pop est": 32639
+    },
+    {
+        "name": "Umuome",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 8.07,
+        "elev ft": 370,
+        "pop est": 32912
+    },
+    {
+        "name": "Umuta",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 8.07,
+        "elev ft": 354,
+        "pop est": 38153
+    },
+    {
+        "name": "Usoenyim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 8.3,
+        "elev ft": 360,
+        "pop est": 19519
+    },
+    {
+        "name": "Uwaka",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 8.31,
+        "elev ft": 370,
+        "pop est": 19519
+    },
+    {
+        "name": "Uwarim",
+        "what": "city",
+        "region": "Ebonyi",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 8.24,
+        "elev ft": 364,
+        "pop est": 24308
+    }
+]

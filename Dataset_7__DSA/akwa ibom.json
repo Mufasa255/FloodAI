@@ -1,0 +1,7562 @@
+[
+    {
+        "name": "Aba Ekpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 37129
+    },
+    {
+        "name": "Aba Ukpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 28349
+    },
+    {
+        "name": "Abak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 69053
+    },
+    {
+        "name": "Abak Ifia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 157659
+    },
+    {
+        "name": "Abak Isiet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 100380
+    },
+    {
+        "name": "Abak Oko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 148449
+    },
+    {
+        "name": "Abak Ukpum",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 48512
+    },
+    {
+        "name": "Abak-Ibiaku Uruan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 209838
+    },
+    {
+        "name": "Abama",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 25432
+    },
+    {
+        "name": "Abana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.34,
+        "elev ft": 0,
+        "pop est": 8701
+    },
+    {
+        "name": "Abat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 53990
+    },
+    {
+        "name": "Abat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.62,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 101758
+    },
+    {
+        "name": "Abat Isiet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 100380
+    },
+    {
+        "name": "Abia Ikot Obionting",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 73069
+    },
+    {
+        "name": "Abia Ikot Udo Oboro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 63084
+    },
+    {
+        "name": "Abia Okpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 241758
+    },
+    {
+        "name": "Abia Okpo Ikotukana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 24535
+    },
+    {
+        "name": "Abia Okpo Otoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 51627
+    },
+    {
+        "name": "Abia-Okpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 24535
+    },
+    {
+        "name": "Abiak Owo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 27419
+    },
+    {
+        "name": "Abiakana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 75695
+    },
+    {
+        "name": "Abiakpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 58316
+    },
+    {
+        "name": "Abiakpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 190326
+    },
+    {
+        "name": "Abiakpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 40757
+    },
+    {
+        "name": "Abiakpo Idiaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 41805
+    },
+    {
+        "name": "Abiakpo Ikot Essien",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 243797
+    },
+    {
+        "name": "Abiakpo Ikot Ntuen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 83434
+    },
+    {
+        "name": "Abiakpo Ikot Obionting",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 73069
+    },
+    {
+        "name": "Abiakpo Ikot Udo Oboro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 63084
+    },
+    {
+        "name": "Abiakpo Otoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 51627
+    },
+    {
+        "name": "Abiakpo-Ibo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 20781
+    },
+    {
+        "name": "Aburu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.87,
+        "elev ft": 390,
+        "pop est": 13452
+    },
+    {
+        "name": "Achan Ika",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 75515
+    },
+    {
+        "name": "Adadia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 3255
+    },
+    {
+        "name": "Adan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.99,
+        "elev ft": 387,
+        "pop est": 40595
+    },
+    {
+        "name": "Adat Atak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 84777
+    },
+    {
+        "name": "Adiasim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 88539
+    },
+    {
+        "name": "Adiasim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 78661
+    },
+    {
+        "name": "Afagha Obio Enwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 36053
+    },
+    {
+        "name": "Afaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 157841
+    },
+    {
+        "name": "Afaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 107269
+    },
+    {
+        "name": "Afaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 35835
+    },
+    {
+        "name": "Afaha Abia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 55695
+    },
+    {
+        "name": "Afaha Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 106823
+    },
+    {
+        "name": "Afaha Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 53344
+    },
+    {
+        "name": "Afaha Eduok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 51926
+    },
+    {
+        "name": "Afaha Eket",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 67054
+    },
+    {
+        "name": "Afaha Ekpene Edi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 31987
+    },
+    {
+        "name": "Afaha Ekpene Edi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 31400
+    },
+    {
+        "name": "Afaha Esang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 91680
+    },
+    {
+        "name": "Afaha Ibesikpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 140228
+    },
+    {
+        "name": "Afaha Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 75845
+    },
+    {
+        "name": "Afaha Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 63409
+    },
+    {
+        "name": "Afaha Ikot Adaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 49851
+    },
+    {
+        "name": "Afaha Ikot Ebak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 63501
+    },
+    {
+        "name": "Afaha Ikot Udoe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.02,
+        "elev ft": 324,
+        "pop est": 40471
+    },
+    {
+        "name": "Afaha Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 148763
+    },
+    {
+        "name": "Afaha Itiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.92,
+        "elev ft": 393,
+        "pop est": 50213
+    },
+    {
+        "name": "Afaha Obio Offiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 62041
+    },
+    {
+        "name": "Afaha Obio Ofiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 62041
+    },
+    {
+        "name": "Afaha Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 86341
+    },
+    {
+        "name": "Afaha Offiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 62041
+    },
+    {
+        "name": "Afaha Offot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 264336
+    },
+    {
+        "name": "Afaha Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 316123
+    },
+    {
+        "name": "Afaha Ube",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 259485
+    },
+    {
+        "name": "Afaha Udo Eyod",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 41994
+    },
+    {
+        "name": "Afaha Udo Oko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 8.02,
+        "elev ft": 324,
+        "pop est": 45290
+    },
+    {
+        "name": "Afaha Ukwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 63259
+    },
+    {
+        "name": "Afaha Uqua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 63259
+    },
+    {
+        "name": "Afaha-Iko-Ebat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 63501
+    },
+    {
+        "name": "Afaha-Ise",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.89,
+        "elev ft": 393,
+        "pop est": 37243
+    },
+    {
+        "name": "Afaha-Nsai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 100305
+    },
+    {
+        "name": "Afahan Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 86341
+    },
+    {
+        "name": "Afahana Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 41169
+    },
+    {
+        "name": "Afia Isong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 8.02,
+        "elev ft": 311,
+        "pop est": 33927
+    },
+    {
+        "name": "Afia Nsit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 67078
+    },
+    {
+        "name": "Afia Nsit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.84,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 61324
+    },
+    {
+        "name": "Afua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.89,
+        "elev ft": 396,
+        "pop est": 37243
+    },
+    {
+        "name": "Ahuma",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 18580
+    },
+    {
+        "name": "Aja Obiakpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 46005
+    },
+    {
+        "name": "Aka",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 97506
+    },
+    {
+        "name": "Aka",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 295654
+    },
+    {
+        "name": "Aka Ekpeme",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 38204
+    },
+    {
+        "name": "Aka Ekpeme",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 72049
+    },
+    {
+        "name": "Aka Ekpene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 72049
+    },
+    {
+        "name": "Aka Ofot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 356287
+    },
+    {
+        "name": "Aka-Ikot Udo-Eno",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 37369
+    },
+    {
+        "name": "Akai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 41070
+    },
+    {
+        "name": "Akai Ate",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 25389
+    },
+    {
+        "name": "Akai Awu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 25515
+    },
+    {
+        "name": "Akai Udo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 27579
+    },
+    {
+        "name": "Akai Uso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 20849
+    },
+    {
+        "name": "Akani-Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.87,
+        "elev ft": 380,
+        "pop est": 15857
+    },
+    {
+        "name": "Akpa Utong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 30960
+    },
+    {
+        "name": "Akpa Utong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 55875
+    },
+    {
+        "name": "Akpaidem",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 16386
+    },
+    {
+        "name": "Akpayak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 29574
+    },
+    {
+        "name": "Akpayak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.76,
+        "elev ft": 410,
+        "pop est": 23145
+    },
+    {
+        "name": "Ama Anyam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 152996
+    },
+    {
+        "name": "Ammaman",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 61295
+    },
+    {
+        "name": "Anakpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 16126
+    },
+    {
+        "name": "Anakpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 3177
+    },
+    {
+        "name": "Anua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 294712
+    },
+    {
+        "name": "Anua Ebio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 157492
+    },
+    {
+        "name": "Aqua Obio Effiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.34,
+        "elev ft": 0,
+        "pop est": 8701
+    },
+    {
+        "name": "Asana Ikang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 23817
+    },
+    {
+        "name": "Asang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 44394
+    },
+    {
+        "name": "Asanga",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 50500
+    },
+    {
+        "name": "Asantin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 18630
+    },
+    {
+        "name": "Asanting",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 25536
+    },
+    {
+        "name": "Asanting",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 27100
+    },
+    {
+        "name": "Asong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 117611
+    },
+    {
+        "name": "Asuk-Ekpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.87,
+        "elev ft": 390,
+        "pop est": 14363
+    },
+    {
+        "name": "Atabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 68044
+    },
+    {
+        "name": "Atabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 8.18,
+        "elev ft": 380,
+        "pop est": 64955
+    },
+    {
+        "name": "Atabrikang Aquaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.54,
+        "long": 7.83,
+        "elev ft": 1095,
+        "pop est": 41395
+    },
+    {
+        "name": "Atabrikang Ekeme",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.53,
+        "long": 7.79,
+        "elev ft": 961,
+        "pop est": 33960
+    },
+    {
+        "name": "Ataha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 107269
+    },
+    {
+        "name": "Atai Obio Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 34257
+    },
+    {
+        "name": "Ataibang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 31536
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 287936
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 165003
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 235484
+    },
+    {
+        "name": "Atan Akpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Atan Akpan Udom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Atan Aya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 47442
+    },
+    {
+        "name": "Atan Eka Eko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 32433
+    },
+    {
+        "name": "Atan Ibong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 24089
+    },
+    {
+        "name": "Atan Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 34809
+    },
+    {
+        "name": "Atan Nsai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 50312
+    },
+    {
+        "name": "Atani",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 18265
+    },
+    {
+        "name": "Atanturi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.86,
+        "elev ft": 400,
+        "pop est": 15683
+    },
+    {
+        "name": "Atanuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 119248
+    },
+    {
+        "name": "Ate",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 24910
+    },
+    {
+        "name": "Atiamkpat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 92402
+    },
+    {
+        "name": "Awa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 112506
+    },
+    {
+        "name": "Awa Ndon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 109021
+    },
+    {
+        "name": "Awat Nkang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 48687
+    },
+    {
+        "name": "Ayadeghe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.05,
+        "elev ft": 314,
+        "pop est": 26632
+    },
+    {
+        "name": "Brangaville",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 32511
+    },
+    {
+        "name": "Ebam Ukot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 28185
+    },
+    {
+        "name": "Ebana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.6,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 49174
+    },
+    {
+        "name": "Ebe Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 63613
+    },
+    {
+        "name": "Ebe Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 64275
+    },
+    {
+        "name": "Ebem Obom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 28459
+    },
+    {
+        "name": "Ebibit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 81755
+    },
+    {
+        "name": "Ebighi Anwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.12,
+        "elev ft": 830,
+        "pop est": 18634
+    },
+    {
+        "name": "Ebighi Anwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 26869
+    },
+    {
+        "name": "Ebighi Edu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 8.17,
+        "elev ft": 396,
+        "pop est": 40638
+    },
+    {
+        "name": "Ebighi Eta",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.84,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 22727
+    },
+    {
+        "name": "Ebugha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 28533
+    },
+    {
+        "name": "Ebughu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 28533
+    },
+    {
+        "name": "Ebuhu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 28533
+    },
+    {
+        "name": "Ede Obom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 48294
+    },
+    {
+        "name": "Ede Urua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 55735
+    },
+    {
+        "name": "Edebom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 60524
+    },
+    {
+        "name": "Edebuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.62,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 57244
+    },
+    {
+        "name": "Edehbuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.62,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 57244
+    },
+    {
+        "name": "Edem",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 65771
+    },
+    {
+        "name": "Edem Ibiok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 28012
+    },
+    {
+        "name": "Edem Idim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 103371
+    },
+    {
+        "name": "Edem Urua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 43677
+    },
+    {
+        "name": "Edem Urua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.83,
+        "elev ft": 406,
+        "pop est": 17468
+    },
+    {
+        "name": "Edem-Idim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.83,
+        "elev ft": 400,
+        "pop est": 19498
+    },
+    {
+        "name": "Edet Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 245690
+    },
+    {
+        "name": "Ediduo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.62,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 32354
+    },
+    {
+        "name": "Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 48803
+    },
+    {
+        "name": "Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 77259
+    },
+    {
+        "name": "Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.87,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 58087
+    },
+    {
+        "name": "Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 51487
+    },
+    {
+        "name": "Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 38530
+    },
+    {
+        "name": "Ediene Esa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 42179
+    },
+    {
+        "name": "Ediko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 19225
+    },
+    {
+        "name": "Edikor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 19225
+    },
+    {
+        "name": "Editaha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 53699
+    },
+    {
+        "name": "Edor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 31649
+    },
+    {
+        "name": "Efa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 80051
+    },
+    {
+        "name": "Efaha Esang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 91680
+    },
+    {
+        "name": "Effen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 74494
+    },
+    {
+        "name": "Effi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 52335
+    },
+    {
+        "name": "Efiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.6,
+        "long": 8.31,
+        "elev ft": 0,
+        "pop est": 18390
+    },
+    {
+        "name": "Efiat Ofot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 321858
+    },
+    {
+        "name": "Efoi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 36143
+    },
+    {
+        "name": "Efriyo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 63097
+    },
+    {
+        "name": "Egwanga",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 33232
+    },
+    {
+        "name": "Eka Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 47576
+    },
+    {
+        "name": "Eka Uruk Esiet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 81897
+    },
+    {
+        "name": "Ekeffe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 40323
+    },
+    {
+        "name": "Eket",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 76463
+    },
+    {
+        "name": "Ekeya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 8.14,
+        "elev ft": 413,
+        "pop est": 18774
+    },
+    {
+        "name": "Ekim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 42837
+    },
+    {
+        "name": "Ekim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.9,
+        "elev ft": 406,
+        "pop est": 49022
+    },
+    {
+        "name": "Ekim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 77568
+    },
+    {
+        "name": "Ekim Enen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 9438
+    },
+    {
+        "name": "Ekit-Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 61933
+    },
+    {
+        "name": "Ekit-Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 163998
+    },
+    {
+        "name": "Ekoi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 28459
+    },
+    {
+        "name": "Ekoi-Ikot Nyoho",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 28459
+    },
+    {
+        "name": "Ekoi-Ikot Udofe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 28459
+    },
+    {
+        "name": "Ekparakwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 53124
+    },
+    {
+        "name": "Ekpe Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 148894
+    },
+    {
+        "name": "Ekpemiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 42760
+    },
+    {
+        "name": "Ekpene Ebom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 90666
+    },
+    {
+        "name": "Ekpene Edi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 31400
+    },
+    {
+        "name": "Ekpene Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 35694
+    },
+    {
+        "name": "Ekpene Ikpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 44014
+    },
+    {
+        "name": "Ekpene Itu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 8.06,
+        "elev ft": 324,
+        "pop est": 27117
+    },
+    {
+        "name": "Ekpene Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 31577
+    },
+    {
+        "name": "Ekpene Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 18279
+    },
+    {
+        "name": "Ekpene Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 35423
+    },
+    {
+        "name": "Ekpenyong Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 79168
+    },
+    {
+        "name": "Ekpenyong Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 86278
+    },
+    {
+        "name": "Ekpenyong Atai No.2",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 86278
+    },
+    {
+        "name": "Ekpenyong Ufum",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 58101
+    },
+    {
+        "name": "Ekpiri Nsukara",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 302880
+    },
+    {
+        "name": "Ekpo-Etor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 24429
+    },
+    {
+        "name": "Ekwuot-Edem-Edet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 20159
+    },
+    {
+        "name": "Elei",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 21034
+    },
+    {
+        "name": "Eman",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 92739
+    },
+    {
+        "name": "Eman Ikot-Ebo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 95420
+    },
+    {
+        "name": "Eman Uruan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 20977
+    },
+    {
+        "name": "Enen Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.99,
+        "elev ft": 387,
+        "pop est": 37011
+    },
+    {
+        "name": "Engwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.25,
+        "elev ft": 839,
+        "pop est": 30344
+    },
+    {
+        "name": "Eniong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 302133
+    },
+    {
+        "name": "Enuek",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 43232
+    },
+    {
+        "name": "Enwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.25,
+        "elev ft": 839,
+        "pop est": 30344
+    },
+    {
+        "name": "Ererefe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.6,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 32724
+    },
+    {
+        "name": "Eriam Afaha Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 92024
+    },
+    {
+        "name": "Eriam Ata Essien",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 90536
+    },
+    {
+        "name": "Eriam Ikpan Ikpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 89640
+    },
+    {
+        "name": "Eriam Ikpan Ikpong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 89640
+    },
+    {
+        "name": "Esana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 80665
+    },
+    {
+        "name": "Esien",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 52760
+    },
+    {
+        "name": "Esit Urua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 43758
+    },
+    {
+        "name": "Esu Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 67618
+    },
+    {
+        "name": "Esuk Ediong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 8.06,
+        "elev ft": 318,
+        "pop est": 31966
+    },
+    {
+        "name": "Esuk Enwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.31,
+        "elev ft": 0,
+        "pop est": 19921
+    },
+    {
+        "name": "Esuk Inwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 11858
+    },
+    {
+        "name": "Esuk Ntete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.6,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 30434
+    },
+    {
+        "name": "Esuk Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 8.25,
+        "elev ft": 406,
+        "pop est": 86841
+    },
+    {
+        "name": "Etak Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 97903
+    },
+    {
+        "name": "Etak Isip",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.3,
+        "elev ft": 1102,
+        "pop est": 17099
+    },
+    {
+        "name": "Etak Isip Or",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.3,
+        "elev ft": 1102,
+        "pop est": 17099
+    },
+    {
+        "name": "Eteben",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 49200
+    },
+    {
+        "name": "Etebi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 31917
+    },
+    {
+        "name": "Etebi Idung Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 32170
+    },
+    {
+        "name": "Etehentem",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 8.05,
+        "elev ft": 314,
+        "pop est": 29591
+    },
+    {
+        "name": "Etiam-Etoi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 271321
+    },
+    {
+        "name": "Etieke Ndung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 8.15,
+        "elev ft": 830,
+        "pop est": 21094
+    },
+    {
+        "name": "Etinan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.84,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 70985
+    },
+    {
+        "name": "Etip Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 35263
+    },
+    {
+        "name": "Etisang Ebughu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 24493
+    },
+    {
+        "name": "Etobodom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 25926
+    },
+    {
+        "name": "Etoi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 184643
+    },
+    {
+        "name": "Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 184643
+    },
+    {
+        "name": "Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.6,
+        "long": 8.31,
+        "elev ft": 0,
+        "pop est": 18390
+    },
+    {
+        "name": "Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.3,
+        "elev ft": 1102,
+        "pop est": 17099
+    },
+    {
+        "name": "Etok Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 50048
+    },
+    {
+        "name": "Etu-Iduot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.77,
+        "elev ft": 406,
+        "pop est": 24169
+    },
+    {
+        "name": "Eweme",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 22700
+    },
+    {
+        "name": "Ewet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 362111
+    },
+    {
+        "name": "Eyehedia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.81,
+        "elev ft": 400,
+        "pop est": 27635
+    },
+    {
+        "name": "Eyo Abasi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 55201
+    },
+    {
+        "name": "Eyo Abassi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 55201
+    },
+    {
+        "name": "Eyo Nku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 22700
+    },
+    {
+        "name": "Eyo Nsek",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 21997
+    },
+    {
+        "name": "Eyo Sung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.25,
+        "elev ft": 830,
+        "pop est": 21335
+    },
+    {
+        "name": "Eyo-Ofin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 22637
+    },
+    {
+        "name": "Eyobiasang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 29651
+    },
+    {
+        "name": "Eyofin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.23,
+        "elev ft": 830,
+        "pop est": 22637
+    },
+    {
+        "name": "Eyop",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37257
+    },
+    {
+        "name": "Eyotong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 71017
+    },
+    {
+        "name": "Eyulor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 26854
+    },
+    {
+        "name": "Four Towns",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 335232
+    },
+    {
+        "name": "James Town",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.31,
+        "elev ft": 912,
+        "pop est": 22595
+    },
+    {
+        "name": "Manta",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 47499
+    },
+    {
+        "name": "Mbak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.0,
+        "elev ft": 351,
+        "pop est": 44014
+    },
+    {
+        "name": "Mbak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.0,
+        "elev ft": 344,
+        "pop est": 45556
+    },
+    {
+        "name": "Mbak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 111790
+    },
+    {
+        "name": "Mbak 1",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 8.0,
+        "elev ft": 351,
+        "pop est": 44014
+    },
+    {
+        "name": "Mbak Atan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.95,
+        "elev ft": 406,
+        "pop est": 48679
+    },
+    {
+        "name": "Mbak Ikot Abasi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 111790
+    },
+    {
+        "name": "Mbak Ikot Awa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.94,
+        "elev ft": 400,
+        "pop est": 50106
+    },
+    {
+        "name": "Mbak Ikot Ebo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 73007
+    },
+    {
+        "name": "Mbak Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 179641
+    },
+    {
+        "name": "Mbak Uyo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 31911
+    },
+    {
+        "name": "Mbakowo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.76,
+        "elev ft": 410,
+        "pop est": 24896
+    },
+    {
+        "name": "Mbat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 28439
+    },
+    {
+        "name": "Mbat Esifon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 23449
+    },
+    {
+        "name": "Mbente",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 26853
+    },
+    {
+        "name": "Mbente",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 28121
+    },
+    {
+        "name": "Mbiabam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 74572
+    },
+    {
+        "name": "Mbiabam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 164931
+    },
+    {
+        "name": "Mbiabet-Ikot-Efa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 30869
+    },
+    {
+        "name": "Mbiabit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 196508
+    },
+    {
+        "name": "Mbiabo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 8.06,
+        "elev ft": 314,
+        "pop est": 30804
+    },
+    {
+        "name": "Mbiabo Abasi Efiari",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.06,
+        "elev ft": 314,
+        "pop est": 31847
+    },
+    {
+        "name": "Mbiabo Ikoneto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 8.07,
+        "elev ft": 314,
+        "pop est": 31956
+    },
+    {
+        "name": "Mbiabo Ikot Edem",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 8.06,
+        "elev ft": 314,
+        "pop est": 31966
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 41613
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 20679
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 43789
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.86,
+        "elev ft": 396,
+        "pop est": 14939
+    },
+    {
+        "name": "Mbiabong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 20456
+    },
+    {
+        "name": "Mbiabong Edem Edik",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 50164
+    },
+    {
+        "name": "Mbiabong Etim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 21548
+    },
+    {
+        "name": "Mbiabong Etoi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 170334
+    },
+    {
+        "name": "Mbiabong Ikon No. 1",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 25234
+    },
+    {
+        "name": "Mbiabong Ikon No. 2",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 26083
+    },
+    {
+        "name": "Mbiabong Ikot Eboro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 43115
+    },
+    {
+        "name": "Mbiabong Ikot-Udofia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 25526
+    },
+    {
+        "name": "Mbiabong Odung Etim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 49621
+    },
+    {
+        "name": "Mbiabong-Anan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 50164
+    },
+    {
+        "name": "Mbiabong-Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 120666
+    },
+    {
+        "name": "Mbiafin-Ikot Antia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 23182
+    },
+    {
+        "name": "Mbiafun Nkwono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 122690
+    },
+    {
+        "name": "Mbiakong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 41613
+    },
+    {
+        "name": "Mbiakot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 53575
+    },
+    {
+        "name": "Mbiakpa Ibakesi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 27455
+    },
+    {
+        "name": "Mbiakpa Ndiya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 228502
+    },
+    {
+        "name": "Mbiakpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 146463
+    },
+    {
+        "name": "Mbiakpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 57352
+    },
+    {
+        "name": "Mbiakpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 110290
+    },
+    {
+        "name": "Mbiaso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 63188
+    },
+    {
+        "name": "Mbiaso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 131249
+    },
+    {
+        "name": "Mbiaso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 45338
+    },
+    {
+        "name": "Mbiatok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 70997
+    },
+    {
+        "name": "Mbiaya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 8.02,
+        "elev ft": 830,
+        "pop est": 13199
+    },
+    {
+        "name": "Mbiaya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 54044
+    },
+    {
+        "name": "Mbiere Ebe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 184832
+    },
+    {
+        "name": "Mbikpong Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 52140
+    },
+    {
+        "name": "Mbiokporo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 62657
+    },
+    {
+        "name": "Mbioku-Ikot Abasi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 18902
+    },
+    {
+        "name": "Mbiuto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 87552
+    },
+    {
+        "name": "Mbon Ebre",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 51782
+    },
+    {
+        "name": "Mbribit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 196508
+    },
+    {
+        "name": "Mbukpo Eyima",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 8.12,
+        "elev ft": 830,
+        "pop est": 27128
+    },
+    {
+        "name": "Mbukpo Eyo Akan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 26508
+    },
+    {
+        "name": "Mbukpo Oduobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 26103
+    },
+    {
+        "name": "Mbukpo Uko Akai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 22970
+    },
+    {
+        "name": "Medim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 79441
+    },
+    {
+        "name": "Miakpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 111499
+    },
+    {
+        "name": "Midim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 87353
+    },
+    {
+        "name": "Midim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 90872
+    },
+    {
+        "name": "Midim Ikot Ifang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 90872
+    },
+    {
+        "name": "Mimbo Town",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.55,
+        "long": 8.18,
+        "elev ft": 1669,
+        "pop est": 19229
+    },
+    {
+        "name": "Minya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 54637
+    },
+    {
+        "name": "Minya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.87,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 62697
+    },
+    {
+        "name": "Mirimafi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 38648
+    },
+    {
+        "name": "Mkpanak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 26584
+    },
+    {
+        "name": "Mkpat Enin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 62543
+    },
+    {
+        "name": "Mkpatak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 84955
+    },
+    {
+        "name": "Mkpok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 101695
+    },
+    {
+        "name": "Na-Enin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 28271
+    },
+    {
+        "name": "Nchanabua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 25228
+    },
+    {
+        "name": "Nda Ekom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 40100
+    },
+    {
+        "name": "Nda Nsit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 53246
+    },
+    {
+        "name": "Ndem Iyere",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 37932
+    },
+    {
+        "name": "Ndiachinivu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.81,
+        "elev ft": 413,
+        "pop est": 18095
+    },
+    {
+        "name": "Ndinya Mfia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 17390
+    },
+    {
+        "name": "Ndinya-Ikot Imo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 20604
+    },
+    {
+        "name": "Ndiokwarake",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.81,
+        "elev ft": 413,
+        "pop est": 18752
+    },
+    {
+        "name": "Nditia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 56374
+    },
+    {
+        "name": "Ndiya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 62068
+    },
+    {
+        "name": "Ndiya Etuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 157531
+    },
+    {
+        "name": "Ndiya-Nfia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 23019
+    },
+    {
+        "name": "Ndiya-Nfia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 17390
+    },
+    {
+        "name": "Ndo Okoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 43907
+    },
+    {
+        "name": "Ndom Ebom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 14929
+    },
+    {
+        "name": "Ndon Ebom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 14929
+    },
+    {
+        "name": "Ndon Eyo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 106349
+    },
+    {
+        "name": "Ndon Utim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 74507
+    },
+    {
+        "name": "Ndon-Nkim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.98,
+        "elev ft": 393,
+        "pop est": 38800
+    },
+    {
+        "name": "Ndoro Obot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Ndot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 68094
+    },
+    {
+        "name": "Ndot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 58047
+    },
+    {
+        "name": "Ndot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 67588
+    },
+    {
+        "name": "Ndot-Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 29662
+    },
+    {
+        "name": "Nduetong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 273557
+    },
+    {
+        "name": "Ndukpo Ise",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 58550
+    },
+    {
+        "name": "Nguot-Ikot-Umo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37798
+    },
+    {
+        "name": "Nkalu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 27696
+    },
+    {
+        "name": "Nkana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.82,
+        "elev ft": 393,
+        "pop est": 22057
+    },
+    {
+        "name": "Nkana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 73483
+    },
+    {
+        "name": "Nkana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.81,
+        "elev ft": 400,
+        "pop est": 23668
+    },
+    {
+        "name": "Nkap",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 263153
+    },
+    {
+        "name": "Nkara Nkwot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 26554
+    },
+    {
+        "name": "Nkara-Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 39986
+    },
+    {
+        "name": "Nkek",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 61520
+    },
+    {
+        "name": "Nkek",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 65384
+    },
+    {
+        "name": "Nkikara",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 58541
+    },
+    {
+        "name": "Nkim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 164931
+    },
+    {
+        "name": "Nkim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.98,
+        "elev ft": 393,
+        "pop est": 38800
+    },
+    {
+        "name": "Nko Otoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 53812
+    },
+    {
+        "name": "Nkor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 22175
+    },
+    {
+        "name": "Nkot Mbuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Nkpa Eto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.61,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 119912
+    },
+    {
+        "name": "Nkpa Uno",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 22209
+    },
+    {
+        "name": "Nkpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 8.08,
+        "elev ft": 328,
+        "pop est": 25136
+    },
+    {
+        "name": "Nkpan Uruk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 8.08,
+        "elev ft": 328,
+        "pop est": 25136
+    },
+    {
+        "name": "Nkpat Enin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 62543
+    },
+    {
+        "name": "Nkpeti",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 8.0,
+        "elev ft": 390,
+        "pop est": 35217
+    },
+    {
+        "name": "Nkporikpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 50422
+    },
+    {
+        "name": "Nkpukpurta",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 50900
+    },
+    {
+        "name": "Nkuot Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 25433
+    },
+    {
+        "name": "Nkwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 41468
+    },
+    {
+        "name": "Nkwok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 60104
+    },
+    {
+        "name": "Nkwot Ikono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 80018
+    },
+    {
+        "name": "Nkwot Ikot Abia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 39444
+    },
+    {
+        "name": "Nkwot Ikot Umo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 41974
+    },
+    {
+        "name": "Nkwot Ikot Umo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37798
+    },
+    {
+        "name": "Nkwuot-Ikot Ete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 27106
+    },
+    {
+        "name": "Nkwuot-Ikot-Nseyen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 32288
+    },
+    {
+        "name": "Nkwuot-Nko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 26773
+    },
+    {
+        "name": "Nkwuot-Nung-Imo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 32827
+    },
+    {
+        "name": "North",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 64511
+    },
+    {
+        "name": "Nquot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 65029
+    },
+    {
+        "name": "Nquot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37798
+    },
+    {
+        "name": "Nquot Ikot Umo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37798
+    },
+    {
+        "name": "Nsan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Nsasak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 62064
+    },
+    {
+        "name": "Nsasak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 83279
+    },
+    {
+        "name": "Nsasi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 50134
+    },
+    {
+        "name": "Nsia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 24390
+    },
+    {
+        "name": "Nsia Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 19251
+    },
+    {
+        "name": "Nsiak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 210665
+    },
+    {
+        "name": "Nsidung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 72651
+    },
+    {
+        "name": "Nsit Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37257
+    },
+    {
+        "name": "Nsit-Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 27537
+    },
+    {
+        "name": "Nsukara-Offot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 194771
+    },
+    {
+        "name": "Nta-Ikut",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.84,
+        "elev ft": 403,
+        "pop est": 35703
+    },
+    {
+        "name": "Ntak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 46373
+    },
+    {
+        "name": "Ntak Afa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 54961
+    },
+    {
+        "name": "Ntak Ekpenyong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 85062
+    },
+    {
+        "name": "Ntak Ibesit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 53596
+    },
+    {
+        "name": "Ntak Iyang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 31339
+    },
+    {
+        "name": "Ntan-Obu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 7.87,
+        "elev ft": 374,
+        "pop est": 25344
+    },
+    {
+        "name": "Ntete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 31372
+    },
+    {
+        "name": "Ntete's",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 31372
+    },
+    {
+        "name": "Ntete\u2019s",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 31372
+    },
+    {
+        "name": "Ntiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.98,
+        "elev ft": 344,
+        "pop est": 49672
+    },
+    {
+        "name": "Ntit Oton",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 61065
+    },
+    {
+        "name": "Nto Abia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 83626
+    },
+    {
+        "name": "Nto Edino",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 23203
+    },
+    {
+        "name": "Nto Edino",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 24605
+    },
+    {
+        "name": "Nto Ekpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 23903
+    },
+    {
+        "name": "Nto Epu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 23169
+    },
+    {
+        "name": "Nto Etom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 40757
+    },
+    {
+        "name": "Nto Eton",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 40757
+    },
+    {
+        "name": "Nto Etuk Udo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 70768
+    },
+    {
+        "name": "Nto Ide",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 25157
+    },
+    {
+        "name": "Nto Ndan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 24305
+    },
+    {
+        "name": "Nto Nsea",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 63501
+    },
+    {
+        "name": "Nto Ntia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 75554
+    },
+    {
+        "name": "Nto Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 81125
+    },
+    {
+        "name": "Nto Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 90246
+    },
+    {
+        "name": "Nto Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 73611
+    },
+    {
+        "name": "Nto Obo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 77227
+    },
+    {
+        "name": "Nto Obo (1)",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 81125
+    },
+    {
+        "name": "Nto Obo (2)",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 90246
+    },
+    {
+        "name": "Nto Obo 1",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 81125
+    },
+    {
+        "name": "Nto Obo 2",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 90246
+    },
+    {
+        "name": "Nto Okpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 74767
+    },
+    {
+        "name": "Nto Okure",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 59927
+    },
+    {
+        "name": "Nto Otong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 84707
+    },
+    {
+        "name": "Nto Ubiam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 75908
+    },
+    {
+        "name": "Nto Udo Igwe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 74577
+    },
+    {
+        "name": "Nto Ukara",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 75181
+    },
+    {
+        "name": "Nto Umo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 92290
+    },
+    {
+        "name": "Nto Unang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 70167
+    },
+    {
+        "name": "Nto-Edino No. 1",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 23203
+    },
+    {
+        "name": "Nto-Edino Number One",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 23203
+    },
+    {
+        "name": "Nto-Ekpu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 20518
+    },
+    {
+        "name": "Nto-Esu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 24804
+    },
+    {
+        "name": "Nto-Obio Ikan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 22142
+    },
+    {
+        "name": "Ntong Uno",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 26561
+    },
+    {
+        "name": "Ntrukpum",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 3648
+    },
+    {
+        "name": "Ntu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 39976
+    },
+    {
+        "name": "Ntuk Otong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 52018
+    },
+    {
+        "name": "Ntukuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 70745
+    },
+    {
+        "name": "Nturi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.86,
+        "elev ft": 400,
+        "pop est": 14500
+    },
+    {
+        "name": "Numh Oto Ibiakuruan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 165761
+    },
+    {
+        "name": "Nung Atai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.84,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 19429
+    },
+    {
+        "name": "Nung Ete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 66505
+    },
+    {
+        "name": "Nung Idio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 37389
+    },
+    {
+        "name": "Nung Ikong Ufok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 8249
+    },
+    {
+        "name": "Nung Ikono Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 4504
+    },
+    {
+        "name": "Nung Ikono Ufok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 8.05,
+        "elev ft": 830,
+        "pop est": 8249
+    },
+    {
+        "name": "Nung Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 43266
+    },
+    {
+        "name": "Nung Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.78,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 45743
+    },
+    {
+        "name": "Nung Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 45856
+    },
+    {
+        "name": "Nung Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 56169
+    },
+    {
+        "name": "Nung Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 51561
+    },
+    {
+        "name": "Nung Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 73159
+    },
+    {
+        "name": "Nung Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 6396
+    },
+    {
+        "name": "Nung Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 96030
+    },
+    {
+        "name": "Nung Otu-Ibiaku Uruan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 165761
+    },
+    {
+        "name": "Nung Udoe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 29294
+    },
+    {
+        "name": "Nung Udoe Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 42760
+    },
+    {
+        "name": "Nung Ukana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 25878
+    },
+    {
+        "name": "Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 67890
+    },
+    {
+        "name": "Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 17494
+    },
+    {
+        "name": "Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 44984
+    },
+    {
+        "name": "Nung Ukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 23497
+    },
+    {
+        "name": "Nung Ukim Ikot Esien",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 23497
+    },
+    {
+        "name": "Nung Ukot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 232118
+    },
+    {
+        "name": "Nung Ukot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 244081
+    },
+    {
+        "name": "Nwaniba",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 8.04,
+        "elev ft": 413,
+        "pop est": 16941
+    },
+    {
+        "name": "Nya",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 70357
+    },
+    {
+        "name": "Nyara Enyin",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 103757
+    },
+    {
+        "name": "Nyi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 77234
+    },
+    {
+        "name": "Obiakpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 46373
+    },
+    {
+        "name": "Obianga",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.48,
+        "long": 7.61,
+        "elev ft": 0,
+        "pop est": 24482
+    },
+    {
+        "name": "Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 85951
+    },
+    {
+        "name": "Obio Ibiono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 84123
+    },
+    {
+        "name": "Obio Inwang Itu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 8.02,
+        "elev ft": 311,
+        "pop est": 33927
+    },
+    {
+        "name": "Obio Iyata",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.27,
+        "elev ft": 958,
+        "pop est": 24304
+    },
+    {
+        "name": "Obio Ndobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 8.01,
+        "elev ft": 830,
+        "pop est": 37682
+    },
+    {
+        "name": "Obio Obom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 76321
+    },
+    {
+        "name": "Obio Offot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 121799
+    },
+    {
+        "name": "Obio-Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 43214
+    },
+    {
+        "name": "Obo Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 51552
+    },
+    {
+        "name": "Obo Ntong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 47827
+    },
+    {
+        "name": "Obo-Ukana Iba",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 85898
+    },
+    {
+        "name": "Obon Ebot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 66507
+    },
+    {
+        "name": "Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 67571
+    },
+    {
+        "name": "Obong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.96,
+        "elev ft": 830,
+        "pop est": 39808
+    },
+    {
+        "name": "Obong Ntak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 68815
+    },
+    {
+        "name": "Obono-Okpodo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 28458
+    },
+    {
+        "name": "Obonukwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 43315
+    },
+    {
+        "name": "Obot Akpabio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.85,
+        "elev ft": 383,
+        "pop est": 24604
+    },
+    {
+        "name": "Obot Ebriba",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.96,
+        "elev ft": 328,
+        "pop est": 50213
+    },
+    {
+        "name": "Obot Etim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.98,
+        "elev ft": 324,
+        "pop est": 50213
+    },
+    {
+        "name": "Obot Itiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 88471
+    },
+    {
+        "name": "Obot Itiat No.2",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 88471
+    },
+    {
+        "name": "Obot Obom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 8.03,
+        "elev ft": 830,
+        "pop est": 38999
+    },
+    {
+        "name": "Obot-Akara",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 21433
+    },
+    {
+        "name": "Obot-Oko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.86,
+        "elev ft": 410,
+        "pop est": 43348
+    },
+    {
+        "name": "Obot-Ukpa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.83,
+        "elev ft": 406,
+        "pop est": 17277
+    },
+    {
+        "name": "Obotung Enwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.26,
+        "elev ft": 908,
+        "pop est": 30032
+    },
+    {
+        "name": "Obufi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 8.16,
+        "elev ft": 406,
+        "pop est": 42544
+    },
+    {
+        "name": "Odobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 18705
+    },
+    {
+        "name": "Odoro Atasong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 44670
+    },
+    {
+        "name": "Odoro Enen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 63097
+    },
+    {
+        "name": "Odoro Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 45468
+    },
+    {
+        "name": "Odoro Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 28271
+    },
+    {
+        "name": "Odoro Nkot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.08,
+        "elev ft": 830,
+        "pop est": 31334
+    },
+    {
+        "name": "Odot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 8.04,
+        "elev ft": 830,
+        "pop est": 34073
+    },
+    {
+        "name": "Oduko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 27458
+    },
+    {
+        "name": "Oduonim Ison Inyiang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 29821
+    },
+    {
+        "name": "Oduting",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 34289
+    },
+    {
+        "name": "Offi Uda",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.2,
+        "elev ft": 849,
+        "pop est": 30820
+    },
+    {
+        "name": "Offiong Eto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 27192
+    },
+    {
+        "name": "Offot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 42823
+    },
+    {
+        "name": "Ofiong Eto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 27192
+    },
+    {
+        "name": "Ofriyo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.67,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 63097
+    },
+    {
+        "name": "Ogboakwu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 51015
+    },
+    {
+        "name": "Ogultu-Mbauzo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.76,
+        "elev ft": 410,
+        "pop est": 23814
+    },
+    {
+        "name": "Ogwu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.72,
+        "elev ft": 416,
+        "pop est": 28063
+    },
+    {
+        "name": "Ohambele",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 24478
+    },
+    {
+        "name": "Ohanbele",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 24478
+    },
+    {
+        "name": "Oko Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Okobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 65061
+    },
+    {
+        "name": "Okobo Ebughu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 26002
+    },
+    {
+        "name": "Okolta",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Okom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.62,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 120108
+    },
+    {
+        "name": "Okon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 70161
+    },
+    {
+        "name": "Okon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 118829
+    },
+    {
+        "name": "Okon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 74601
+    },
+    {
+        "name": "Okop",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 51802
+    },
+    {
+        "name": "Okopedi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 18663
+    },
+    {
+        "name": "Okopedi Itu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.97,
+        "elev ft": 328,
+        "pop est": 49990
+    },
+    {
+        "name": "Okoro Inyong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.52,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 29205
+    },
+    {
+        "name": "Okoro-Ete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.54,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 34706
+    },
+    {
+        "name": "Okoroete",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.54,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 34706
+    },
+    {
+        "name": "Okorutip",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.56,
+        "long": 7.94,
+        "elev ft": 830,
+        "pop est": 31726
+    },
+    {
+        "name": "Okosi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 27546
+    },
+    {
+        "name": "Okotama",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.78,
+        "elev ft": 406,
+        "pop est": 21601
+    },
+    {
+        "name": "Okpakon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.85,
+        "elev ft": 403,
+        "pop est": 16930
+    },
+    {
+        "name": "Okposo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.56,
+        "long": 8.29,
+        "elev ft": 0,
+        "pop est": 13244
+    },
+    {
+        "name": "Okpoto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.85,
+        "elev ft": 396,
+        "pop est": 15749
+    },
+    {
+        "name": "Okpoto",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 88471
+    },
+    {
+        "name": "Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 301474
+    },
+    {
+        "name": "Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 286263
+    },
+    {
+        "name": "Oku Iboku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 8.06,
+        "elev ft": 311,
+        "pop est": 21267
+    },
+    {
+        "name": "Oku Iboku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 23663
+    },
+    {
+        "name": "Oku-Obom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 23511
+    },
+    {
+        "name": "Okuda",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.71,
+        "long": 8.14,
+        "elev ft": 830,
+        "pop est": 30841
+    },
+    {
+        "name": "Okuko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 34312
+    },
+    {
+        "name": "Okukuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 39600
+    },
+    {
+        "name": "Omu-Ekene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.89,
+        "elev ft": 370,
+        "pop est": 25447
+    },
+    {
+        "name": "Omum Inyam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 69740
+    },
+    {
+        "name": "Oniog-Ono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 28216
+    },
+    {
+        "name": "Oniong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.8,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 74118
+    },
+    {
+        "name": "Oniong Ono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 28216
+    },
+    {
+        "name": "Ono",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 47414
+    },
+    {
+        "name": "Ono Ikot Itiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 47414
+    },
+    {
+        "name": "Ono Ikot Ubo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 47414
+    },
+    {
+        "name": "Onuk Ikot Nwo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 202951
+    },
+    {
+        "name": "Opobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 33232
+    },
+    {
+        "name": "Opukalama",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.54,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 36393
+    },
+    {
+        "name": "Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.24,
+        "elev ft": 354,
+        "pop est": 108595
+    },
+    {
+        "name": "Oron Town",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 8.24,
+        "elev ft": 354,
+        "pop est": 108595
+    },
+    {
+        "name": "Orukim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 31427
+    },
+    {
+        "name": "Oruko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 27458
+    },
+    {
+        "name": "Osiok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 41371
+    },
+    {
+        "name": "Osu Ofi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 21533
+    },
+    {
+        "name": "Osuk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Osuk Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 8.0,
+        "elev ft": 830,
+        "pop est": 68976
+    },
+    {
+        "name": "Osuk-Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 36196
+    },
+    {
+        "name": "Osung-Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 27660
+    },
+    {
+        "name": "Oti Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 39282
+    },
+    {
+        "name": "Otomo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 74979
+    },
+    {
+        "name": "Otoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 74979
+    },
+    {
+        "name": "Otoro Uruaotu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 71605
+    },
+    {
+        "name": "Otu-Ibiaku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 165761
+    },
+    {
+        "name": "Otung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.8,
+        "elev ft": 410,
+        "pop est": 27635
+    },
+    {
+        "name": "Otung Ediong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 8.07,
+        "elev ft": 328,
+        "pop est": 27550
+    },
+    {
+        "name": "Oyoku Asang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.09,
+        "elev ft": 830,
+        "pop est": 23652
+    },
+    {
+        "name": "Oyubia",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 22201
+    },
+    {
+        "name": "Oyuko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 57025
+    },
+    {
+        "name": "Oyuko Ibighi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 57025
+    },
+    {
+        "name": "Qua Ibo Mission",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 33608
+    },
+    {
+        "name": "Quo Ibo Mission",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 33608
+    },
+    {
+        "name": "Ubiom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.68,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 96570
+    },
+    {
+        "name": "Ubodung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.13,
+        "elev ft": 830,
+        "pop est": 32290
+    },
+    {
+        "name": "Uboro Isong Inyang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 40911
+    },
+    {
+        "name": "Uboro Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 23005
+    },
+    {
+        "name": "Ubotuong Enwang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 8.26,
+        "elev ft": 908,
+        "pop est": 30032
+    },
+    {
+        "name": "Ubukpor Urua Eye",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 26696
+    },
+    {
+        "name": "Uda",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.2,
+        "elev ft": 830,
+        "pop est": 31153
+    },
+    {
+        "name": "Ude",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.21,
+        "elev ft": 839,
+        "pop est": 31036
+    },
+    {
+        "name": "Udenge",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.21,
+        "elev ft": 839,
+        "pop est": 31036
+    },
+    {
+        "name": "Udi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 70335
+    },
+    {
+        "name": "Udi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 67096
+    },
+    {
+        "name": "Udo Okop",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 243797
+    },
+    {
+        "name": "Udua Offong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 22201
+    },
+    {
+        "name": "Ududu Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 28271
+    },
+    {
+        "name": "Uduk",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 15339
+    },
+    {
+        "name": "Uduk Usor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 254591
+    },
+    {
+        "name": "Uduk Usung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 36892
+    },
+    {
+        "name": "Udun Ukpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 8.16,
+        "elev ft": 830,
+        "pop est": 31594
+    },
+    {
+        "name": "Udun Uwe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 30656
+    },
+    {
+        "name": "Udung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 21335
+    },
+    {
+        "name": "Udung Ekim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 23353
+    },
+    {
+        "name": "Udung Eyo Utitntai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 31207
+    },
+    {
+        "name": "Udung Offiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 22707
+    },
+    {
+        "name": "Udung Uko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.76,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 21335
+    },
+    {
+        "name": "Udung Uwe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 30656
+    },
+    {
+        "name": "Uduota",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 60936
+    },
+    {
+        "name": "Ufuku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 75012
+    },
+    {
+        "name": "Ukam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 104615
+    },
+    {
+        "name": "Ukan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 32831
+    },
+    {
+        "name": "Ukana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 58316
+    },
+    {
+        "name": "Ukana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 70411
+    },
+    {
+        "name": "Ukana Akpa Utong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 87151
+    },
+    {
+        "name": "Ukana Iba",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 125004
+    },
+    {
+        "name": "Ukana Ikot Akpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 80665
+    },
+    {
+        "name": "Ukana Ikot Ofok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 117418
+    },
+    {
+        "name": "Ukanafun",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 80032
+    },
+    {
+        "name": "Ukap Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37633
+    },
+    {
+        "name": "Ukat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 97103
+    },
+    {
+        "name": "Ukat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 55201
+    },
+    {
+        "name": "Ukat Aran",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.74,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 54573
+    },
+    {
+        "name": "Uko Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.72,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 22593
+    },
+    {
+        "name": "Uko Ntigha",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.65,
+        "long": 8.23,
+        "elev ft": 853,
+        "pop est": 30487
+    },
+    {
+        "name": "Uko Udo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 56679
+    },
+    {
+        "name": "Ukpana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 98768
+    },
+    {
+        "name": "Ukpap-Itak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 37633
+    },
+    {
+        "name": "Ukpenekang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 31752
+    },
+    {
+        "name": "Ukpenekong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 31752
+    },
+    {
+        "name": "Ukpom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 55597
+    },
+    {
+        "name": "Ukpom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 40364
+    },
+    {
+        "name": "Ukpom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 76847
+    },
+    {
+        "name": "Ukpom Anwana",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 76847
+    },
+    {
+        "name": "Ukpom Ikot Ntuen",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 30017
+    },
+    {
+        "name": "Ukpom Usung Ubom",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 58034
+    },
+    {
+        "name": "Ukpom Usung Ubon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 104789
+    },
+    {
+        "name": "Ukpom Usung Ubon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 58034
+    },
+    {
+        "name": "Ukuko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.77,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 34312
+    },
+    {
+        "name": "Ukut Ata",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 79817
+    },
+    {
+        "name": "Ukwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.82,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 45816
+    },
+    {
+        "name": "Ukwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 43789
+    },
+    {
+        "name": "Ukwuok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 28310
+    },
+    {
+        "name": "Umon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 74579
+    },
+    {
+        "name": "Umu Okpara Egbelu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 22391
+    },
+    {
+        "name": "Unyene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.63,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 30699
+    },
+    {
+        "name": "Upenekang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.57,
+        "long": 7.98,
+        "elev ft": 830,
+        "pop est": 31752
+    },
+    {
+        "name": "Uqua",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.64,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 65415
+    },
+    {
+        "name": "Uquo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.06,
+        "elev ft": 830,
+        "pop est": 30814
+    },
+    {
+        "name": "Urua Abasi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.86,
+        "elev ft": 396,
+        "pop est": 36846
+    },
+    {
+        "name": "Urua Akpan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 68568
+    },
+    {
+        "name": "Urua Edetobo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 45842
+    },
+    {
+        "name": "Urua Inyang",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 74494
+    },
+    {
+        "name": "Urua Ita",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 24355
+    },
+    {
+        "name": "Urua Okok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.66,
+        "long": 8.1,
+        "elev ft": 830,
+        "pop est": 31592
+    },
+    {
+        "name": "Urue Offong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 8.17,
+        "elev ft": 830,
+        "pop est": 22201
+    },
+    {
+        "name": "Uruk Ata",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 74838
+    },
+    {
+        "name": "Uruk Ata",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 70923
+    },
+    {
+        "name": "Uruk Ata",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 78788
+    },
+    {
+        "name": "Uruk Echiet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 77386
+    },
+    {
+        "name": "Uruk Esiet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 84274
+    },
+    {
+        "name": "Uruk Otong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.83,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 47894
+    },
+    {
+        "name": "Uruk Uso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 19997
+    },
+    {
+        "name": "Uruk Uso",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 55231
+    },
+    {
+        "name": "Uruk Usor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 55231
+    },
+    {
+        "name": "Urukatai",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 78788
+    },
+    {
+        "name": "Usak Effiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.31,
+        "elev ft": 0,
+        "pop est": 14661
+    },
+    {
+        "name": "Usaka",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 23469
+    },
+    {
+        "name": "Use",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.84,
+        "elev ft": 413,
+        "pop est": 34576
+    },
+    {
+        "name": "Use Abat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 48776
+    },
+    {
+        "name": "Use Ikot Ebio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 103172
+    },
+    {
+        "name": "Use Ikot Edet",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 43613
+    },
+    {
+        "name": "Use Ikot Oku",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.96,
+        "elev ft": 337,
+        "pop est": 50213
+    },
+    {
+        "name": "Use Ikot Usuan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 40548
+    },
+    {
+        "name": "Use Ndon",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 50213
+    },
+    {
+        "name": "Use Nten",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 116473
+    },
+    {
+        "name": "Use Offot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 260190
+    },
+    {
+        "name": "Useh Ikot Odiong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 49621
+    },
+    {
+        "name": "Useh Ilot Usan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 40548
+    },
+    {
+        "name": "Usuk Effiat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.59,
+        "long": 8.31,
+        "elev ft": 0,
+        "pop est": 14661
+    },
+    {
+        "name": "Usuk Ibakesi",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 24383
+    },
+    {
+        "name": "Usuk Obio Ediene",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 38138
+    },
+    {
+        "name": "Usung Udun Ukor",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 18777
+    },
+    {
+        "name": "Usung-Usung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.83,
+        "elev ft": 396,
+        "pop est": 19753
+    },
+    {
+        "name": "Utat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 58772
+    },
+    {
+        "name": "Ute",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 60239
+    },
+    {
+        "name": "Ute Etok",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.69,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 37397
+    },
+    {
+        "name": "Utine",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.81,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 18815
+    },
+    {
+        "name": "Utit",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 70997
+    },
+    {
+        "name": "Utit Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.87,
+        "elev ft": 396,
+        "pop est": 37313
+    },
+    {
+        "name": "Utu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 193569
+    },
+    {
+        "name": "Utu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.75,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 47570
+    },
+    {
+        "name": "Utu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.7,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 39976
+    },
+    {
+        "name": "Utu",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 76911
+    },
+    {
+        "name": "Utu Edem Usung",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 242123
+    },
+    {
+        "name": "Utu Etim",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 76234
+    },
+    {
+        "name": "Utu Etim Ekpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 76234
+    },
+    {
+        "name": "Utu Ikot",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 227951
+    },
+    {
+        "name": "Utu Ikot Ekpenyong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 227951
+    },
+    {
+        "name": "Utu Ikot Obio Ekp",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 43266
+    },
+    {
+        "name": "Utu Ikot Obio Ekpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 43266
+    },
+    {
+        "name": "Utu Ikot Obio Ekpo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.73,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 43266
+    },
+    {
+        "name": "Utu Ikot Okoro",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 86553
+    },
+    {
+        "name": "Utu Ikot Onko",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 75302
+    },
+    {
+        "name": "Utu Ikpe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 267054
+    },
+    {
+        "name": "Utu Nsekhe",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 57434
+    },
+    {
+        "name": "Utu-Abak",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.01,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 71051
+    },
+    {
+        "name": "Utu-Etong",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 24530
+    },
+    {
+        "name": "Utuat",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 56143
+    },
+    {
+        "name": "Uwa",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 54949
+    },
+    {
+        "name": "Uya Oron",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 4.79,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 65511
+    },
+    {
+        "name": "Uyo",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 362830
+    },
+    {
+        "name": "Uyo Afaha Nkan",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 35466
+    },
+    {
+        "name": "Uyo Itam",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.95,
+        "elev ft": 830,
+        "pop est": 87985
+    },
+    {
+        "name": "Uyo Obio",
+        "what": "city",
+        "region": "Akwa Ibom",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 35711
+    }
+]

@@ -1,0 +1,6142 @@
+[
+    {
+        "name": "Abache",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 56362
+    },
+    {
+        "name": "Abachi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 56362
+    },
+    {
+        "name": "Abajikolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Abajukolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Abedamegu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 12230
+    },
+    {
+        "name": "Abejukolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Abo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 12470
+    },
+    {
+        "name": "Abocho",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 6.99,
+        "elev ft": 1256,
+        "pop est": 13261
+    },
+    {
+        "name": "Abujaga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 6.64,
+        "elev ft": 190,
+        "pop est": 7040
+    },
+    {
+        "name": "Acharu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Achido",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.41,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 5864
+    },
+    {
+        "name": "Adabi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 6.18,
+        "elev ft": 1669,
+        "pop est": 280024
+    },
+    {
+        "name": "Adadeju",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 10641
+    },
+    {
+        "name": "Adagba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 26857
+    },
+    {
+        "name": "Adaigba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 6.66,
+        "elev ft": 183,
+        "pop est": 9152
+    },
+    {
+        "name": "Adam",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9873
+    },
+    {
+        "name": "Adama",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 6.81,
+        "elev ft": 252,
+        "pop est": 6507
+    },
+    {
+        "name": "Adana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.77,
+        "elev ft": 830,
+        "pop est": 9376
+    },
+    {
+        "name": "Adanouy",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 6.86,
+        "elev ft": 347,
+        "pop est": 7329
+    },
+    {
+        "name": "Adenye",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.78,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Adiele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 7.06,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Ado",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 11052
+    },
+    {
+        "name": "Adogo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 6.48,
+        "elev ft": 859,
+        "pop est": 8046
+    },
+    {
+        "name": "Adoka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 11260
+    },
+    {
+        "name": "Adoloko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Adom",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9873
+    },
+    {
+        "name": "Adoma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 11287
+    },
+    {
+        "name": "Adonkolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.7,
+        "elev ft": 269,
+        "pop est": 31161
+    },
+    {
+        "name": "Adoru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Adugi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 6.1,
+        "elev ft": 1669,
+        "pop est": 9135
+    },
+    {
+        "name": "Adum",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 20853
+    },
+    {
+        "name": "Adum Afaw",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 20853
+    },
+    {
+        "name": "Adum Afo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.19,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 20853
+    },
+    {
+        "name": "Adupe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 7.56,
+        "elev ft": 984,
+        "pop est": 32919
+    },
+    {
+        "name": "Afa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 6.96,
+        "elev ft": 360,
+        "pop est": 8642
+    },
+    {
+        "name": "Afagba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 8788
+    },
+    {
+        "name": "Afaw Owebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 18936
+    },
+    {
+        "name": "Afawgi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Afo Owebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.21,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 18936
+    },
+    {
+        "name": "Afogba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 8788
+    },
+    {
+        "name": "Afukpilla",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 6.39,
+        "elev ft": 1669,
+        "pop est": 13410
+    },
+    {
+        "name": "Afulugo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 15419
+    },
+    {
+        "name": "Agagba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 10573
+    },
+    {
+        "name": "Agajeju",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Agbachi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 56362
+    },
+    {
+        "name": "Agbada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Agbado",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.27,
+        "elev ft": 1190,
+        "pop est": 3861
+    },
+    {
+        "name": "Agbagbojo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 6.65,
+        "elev ft": 187,
+        "pop est": 6170
+    },
+    {
+        "name": "Agbaja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 6.64,
+        "elev ft": 1069,
+        "pop est": 1788
+    },
+    {
+        "name": "Agbajo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 6.97,
+        "elev ft": 980,
+        "pop est": 12524
+    },
+    {
+        "name": "Agbatebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 10617
+    },
+    {
+        "name": "Agbedde",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.27,
+        "elev ft": 1190,
+        "pop est": 3861
+    },
+    {
+        "name": "Agbede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.3,
+        "elev ft": 1049,
+        "pop est": 3450
+    },
+    {
+        "name": "Agbobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 6.3,
+        "elev ft": 997,
+        "pop est": 174109
+    },
+    {
+        "name": "Agbobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 14811
+    },
+    {
+        "name": "Agejojo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Agibela",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 6.98,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Agitata",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 9551
+    },
+    {
+        "name": "Agobada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.02,
+        "elev ft": 403,
+        "pop est": 9700
+    },
+    {
+        "name": "Agojeju",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 11114
+    },
+    {
+        "name": "Agojeju",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Agrigbon-Oke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 6.05,
+        "elev ft": 1669,
+        "pop est": 7910
+    },
+    {
+        "name": "Aguma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 32161
+    },
+    {
+        "name": "Agwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.28,
+        "elev ft": 1131,
+        "pop est": 3663
+    },
+    {
+        "name": "Aiere",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 12667
+    },
+    {
+        "name": "Aike",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 6.78,
+        "elev ft": 308,
+        "pop est": 8642
+    },
+    {
+        "name": "Ainya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Aiyatoro Babunde",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.09,
+        "elev ft": 1669,
+        "pop est": 4107
+    },
+    {
+        "name": "Aiye",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.78,
+        "long": 5.8,
+        "elev ft": 1669,
+        "pop est": 11803
+    },
+    {
+        "name": "Aiye Gu Ulu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 6.19,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Aiyegunle",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 6.06,
+        "elev ft": 1669,
+        "pop est": 7200
+    },
+    {
+        "name": "Aiyegunle Bunu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 6.17,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.99,
+        "elev ft": 1669,
+        "pop est": 9387
+    },
+    {
+        "name": "Aiyetoro Gbede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.99,
+        "elev ft": 1669,
+        "pop est": 9387
+    },
+    {
+        "name": "Ajaka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ajaokuta",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.69,
+        "elev ft": 219,
+        "pop est": 8686
+    },
+    {
+        "name": "Ajibu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ajieru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.11,
+        "elev ft": 1131,
+        "pop est": 13261
+    },
+    {
+        "name": "Ajiolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 7.1,
+        "elev ft": 994,
+        "pop est": 13261
+    },
+    {
+        "name": "Ajioro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.11,
+        "elev ft": 1131,
+        "pop est": 13261
+    },
+    {
+        "name": "Ajitata",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 11258
+    },
+    {
+        "name": "Ajitata",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 9551
+    },
+    {
+        "name": "Ajiyolo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 7.1,
+        "elev ft": 994,
+        "pop est": 13261
+    },
+    {
+        "name": "Aka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Akalo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 6.72,
+        "elev ft": 213,
+        "pop est": 14159
+    },
+    {
+        "name": "Akbacha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Akinia",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 28357
+    },
+    {
+        "name": "Akobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 13354
+    },
+    {
+        "name": "Akopo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 10367
+    },
+    {
+        "name": "Akpacha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Akpafa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 6.15,
+        "elev ft": 1669,
+        "pop est": 14933
+    },
+    {
+        "name": "Akpaku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 7289
+    },
+    {
+        "name": "Akpakudu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 7289
+    },
+    {
+        "name": "Akpata",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 6.48,
+        "elev ft": 830,
+        "pop est": 4608
+    },
+    {
+        "name": "Akpata-Ebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 10617
+    },
+    {
+        "name": "Akpatebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 10617
+    },
+    {
+        "name": "Akpelu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 11941
+    },
+    {
+        "name": "Akpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 13259
+    },
+    {
+        "name": "Akpopo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 13259
+    },
+    {
+        "name": "Akpwelu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 11941
+    },
+    {
+        "name": "Aku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Akuba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 11637
+    },
+    {
+        "name": "Akunuba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 6.79,
+        "elev ft": 403,
+        "pop est": 13261
+    },
+    {
+        "name": "Akunube",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 6.79,
+        "elev ft": 403,
+        "pop est": 13261
+    },
+    {
+        "name": "Akwacha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Akwura",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 8146
+    },
+    {
+        "name": "Akynia",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 28357
+    },
+    {
+        "name": "Alakija",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 6.98,
+        "elev ft": 347,
+        "pop est": 9998
+    },
+    {
+        "name": "Alakura",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 13110
+    },
+    {
+        "name": "Alakwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.03,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Alaude",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 7.09,
+        "elev ft": 416,
+        "pop est": 12534
+    },
+    {
+        "name": "Aligi Ada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Aligi Ado",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Aliko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 6.78,
+        "elev ft": 314,
+        "pop est": 8642
+    },
+    {
+        "name": "Alim",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 13633
+    },
+    {
+        "name": "Alimi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 13633
+    },
+    {
+        "name": "Alke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 6.78,
+        "elev ft": 308,
+        "pop est": 8642
+    },
+    {
+        "name": "Alkuru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 11959
+    },
+    {
+        "name": "Allomo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 12227
+    },
+    {
+        "name": "Alode",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 7.09,
+        "elev ft": 416,
+        "pop est": 12534
+    },
+    {
+        "name": "Alogi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 6.95,
+        "elev ft": 980,
+        "pop est": 13261
+    },
+    {
+        "name": "Alojori",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 7.03,
+        "elev ft": 1187,
+        "pop est": 13261
+    },
+    {
+        "name": "Aloko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 12863
+    },
+    {
+        "name": "Alokuja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Alokura",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 13110
+    },
+    {
+        "name": "Alokuya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Aloude",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.12,
+        "long": 7.09,
+        "elev ft": 416,
+        "pop est": 12534
+    },
+    {
+        "name": "Alu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.74,
+        "elev ft": 1669,
+        "pop est": 6954
+    },
+    {
+        "name": "Amabo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 16319
+    },
+    {
+        "name": "Amabo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 6.72,
+        "elev ft": 239,
+        "pop est": 8731
+    },
+    {
+        "name": "Amabu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 16319
+    },
+    {
+        "name": "Amagede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 9861
+    },
+    {
+        "name": "Amapa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 18364
+    },
+    {
+        "name": "Amara",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.01,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 7555
+    },
+    {
+        "name": "Amdi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 10560
+    },
+    {
+        "name": "Ameka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 13183
+    },
+    {
+        "name": "Ameke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 7.08,
+        "elev ft": 416,
+        "pop est": 10767
+    },
+    {
+        "name": "Ameri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 56466
+    },
+    {
+        "name": "Anambra",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 14515
+    },
+    {
+        "name": "Andomaja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Aneke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 8683
+    },
+    {
+        "name": "Aneke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 13183
+    },
+    {
+        "name": "Angba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Anike",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 8683
+    },
+    {
+        "name": "Ank",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 56466
+    },
+    {
+        "name": "Ankpa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 56466
+    },
+    {
+        "name": "Ape",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 6.16,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Apunu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 19378
+    },
+    {
+        "name": "Araba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.98,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Araba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 6.98,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 6.02,
+        "elev ft": 1669,
+        "pop est": 9155
+    },
+    {
+        "name": "Arefe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 6.97,
+        "elev ft": 374,
+        "pop est": 8642
+    },
+    {
+        "name": "Arima",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 6.02,
+        "elev ft": 1223,
+        "pop est": 9934
+    },
+    {
+        "name": "Arku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Arugaga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 9451
+    },
+    {
+        "name": "Asadam",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.04,
+        "elev ft": 1079,
+        "pop est": 13261
+    },
+    {
+        "name": "Assadam",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.04,
+        "elev ft": 1079,
+        "pop est": 13261
+    },
+    {
+        "name": "Atakpa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 6.79,
+        "elev ft": 830,
+        "pop est": 36047
+    },
+    {
+        "name": "Atanga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ate Albaji",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.09,
+        "elev ft": 839,
+        "pop est": 13261
+    },
+    {
+        "name": "Avuruge",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 15419
+    },
+    {
+        "name": "Awulu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ayale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 13255
+    },
+    {
+        "name": "Ayangba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 27349
+    },
+    {
+        "name": "Ayangba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ayanka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 6.76,
+        "elev ft": 830,
+        "pop est": 11111
+    },
+    {
+        "name": "Ayere",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 12667
+    },
+    {
+        "name": "Bagana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 10305
+    },
+    {
+        "name": "Bagobi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 11035
+    },
+    {
+        "name": "Baki",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 9021
+    },
+    {
+        "name": "Bakumi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Banda",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 6.75,
+        "elev ft": 830,
+        "pop est": 8819
+    },
+    {
+        "name": "Beinto",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 7790
+    },
+    {
+        "name": "Beliko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 4293
+    },
+    {
+        "name": "Binto",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 7790
+    },
+    {
+        "name": "Biradu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 12659
+    },
+    {
+        "name": "Bishua",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 7671
+    },
+    {
+        "name": "Braidu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 10787
+    },
+    {
+        "name": "Bugana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 10305
+    },
+    {
+        "name": "Bugobi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 11035
+    },
+    {
+        "name": "Bukami",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Chakpale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 6.97,
+        "elev ft": 997,
+        "pop est": 13223
+    },
+    {
+        "name": "Chikoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 11430
+    },
+    {
+        "name": "Chikpi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Chilaro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 11430
+    },
+    {
+        "name": "Chita",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9115
+    },
+    {
+        "name": "Choko-Choko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 6.36,
+        "elev ft": 1036,
+        "pop est": 2504
+    },
+    {
+        "name": "Dekina",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 12328
+    },
+    {
+        "name": "Dokoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 6.0,
+        "elev ft": 1669,
+        "pop est": 9387
+    },
+    {
+        "name": "Duru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Ebeje",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 11987
+    },
+    {
+        "name": "Ebeji",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 11987
+    },
+    {
+        "name": "Ebiradu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ebiya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 6.41,
+        "elev ft": 980,
+        "pop est": 10000
+    },
+    {
+        "name": "Ebotchi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 8675
+    },
+    {
+        "name": "Echachofu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 7.52,
+        "elev ft": 935,
+        "pop est": 44171
+    },
+    {
+        "name": "Echangwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.79,
+        "elev ft": 275,
+        "pop est": 8861
+    },
+    {
+        "name": "Echengwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.79,
+        "elev ft": 275,
+        "pop est": 8861
+    },
+    {
+        "name": "Echonga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.79,
+        "elev ft": 275,
+        "pop est": 8861
+    },
+    {
+        "name": "Ede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Ede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Ede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.29,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 14097
+    },
+    {
+        "name": "Edipe Eke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.16,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Efafo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 20939
+    },
+    {
+        "name": "Efaku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 13187
+    },
+    {
+        "name": "Egabada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.02,
+        "elev ft": 403,
+        "pop est": 9700
+    },
+    {
+        "name": "Eganyi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 6.46,
+        "elev ft": 1102,
+        "pop est": 8067
+    },
+    {
+        "name": "Egbala",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 6.78,
+        "elev ft": 314,
+        "pop est": 13095
+    },
+    {
+        "name": "Egbebi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.98,
+        "elev ft": 1669,
+        "pop est": 11298
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 4347
+    },
+    {
+        "name": "Egbedi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.98,
+        "elev ft": 1669,
+        "pop est": 11298
+    },
+    {
+        "name": "Egboje",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 12218
+    },
+    {
+        "name": "Egbola",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 6.78,
+        "elev ft": 314,
+        "pop est": 13095
+    },
+    {
+        "name": "Egbu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 6.71,
+        "elev ft": 830,
+        "pop est": 8504
+    },
+    {
+        "name": "Egim",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.02,
+        "long": 7.49,
+        "elev ft": 318,
+        "pop est": 7901
+    },
+    {
+        "name": "Ego",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.15,
+        "elev ft": 1046,
+        "pop est": 5159
+    },
+    {
+        "name": "Egomicha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 10904
+    },
+    {
+        "name": "Egudi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 12863
+    },
+    {
+        "name": "Egume",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Eika",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 6.27,
+        "elev ft": 1003,
+        "pop est": 257409
+    },
+    {
+        "name": "Ejikolu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 11656
+    },
+    {
+        "name": "Ejikulu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 11656
+    },
+    {
+        "name": "Ejuku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Ejule",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 6.82,
+        "elev ft": 364,
+        "pop est": 8642
+    },
+    {
+        "name": "Ejule",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ejuli",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 6.82,
+        "elev ft": 364,
+        "pop est": 8642
+    },
+    {
+        "name": "Eke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Eke Amanenga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.14,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 11601
+    },
+    {
+        "name": "Ekinrin",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.87,
+        "elev ft": 1669,
+        "pop est": 9438
+    },
+    {
+        "name": "Ekon",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.04,
+        "elev ft": 1092,
+        "pop est": 16675
+    },
+    {
+        "name": "Ekwuroko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 8999
+    },
+    {
+        "name": "Eleje",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 41561
+    },
+    {
+        "name": "Elele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 6.88,
+        "elev ft": 370,
+        "pop est": 8642
+    },
+    {
+        "name": "Elikah",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 6.98,
+        "elev ft": 1053,
+        "pop est": 13261
+    },
+    {
+        "name": "Elubi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 11897
+    },
+    {
+        "name": "Eluli",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 6.87,
+        "elev ft": 403,
+        "pop est": 9270
+    },
+    {
+        "name": "Emabo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 16319
+    },
+    {
+        "name": "Emere",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 56466
+    },
+    {
+        "name": "Emewe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 6.99,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Emi Atsumbe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Emikudamisi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9254
+    },
+    {
+        "name": "Emikudamisi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 6.79,
+        "elev ft": 830,
+        "pop est": 9254
+    },
+    {
+        "name": "Emiwoziri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 6.77,
+        "elev ft": 830,
+        "pop est": 11913
+    },
+    {
+        "name": "Emu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 6.61,
+        "elev ft": 994,
+        "pop est": 1788
+    },
+    {
+        "name": "Enjema",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 15125
+    },
+    {
+        "name": "Eri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.25,
+        "long": 5.55,
+        "elev ft": 987,
+        "pop est": 7152
+    },
+    {
+        "name": "Ero",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 6.69,
+        "elev ft": 180,
+        "pop est": 8245
+    },
+    {
+        "name": "Eroko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 6.71,
+        "elev ft": 830,
+        "pop est": 8570
+    },
+    {
+        "name": "Ete Naw",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 26171
+    },
+    {
+        "name": "Ete Nawaw",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 26171
+    },
+    {
+        "name": "Ete Nawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.13,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 26171
+    },
+    {
+        "name": "Etobe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 6.72,
+        "elev ft": 246,
+        "pop est": 10317
+    },
+    {
+        "name": "Etutekpe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Etutekpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Eyika",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 6.3,
+        "elev ft": 997,
+        "pop est": 172914
+    },
+    {
+        "name": "Felelen Buzu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 6.72,
+        "elev ft": 830,
+        "pop est": 22933
+    },
+    {
+        "name": "Filele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 6.72,
+        "elev ft": 830,
+        "pop est": 22933
+    },
+    {
+        "name": "Gbagbachi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.81,
+        "elev ft": 410,
+        "pop est": 9231
+    },
+    {
+        "name": "Gbagede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9067
+    },
+    {
+        "name": "Gbanyada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 7301
+    },
+    {
+        "name": "Gbaqede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 9067
+    },
+    {
+        "name": "Gbaroada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 7301
+    },
+    {
+        "name": "Gbedde",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 6.11,
+        "elev ft": 1699,
+        "pop est": 4242
+    },
+    {
+        "name": "Gbeleko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 4293
+    },
+    {
+        "name": "Gbokoluba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 6.98,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Gbokoluba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 6.72,
+        "elev ft": 360,
+        "pop est": 8731
+    },
+    {
+        "name": "Gboloka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 6.89,
+        "elev ft": 406,
+        "pop est": 9298
+    },
+    {
+        "name": "Gboloko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 6.89,
+        "elev ft": 406,
+        "pop est": 9298
+    },
+    {
+        "name": "Gbonoko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 6.89,
+        "elev ft": 406,
+        "pop est": 9298
+    },
+    {
+        "name": "Gboroada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 7301
+    },
+    {
+        "name": "Gbugbudu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.07,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 6441
+    },
+    {
+        "name": "Geregu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 6.69,
+        "elev ft": 144,
+        "pop est": 8366
+    },
+    {
+        "name": "Gidan Aka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Gidan Alkuru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 11959
+    },
+    {
+        "name": "Giddan Akka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Giwoligyo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 6.93,
+        "elev ft": 849,
+        "pop est": 13093
+    },
+    {
+        "name": "Gori",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.18,
+        "elev ft": 1669,
+        "pop est": 14280
+    },
+    {
+        "name": "Gota",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Gwalawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Gwoche",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Gwolawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Hache",
+        "what": "city",
+        "region": "Kogi State",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 7.74,
+        "elev ft": 508,
+        "pop est": 11501
+    },
+    {
+        "name": "Hoche",
+        "what": "city",
+        "region": "Kogi State",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 7.74,
+        "elev ft": 508,
+        "pop est": 11501
+    },
+    {
+        "name": "Ibaoka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 6.73,
+        "elev ft": 262,
+        "pop est": 8421
+    },
+    {
+        "name": "Ibaoko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 6.73,
+        "elev ft": 262,
+        "pop est": 8421
+    },
+    {
+        "name": "Ibie Nale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.05,
+        "long": 6.3,
+        "elev ft": 830,
+        "pop est": 95702
+    },
+    {
+        "name": "Ibochi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 8675
+    },
+    {
+        "name": "Iboko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ibreda",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.96,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Ibredu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.96,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Icheu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.77,
+        "elev ft": 830,
+        "pop est": 8963
+    },
+    {
+        "name": "Ichuchu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 6.67,
+        "elev ft": 190,
+        "pop est": 9147
+    },
+    {
+        "name": "Idah",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.74,
+        "elev ft": 259,
+        "pop est": 74079
+    },
+    {
+        "name": "Idibo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.59,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Ifa Afaw",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 20939
+    },
+    {
+        "name": "Ifaku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 13187
+    },
+    {
+        "name": "Ife",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 5.77,
+        "elev ft": 1669,
+        "pop est": 5960
+    },
+    {
+        "name": "Iga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 13007
+    },
+    {
+        "name": "Igabada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.02,
+        "elev ft": 403,
+        "pop est": 9700
+    },
+    {
+        "name": "Igadaba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.04,
+        "long": 7.02,
+        "elev ft": 403,
+        "pop est": 9700
+    },
+    {
+        "name": "Igadim",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.08,
+        "elev ft": 1243,
+        "pop est": 13261
+    },
+    {
+        "name": "Igbadim",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.08,
+        "elev ft": 1243,
+        "pop est": 13261
+    },
+    {
+        "name": "Igbadin",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.08,
+        "elev ft": 1243,
+        "pop est": 13261
+    },
+    {
+        "name": "Igbagun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.74,
+        "elev ft": 1669,
+        "pop est": 7869
+    },
+    {
+        "name": "Igbolaere",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.99,
+        "elev ft": 1669,
+        "pop est": 9609
+    },
+    {
+        "name": "Igia",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 6.03,
+        "elev ft": 1669,
+        "pop est": 6010
+    },
+    {
+        "name": "Igodo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Igwogwo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 17827
+    },
+    {
+        "name": "Ijankuta",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.64,
+        "elev ft": 193,
+        "pop est": 9194
+    },
+    {
+        "name": "Ika",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 11234
+    },
+    {
+        "name": "Ike",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Ikebe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ikinri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.87,
+        "elev ft": 1669,
+        "pop est": 9438
+    },
+    {
+        "name": "Ikpeyero",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Ilainya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ilainyo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ilajyno",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ilashe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 6.5,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Iloshi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 6.5,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Ilubusechi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 6.45,
+        "elev ft": 944,
+        "pop est": 8214
+    },
+    {
+        "name": "Ilukpa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 8723
+    },
+    {
+        "name": "Imale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 16431
+    },
+    {
+        "name": "Imane",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 16431
+    },
+    {
+        "name": "Imani",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 16431
+    },
+    {
+        "name": "Inegu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Inequ",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Inwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 19670
+    },
+    {
+        "name": "Inye",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Iole",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Irahun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 6.66,
+        "elev ft": 203,
+        "pop est": 7484
+    },
+    {
+        "name": "Iroko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 6.71,
+        "elev ft": 830,
+        "pop est": 8570
+    },
+    {
+        "name": "Isanlu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.29,
+        "long": 5.82,
+        "elev ft": 1026,
+        "pop est": 5960
+    },
+    {
+        "name": "Isanlu Makatu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 5.8,
+        "elev ft": 1030,
+        "pop est": 5960
+    },
+    {
+        "name": "Isanlu-Itedo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.29,
+        "long": 5.82,
+        "elev ft": 1026,
+        "pop est": 5960
+    },
+    {
+        "name": "Isanlu-Itedoijowa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 5.84,
+        "elev ft": 1013,
+        "pop est": 5960
+    },
+    {
+        "name": "Isanlu-Makutu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 5.8,
+        "elev ft": 1030,
+        "pop est": 5960
+    },
+    {
+        "name": "Isanlu-Mopo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.26,
+        "long": 5.84,
+        "elev ft": 997,
+        "pop est": 5960
+    },
+    {
+        "name": "Itama",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 12943
+    },
+    {
+        "name": "Itobe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 6.72,
+        "elev ft": 246,
+        "pop est": 10317
+    },
+    {
+        "name": "Iya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.78,
+        "long": 5.8,
+        "elev ft": 1669,
+        "pop est": 11803
+    },
+    {
+        "name": "Iyadi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 10254
+    },
+    {
+        "name": "Iyale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 13255
+    },
+    {
+        "name": "Iyara",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 8723
+    },
+    {
+        "name": "Iyeddi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 10254
+    },
+    {
+        "name": "Iyede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Iyedi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 10254
+    },
+    {
+        "name": "Iyedi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Jato",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 10795
+    },
+    {
+        "name": "Jeri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 12192
+    },
+    {
+        "name": "Jerkama",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 9088
+    },
+    {
+        "name": "Kabba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 6.08,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Kakun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 6.12,
+        "elev ft": 1669,
+        "pop est": 4209
+    },
+    {
+        "name": "Kakun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 6.12,
+        "elev ft": 1669,
+        "pop est": 4244
+    },
+    {
+        "name": "Kakun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.12,
+        "elev ft": 1669,
+        "pop est": 6010
+    },
+    {
+        "name": "Kara",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Kasuan Awuru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Keffi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 7.05,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Kefi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 7.05,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Kipi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Koji",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 6.74,
+        "elev ft": 830,
+        "pop est": 8744
+    },
+    {
+        "name": "Kokuri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.21,
+        "elev ft": 387,
+        "pop est": 7700
+    },
+    {
+        "name": "Konu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Koton Karifi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 7025
+    },
+    {
+        "name": "Koton-Karfe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 7025
+    },
+    {
+        "name": "Kpai",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 6.8,
+        "elev ft": 370,
+        "pop est": 12215
+    },
+    {
+        "name": "Kpatakpali",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 6.79,
+        "elev ft": 396,
+        "pop est": 31334
+    },
+    {
+        "name": "Kpatakpoli",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 6.79,
+        "elev ft": 396,
+        "pop est": 31334
+    },
+    {
+        "name": "Kpato",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 6.8,
+        "elev ft": 370,
+        "pop est": 12215
+    },
+    {
+        "name": "Kpoinya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.71,
+        "elev ft": 1669,
+        "pop est": 6873
+    },
+    {
+        "name": "Kukuri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.21,
+        "elev ft": 387,
+        "pop est": 7700
+    },
+    {
+        "name": "Kuma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 6.8,
+        "elev ft": 242,
+        "pop est": 6209
+    },
+    {
+        "name": "Kuroko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 6.75,
+        "elev ft": 272,
+        "pop est": 3591
+    },
+    {
+        "name": "Kuroko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 6.73,
+        "elev ft": 830,
+        "pop est": 8590
+    },
+    {
+        "name": "Kwiambana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 9280
+    },
+    {
+        "name": "Lafa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Laffa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Lafia",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Lafo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Lairdstown",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.74,
+        "elev ft": 180,
+        "pop est": 53881
+    },
+    {
+        "name": "Lankpeshi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 6.11,
+        "elev ft": 1223,
+        "pop est": 15817
+    },
+    {
+        "name": "Liyadi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 10254
+    },
+    {
+        "name": "Loko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Lokoja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.74,
+        "elev ft": 180,
+        "pop est": 53881
+    },
+    {
+        "name": "Lokpe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 7.03,
+        "elev ft": 1669,
+        "pop est": 13261
+    },
+    {
+        "name": "Lundu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.02,
+        "elev ft": 370,
+        "pop est": 7834
+    },
+    {
+        "name": "Lupa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.97,
+        "elev ft": 1669,
+        "pop est": 8723
+    },
+    {
+        "name": "Magogo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.15,
+        "elev ft": 1669,
+        "pop est": 19147
+    },
+    {
+        "name": "Magongo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.15,
+        "elev ft": 1669,
+        "pop est": 19147
+    },
+    {
+        "name": "Magu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 9384
+    },
+    {
+        "name": "Maiagu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 8927
+    },
+    {
+        "name": "Maiogu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 8927
+    },
+    {
+        "name": "Megori",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 6.27,
+        "elev ft": 1669,
+        "pop est": 15540
+    },
+    {
+        "name": "Mopa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.1,
+        "long": 5.89,
+        "elev ft": 1056,
+        "pop est": 5960
+    },
+    {
+        "name": "Mope",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.1,
+        "long": 5.89,
+        "elev ft": 1056,
+        "pop est": 5960
+    },
+    {
+        "name": "Mozum",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 8574
+    },
+    {
+        "name": "Nashe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 6.55,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Nemoa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 8970
+    },
+    {
+        "name": "Nimua",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 8970
+    },
+    {
+        "name": "Nosee",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Numai",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 6.77,
+        "elev ft": 272,
+        "pop est": 46326
+    },
+    {
+        "name": "Nupe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 11016
+    },
+    {
+        "name": "Nwajala",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 6.8,
+        "elev ft": 344,
+        "pop est": 8642
+    },
+    {
+        "name": "Nyangpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Nyankpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Nyebu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 7186
+    },
+    {
+        "name": "Nyimoa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 8970
+    },
+    {
+        "name": "Obajana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.43,
+        "elev ft": 830,
+        "pop est": 2268
+    },
+    {
+        "name": "Obangede",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 6.2,
+        "elev ft": 921,
+        "pop est": 131132
+    },
+    {
+        "name": "Obedamagu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 12230
+    },
+    {
+        "name": "Obele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 6.16,
+        "elev ft": 1062,
+        "pop est": 6221
+    },
+    {
+        "name": "Obolimi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ocbanja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ochadam",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 7.04,
+        "elev ft": 1079,
+        "pop est": 13261
+    },
+    {
+        "name": "Ochanja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Oche",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 11509
+    },
+    {
+        "name": "Ochigi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ochikwachikwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Odagba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 10548
+    },
+    {
+        "name": "Odagbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 10548
+    },
+    {
+        "name": "Odeke",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 6.8,
+        "elev ft": 295,
+        "pop est": 8642
+    },
+    {
+        "name": "Odenyi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.78,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Odo Ore",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.25,
+        "long": 5.55,
+        "elev ft": 987,
+        "pop est": 7152
+    },
+    {
+        "name": "Odo-Ere",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.25,
+        "long": 5.55,
+        "elev ft": 987,
+        "pop est": 7152
+    },
+    {
+        "name": "Odoape",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 6.21,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Odobu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 6.85,
+        "elev ft": 360,
+        "pop est": 8642
+    },
+    {
+        "name": "Odokoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 6.0,
+        "elev ft": 1669,
+        "pop est": 9387
+    },
+    {
+        "name": "Odu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Odu Ologba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Oduape",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 6.21,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Odugbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Oduru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Ofafu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.17,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 10537
+    },
+    {
+        "name": "Ofante",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 29874
+    },
+    {
+        "name": "Ofanwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 11541
+    },
+    {
+        "name": "Ofokofi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 13252
+    },
+    {
+        "name": "Ofonwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 11541
+    },
+    {
+        "name": "Oforachi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Oforochi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ofugo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogain",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 6.46,
+        "elev ft": 1102,
+        "pop est": 8067
+    },
+    {
+        "name": "Ogaine",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 6.68,
+        "elev ft": 196,
+        "pop est": 6867
+    },
+    {
+        "name": "Ogale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 7724
+    },
+    {
+        "name": "Ogali",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 7724
+    },
+    {
+        "name": "Ogaminan",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 6.22,
+        "elev ft": 954,
+        "pop est": 297969
+    },
+    {
+        "name": "Ogaminana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 6.22,
+        "elev ft": 954,
+        "pop est": 297969
+    },
+    {
+        "name": "Ogba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 5923
+    },
+    {
+        "name": "Ogbagbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ogbagwu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.01,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 12309
+    },
+    {
+        "name": "Ogbe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 15572
+    },
+    {
+        "name": "Ogbobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 14811
+    },
+    {
+        "name": "Ogbobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 30457
+    },
+    {
+        "name": "Ogbogbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.11,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 14811
+    },
+    {
+        "name": "Ogbogbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ogbogido",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ogbogodo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ogbolimi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ogbomaha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogbonaha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogbonicha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 10522
+    },
+    {
+        "name": "Ogbono",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 6.15,
+        "elev ft": 1669,
+        "pop est": 109213
+    },
+    {
+        "name": "Ogbonoha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogbonoma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogboyoga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Oghe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 11509
+    },
+    {
+        "name": "Ogidi Kabba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 6.01,
+        "elev ft": 1669,
+        "pop est": 8762
+    },
+    {
+        "name": "Ogoddo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 6.51,
+        "elev ft": 830,
+        "pop est": 8173
+    },
+    {
+        "name": "Ogodo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 20797
+    },
+    {
+        "name": "Ogodo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 47332
+    },
+    {
+        "name": "Ogodu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Ogogba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 10573
+    },
+    {
+        "name": "Ogonitsoa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 10522
+    },
+    {
+        "name": "Ogori",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 6.18,
+        "elev ft": 1669,
+        "pop est": 14280
+    },
+    {
+        "name": "Ogpe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 15572
+    },
+    {
+        "name": "Ogrugru",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 6.95,
+        "elev ft": 324,
+        "pop est": 14204
+    },
+    {
+        "name": "Oguaobono",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 11086
+    },
+    {
+        "name": "Ogudbono",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 11086
+    },
+    {
+        "name": "Ogudobono",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 11086
+    },
+    {
+        "name": "Oguga",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 22916
+    },
+    {
+        "name": "Ogugu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 22916
+    },
+    {
+        "name": "Ogum",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 7528
+    },
+    {
+        "name": "Oguma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 7528
+    },
+    {
+        "name": "Ogume",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Ogunka",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.74,
+        "elev ft": 1669,
+        "pop est": 7869
+    },
+    {
+        "name": "Ogurugu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 6.95,
+        "elev ft": 324,
+        "pop est": 14204
+    },
+    {
+        "name": "Ogwo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 6.64,
+        "elev ft": 193,
+        "pop est": 9010
+    },
+    {
+        "name": "Ogwoawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Ogwogbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 9851
+    },
+    {
+        "name": "Ogwonichi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 9626
+    },
+    {
+        "name": "Ogwoniehi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 9626
+    },
+    {
+        "name": "Ohaifo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.52,
+        "elev ft": 403,
+        "pop est": 10916
+    },
+    {
+        "name": "Ohaifor",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.52,
+        "elev ft": 403,
+        "pop est": 10916
+    },
+    {
+        "name": "Ohaketi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 6.14,
+        "elev ft": 1204,
+        "pop est": 5917
+    },
+    {
+        "name": "Ohakite",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 6.14,
+        "elev ft": 1204,
+        "pop est": 5917
+    },
+    {
+        "name": "Ohizen Katurou",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 6.25,
+        "elev ft": 1000,
+        "pop est": 364021
+    },
+    {
+        "name": "Ohoile",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 7.0,
+        "elev ft": 898,
+        "pop est": 11839
+    },
+    {
+        "name": "Ohuada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 6.99,
+        "elev ft": 1115,
+        "pop est": 13261
+    },
+    {
+        "name": "Ohunene",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 6.67,
+        "elev ft": 383,
+        "pop est": 8115
+    },
+    {
+        "name": "Oje",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 11509
+    },
+    {
+        "name": "Oje",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.68,
+        "elev ft": 196,
+        "pop est": 9101
+    },
+    {
+        "name": "Ojiri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.18,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 13085
+    },
+    {
+        "name": "Ojo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 11509
+    },
+    {
+        "name": "Ojokiti",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ojuba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 6.65,
+        "elev ft": 196,
+        "pop est": 7041
+    },
+    {
+        "name": "Ojuwueyde",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Ojuwueyele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Okaba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 12617
+    },
+    {
+        "name": "Okaito",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 6.2,
+        "elev ft": 905,
+        "pop est": 92926
+    },
+    {
+        "name": "Okaitu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 6.2,
+        "elev ft": 905,
+        "pop est": 92926
+    },
+    {
+        "name": "Okama",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 9069
+    },
+    {
+        "name": "Okebukun",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 6.16,
+        "elev ft": 1669,
+        "pop est": 4023
+    },
+    {
+        "name": "Okedayo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 6.13,
+        "elev ft": 1669,
+        "pop est": 4742
+    },
+    {
+        "name": "Oken",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 11390
+    },
+    {
+        "name": "Okene",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 6.24,
+        "elev ft": 1154,
+        "pop est": 417229
+    },
+    {
+        "name": "Okeni",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 6.24,
+        "elev ft": 1154,
+        "pop est": 417229
+    },
+    {
+        "name": "Okenyi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 11390
+    },
+    {
+        "name": "Oko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 7301
+    },
+    {
+        "name": "Okobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 11295
+    },
+    {
+        "name": "Okokengi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 6.71,
+        "elev ft": 219,
+        "pop est": 10791
+    },
+    {
+        "name": "Okokete",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 7.07,
+        "elev ft": 416,
+        "pop est": 12583
+    },
+    {
+        "name": "Okoketti",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.1,
+        "long": 7.07,
+        "elev ft": 416,
+        "pop est": 12583
+    },
+    {
+        "name": "Okomoba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.66,
+        "elev ft": 830,
+        "pop est": 1788
+    },
+    {
+        "name": "Okopu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.07,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 10367
+    },
+    {
+        "name": "Okoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 6.05,
+        "elev ft": 1702,
+        "pop est": 7122
+    },
+    {
+        "name": "Okoro",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 6.99,
+        "elev ft": 380,
+        "pop est": 5697
+    },
+    {
+        "name": "Okpa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 6.11,
+        "elev ft": 1669,
+        "pop est": 4680
+    },
+    {
+        "name": "Okpakeri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Okpakiri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Okpe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 15572
+    },
+    {
+        "name": "Okpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 20453
+    },
+    {
+        "name": "Okpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 6.74,
+        "elev ft": 249,
+        "pop est": 11262
+    },
+    {
+        "name": "Okpongi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 6.97,
+        "elev ft": 364,
+        "pop est": 8642
+    },
+    {
+        "name": "Okuba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Okume",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 6.77,
+        "elev ft": 288,
+        "pop est": 21710
+    },
+    {
+        "name": "Okwoengele",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 6.99,
+        "elev ft": 360,
+        "pop est": 11189
+    },
+    {
+        "name": "Ola",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 11118
+    },
+    {
+        "name": "Ola Ogba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Olagi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 12899
+    },
+    {
+        "name": "Olah",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 11118
+    },
+    {
+        "name": "Olaji",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 12899
+    },
+    {
+        "name": "Oledo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.15,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 24439
+    },
+    {
+        "name": "Oliya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Olo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 11118
+    },
+    {
+        "name": "Ologba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Olojoba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Olowo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 6.98,
+        "elev ft": 866,
+        "pop est": 11975
+    },
+    {
+        "name": "Olufofo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 12427
+    },
+    {
+        "name": "Olya",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Onado",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 6.67,
+        "elev ft": 308,
+        "pop est": 8247
+    },
+    {
+        "name": "Onari",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 5.74,
+        "elev ft": 1669,
+        "pop est": 5960
+    },
+    {
+        "name": "Onugba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 12308
+    },
+    {
+        "name": "Onukpo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Onyadega",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 6.68,
+        "elev ft": 206,
+        "pop est": 7150
+    },
+    {
+        "name": "Onyebu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.02,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6028
+    },
+    {
+        "name": "Onyedega",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 6.68,
+        "elev ft": 206,
+        "pop est": 7150
+    },
+    {
+        "name": "Opada",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 6.97,
+        "elev ft": 987,
+        "pop est": 13069
+    },
+    {
+        "name": "Opanda",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 7.47,
+        "elev ft": 406,
+        "pop est": 11026
+    },
+    {
+        "name": "Opandha",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 7.47,
+        "elev ft": 406,
+        "pop est": 11026
+    },
+    {
+        "name": "Opu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.22,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 19378
+    },
+    {
+        "name": "Osara",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 6.43,
+        "elev ft": 830,
+        "pop est": 10948
+    },
+    {
+        "name": "Osungwe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 6.21,
+        "elev ft": 898,
+        "pop est": 105882
+    },
+    {
+        "name": "Ota",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 6.7,
+        "elev ft": 200,
+        "pop est": 8681
+    },
+    {
+        "name": "Otochi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 8667
+    },
+    {
+        "name": "Otoduma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 6.68,
+        "elev ft": 193,
+        "pop est": 6612
+    },
+    {
+        "name": "Otu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 6.09,
+        "elev ft": 1669,
+        "pop est": 4076
+    },
+    {
+        "name": "Otuapa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.2,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 20833
+    },
+    {
+        "name": "Otuba",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 6.74,
+        "elev ft": 298,
+        "pop est": 2659
+    },
+    {
+        "name": "Otugo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 11026
+    },
+    {
+        "name": "Otunade",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 5.92,
+        "elev ft": 1669,
+        "pop est": 9387
+    },
+    {
+        "name": "Owagala",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 6.8,
+        "elev ft": 344,
+        "pop est": 8642
+    },
+    {
+        "name": "Owubu",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.08,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 6791
+    },
+    {
+        "name": "Paperi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Ponyan",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.73,
+        "elev ft": 1669,
+        "pop est": 5960
+    },
+    {
+        "name": "Ponyan",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.71,
+        "elev ft": 1669,
+        "pop est": 6873
+    },
+    {
+        "name": "Poto",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 6.97,
+        "elev ft": 344,
+        "pop est": 6768
+    },
+    {
+        "name": "Pwekweri",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Sanioko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Shikaku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 6.8,
+        "elev ft": 170,
+        "pop est": 10440
+    },
+    {
+        "name": "Shintaku",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 6.76,
+        "elev ft": 830,
+        "pop est": 9776
+    },
+    {
+        "name": "Suli",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 7.16,
+        "elev ft": 413,
+        "pop est": 8932
+    },
+    {
+        "name": "Takefi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 9664
+    },
+    {
+        "name": "Takete",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 9664
+    },
+    {
+        "name": "Taketi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 9664
+    },
+    {
+        "name": "Takumena",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 6.72,
+        "elev ft": 830,
+        "pop est": 8721
+    },
+    {
+        "name": "Tandoma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 7.02,
+        "elev ft": 898,
+        "pop est": 13257
+    },
+    {
+        "name": "Toniyonko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Tuaniako",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Tuoniako",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Uboko",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 11295
+    },
+    {
+        "name": "Udenyi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.78,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Ugbobo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 30457
+    },
+    {
+        "name": "Ugbwolawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Ugoli",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 6.51,
+        "elev ft": 830,
+        "pop est": 8046
+    },
+    {
+        "name": "Ugwalawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Ugwolawo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.24,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 11647
+    },
+    {
+        "name": "Ugwuogbo",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 9851
+    },
+    {
+        "name": "Umomi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 13261
+    },
+    {
+        "name": "Unale",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 6.75,
+        "elev ft": 298,
+        "pop est": 8642
+    },
+    {
+        "name": "Ungwa",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 19670
+    },
+    {
+        "name": "Usaman",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Usuman",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 9238
+    },
+    {
+        "name": "Usungwe",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 6.21,
+        "elev ft": 898,
+        "pop est": 105882
+    },
+    {
+        "name": "Utoduma",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 6.93,
+        "long": 6.68,
+        "elev ft": 193,
+        "pop est": 6612
+    },
+    {
+        "name": "Waye",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 6.61,
+        "elev ft": 994,
+        "pop est": 1788
+    },
+    {
+        "name": "Wodata",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 6.8,
+        "elev ft": 213,
+        "pop est": 6070
+    },
+    {
+        "name": "Yanemi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 6.75,
+        "elev ft": 396,
+        "pop est": 3278
+    },
+    {
+        "name": "Yari",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 13255
+    },
+    {
+        "name": "Yari",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 12192
+    },
+    {
+        "name": "Yashiyali",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 6.79,
+        "elev ft": 203,
+        "pop est": 5598
+    },
+    {
+        "name": "Yasisule",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 6.8,
+        "elev ft": 209,
+        "pop est": 6070
+    },
+    {
+        "name": "Zagana",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 6.96,
+        "elev ft": 324,
+        "pop est": 6470
+    },
+    {
+        "name": "Zagi",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 7279
+    },
+    {
+        "name": "Zarkama",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 9088
+    },
+    {
+        "name": "Zokoja",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 6.74,
+        "elev ft": 180,
+        "pop est": 53881
+    },
+    {
+        "name": "Zongondaji",
+        "what": "city",
+        "region": "Kogi",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 6.64,
+        "elev ft": 830,
+        "pop est": 10672
+    }
+]

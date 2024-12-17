@@ -1,0 +1,3452 @@
+[
+    {
+        "name": "Baba Agba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 323440
+    },
+    {
+        "name": "Baba Ibeji",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 225096
+    },
+    {
+        "name": "Baba Sale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 3.86,
+        "elev ft": 997,
+        "pop est": 17203
+    },
+    {
+        "name": "Baba Shango",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.88,
+        "elev ft": 885,
+        "pop est": 13313
+    },
+    {
+        "name": "Babamogba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.96,
+        "elev ft": 925,
+        "pop est": 14046
+    },
+    {
+        "name": "Babasango",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.88,
+        "elev ft": 885,
+        "pop est": 13313
+    },
+    {
+        "name": "Bada",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.87,
+        "elev ft": 830,
+        "pop est": 54439
+    },
+    {
+        "name": "Bada",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 169450
+    },
+    {
+        "name": "Bada",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 9993
+    },
+    {
+        "name": "Bagadaje",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 94404
+    },
+    {
+        "name": "Baiyegun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.92,
+        "elev ft": 964,
+        "pop est": 43621
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 84755
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 12890
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 61779
+    },
+    {
+        "name": "Bale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.88,
+        "elev ft": 830,
+        "pop est": 113071
+    },
+    {
+        "name": "Bale Oso",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.84,
+        "elev ft": 830,
+        "pop est": 55321
+    },
+    {
+        "name": "Baloguh",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 208392
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.88,
+        "elev ft": 862,
+        "pop est": 17433
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 93203
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 313203
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.9,
+        "elev ft": 918,
+        "pop est": 18174
+    },
+    {
+        "name": "Bandele",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 13703
+    },
+    {
+        "name": "Bangbaiye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 11102
+    },
+    {
+        "name": "Bantu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.96,
+        "elev ft": 885,
+        "pop est": 13507
+    },
+    {
+        "name": "Bare",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 99885
+    },
+    {
+        "name": "Base",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.96,
+        "elev ft": 964,
+        "pop est": 17329
+    },
+    {
+        "name": "Bashanu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 13075
+    },
+    {
+        "name": "Bello",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 3.96,
+        "elev ft": 1003,
+        "pop est": 16919
+    },
+    {
+        "name": "Beyioku",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 4.0,
+        "elev ft": 964,
+        "pop est": 11686
+    },
+    {
+        "name": "Bode Igbo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.39,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 300536
+    },
+    {
+        "name": "Bogunmbe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 9897
+    },
+    {
+        "name": "Boko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 246380
+    },
+    {
+        "name": "Bola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 355315
+    },
+    {
+        "name": "Bola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 97953
+    },
+    {
+        "name": "Bota",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 652518
+    },
+    {
+        "name": "Bukola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 298432
+    },
+    {
+        "name": "Dabiri",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 84755
+    },
+    {
+        "name": "Dagilawgba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 74931
+    },
+    {
+        "name": "Dagilogba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 74931
+    },
+    {
+        "name": "Dairo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 11423
+    },
+    {
+        "name": "Dairo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 27807
+    },
+    {
+        "name": "Dakeja",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.93,
+        "elev ft": 1010,
+        "pop est": 16516
+    },
+    {
+        "name": "Dalegan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 54426
+    },
+    {
+        "name": "Dalute",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.87,
+        "elev ft": 990,
+        "pop est": 14979
+    },
+    {
+        "name": "Dalute",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 11931
+    },
+    {
+        "name": "Dapo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 3.95,
+        "elev ft": 1003,
+        "pop est": 17433
+    },
+    {
+        "name": "Deidun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.91,
+        "elev ft": 941,
+        "pop est": 32729
+    },
+    {
+        "name": "Dende",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 16945
+    },
+    {
+        "name": "Disu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.83,
+        "elev ft": 849,
+        "pop est": 17273
+    },
+    {
+        "name": "Ebawyawmi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 10899
+    },
+    {
+        "name": "Eboyomi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 10899
+    },
+    {
+        "name": "Egan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.82,
+        "elev ft": 862,
+        "pop est": 16913
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 4.05,
+        "elev ft": 830,
+        "pop est": 179668
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 11757
+    },
+    {
+        "name": "Egbeda Tuba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 40170
+    },
+    {
+        "name": "Ege",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 173707
+    },
+    {
+        "name": "Egun Ola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.87,
+        "elev ft": 984,
+        "pop est": 15438
+    },
+    {
+        "name": "Ejitohi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 13212
+    },
+    {
+        "name": "Ejitolu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 13212
+    },
+    {
+        "name": "Ejoekun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 249331
+    },
+    {
+        "name": "Ekefa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.98,
+        "elev ft": 892,
+        "pop est": 13279
+    },
+    {
+        "name": "Ekeola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.95,
+        "elev ft": 885,
+        "pop est": 13726
+    },
+    {
+        "name": "Ekerin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 140539
+    },
+    {
+        "name": "Eleba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 517239
+    },
+    {
+        "name": "Elebolo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.95,
+        "elev ft": 997,
+        "pop est": 17433
+    },
+    {
+        "name": "Elebu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.9,
+        "elev ft": 830,
+        "pop est": 82252
+    },
+    {
+        "name": "Eleda",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 121353
+    },
+    {
+        "name": "Elede",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.97,
+        "elev ft": 908,
+        "pop est": 13629
+    },
+    {
+        "name": "Elegu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 11632
+    },
+    {
+        "name": "Elegun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.9,
+        "elev ft": 859,
+        "pop est": 17382
+    },
+    {
+        "name": "Elegun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 505648
+    },
+    {
+        "name": "Elegunde",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 53834
+    },
+    {
+        "name": "Eleiyele",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.83,
+        "elev ft": 885,
+        "pop est": 16523
+    },
+    {
+        "name": "Eleiyele",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 123834
+    },
+    {
+        "name": "Eleko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.97,
+        "elev ft": 974,
+        "pop est": 17193
+    },
+    {
+        "name": "Elepe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.96,
+        "elev ft": 974,
+        "pop est": 17427
+    },
+    {
+        "name": "Elere",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.37,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 383281
+    },
+    {
+        "name": "Elerin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.84,
+        "elev ft": 830,
+        "pop est": 15672
+    },
+    {
+        "name": "Elero",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.85,
+        "elev ft": 843,
+        "pop est": 17433
+    },
+    {
+        "name": "Elesan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.96,
+        "elev ft": 1000,
+        "pop est": 17152
+    },
+    {
+        "name": "Elesin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 312315
+    },
+    {
+        "name": "Elesin Godogbo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 3.87,
+        "elev ft": 997,
+        "pop est": 14651
+    },
+    {
+        "name": "Elesinfunfun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 11140
+    },
+    {
+        "name": "Eleti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.84,
+        "elev ft": 915,
+        "pop est": 17402
+    },
+    {
+        "name": "Elewe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 11164
+    },
+    {
+        "name": "Elewure",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 12312
+    },
+    {
+        "name": "Eniosa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 60603
+    },
+    {
+        "name": "Epo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 15672
+    },
+    {
+        "name": "Epo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 17433
+    },
+    {
+        "name": "Epo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 3.92,
+        "elev ft": 830,
+        "pop est": 364772
+    },
+    {
+        "name": "Erekete",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 11776
+    },
+    {
+        "name": "Eresu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 197702
+    },
+    {
+        "name": "Erunmu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 346482
+    },
+    {
+        "name": "Eruwa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.42,
+        "elev ft": 830,
+        "pop est": 11175
+    },
+    {
+        "name": "Ese Oke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.99,
+        "elev ft": 915,
+        "pop est": 12843
+    },
+    {
+        "name": "Eyeade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.85,
+        "elev ft": 908,
+        "pop est": 17433
+    },
+    {
+        "name": "Fabode",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.86,
+        "elev ft": 830,
+        "pop est": 83344
+    },
+    {
+        "name": "Fagunja",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.86,
+        "elev ft": 964,
+        "pop est": 15438
+    },
+    {
+        "name": "Fagunwa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.86,
+        "elev ft": 964,
+        "pop est": 15438
+    },
+    {
+        "name": "Fajo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 152647
+    },
+    {
+        "name": "Fake",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 10423
+    },
+    {
+        "name": "Fakemi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 10589
+    },
+    {
+        "name": "Fakore",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.89,
+        "elev ft": 1003,
+        "pop est": 15876
+    },
+    {
+        "name": "Fakorede",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 392554
+    },
+    {
+        "name": "Fakorede",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.89,
+        "elev ft": 1003,
+        "pop est": 15876
+    },
+    {
+        "name": "Falade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 10643
+    },
+    {
+        "name": "Famuti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 12561
+    },
+    {
+        "name": "Faruku",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 3.89,
+        "elev ft": 830,
+        "pop est": 347942
+    },
+    {
+        "name": "Fasola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.97,
+        "elev ft": 849,
+        "pop est": 13396
+    },
+    {
+        "name": "Fehintoke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.84,
+        "elev ft": 830,
+        "pop est": 14274
+    },
+    {
+        "name": "Fenwa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 78866
+    },
+    {
+        "name": "Fiditi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.92,
+        "elev ft": 990,
+        "pop est": 17382
+    },
+    {
+        "name": "Foranbi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.92,
+        "elev ft": 912,
+        "pop est": 62909
+    },
+    {
+        "name": "Gbagba Koto",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 40170
+    },
+    {
+        "name": "Gbagi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 189201
+    },
+    {
+        "name": "Gbamola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.94,
+        "elev ft": 898,
+        "pop est": 39957
+    },
+    {
+        "name": "Gbaoda",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 178285
+    },
+    {
+        "name": "Gbedeogun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.3,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 78969
+    },
+    {
+        "name": "Gbegbaje",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 12770
+    },
+    {
+        "name": "Gbesinra",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.85,
+        "elev ft": 839,
+        "pop est": 18130
+    },
+    {
+        "name": "Gege",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 309230
+    },
+    {
+        "name": "Giwa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.94,
+        "elev ft": 872,
+        "pop est": 14727
+    },
+    {
+        "name": "Gogo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 3.99,
+        "elev ft": 879,
+        "pop est": 16371
+    },
+    {
+        "name": "Gudugbu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.98,
+        "elev ft": 954,
+        "pop est": 16609
+    },
+    {
+        "name": "Ibadan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 488008
+    },
+    {
+        "name": "Ibadana",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 488008
+    },
+    {
+        "name": "Ibadanas",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 488008
+    },
+    {
+        "name": "Ibadano",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 488008
+    },
+    {
+        "name": "Iddo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 9255
+    },
+    {
+        "name": "Idi Emi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.87,
+        "elev ft": 997,
+        "pop est": 16297
+    },
+    {
+        "name": "Idi Iroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.87,
+        "elev ft": 830,
+        "pop est": 692079
+    },
+    {
+        "name": "Idi Ito",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.91,
+        "elev ft": 869,
+        "pop est": 17407
+    },
+    {
+        "name": "Idi Iyalode",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 15041
+    },
+    {
+        "name": "Idi Iyeye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 13118
+    },
+    {
+        "name": "Idi Omo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 108939
+    },
+    {
+        "name": "Idi Ope",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.92,
+        "elev ft": 908,
+        "pop est": 18437
+    },
+    {
+        "name": "Idi Osan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 12844
+    },
+    {
+        "name": "Idi Ose",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 143203
+    },
+    {
+        "name": "Idi-Ayunre",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.23,
+        "long": 3.86,
+        "elev ft": 416,
+        "pop est": 41297
+    },
+    {
+        "name": "Idiapa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 17104
+    },
+    {
+        "name": "Idiaraba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.87,
+        "elev ft": 994,
+        "pop est": 17177
+    },
+    {
+        "name": "Idioke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.87,
+        "elev ft": 839,
+        "pop est": 31434
+    },
+    {
+        "name": "Idiori",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.94,
+        "elev ft": 892,
+        "pop est": 14243
+    },
+    {
+        "name": "Idioro",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.33,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 624152
+    },
+    {
+        "name": "Idioro",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 261539
+    },
+    {
+        "name": "Idiosan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 15616
+    },
+    {
+        "name": "Idiosan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 390157
+    },
+    {
+        "name": "Idiosan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 247814
+    },
+    {
+        "name": "Idipopo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.88,
+        "elev ft": 875,
+        "pop est": 13943
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.82,
+        "elev ft": 866,
+        "pop est": 16210
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 16339
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 11556
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 196663
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 3.95,
+        "elev ft": 912,
+        "pop est": 15050
+    },
+    {
+        "name": "Idiroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.88,
+        "elev ft": 830,
+        "pop est": 54482
+    },
+    {
+        "name": "Idirono",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 54426
+    },
+    {
+        "name": "Idisin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.86,
+        "elev ft": 997,
+        "pop est": 16282
+    },
+    {
+        "name": "Ido",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 9255
+    },
+    {
+        "name": "Idowu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 10737
+    },
+    {
+        "name": "Idowu Ajawbaw",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.93,
+        "elev ft": 872,
+        "pop est": 15868
+    },
+    {
+        "name": "Idowu Oko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.98,
+        "elev ft": 1003,
+        "pop est": 13931
+    },
+    {
+        "name": "Igbagbo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 3.92,
+        "elev ft": 931,
+        "pop est": 15257
+    },
+    {
+        "name": "Igbeti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.75,
+        "long": 4.13,
+        "elev ft": 1669,
+        "pop est": 5197
+    },
+    {
+        "name": "Igbetti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.75,
+        "long": 4.13,
+        "elev ft": 1669,
+        "pop est": 5197
+    },
+    {
+        "name": "Igbira",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 14214
+    },
+    {
+        "name": "Igbo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 17433
+    },
+    {
+        "name": "Igbo-Awra",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 3.29,
+        "elev ft": 830,
+        "pop est": 52655
+    },
+    {
+        "name": "Igbo-Ora",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 3.29,
+        "elev ft": 830,
+        "pop est": 52655
+    },
+    {
+        "name": "Igbodi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 173707
+    },
+    {
+        "name": "Igboho",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.84,
+        "long": 3.76,
+        "elev ft": 1669,
+        "pop est": 33284
+    },
+    {
+        "name": "Igbona",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 9737
+    },
+    {
+        "name": "Ijaiye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.85,
+        "elev ft": 931,
+        "pop est": 13678
+    },
+    {
+        "name": "Ijaiye Orile",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.85,
+        "elev ft": 931,
+        "pop est": 13678
+    },
+    {
+        "name": "Ijako-Orile",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.85,
+        "elev ft": 931,
+        "pop est": 13678
+    },
+    {
+        "name": "Ijara",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 138185
+    },
+    {
+        "name": "Ikanmodi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 12152
+    },
+    {
+        "name": "Ikefa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 150987
+    },
+    {
+        "name": "Ikefun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 3.83,
+        "elev ft": 846,
+        "pop est": 14081
+    },
+    {
+        "name": "Ikereku",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.98,
+        "elev ft": 951,
+        "pop est": 13275
+    },
+    {
+        "name": "Ikoroku",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.98,
+        "elev ft": 951,
+        "pop est": 13275
+    },
+    {
+        "name": "Ikoyi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.24,
+        "long": 4.17,
+        "elev ft": 1003,
+        "pop est": 6556
+    },
+    {
+        "name": "Ikoyi-Ile",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.24,
+        "long": 4.17,
+        "elev ft": 1003,
+        "pop est": 6556
+    },
+    {
+        "name": "Iku Oro",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.93,
+        "elev ft": 882,
+        "pop est": 13614
+    },
+    {
+        "name": "Imeleke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.98,
+        "elev ft": 967,
+        "pop est": 15725
+    },
+    {
+        "name": "Imini",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.8,
+        "elev ft": 843,
+        "pop est": 16693
+    },
+    {
+        "name": "Inalende",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 121036
+    },
+    {
+        "name": "Inuodi-Okiti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 148684
+    },
+    {
+        "name": "Ipodo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 3.87,
+        "elev ft": 830,
+        "pop est": 573774
+    },
+    {
+        "name": "Irepodun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.93,
+        "elev ft": 964,
+        "pop est": 42367
+    },
+    {
+        "name": "Iresa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 4.39,
+        "elev ft": 1669,
+        "pop est": 14006
+    },
+    {
+        "name": "Iresa-Adu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 4.39,
+        "elev ft": 1669,
+        "pop est": 14006
+    },
+    {
+        "name": "Iresa-Du",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 4.39,
+        "elev ft": 1669,
+        "pop est": 14006
+    },
+    {
+        "name": "Iresadu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 4.39,
+        "elev ft": 1669,
+        "pop est": 14006
+    },
+    {
+        "name": "Iressa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 4.39,
+        "elev ft": 1669,
+        "pop est": 14006
+    },
+    {
+        "name": "Iroko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.92,
+        "elev ft": 987,
+        "pop est": 15657
+    },
+    {
+        "name": "Isaguna",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.99,
+        "elev ft": 846,
+        "pop est": 13135
+    },
+    {
+        "name": "Isebo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.4,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 459151
+    },
+    {
+        "name": "Iseke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 3.91,
+        "elev ft": 869,
+        "pop est": 18464
+    },
+    {
+        "name": "Iseyin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 3.6,
+        "elev ft": 997,
+        "pop est": 219895
+    },
+    {
+        "name": "Isioye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.82,
+        "elev ft": 849,
+        "pop est": 15404
+    },
+    {
+        "name": "Itori",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 15747
+    },
+    {
+        "name": "Itosi Akowe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 16914
+    },
+    {
+        "name": "Iware",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 14981
+    },
+    {
+        "name": "Iware",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.96,
+        "elev ft": 997,
+        "pop est": 15791
+    },
+    {
+        "name": "Iwere",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 3.09,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Iwere-Ile",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 3.09,
+        "elev ft": 830,
+        "pop est": 8642
+    },
+    {
+        "name": "Iya Offa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 3.96,
+        "elev ft": 931,
+        "pop est": 14222
+    },
+    {
+        "name": "Iyalode",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 367040
+    },
+    {
+        "name": "Iyana-Ofa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 4.08,
+        "elev ft": 830,
+        "pop est": 14413
+    },
+    {
+        "name": "Iyana-Offa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 4.08,
+        "elev ft": 830,
+        "pop est": 14413
+    },
+    {
+        "name": "Jagun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 17384
+    },
+    {
+        "name": "Jagun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 138693
+    },
+    {
+        "name": "Jagun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 49595
+    },
+    {
+        "name": "Jagun Elesin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 457866
+    },
+    {
+        "name": "Jamoje",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.9,
+        "elev ft": 830,
+        "pop est": 192989
+    },
+    {
+        "name": "Japata",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.91,
+        "elev ft": 869,
+        "pop est": 17423
+    },
+    {
+        "name": "Japota",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.75,
+        "long": 3.95,
+        "elev ft": 935,
+        "pop est": 17286
+    },
+    {
+        "name": "Jarija",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 12233
+    },
+    {
+        "name": "Jatawo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 40002
+    },
+    {
+        "name": "Jobele",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 3.92,
+        "elev ft": 830,
+        "pop est": 33308
+    },
+    {
+        "name": "Kasela",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 154420
+    },
+    {
+        "name": "Kehinsi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.36,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 534316
+    },
+    {
+        "name": "Keriki",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.86,
+        "elev ft": 853,
+        "pop est": 15717
+    },
+    {
+        "name": "Ketu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 12186
+    },
+    {
+        "name": "Kishi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 3.85,
+        "elev ft": 1223,
+        "pop est": 84719
+    },
+    {
+        "name": "Kisi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 3.85,
+        "elev ft": 1223,
+        "pop est": 84719
+    },
+    {
+        "name": "Koari",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 481684
+    },
+    {
+        "name": "Kobiowo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 344065
+    },
+    {
+        "name": "Kogbo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 248287
+    },
+    {
+        "name": "Koitilo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 48498
+    },
+    {
+        "name": "Koiyejo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.26,
+        "long": 3.77,
+        "elev ft": 403,
+        "pop est": 25129
+    },
+    {
+        "name": "Koku",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 21734
+    },
+    {
+        "name": "Kolade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.87,
+        "elev ft": 889,
+        "pop est": 17433
+    },
+    {
+        "name": "Kolomo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 18073
+    },
+    {
+        "name": "Kopolu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 61779
+    },
+    {
+        "name": "Kotiegba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.28,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 247814
+    },
+    {
+        "name": "Krobo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.98,
+        "elev ft": 830,
+        "pop est": 92409
+    },
+    {
+        "name": "Kudefu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.85,
+        "elev ft": 994,
+        "pop est": 16213
+    },
+    {
+        "name": "Kukoyi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.93,
+        "elev ft": 908,
+        "pop est": 25453
+    },
+    {
+        "name": "Kuye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.41,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 288498
+    },
+    {
+        "name": "Labawde",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.98,
+        "elev ft": 849,
+        "pop est": 13283
+    },
+    {
+        "name": "Labekolo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.92,
+        "elev ft": 830,
+        "pop est": 108877
+    },
+    {
+        "name": "Labode",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.98,
+        "elev ft": 849,
+        "pop est": 13283
+    },
+    {
+        "name": "Labua",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 26554
+    },
+    {
+        "name": "Ladunni",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 10511
+    },
+    {
+        "name": "Lafikun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.27,
+        "long": 3.93,
+        "elev ft": 830,
+        "pop est": 194683
+    },
+    {
+        "name": "Lagun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.96,
+        "elev ft": 1003,
+        "pop est": 17152
+    },
+    {
+        "name": "Lakanle",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 17257
+    },
+    {
+        "name": "Lakanpo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 3.83,
+        "elev ft": 849,
+        "pop est": 17433
+    },
+    {
+        "name": "Lalere",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 16339
+    },
+    {
+        "name": "Laleye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 11927
+    },
+    {
+        "name": "Laleye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 12507
+    },
+    {
+        "name": "Lamala",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 21788
+    },
+    {
+        "name": "Lambienu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 17433
+    },
+    {
+        "name": "Lamini",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 3.83,
+        "elev ft": 830,
+        "pop est": 30181
+    },
+    {
+        "name": "Laoye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 13102
+    },
+    {
+        "name": "Lapade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 89462
+    },
+    {
+        "name": "Lapite",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.91,
+        "elev ft": 912,
+        "pop est": 53269
+    },
+    {
+        "name": "Lapon",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.48,
+        "long": 3.95,
+        "elev ft": 830,
+        "pop est": 154420
+    },
+    {
+        "name": "Laro",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.94,
+        "elev ft": 905,
+        "pop est": 56928
+    },
+    {
+        "name": "Lasegbe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.25,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 33861
+    },
+    {
+        "name": "Latayo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 10511
+    },
+    {
+        "name": "Latinwo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.85,
+        "elev ft": 846,
+        "pop est": 13113
+    },
+    {
+        "name": "Lawawshun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.84,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Lawrunwe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.82,
+        "elev ft": 830,
+        "pop est": 12723
+    },
+    {
+        "name": "Layan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 36440
+    },
+    {
+        "name": "Logun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.85,
+        "elev ft": 856,
+        "pop est": 13063
+    },
+    {
+        "name": "Logun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 32626
+    },
+    {
+        "name": "Logun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 13377
+    },
+    {
+        "name": "Loke",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 78872
+    },
+    {
+        "name": "Lonwe",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 11877
+    },
+    {
+        "name": "Madeko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 516173
+    },
+    {
+        "name": "Mafikuyomi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 3.85,
+        "elev ft": 967,
+        "pop est": 17237
+    },
+    {
+        "name": "Makanju",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.93,
+        "elev ft": 964,
+        "pop est": 50855
+    },
+    {
+        "name": "Mawniya",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 95564
+    },
+    {
+        "name": "Mawtunde",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.91,
+        "elev ft": 994,
+        "pop est": 15965
+    },
+    {
+        "name": "Mekun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.79,
+        "elev ft": 830,
+        "pop est": 298432
+    },
+    {
+        "name": "Mele",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.86,
+        "elev ft": 830,
+        "pop est": 32647
+    },
+    {
+        "name": "Merin",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 14364
+    },
+    {
+        "name": "Moga",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 479449
+    },
+    {
+        "name": "Mogaji",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.88,
+        "elev ft": 830,
+        "pop est": 97643
+    },
+    {
+        "name": "Mogaji",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 85911
+    },
+    {
+        "name": "Mogaji",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.9,
+        "elev ft": 830,
+        "pop est": 67786
+    },
+    {
+        "name": "Mohun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 384245
+    },
+    {
+        "name": "Molade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.95,
+        "elev ft": 980,
+        "pop est": 16164
+    },
+    {
+        "name": "Molarere",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.89,
+        "elev ft": 830,
+        "pop est": 52067
+    },
+    {
+        "name": "Moniya",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.91,
+        "elev ft": 830,
+        "pop est": 95564
+    },
+    {
+        "name": "Motosho",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.86,
+        "elev ft": 830,
+        "pop est": 59461
+    },
+    {
+        "name": "Motunde",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.91,
+        "elev ft": 994,
+        "pop est": 15965
+    },
+    {
+        "name": "Nepupa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.81,
+        "elev ft": 830,
+        "pop est": 12177
+    },
+    {
+        "name": "Pakiti",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 38814
+    },
+    {
+        "name": "Pakuru",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 10049
+    },
+    {
+        "name": "Panu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.72,
+        "long": 3.96,
+        "elev ft": 987,
+        "pop est": 17328
+    },
+    {
+        "name": "Panu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.88,
+        "elev ft": 1000,
+        "pop est": 16607
+    },
+    {
+        "name": "Papa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.89,
+        "elev ft": 908,
+        "pop est": 16872
+    },
+    {
+        "name": "Papa Malu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 3.89,
+        "elev ft": 830,
+        "pop est": 144461
+    },
+    {
+        "name": "Patako",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.45,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 51891
+    },
+    {
+        "name": "Podo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.32,
+        "long": 3.87,
+        "elev ft": 830,
+        "pop est": 573774
+    },
+    {
+        "name": "Pokoto",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.99,
+        "elev ft": 830,
+        "pop est": 13160
+    },
+    {
+        "name": "Popo Ola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.88,
+        "elev ft": 997,
+        "pop est": 15872
+    },
+    {
+        "name": "Posi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.88,
+        "elev ft": 885,
+        "pop est": 13352
+    },
+    {
+        "name": "Safejo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 14644
+    },
+    {
+        "name": "Sagbara",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 3.94,
+        "elev ft": 872,
+        "pop est": 13636
+    },
+    {
+        "name": "Saka",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.94,
+        "elev ft": 830,
+        "pop est": 525902
+    },
+    {
+        "name": "Saki",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.67,
+        "long": 3.39,
+        "elev ft": 1669,
+        "pop est": 78618
+    },
+    {
+        "name": "Salako",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.53,
+        "long": 3.96,
+        "elev ft": 830,
+        "pop est": 66476
+    },
+    {
+        "name": "Sale",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.86,
+        "elev ft": 994,
+        "pop est": 16282
+    },
+    {
+        "name": "Sango",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 3.88,
+        "elev ft": 830,
+        "pop est": 322849
+    },
+    {
+        "name": "Sango Bon",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 12233
+    },
+    {
+        "name": "Sangote",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 14806
+    },
+    {
+        "name": "Sangote",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 10802
+    },
+    {
+        "name": "Sanni",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 95152
+    },
+    {
+        "name": "Saribi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.93,
+        "elev ft": 846,
+        "pop est": 71395
+    },
+    {
+        "name": "Seriki",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.92,
+        "elev ft": 830,
+        "pop est": 123222
+    },
+    {
+        "name": "Seriki Oje",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 3.93,
+        "elev ft": 902,
+        "pop est": 26654
+    },
+    {
+        "name": "Shaki",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.67,
+        "long": 3.39,
+        "elev ft": 1669,
+        "pop est": 78618
+    },
+    {
+        "name": "Shanu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 13075
+    },
+    {
+        "name": "Shepeteri",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.62,
+        "long": 3.61,
+        "elev ft": 1230,
+        "pop est": 4321
+    },
+    {
+        "name": "Siba",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 3.78,
+        "elev ft": 830,
+        "pop est": 323440
+    },
+    {
+        "name": "Sinko",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.43,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 25403
+    },
+    {
+        "name": "Sogunro",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.92,
+        "elev ft": 895,
+        "pop est": 53265
+    },
+    {
+        "name": "Sokun",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.34,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 138244
+    },
+    {
+        "name": "Soso",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 3.8,
+        "elev ft": 830,
+        "pop est": 203347
+    },
+    {
+        "name": "Sulu",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 4.0,
+        "elev ft": 885,
+        "pop est": 14976
+    },
+    {
+        "name": "Tade",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.42,
+        "long": 3.75,
+        "elev ft": 830,
+        "pop est": 61565
+    },
+    {
+        "name": "Taiwo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.9,
+        "elev ft": 974,
+        "pop est": 15531
+    },
+    {
+        "name": "Taiwo",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 3.9,
+        "elev ft": 1000,
+        "pop est": 16617
+    },
+    {
+        "name": "Talontan",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 3.96,
+        "elev ft": 915,
+        "pop est": 14001
+    },
+    {
+        "name": "Tede",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 8.56,
+        "long": 3.45,
+        "elev ft": 1669,
+        "pop est": 4321
+    },
+    {
+        "name": "Tegiri",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 3.94,
+        "elev ft": 892,
+        "pop est": 14243
+    },
+    {
+        "name": "Teju",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 3.86,
+        "elev ft": 830,
+        "pop est": 69494
+    },
+    {
+        "name": "Tela",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 16835
+    },
+    {
+        "name": "Tela",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 4.0,
+        "elev ft": 830,
+        "pop est": 15616
+    },
+    {
+        "name": "Temidire",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 3.97,
+        "elev ft": 830,
+        "pop est": 209534
+    },
+    {
+        "name": "Temidire",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 3.91,
+        "elev ft": 866,
+        "pop est": 60551
+    },
+    {
+        "name": "Tijani",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.31,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 47273
+    },
+    {
+        "name": "Timi",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 3.86,
+        "elev ft": 830,
+        "pop est": 37464
+    },
+    {
+        "name": "Tola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.77,
+        "elev ft": 830,
+        "pop est": 11067
+    },
+    {
+        "name": "Tonode",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 3.93,
+        "elev ft": 987,
+        "pop est": 33932
+    },
+    {
+        "name": "Tosa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 3.98,
+        "elev ft": 931,
+        "pop est": 16900
+    },
+    {
+        "name": "Tose",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 3.92,
+        "elev ft": 830,
+        "pop est": 83503
+    },
+    {
+        "name": "Waya",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 3.83,
+        "elev ft": 862,
+        "pop est": 14911
+    },
+    {
+        "name": "Winsola",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 3.76,
+        "elev ft": 830,
+        "pop est": 15433
+    },
+    {
+        "name": "Yabiye",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.35,
+        "long": 3.85,
+        "elev ft": 830,
+        "pop est": 625658
+    },
+    {
+        "name": "Yiosa",
+        "what": "city",
+        "region": "Oyo",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 3.88,
+        "elev ft": 1003,
+        "pop est": 15515
+    }
+]

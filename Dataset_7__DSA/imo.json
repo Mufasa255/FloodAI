@@ -1,0 +1,5092 @@
+[
+    {
+        "name": "Abacheke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.73,
+        "elev ft": 308,
+        "pop est": 23548
+    },
+    {
+        "name": "Abaezi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 6.74,
+        "elev ft": 305,
+        "pop est": 23723
+    },
+    {
+        "name": "Abakuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 23090
+    },
+    {
+        "name": "Abala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 63312
+    },
+    {
+        "name": "Abeizeam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 81997
+    },
+    {
+        "name": "Abekenta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 63468
+    },
+    {
+        "name": "Aboh",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 106971
+    },
+    {
+        "name": "Abor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 67379
+    },
+    {
+        "name": "Achi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 88750
+    },
+    {
+        "name": "Afor-Oru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 123276
+    },
+    {
+        "name": "Afororu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 123276
+    },
+    {
+        "name": "Afozuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 148998
+    },
+    {
+        "name": "Aga",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.73,
+        "elev ft": 298,
+        "pop est": 24142
+    },
+    {
+        "name": "Agbaja-Isu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 121611
+    },
+    {
+        "name": "Agbobu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 22997
+    },
+    {
+        "name": "Aguneze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 95835
+    },
+    {
+        "name": "Akabo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 140871
+    },
+    {
+        "name": "Akabo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 64350
+    },
+    {
+        "name": "Akabo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 268915
+    },
+    {
+        "name": "Akalovo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 132285
+    },
+    {
+        "name": "Akata",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 6.77,
+        "elev ft": 370,
+        "pop est": 35170
+    },
+    {
+        "name": "Akata",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 140639
+    },
+    {
+        "name": "Akokwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.11,
+        "elev ft": 990,
+        "pop est": 245349
+    },
+    {
+        "name": "Akpuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 283095
+    },
+    {
+        "name": "Aku Ihube",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 91230
+    },
+    {
+        "name": "Akukwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.11,
+        "elev ft": 990,
+        "pop est": 245349
+    },
+    {
+        "name": "Akulhube",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 91230
+    },
+    {
+        "name": "Alike",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 90323
+    },
+    {
+        "name": "Alulu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.21,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 24381
+    },
+    {
+        "name": "Ama-Ekpu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 79590
+    },
+    {
+        "name": "Ama-Inyi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 80634
+    },
+    {
+        "name": "Amaebu Ogwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 102438
+    },
+    {
+        "name": "Amaeshi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.1,
+        "elev ft": 961,
+        "pop est": 288287
+    },
+    {
+        "name": "Amaeze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 34030
+    },
+    {
+        "name": "Amafor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Amafor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 14666
+    },
+    {
+        "name": "Amafor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 16386
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 120201
+    },
+    {
+        "name": "Amaibo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 27202
+    },
+    {
+        "name": "Amaidi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.43,
+        "elev ft": 406,
+        "pop est": 40633
+    },
+    {
+        "name": "Amaigbo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 151972
+    },
+    {
+        "name": "Amakohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 77015
+    },
+    {
+        "name": "Amakohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 92905
+    },
+    {
+        "name": "Amakohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 85883
+    },
+    {
+        "name": "Amakohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 98322
+    },
+    {
+        "name": "Amala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 28190
+    },
+    {
+        "name": "Amanduba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 172243
+    },
+    {
+        "name": "Amandugba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 172243
+    },
+    {
+        "name": "Amapun",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 36411
+    },
+    {
+        "name": "Amaraka",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 100472
+    },
+    {
+        "name": "Amaruru Ikeduru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 101519
+    },
+    {
+        "name": "Amaumara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 87792
+    },
+    {
+        "name": "Amawzari",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 131237
+    },
+    {
+        "name": "Amazu I",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 156429
+    },
+    {
+        "name": "Amazu II",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 153578
+    },
+    {
+        "name": "Amibo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 151972
+    },
+    {
+        "name": "Amigbo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 151972
+    },
+    {
+        "name": "Amiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 149283
+    },
+    {
+        "name": "Amiyi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 30898
+    },
+    {
+        "name": "Amokwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 74751
+    },
+    {
+        "name": "Amopara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 157472
+    },
+    {
+        "name": "Amucha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 173015
+    },
+    {
+        "name": "Amuraw",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 49740
+    },
+    {
+        "name": "Amurie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 177707
+    },
+    {
+        "name": "Amuzi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 93612
+    },
+    {
+        "name": "Anafis",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 6.77,
+        "elev ft": 357,
+        "pop est": 51711
+    },
+    {
+        "name": "Anghara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 85897
+    },
+    {
+        "name": "Aro-Ndibisi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 77588
+    },
+    {
+        "name": "Asa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 6.78,
+        "elev ft": 964,
+        "pop est": 24033
+    },
+    {
+        "name": "Assa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 127553
+    },
+    {
+        "name": "Ata",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 70939
+    },
+    {
+        "name": "Atta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 156322
+    },
+    {
+        "name": "Atta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 70939
+    },
+    {
+        "name": "Avu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 25980
+    },
+    {
+        "name": "Avutu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 74451
+    },
+    {
+        "name": "Awa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 74124
+    },
+    {
+        "name": "Awaka",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 308787
+    },
+    {
+        "name": "Awara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 6.77,
+        "elev ft": 1069,
+        "pop est": 24123
+    },
+    {
+        "name": "Awarra",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 6.77,
+        "elev ft": 1069,
+        "pop est": 24123
+    },
+    {
+        "name": "Awka",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 92565
+    },
+    {
+        "name": "Awka-Agbobu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 2905
+    },
+    {
+        "name": "Awlu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 117033
+    },
+    {
+        "name": "Awo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 126914
+    },
+    {
+        "name": "Awo Idemiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 119123
+    },
+    {
+        "name": "Awo Ndemini",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 119123
+    },
+    {
+        "name": "Awo-Idemili",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 119123
+    },
+    {
+        "name": "Awodemili",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 119123
+    },
+    {
+        "name": "Awomama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 115374
+    },
+    {
+        "name": "Awomama Catholic Seminary",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 122514
+    },
+    {
+        "name": "Azara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 78883
+    },
+    {
+        "name": "Azara-Egbelu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 59340
+    },
+    {
+        "name": "Dikenafai",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 70457
+    },
+    {
+        "name": "Dikenafia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 70457
+    },
+    {
+        "name": "Dikenefai",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 70457
+    },
+    {
+        "name": "Dimnaeze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 42636
+    },
+    {
+        "name": "Ebu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 26963
+    },
+    {
+        "name": "Egbelu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 27425
+    },
+    {
+        "name": "Egbema",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 6.76,
+        "elev ft": 344,
+        "pop est": 24900
+    },
+    {
+        "name": "Egwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 81493
+    },
+    {
+        "name": "Ehume",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 67990
+    },
+    {
+        "name": "Ejemekwuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 55995
+    },
+    {
+        "name": "Ekenobizi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 80356
+    },
+    {
+        "name": "Ekeugba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.75,
+        "elev ft": 331,
+        "pop est": 23651
+    },
+    {
+        "name": "Ekwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 185868
+    },
+    {
+        "name": "Ekwerazu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 138251
+    },
+    {
+        "name": "Ekwerazu-Ogwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 65347
+    },
+    {
+        "name": "Ekwurazu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 138251
+    },
+    {
+        "name": "Eleh",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 133900
+    },
+    {
+        "name": "Elelem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Eluama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 40370
+    },
+    {
+        "name": "Elugu Ogeh",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 64917
+    },
+    {
+        "name": "Emeabiam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 26714
+    },
+    {
+        "name": "Emekuku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 217002
+    },
+    {
+        "name": "Emekukwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 217002
+    },
+    {
+        "name": "Emii",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 170268
+    },
+    {
+        "name": "Etekuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.74,
+        "elev ft": 308,
+        "pop est": 24048
+    },
+    {
+        "name": "Etekuru Plantation",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 6.79,
+        "elev ft": 830,
+        "pop est": 23876
+    },
+    {
+        "name": "Etioha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 26040
+    },
+    {
+        "name": "Etoona",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 25302
+    },
+    {
+        "name": "Ezeborgu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 98847
+    },
+    {
+        "name": "Ezenu Okwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 30980
+    },
+    {
+        "name": "Ezeogwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 16026
+    },
+    {
+        "name": "Ezi-Ossu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 6.77,
+        "elev ft": 347,
+        "pop est": 36435
+    },
+    {
+        "name": "Ezi-Ossu Camp",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.77,
+        "elev ft": 390,
+        "pop est": 33137
+    },
+    {
+        "name": "Eziachi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 161451
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 82218
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 109046
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 43433
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 173243
+    },
+    {
+        "name": "Eziama-Obiato",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 90978
+    },
+    {
+        "name": "Ezike",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 51926
+    },
+    {
+        "name": "Ezinachi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 2831
+    },
+    {
+        "name": "Eziobo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 24689
+    },
+    {
+        "name": "Ibeku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 100184
+    },
+    {
+        "name": "Ibeme",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 93510
+    },
+    {
+        "name": "Ibi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 90669
+    },
+    {
+        "name": "Ibinta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 14948
+    },
+    {
+        "name": "Idi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 90669
+    },
+    {
+        "name": "Ifakala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 61216
+    },
+    {
+        "name": "Ife",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 81655
+    },
+    {
+        "name": "Ihaigba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 16630
+    },
+    {
+        "name": "Ihiagwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 20809
+    },
+    {
+        "name": "Ihie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 6.84,
+        "elev ft": 967,
+        "pop est": 23426
+    },
+    {
+        "name": "Ihie Farm Settlement",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 6.82,
+        "elev ft": 1003,
+        "pop est": 23203
+    },
+    {
+        "name": "Ihioma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 146963
+    },
+    {
+        "name": "Ihite",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 107762
+    },
+    {
+        "name": "Ihite",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 43897
+    },
+    {
+        "name": "Ihite",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 239459
+    },
+    {
+        "name": "Ihite Owerri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 88346
+    },
+    {
+        "name": "Ihitte",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 99431
+    },
+    {
+        "name": "Ihitte Ogwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 74991
+    },
+    {
+        "name": "Iho",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 58888
+    },
+    {
+        "name": "Ihube",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 154324
+    },
+    {
+        "name": "Ihuo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 58888
+    },
+    {
+        "name": "Ikembara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 68165
+    },
+    {
+        "name": "Ikpem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 36108
+    },
+    {
+        "name": "Ilile",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 23429
+    },
+    {
+        "name": "Ilile",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 22180
+    },
+    {
+        "name": "Imeabiam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Inemirin",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.68,
+        "elev ft": 249,
+        "pop est": 28844
+    },
+    {
+        "name": "Inyiogugu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 86632
+    },
+    {
+        "name": "Ioumama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 115374
+    },
+    {
+        "name": "Ipene",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.92,
+        "elev ft": 403,
+        "pop est": 12127
+    },
+    {
+        "name": "Irete",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 256223
+    },
+    {
+        "name": "Isiekenesi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 98751
+    },
+    {
+        "name": "Isinweke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 97172
+    },
+    {
+        "name": "Isu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 69205
+    },
+    {
+        "name": "Isu-Njaba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 195914
+    },
+    {
+        "name": "Isu-Okpu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 19600
+    },
+    {
+        "name": "Isuobiangwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 66009
+    },
+    {
+        "name": "Itu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 89434
+    },
+    {
+        "name": "Ituogwugwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.7,
+        "elev ft": 255,
+        "pop est": 28853
+    },
+    {
+        "name": "Izombe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 61154
+    },
+    {
+        "name": "Kalabari Beach",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 6.8,
+        "elev ft": 387,
+        "pop est": 61197
+    },
+    {
+        "name": "Leru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 45174
+    },
+    {
+        "name": "Lokpauku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 41698
+    },
+    {
+        "name": "Lorji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 88180
+    },
+    {
+        "name": "Lormora",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 42320
+    },
+    {
+        "name": "Lowa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 90369
+    },
+    {
+        "name": "Mbamba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 125800
+    },
+    {
+        "name": "Mbede",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.73,
+        "elev ft": 282,
+        "pop est": 24453
+    },
+    {
+        "name": "Mbeke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 94000
+    },
+    {
+        "name": "Mberichi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 22308
+    },
+    {
+        "name": "Mbidi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 87979
+    },
+    {
+        "name": "Mborichi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 22308
+    },
+    {
+        "name": "Mbutu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 89474
+    },
+    {
+        "name": "Mbwelli",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 98888
+    },
+    {
+        "name": "Mgbara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.78,
+        "elev ft": 334,
+        "pop est": 23525
+    },
+    {
+        "name": "Mgbara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 6.77,
+        "elev ft": 334,
+        "pop est": 23481
+    },
+    {
+        "name": "Mgbara Plantation",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 23571
+    },
+    {
+        "name": "Mgbede",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.73,
+        "elev ft": 282,
+        "pop est": 24453
+    },
+    {
+        "name": "Mgbele",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 79840
+    },
+    {
+        "name": "Mgbidi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 87979
+    },
+    {
+        "name": "Mgbirichi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 22308
+    },
+    {
+        "name": "Mkpataku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.77,
+        "elev ft": 374,
+        "pop est": 31356
+    },
+    {
+        "name": "Nayu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 32287
+    },
+    {
+        "name": "Naze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 160690
+    },
+    {
+        "name": "Ndegwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 212622
+    },
+    {
+        "name": "Ndia-Akeme",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 16903
+    },
+    {
+        "name": "Ndiadumora",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 15055
+    },
+    {
+        "name": "Ndianiche",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 2831
+    },
+    {
+        "name": "Ndiawa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 37234
+    },
+    {
+        "name": "Ndiawa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 8140
+    },
+    {
+        "name": "Ndimoko",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 2836
+    },
+    {
+        "name": "Ndiuche",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 26694
+    },
+    {
+        "name": "Ndizuogu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 21848
+    },
+    {
+        "name": "Nduhu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 136321
+    },
+    {
+        "name": "Nekede",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 163972
+    },
+    {
+        "name": "Nempe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 121359
+    },
+    {
+        "name": "Ngbala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 33451
+    },
+    {
+        "name": "Ngbele",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 79840
+    },
+    {
+        "name": "Ngbisi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.87,
+        "elev ft": 862,
+        "pop est": 23477
+    },
+    {
+        "name": "Ngebele",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 79840
+    },
+    {
+        "name": "Ngodo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.39,
+        "elev ft": 967,
+        "pop est": 42727
+    },
+    {
+        "name": "Ngugu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 58148
+    },
+    {
+        "name": "Nguru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 27266
+    },
+    {
+        "name": "Nguru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 118956
+    },
+    {
+        "name": "Nkorohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 6.87,
+        "elev ft": 862,
+        "pop est": 23460
+    },
+    {
+        "name": "Nkorohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 24173
+    },
+    {
+        "name": "Nkwerre",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 145502
+    },
+    {
+        "name": "Nkwesi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 76836
+    },
+    {
+        "name": "Nkwesi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 75529
+    },
+    {
+        "name": "Nkworji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 143452
+    },
+    {
+        "name": "Nmu Neke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 28455
+    },
+    {
+        "name": "Nnebuku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 6.83,
+        "elev ft": 413,
+        "pop est": 73361
+    },
+    {
+        "name": "Nnenasa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 167526
+    },
+    {
+        "name": "Nonya",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 22072
+    },
+    {
+        "name": "Norie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 65280
+    },
+    {
+        "name": "Nsu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 94302
+    },
+    {
+        "name": "Ntueke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 58539
+    },
+    {
+        "name": "Nwaorie-Ubi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 126558
+    },
+    {
+        "name": "Nwaorieubi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 126558
+    },
+    {
+        "name": "Nwari",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 6.77,
+        "elev ft": 393,
+        "pop est": 29348
+    },
+    {
+        "name": "Nworieubi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 126558
+    },
+    {
+        "name": "Nzerem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 57408
+    },
+    {
+        "name": "Nzerem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 36142
+    },
+    {
+        "name": "Obaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 81956
+    },
+    {
+        "name": "Obaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 108717
+    },
+    {
+        "name": "Obazu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 168113
+    },
+    {
+        "name": "Obeaka",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.74,
+        "elev ft": 301,
+        "pop est": 27201
+    },
+    {
+        "name": "Obegi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.7,
+        "elev ft": 265,
+        "pop est": 29829
+    },
+    {
+        "name": "Obeke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 26579
+    },
+    {
+        "name": "Obesema",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 14302
+    },
+    {
+        "name": "Obiakpo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.74,
+        "elev ft": 301,
+        "pop est": 27201
+    },
+    {
+        "name": "Obiakpu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 6.76,
+        "elev ft": 341,
+        "pop est": 23529
+    },
+    {
+        "name": "Obibi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 110920
+    },
+    {
+        "name": "Obigwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 16386
+    },
+    {
+        "name": "Obigwo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 16386
+    },
+    {
+        "name": "Obike",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Obinze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 14983
+    },
+    {
+        "name": "Obiohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 80218
+    },
+    {
+        "name": "Obiohoro Osu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 31754
+    },
+    {
+        "name": "Obiohuru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 55724
+    },
+    {
+        "name": "Obizi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 85684
+    },
+    {
+        "name": "Oboama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 103462
+    },
+    {
+        "name": "Oboama-Nguru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 131764
+    },
+    {
+        "name": "Obodo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 263799
+    },
+    {
+        "name": "Obofia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.78,
+        "elev ft": 347,
+        "pop est": 25028
+    },
+    {
+        "name": "Obofie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.78,
+        "elev ft": 347,
+        "pop est": 25028
+    },
+    {
+        "name": "Obogwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 13445
+    },
+    {
+        "name": "Obohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 125594
+    },
+    {
+        "name": "Obokofia Plantation",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 24161
+    },
+    {
+        "name": "Oboku-Avu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 56615
+    },
+    {
+        "name": "Obokwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Obokwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 27436
+    },
+    {
+        "name": "Obolo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 95911
+    },
+    {
+        "name": "Obor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 68902
+    },
+    {
+        "name": "Obor Ovoro",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 79173
+    },
+    {
+        "name": "Obosima",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 14722
+    },
+    {
+        "name": "Obozotto",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.73,
+        "elev ft": 272,
+        "pop est": 26681
+    },
+    {
+        "name": "Obudi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 35326
+    },
+    {
+        "name": "Obudi-Agwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 35326
+    },
+    {
+        "name": "Obufie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 6.75,
+        "elev ft": 341,
+        "pop est": 23398
+    },
+    {
+        "name": "Obufie-Mmahu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 6.75,
+        "elev ft": 341,
+        "pop est": 23398
+    },
+    {
+        "name": "Obuogwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 18338
+    },
+    {
+        "name": "Oburugo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.87,
+        "elev ft": 862,
+        "pop est": 23474
+    },
+    {
+        "name": "Oburuoto",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.75,
+        "elev ft": 305,
+        "pop est": 31485
+    },
+    {
+        "name": "Obwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 118568
+    },
+    {
+        "name": "Ochicha Ngugo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 55742
+    },
+    {
+        "name": "Oforola",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 13470
+    },
+    {
+        "name": "Ogba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 31582
+    },
+    {
+        "name": "Ogbaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 81956
+    },
+    {
+        "name": "Ogbelulu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 102054
+    },
+    {
+        "name": "Ogbor Ugiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 95545
+    },
+    {
+        "name": "Ogbosisi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 96206
+    },
+    {
+        "name": "Ogeh",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 73717
+    },
+    {
+        "name": "Ogele",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 20243
+    },
+    {
+        "name": "Oguta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.81,
+        "elev ft": 393,
+        "pop est": 74942
+    },
+    {
+        "name": "Oguta II",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 6.81,
+        "elev ft": 396,
+        "pop est": 65208
+    },
+    {
+        "name": "Ogwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 115862
+    },
+    {
+        "name": "Ogwuaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 5208
+    },
+    {
+        "name": "Ogwugwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 6.72,
+        "elev ft": 269,
+        "pop est": 30008
+    },
+    {
+        "name": "Ohaji Farm Settlement",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 22830
+    },
+    {
+        "name": "Ohekelem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 63844
+    },
+    {
+        "name": "Ohi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 197484
+    },
+    {
+        "name": "Ohoba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 162860
+    },
+    {
+        "name": "Ohoba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 19157
+    },
+    {
+        "name": "Ohoba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 18324
+    },
+    {
+        "name": "Ohozotto",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.73,
+        "elev ft": 272,
+        "pop est": 26681
+    },
+    {
+        "name": "Okahia Uga",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 98505
+    },
+    {
+        "name": "Okigwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 153677
+    },
+    {
+        "name": "Okigwi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 153677
+    },
+    {
+        "name": "Okohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 88695
+    },
+    {
+        "name": "Okohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 23397
+    },
+    {
+        "name": "Okolochi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 16630
+    },
+    {
+        "name": "Okpofe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 98371
+    },
+    {
+        "name": "Okporku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 94004
+    },
+    {
+        "name": "Okporo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 153623
+    },
+    {
+        "name": "Okpuala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 49132
+    },
+    {
+        "name": "Okuku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 13993
+    },
+    {
+        "name": "Okwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 11364
+    },
+    {
+        "name": "Okwele",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 52239
+    },
+    {
+        "name": "Okweli",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 52239
+    },
+    {
+        "name": "Okwobo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.69,
+        "elev ft": 239,
+        "pop est": 24893
+    },
+    {
+        "name": "Okwu-Ogbaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 44044
+    },
+    {
+        "name": "Okwudo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 173639
+    },
+    {
+        "name": "Okwuohia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 111647
+    },
+    {
+        "name": "Okwuzi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.72,
+        "elev ft": 285,
+        "pop est": 24266
+    },
+    {
+        "name": "Okwuzu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.72,
+        "elev ft": 285,
+        "pop est": 24266
+    },
+    {
+        "name": "Olakwo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 30602
+    },
+    {
+        "name": "Olokwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 27336
+    },
+    {
+        "name": "Omicha Umu Awada",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 97949
+    },
+    {
+        "name": "Omo Akpo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 23487
+    },
+    {
+        "name": "Omu Oye",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 27221
+    },
+    {
+        "name": "Omuma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 142151
+    },
+    {
+        "name": "Onicha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 68607
+    },
+    {
+        "name": "Onicha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 18224
+    },
+    {
+        "name": "Onicha Uma Awada",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 97949
+    },
+    {
+        "name": "Onwakiko",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 6.74,
+        "elev ft": 377,
+        "pop est": 45091
+    },
+    {
+        "name": "Opala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 16630
+    },
+    {
+        "name": "Oparanadim",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 115002
+    },
+    {
+        "name": "Oparanadin",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 115002
+    },
+    {
+        "name": "Opete",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 6.82,
+        "elev ft": 1036,
+        "pop est": 23401
+    },
+    {
+        "name": "Oratta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 443537
+    },
+    {
+        "name": "Orieama",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 89005
+    },
+    {
+        "name": "Orieubi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 68865
+    },
+    {
+        "name": "Orisaeze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Orji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 503205
+    },
+    {
+        "name": "Orlu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 117033
+    },
+    {
+        "name": "Orogwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 187975
+    },
+    {
+        "name": "Oru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 123276
+    },
+    {
+        "name": "Ose-Acheke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 6.71,
+        "elev ft": 255,
+        "pop est": 23455
+    },
+    {
+        "name": "Ose-Mmahu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 6.73,
+        "elev ft": 259,
+        "pop est": 23557
+    },
+    {
+        "name": "Oseogwugwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.73,
+        "elev ft": 282,
+        "pop est": 24816
+    },
+    {
+        "name": "Oseokishikpa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 6.72,
+        "elev ft": 252,
+        "pop est": 23407
+    },
+    {
+        "name": "Osina",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 192883
+    },
+    {
+        "name": "Osoji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.75,
+        "elev ft": 311,
+        "pop est": 34253
+    },
+    {
+        "name": "Osoji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.75,
+        "elev ft": 311,
+        "pop est": 33578
+    },
+    {
+        "name": "Ossu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 6.77,
+        "elev ft": 347,
+        "pop est": 36435
+    },
+    {
+        "name": "Ossu-Obodo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 6.81,
+        "elev ft": 406,
+        "pop est": 66012
+    },
+    {
+        "name": "Osu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 6.77,
+        "elev ft": 347,
+        "pop est": 36435
+    },
+    {
+        "name": "Osuji Beach",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 91758
+    },
+    {
+        "name": "Oteru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 116356
+    },
+    {
+        "name": "Otulu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 109547
+    },
+    {
+        "name": "Ovoro",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 87062
+    },
+    {
+        "name": "Owakiko",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 6.74,
+        "elev ft": 377,
+        "pop est": 45091
+    },
+    {
+        "name": "Owala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 303957
+    },
+    {
+        "name": "Owelu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 433586
+    },
+    {
+        "name": "Owerri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 503578
+    },
+    {
+        "name": "Owerri Akokwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 90370
+    },
+    {
+        "name": "Owosha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.67,
+        "elev ft": 232,
+        "pop est": 29098
+    },
+    {
+        "name": "Owu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 28290
+    },
+    {
+        "name": "QOW",
+        "what": "city",
+        "region": "Imo State",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 453797
+    },
+    {
+        "name": "Uba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 35326
+    },
+    {
+        "name": "Ubaha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 153678
+    },
+    {
+        "name": "Ubarazor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 152633
+    },
+    {
+        "name": "Uboma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 31887
+    },
+    {
+        "name": "Ubomini",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 275185
+    },
+    {
+        "name": "Ubomiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 275185
+    },
+    {
+        "name": "Ubomukwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.76,
+        "elev ft": 354,
+        "pop est": 27521
+    },
+    {
+        "name": "Uborji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 13941
+    },
+    {
+        "name": "Uborum",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 22855
+    },
+    {
+        "name": "Udo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 74711
+    },
+    {
+        "name": "Ugiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 117659
+    },
+    {
+        "name": "Ugiri",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 94627
+    },
+    {
+        "name": "Ugwu Nkpa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 15955
+    },
+    {
+        "name": "Ugwuaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 5208
+    },
+    {
+        "name": "Uhuda Ngodo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 39349
+    },
+    {
+        "name": "Ukwugba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 6.75,
+        "elev ft": 344,
+        "pop est": 25473
+    },
+    {
+        "name": "Ukwugba Plantation",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 23643
+    },
+    {
+        "name": "Umejeren",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 14722
+    },
+    {
+        "name": "Umouwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 33672
+    },
+    {
+        "name": "Umu Agwo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 53008
+    },
+    {
+        "name": "Umu Akam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 45972
+    },
+    {
+        "name": "Umu Akan",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 45972
+    },
+    {
+        "name": "Umu Dim",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 95088
+    },
+    {
+        "name": "Umu Duru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 96412
+    },
+    {
+        "name": "Umu Echem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 51664
+    },
+    {
+        "name": "Umu Ekwune",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Umu Elemai",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 93812
+    },
+    {
+        "name": "Umu Eshi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 70897
+    },
+    {
+        "name": "Umu Eze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 101780
+    },
+    {
+        "name": "Umu Eze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 96257
+    },
+    {
+        "name": "Umu Eze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 29264
+    },
+    {
+        "name": "Umu Ezeala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 96759
+    },
+    {
+        "name": "Umu Ezegu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 108901
+    },
+    {
+        "name": "Umu Ezike",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 23139
+    },
+    {
+        "name": "Umu Iago",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 60501
+    },
+    {
+        "name": "Umu Kabia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 69846
+    },
+    {
+        "name": "Umu Kabia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 184963
+    },
+    {
+        "name": "Umu Nam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 25103
+    },
+    {
+        "name": "Umu Numu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 74009
+    },
+    {
+        "name": "Umu Obom",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 43389
+    },
+    {
+        "name": "Umu Ogii",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 27565
+    },
+    {
+        "name": "Umu Okpukpara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 82573
+    },
+    {
+        "name": "Umu Omei",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 24838
+    },
+    {
+        "name": "Umu Omeke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 79703
+    },
+    {
+        "name": "Umu Opara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 87753
+    },
+    {
+        "name": "Umu Opara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 79873
+    },
+    {
+        "name": "Umu Osu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 102931
+    },
+    {
+        "name": "Umu Owa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 33672
+    },
+    {
+        "name": "Umu Oye",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 27221
+    },
+    {
+        "name": "Umu Ozu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 101947
+    },
+    {
+        "name": "Umu-Abiala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 176749
+    },
+    {
+        "name": "Umu-Aguwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 75379
+    },
+    {
+        "name": "Umu-Akpa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 23084
+    },
+    {
+        "name": "Umu-Akwu-Ameke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 44584
+    },
+    {
+        "name": "Umu-Awa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 36449
+    },
+    {
+        "name": "Umu-Echem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 114827
+    },
+    {
+        "name": "Umu-Eleke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 99077
+    },
+    {
+        "name": "Umu-Etchem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 51664
+    },
+    {
+        "name": "Umu-Eze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 96219
+    },
+    {
+        "name": "Umu-Ezeala Ofor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 112668
+    },
+    {
+        "name": "Umu-Ezegem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 153678
+    },
+    {
+        "name": "Umu-Ezoalo-Ofor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 112668
+    },
+    {
+        "name": "Umu-Ikoro",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 27811
+    },
+    {
+        "name": "Umu-Nachi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 63855
+    },
+    {
+        "name": "Umu-Neke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 28455
+    },
+    {
+        "name": "Umu-Neke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 94174
+    },
+    {
+        "name": "Umu-Okanne",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 21386
+    },
+    {
+        "name": "Umu-Okrika",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 108172
+    },
+    {
+        "name": "Umu-Oye",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 67957
+    },
+    {
+        "name": "Umu-Ozu-Isu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 129200
+    },
+    {
+        "name": "Umuaghadi Inyishia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 46622
+    },
+    {
+        "name": "Umuaghadi-Inyishi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 46622
+    },
+    {
+        "name": "Umuagu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 25624
+    },
+    {
+        "name": "Umuagu Okwelle",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 73902
+    },
+    {
+        "name": "Umuagwo",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 25624
+    },
+    {
+        "name": "Umuagwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 23694
+    },
+    {
+        "name": "Umuahu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 146075
+    },
+    {
+        "name": "Umuaje",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 16026
+    },
+    {
+        "name": "Umuakpu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 23487
+    },
+    {
+        "name": "Umuanyi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 79026
+    },
+    {
+        "name": "Umuariam",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 90597
+    },
+    {
+        "name": "Umuaweke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 66963
+    },
+    {
+        "name": "Umuawuch",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 60902
+    },
+    {
+        "name": "Umuawuchi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 60902
+    },
+    {
+        "name": "Umuchiokwa Agbaja",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 36196
+    },
+    {
+        "name": "Umuchu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.13,
+        "elev ft": 898,
+        "pop est": 193852
+    },
+    {
+        "name": "Umuderu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 74186
+    },
+    {
+        "name": "Umudi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 85290
+    },
+    {
+        "name": "Umudike",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.74,
+        "elev ft": 298,
+        "pop est": 24337
+    },
+    {
+        "name": "Umudike Plantation",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 6.78,
+        "elev ft": 830,
+        "pop est": 24154
+    },
+    {
+        "name": "Umuebe Ogwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 115862
+    },
+    {
+        "name": "Umuecheta",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 43409
+    },
+    {
+        "name": "Umuehere",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 66182
+    },
+    {
+        "name": "Umuehi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 87334
+    },
+    {
+        "name": "Umueke Umuduru",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 70203
+    },
+    {
+        "name": "Umuelagwa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 92873
+    },
+    {
+        "name": "Umuelemai",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 93812
+    },
+    {
+        "name": "Umuellem",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 43402
+    },
+    {
+        "name": "Umueme",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 67049
+    },
+    {
+        "name": "Umueze",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 98265
+    },
+    {
+        "name": "Umugolog",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 18782
+    },
+    {
+        "name": "Umuguma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 57330
+    },
+    {
+        "name": "Umuhu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 146075
+    },
+    {
+        "name": "Umuhu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 92449
+    },
+    {
+        "name": "Umuigwe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 46828
+    },
+    {
+        "name": "Umukabia",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 34083
+    },
+    {
+        "name": "Umukani",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 21386
+    },
+    {
+        "name": "Umukirie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 15571
+    },
+    {
+        "name": "Umukunne",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 25302
+    },
+    {
+        "name": "Umulawlaw",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 150215
+    },
+    {
+        "name": "Umulemai",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 93812
+    },
+    {
+        "name": "Umulogho",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 71603
+    },
+    {
+        "name": "Umuma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 89088
+    },
+    {
+        "name": "Umumma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 142151
+    },
+    {
+        "name": "Umuna",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 23237
+    },
+    {
+        "name": "Umunahu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 282629
+    },
+    {
+        "name": "Umundugba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 172243
+    },
+    {
+        "name": "Umuneke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 28455
+    },
+    {
+        "name": "Umuneke-Ngor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 28455
+    },
+    {
+        "name": "Umunekwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 34447
+    },
+    {
+        "name": "Umunoha",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 98716
+    },
+    {
+        "name": "Umunu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 146075
+    },
+    {
+        "name": "Umuodoma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 84340
+    },
+    {
+        "name": "Umuofa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 162615
+    },
+    {
+        "name": "Umuofor",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 72059
+    },
+    {
+        "name": "Umuoguma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 57330
+    },
+    {
+        "name": "Umuohiagu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 60501
+    },
+    {
+        "name": "Umuojala",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 43409
+    },
+    {
+        "name": "Umuoji",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 109176
+    },
+    {
+        "name": "Umuoke",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 56545
+    },
+    {
+        "name": "Umuoku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 56615
+    },
+    {
+        "name": "Umuokwara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 122279
+    },
+    {
+        "name": "Umuokwu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 64722
+    },
+    {
+        "name": "Umuonhie",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 31360
+    },
+    {
+        "name": "Umuonuma",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 60742
+    },
+    {
+        "name": "Umuosi Amumara",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 85673
+    },
+    {
+        "name": "Umuosu",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 23871
+    },
+    {
+        "name": "Umuoti-Inyishi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 82773
+    },
+    {
+        "name": "Umuowa",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 155839
+    },
+    {
+        "name": "Umuyeche",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 25980
+    },
+    {
+        "name": "Umuzi",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 87553
+    },
+    {
+        "name": "Urualla",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 66517
+    },
+    {
+        "name": "Uzele-Ogbaku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 45735
+    },
+    {
+        "name": "Uzombe",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 61154
+    },
+    {
+        "name": "Uzuaba",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 39510
+    },
+    {
+        "name": "Yinku",
+        "what": "city",
+        "region": "Imo",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 97477
+    }
+]
