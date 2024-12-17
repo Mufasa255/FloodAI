@@ -1,0 +1,7152 @@
+[
+    {
+        "name": "Aba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 961152
+    },
+    {
+        "name": "Aba Ala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 47811
+    },
+    {
+        "name": "Aba i Nigeria",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 961152
+    },
+    {
+        "name": "Abagwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10672
+    },
+    {
+        "name": "Abaki",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 33130
+    },
+    {
+        "name": "Abanwan",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.97,
+        "elev ft": 324,
+        "pop est": 10877
+    },
+    {
+        "name": "Abayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 773462
+    },
+    {
+        "name": "Abayi Nchokoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 197557
+    },
+    {
+        "name": "Abayi Ohanze",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 206227
+    },
+    {
+        "name": "Abia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11713
+    },
+    {
+        "name": "Abiaka",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 63509
+    },
+    {
+        "name": "Abiakpo-Alacha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 25214
+    },
+    {
+        "name": "Abiriba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 13072
+    },
+    {
+        "name": "Aboru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 10680
+    },
+    {
+        "name": "Abuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11053
+    },
+    {
+        "name": "Acha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 36346
+    },
+    {
+        "name": "Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11016
+    },
+    {
+        "name": "Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 78500
+    },
+    {
+        "name": "Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 96374
+    },
+    {
+        "name": "Achi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 22319
+    },
+    {
+        "name": "Afaha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 28492
+    },
+    {
+        "name": "Afara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 224760
+    },
+    {
+        "name": "Afia Usu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 18035
+    },
+    {
+        "name": "Afikpo Road",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 43235
+    },
+    {
+        "name": "Afikpo Road Station",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 43235
+    },
+    {
+        "name": "Afo-Ukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 19586
+    },
+    {
+        "name": "Afono",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.95,
+        "elev ft": 351,
+        "pop est": 10937
+    },
+    {
+        "name": "Aga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 12572
+    },
+    {
+        "name": "Agba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 15377
+    },
+    {
+        "name": "Agba Akoli",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 20982
+    },
+    {
+        "name": "Agbanwan",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.97,
+        "elev ft": 324,
+        "pop est": 10877
+    },
+    {
+        "name": "Agbua",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 132079
+    },
+    {
+        "name": "Agburu Uke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 21178
+    },
+    {
+        "name": "Agburu-Uke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 92127
+    },
+    {
+        "name": "Agu-Eze",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 14015
+    },
+    {
+        "name": "Agunta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 26638
+    },
+    {
+        "name": "Ahaba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 26921
+    },
+    {
+        "name": "Ahaba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 24817
+    },
+    {
+        "name": "Ahia Aba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 57036
+    },
+    {
+        "name": "Ahia Ukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 204405
+    },
+    {
+        "name": "Ahiaeke Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 214334
+    },
+    {
+        "name": "Ahuwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 26638
+    },
+    {
+        "name": "Aja",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 56184
+    },
+    {
+        "name": "Ajata-Isieke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 169815
+    },
+    {
+        "name": "Ajata-Okwuru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 129966
+    },
+    {
+        "name": "Aka Elu-Lodu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 20556
+    },
+    {
+        "name": "Akannu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 50883
+    },
+    {
+        "name": "Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 13780
+    },
+    {
+        "name": "Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 15168
+    },
+    {
+        "name": "Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 25226
+    },
+    {
+        "name": "Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 22822
+    },
+    {
+        "name": "Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 33232
+    },
+    {
+        "name": "Akanu Okpulo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 30690
+    },
+    {
+        "name": "Akanu-Nchara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 24917
+    },
+    {
+        "name": "Akata",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 56184
+    },
+    {
+        "name": "Akirika Obu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 69114
+    },
+    {
+        "name": "Akoli",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 53525
+    },
+    {
+        "name": "Akoli Nta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 21783
+    },
+    {
+        "name": "Akoli-Imenyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 21783
+    },
+    {
+        "name": "Akpala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.87,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 47788
+    },
+    {
+        "name": "Akpunabo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 14818
+    },
+    {
+        "name": "Akwanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 13780
+    },
+    {
+        "name": "Akwete",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 24574
+    },
+    {
+        "name": "Alala-Ariam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 27003
+    },
+    {
+        "name": "Alayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 21744
+    },
+    {
+        "name": "Ama Akama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 146869
+    },
+    {
+        "name": "Ama Apu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 37492
+    },
+    {
+        "name": "Ama Eke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 175904
+    },
+    {
+        "name": "Ama Iyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 30855
+    },
+    {
+        "name": "Ama Izi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 26647
+    },
+    {
+        "name": "Ama Ogbu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 41527
+    },
+    {
+        "name": "Ama Oji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 42288
+    },
+    {
+        "name": "Ama Okayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 24297
+    },
+    {
+        "name": "Ama Okpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 12521
+    },
+    {
+        "name": "Ama Oku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Ama-Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 176901
+    },
+    {
+        "name": "Ama-Achi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 25662
+    },
+    {
+        "name": "Ama-Eke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 15952
+    },
+    {
+        "name": "Ama-Ekpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 13277
+    },
+    {
+        "name": "Ama-Ekpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 88199
+    },
+    {
+        "name": "Ama-Inyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 30855
+    },
+    {
+        "name": "Ama-Ngwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.67,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 13743
+    },
+    {
+        "name": "Ama-Oji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 26026
+    },
+    {
+        "name": "Ama-Oji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 16703
+    },
+    {
+        "name": "Ama-Okwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 17680
+    },
+    {
+        "name": "Ama-Uke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 79131
+    },
+    {
+        "name": "Ama-Ukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 15599
+    },
+    {
+        "name": "Ama-Uru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 80282
+    },
+    {
+        "name": "Amaba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 51212
+    },
+    {
+        "name": "Amaba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 34085
+    },
+    {
+        "name": "Amaba Ime",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 95350
+    },
+    {
+        "name": "Amaba-Ubibia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 38205
+    },
+    {
+        "name": "Amabanta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Amabia-Ala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 13826
+    },
+    {
+        "name": "Amabia-Elu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 22319
+    },
+    {
+        "name": "Amabo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 20858
+    },
+    {
+        "name": "Amaebe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11217
+    },
+    {
+        "name": "Amaeke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 62109
+    },
+    {
+        "name": "Amaeke Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 62109
+    },
+    {
+        "name": "Amaetiti",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11385
+    },
+    {
+        "name": "Amaeze",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 20860
+    },
+    {
+        "name": "Amagbo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 82658
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 38374
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 43769
+    },
+    {
+        "name": "Amaibo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 39909
+    },
+    {
+        "name": "Amaigbo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 110672
+    },
+    {
+        "name": "Amaiyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 109904
+    },
+    {
+        "name": "Amakalu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 20417
+    },
+    {
+        "name": "Amakofia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11379
+    },
+    {
+        "name": "Amakpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 15599
+    },
+    {
+        "name": "Amaku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 39336
+    },
+    {
+        "name": "Amamba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Amamini",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10674
+    },
+    {
+        "name": "Amamini",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 98936
+    },
+    {
+        "name": "Amanagwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11268
+    },
+    {
+        "name": "Amancho",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 100114
+    },
+    {
+        "name": "Amangwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12831
+    },
+    {
+        "name": "Amangwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 35773
+    },
+    {
+        "name": "Amangwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 34319
+    },
+    {
+        "name": "Amanini",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11715
+    },
+    {
+        "name": "Amankalu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 20417
+    },
+    {
+        "name": "Amankalu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 16502
+    },
+    {
+        "name": "Amankwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Amanta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Amaoji Lodu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 19644
+    },
+    {
+        "name": "Amaokai",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 17356
+    },
+    {
+        "name": "Amaokwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 42072
+    },
+    {
+        "name": "Amaokwe-Elu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 20976
+    },
+    {
+        "name": "Amaozara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 20417
+    },
+    {
+        "name": "Amasa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11294
+    },
+    {
+        "name": "Amaso-Nta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 24645
+    },
+    {
+        "name": "Amasu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10011
+    },
+    {
+        "name": "Amaudara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 15771
+    },
+    {
+        "name": "Amavo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 11498
+    },
+    {
+        "name": "Amawda",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.4,
+        "elev ft": 1010,
+        "pop est": 43374
+    },
+    {
+        "name": "Amawom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 61198
+    },
+    {
+        "name": "Amawom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 51212
+    },
+    {
+        "name": "Amayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 17108
+    },
+    {
+        "name": "Amazu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 91666
+    },
+    {
+        "name": "Amazu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 21497
+    },
+    {
+        "name": "Amedukwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 22392
+    },
+    {
+        "name": "Ameke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 175904
+    },
+    {
+        "name": "Ameke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 20982
+    },
+    {
+        "name": "Ameke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11294
+    },
+    {
+        "name": "Ameke Isiegbu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 40408
+    },
+    {
+        "name": "Ameke-Abiriba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 12769
+    },
+    {
+        "name": "Amelu-Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 48410
+    },
+    {
+        "name": "Amiyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 10370
+    },
+    {
+        "name": "Amizu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 17247
+    },
+    {
+        "name": "Amoba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 110464
+    },
+    {
+        "name": "Amoda",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.4,
+        "elev ft": 1010,
+        "pop est": 43374
+    },
+    {
+        "name": "Amodu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11203
+    },
+    {
+        "name": "Amoji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 17077
+    },
+    {
+        "name": "Amokwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 140949
+    },
+    {
+        "name": "Amonye",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 43718
+    },
+    {
+        "name": "Amoso",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 90096
+    },
+    {
+        "name": "Amuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12772
+    },
+    {
+        "name": "Amurie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 33379
+    },
+    {
+        "name": "Amuro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 24556
+    },
+    {
+        "name": "Amuvi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 13388
+    },
+    {
+        "name": "Amuzukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 251460
+    },
+    {
+        "name": "Amuzuoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 174790
+    },
+    {
+        "name": "Ania",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 27736
+    },
+    {
+        "name": "Anna-Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 26377
+    },
+    {
+        "name": "Anunu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 17155
+    },
+    {
+        "name": "Apiakpo-Alacha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 25214
+    },
+    {
+        "name": "Apuagwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 112043
+    },
+    {
+        "name": "Ariam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 27184
+    },
+    {
+        "name": "Ariaria",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 770974
+    },
+    {
+        "name": "Aro Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 28342
+    },
+    {
+        "name": "Aro Ajatakiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 28073
+    },
+    {
+        "name": "Arochuku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10223
+    },
+    {
+        "name": "Arochukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10223
+    },
+    {
+        "name": "Arriam-Eluelu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 26655
+    },
+    {
+        "name": "Aru-Okporoenyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 23052
+    },
+    {
+        "name": "Asaga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 13744
+    },
+    {
+        "name": "Asaga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 62460
+    },
+    {
+        "name": "Asaga-Amangwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 42504
+    },
+    {
+        "name": "Asana",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 24965
+    },
+    {
+        "name": "Asia Umu Nka",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 229007
+    },
+    {
+        "name": "Asia Umu-Ukia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 229007
+    },
+    {
+        "name": "Atani",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12475
+    },
+    {
+        "name": "Atani Aro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12070
+    },
+    {
+        "name": "Avodim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 146725
+    },
+    {
+        "name": "Avonkwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 209840
+    },
+    {
+        "name": "Avonkwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 108130
+    },
+    {
+        "name": "Awomuku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 27028
+    },
+    {
+        "name": "Ayara Agu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 40326
+    },
+    {
+        "name": "Azu-Iyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 29530
+    },
+    {
+        "name": "Azumini",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 48609
+    },
+    {
+        "name": "Bende",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 146001
+    },
+    {
+        "name": "Ebem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 135218
+    },
+    {
+        "name": "Ebem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 73694
+    },
+    {
+        "name": "Ebem Ohafia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 135218
+    },
+    {
+        "name": "Ebo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 27422
+    },
+    {
+        "name": "Ebuwana",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 89346
+    },
+    {
+        "name": "Edu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.94,
+        "elev ft": 364,
+        "pop est": 11188
+    },
+    {
+        "name": "Egwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 25379
+    },
+    {
+        "name": "Ehere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 634246
+    },
+    {
+        "name": "Eke Aro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 30827
+    },
+    {
+        "name": "Ekebedi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 26888
+    },
+    {
+        "name": "Ekeje",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 110341
+    },
+    {
+        "name": "Ekoli",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 91260
+    },
+    {
+        "name": "Ekpiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 26508
+    },
+    {
+        "name": "Ekwere Azu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 20435
+    },
+    {
+        "name": "Elemaga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 25538
+    },
+    {
+        "name": "Eleoha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10647
+    },
+    {
+        "name": "Elu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 118313
+    },
+    {
+        "name": "Eluama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 38202
+    },
+    {
+        "name": "Elugu-Nkporo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 49340
+    },
+    {
+        "name": "Elugwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 109414
+    },
+    {
+        "name": "Elugwu Akanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 15168
+    },
+    {
+        "name": "Elugwumba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 48283
+    },
+    {
+        "name": "Elugwunta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 28477
+    },
+    {
+        "name": "Emezi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 89955
+    },
+    {
+        "name": "Enna",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 12127
+    },
+    {
+        "name": "Erei Farm Settlement",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.92,
+        "elev ft": 403,
+        "pop est": 10896
+    },
+    {
+        "name": "Etali",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.94,
+        "elev ft": 357,
+        "pop est": 11421
+    },
+    {
+        "name": "Eti",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.4,
+        "elev ft": 830,
+        "pop est": 23597
+    },
+    {
+        "name": "Etiti-Ulo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 126310
+    },
+    {
+        "name": "Etitiama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 42495
+    },
+    {
+        "name": "Eze",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 25180
+    },
+    {
+        "name": "Ezere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 34278
+    },
+    {
+        "name": "Ezere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 31615
+    },
+    {
+        "name": "Ezeukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 25180
+    },
+    {
+        "name": "Ezi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 110341
+    },
+    {
+        "name": "Ezi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 104945
+    },
+    {
+        "name": "Ezi Alayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 21744
+    },
+    {
+        "name": "Ezi Uku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 26577
+    },
+    {
+        "name": "Ezi-Amata",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 29676
+    },
+    {
+        "name": "Eziafo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 15970
+    },
+    {
+        "name": "Eziafo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12363
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 54956
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11636
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 14253
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 14720
+    },
+    {
+        "name": "Ibam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 24308
+    },
+    {
+        "name": "Ibere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 55570
+    },
+    {
+        "name": "Iberenta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 25040
+    },
+    {
+        "name": "Ibibia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 51096
+    },
+    {
+        "name": "Ibina",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 17177
+    },
+    {
+        "name": "Ibini",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.96,
+        "elev ft": 331,
+        "pop est": 11054
+    },
+    {
+        "name": "Ibionu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 26443
+    },
+    {
+        "name": "Ibom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12105
+    },
+    {
+        "name": "Ichi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 31322
+    },
+    {
+        "name": "Igbara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 85575
+    },
+    {
+        "name": "Igbarra",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 85575
+    },
+    {
+        "name": "Ihenta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 145539
+    },
+    {
+        "name": "Ihie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 62906
+    },
+    {
+        "name": "Ihie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 16003
+    },
+    {
+        "name": "Ihie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 143862
+    },
+    {
+        "name": "Ihie-Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 259434
+    },
+    {
+        "name": "Ihim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 29194
+    },
+    {
+        "name": "Ikei",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 16003
+    },
+    {
+        "name": "Ikora-Ika",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.98,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 47519
+    },
+    {
+        "name": "Ikot Abasi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 25828
+    },
+    {
+        "name": "Ikot Ennang",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 50977
+    },
+    {
+        "name": "Ikot Etim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 27540
+    },
+    {
+        "name": "Ikot Etuko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.05,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 63509
+    },
+    {
+        "name": "Ikot Inyang Udo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.03,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 70371
+    },
+    {
+        "name": "Ikot-Mem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 24112
+    },
+    {
+        "name": "Ikpawku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 10160
+    },
+    {
+        "name": "Ikpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 64246
+    },
+    {
+        "name": "Ikporom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 25043
+    },
+    {
+        "name": "Ikpowku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 10160
+    },
+    {
+        "name": "Ikputu Nsuru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 35220
+    },
+    {
+        "name": "Imo River",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 21260
+    },
+    {
+        "name": "Ishiagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 43434
+    },
+    {
+        "name": "Isi-Ikwuato",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 36777
+    },
+    {
+        "name": "Isi-Ugwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 45076
+    },
+    {
+        "name": "Isiadu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 175904
+    },
+    {
+        "name": "Isiala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 26840
+    },
+    {
+        "name": "Isiala Oboro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 26840
+    },
+    {
+        "name": "Isiama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 135218
+    },
+    {
+        "name": "Isiama Ohafia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 135218
+    },
+    {
+        "name": "Isiegbu Ozuitem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 26896
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 143862
+    },
+    {
+        "name": "Isiko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 19745
+    },
+    {
+        "name": "Isiko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 19355
+    },
+    {
+        "name": "Isinkpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 67642
+    },
+    {
+        "name": "Isuochi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.39,
+        "elev ft": 1000,
+        "pop est": 43449
+    },
+    {
+        "name": "Isuochi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.4,
+        "elev ft": 1010,
+        "pop est": 43374
+    },
+    {
+        "name": "Itaja",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 181841
+    },
+    {
+        "name": "Itim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 90301
+    },
+    {
+        "name": "Itu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 168489
+    },
+    {
+        "name": "Itu Ikala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.19,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 13752
+    },
+    {
+        "name": "Itu Mbauzo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 22672
+    },
+    {
+        "name": "Itu Mbuso",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 22672
+    },
+    {
+        "name": "Itunta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 25011
+    },
+    {
+        "name": "Iwuo-Ukem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 52163
+    },
+    {
+        "name": "Iyialu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 25275
+    },
+    {
+        "name": "Iyila",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 25607
+    },
+    {
+        "name": "Iyioji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 34606
+    },
+    {
+        "name": "Kpogrikpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.93,
+        "elev ft": 314,
+        "pop est": 35187
+    },
+    {
+        "name": "Kpohokpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 30798
+    },
+    {
+        "name": "Lekwesi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 43416
+    },
+    {
+        "name": "Letu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 87710
+    },
+    {
+        "name": "Lodu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 19707
+    },
+    {
+        "name": "Lodu Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 177330
+    },
+    {
+        "name": "Lodu-Imenyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 20556
+    },
+    {
+        "name": "Lohum",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 20859
+    },
+    {
+        "name": "Lokpanta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 7.47,
+        "elev ft": 351,
+        "pop est": 42693
+    },
+    {
+        "name": "Mba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 95489
+    },
+    {
+        "name": "Mbala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.39,
+        "elev ft": 1043,
+        "pop est": 43362
+    },
+    {
+        "name": "Mbalano",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 36777
+    },
+    {
+        "name": "Mbara Akuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 77992
+    },
+    {
+        "name": "Mbawsi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 39005
+    },
+    {
+        "name": "Mbiabong-Ikot-Udo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 26649
+    },
+    {
+        "name": "Mbiafun",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 25118
+    },
+    {
+        "name": "Mbinyang",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 25986
+    },
+    {
+        "name": "Mbiopong",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 26799
+    },
+    {
+        "name": "Mboko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 405086
+    },
+    {
+        "name": "Mboko Umu Ocha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 100800
+    },
+    {
+        "name": "Mboko Umuete",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 405086
+    },
+    {
+        "name": "Mbom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 176932
+    },
+    {
+        "name": "Mbubo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 31274
+    },
+    {
+        "name": "Mbukwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 23153
+    },
+    {
+        "name": "Mbutu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 38989
+    },
+    {
+        "name": "Mgbede Ala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 25903
+    },
+    {
+        "name": "Mgbele",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 123068
+    },
+    {
+        "name": "Mgboko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 405086
+    },
+    {
+        "name": "Mkap",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 25473
+    },
+    {
+        "name": "Mkpakpi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11294
+    },
+    {
+        "name": "Mkpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 25363
+    },
+    {
+        "name": "Mvosi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 34944
+    },
+    {
+        "name": "Nbalano",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 36777
+    },
+    {
+        "name": "Nbara Akuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 77992
+    },
+    {
+        "name": "Nbawsi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 39005
+    },
+    {
+        "name": "Ndagbo Nkporo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 24118
+    },
+    {
+        "name": "Nde-Akarani",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11803
+    },
+    {
+        "name": "Ndeanyebu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 23357
+    },
+    {
+        "name": "Ndi Ememe-Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 26049
+    },
+    {
+        "name": "Ndi Ikpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 14319
+    },
+    {
+        "name": "Ndi Uche",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 11222
+    },
+    {
+        "name": "Ndi Wulu Mbe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 20594
+    },
+    {
+        "name": "Ndi Wulu Nbe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 20594
+    },
+    {
+        "name": "Ndi-Ebe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 28808
+    },
+    {
+        "name": "Ndi-Ebeleagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 28895
+    },
+    {
+        "name": "Ndi-Eke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 27498
+    },
+    {
+        "name": "Ndi-Ekete",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 16659
+    },
+    {
+        "name": "Ndi-Elu Nkporo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 33379
+    },
+    {
+        "name": "Ndi-Enomeanya",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 74585
+    },
+    {
+        "name": "Ndi-Ibe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 16072
+    },
+    {
+        "name": "Ndi-Ite",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 15551
+    },
+    {
+        "name": "Ndi-Iwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 26123
+    },
+    {
+        "name": "Ndi-Ogbu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 13073
+    },
+    {
+        "name": "Ndi-Oji",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 15260
+    },
+    {
+        "name": "Ndi-Okereke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 15694
+    },
+    {
+        "name": "Ndi-Okorie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.55,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 22652
+    },
+    {
+        "name": "Ndi-Okoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 27529
+    },
+    {
+        "name": "Ndi-Okwara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 15230
+    },
+    {
+        "name": "Ndi-Olughu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 105544
+    },
+    {
+        "name": "Ndi-Orieke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.57,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12131
+    },
+    {
+        "name": "Ndi-Uduma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 12932
+    },
+    {
+        "name": "Ndi-Uduma Ukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 146485
+    },
+    {
+        "name": "Ndia-Nku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 105679
+    },
+    {
+        "name": "Ndiagho",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 79105
+    },
+    {
+        "name": "Ndiaima Ogu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 116047
+    },
+    {
+        "name": "Ndiavu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 16624
+    },
+    {
+        "name": "Ndiba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 109879
+    },
+    {
+        "name": "Ndiebe Amagbo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 115764
+    },
+    {
+        "name": "Ndielu-Ugwueke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 20835
+    },
+    {
+        "name": "Ndinko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 42536
+    },
+    {
+        "name": "Ndinya",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 45772
+    },
+    {
+        "name": "Ndiobasi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 35518
+    },
+    {
+        "name": "Ndiobo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 139857
+    },
+    {
+        "name": "Ndioji-Ugwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 17680
+    },
+    {
+        "name": "Ndiokala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 144499
+    },
+    {
+        "name": "Ndiokoroukwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 36249
+    },
+    {
+        "name": "Ndiokorukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 123168
+    },
+    {
+        "name": "Ndiokpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12247
+    },
+    {
+        "name": "Ndiomenakwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 13119
+    },
+    {
+        "name": "Ndiorie Ariam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 26274
+    },
+    {
+        "name": "Ndiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 22121
+    },
+    {
+        "name": "Nditi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 22121
+    },
+    {
+        "name": "Ndofa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.85,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 46867
+    },
+    {
+        "name": "Ndoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 30491
+    },
+    {
+        "name": "Ndupa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 26866
+    },
+    {
+        "name": "Neke Mecha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 59446
+    },
+    {
+        "name": "Ngele-Ata",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 15534
+    },
+    {
+        "name": "Ngu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 20553
+    },
+    {
+        "name": "Ngwaiyiekwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 14108
+    },
+    {
+        "name": "Ngwogwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 43380
+    },
+    {
+        "name": "Ngwugwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 25857
+    },
+    {
+        "name": "Nkakwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 94979
+    },
+    {
+        "name": "Nkalunta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 26658
+    },
+    {
+        "name": "Nkata",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 270584
+    },
+    {
+        "name": "Nkpa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 21164
+    },
+    {
+        "name": "Nkpajekere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 23640
+    },
+    {
+        "name": "Nkporo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 24118
+    },
+    {
+        "name": "Nkporobo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 22610
+    },
+    {
+        "name": "Nkporu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 10370
+    },
+    {
+        "name": "Nkpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 25363
+    },
+    {
+        "name": "Nkpuke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 27824
+    },
+    {
+        "name": "Nkpukpuoha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 38444
+    },
+    {
+        "name": "Nkpuku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 27824
+    },
+    {
+        "name": "Nkputuke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 38991
+    },
+    {
+        "name": "Nkumekpo Usaka",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 28001
+    },
+    {
+        "name": "Nkwebi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 64037
+    },
+    {
+        "name": "Nkwoagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.39,
+        "elev ft": 1000,
+        "pop est": 43449
+    },
+    {
+        "name": "Nkwoagu Isuochi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.39,
+        "elev ft": 1000,
+        "pop est": 43449
+    },
+    {
+        "name": "Nlagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 51702
+    },
+    {
+        "name": "Nnarambe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 126843
+    },
+    {
+        "name": "Nnenu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.27,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 19577
+    },
+    {
+        "name": "Nnono",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 34608
+    },
+    {
+        "name": "Nsudimo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 52686
+    },
+    {
+        "name": "Ntalakwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 26859
+    },
+    {
+        "name": "Ntalakwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 25613
+    },
+    {
+        "name": "Nto Nturom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 69002
+    },
+    {
+        "name": "Nwaigwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 50913
+    },
+    {
+        "name": "Nwoagu-Isuochi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.39,
+        "elev ft": 1000,
+        "pop est": 43449
+    },
+    {
+        "name": "Nzerem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 42748
+    },
+    {
+        "name": "Obafor",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 17400
+    },
+    {
+        "name": "Obakwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 33224
+    },
+    {
+        "name": "Obeaja",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.0,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 17408
+    },
+    {
+        "name": "Obehie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 9428
+    },
+    {
+        "name": "Obeoma Ariam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 26646
+    },
+    {
+        "name": "Oberete",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 61139
+    },
+    {
+        "name": "Obete Uku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 53983
+    },
+    {
+        "name": "Obete Umuoha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 61139
+    },
+    {
+        "name": "Obiagwulu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 10891
+    },
+    {
+        "name": "Obiakabi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 38823
+    },
+    {
+        "name": "Obiakang",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 13119
+    },
+    {
+        "name": "Obiakang",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11636
+    },
+    {
+        "name": "Obiaku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 14634
+    },
+    {
+        "name": "Obiene",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 10411
+    },
+    {
+        "name": "Obiga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 12565
+    },
+    {
+        "name": "Obijoma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11379
+    },
+    {
+        "name": "Obilago",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 39462
+    },
+    {
+        "name": "Obinago",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 39462
+    },
+    {
+        "name": "Obinkita",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11952
+    },
+    {
+        "name": "Obinto",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12161
+    },
+    {
+        "name": "Obiohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 20968
+    },
+    {
+        "name": "Obiohia Ihenzu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 24526
+    },
+    {
+        "name": "Obohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 23491
+    },
+    {
+        "name": "Obohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 25868
+    },
+    {
+        "name": "Oboni",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 26313
+    },
+    {
+        "name": "Obor",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 776098
+    },
+    {
+        "name": "Oboro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 128327
+    },
+    {
+        "name": "Obosu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 43561
+    },
+    {
+        "name": "Obotme",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 16443
+    },
+    {
+        "name": "Obu Oru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 23815
+    },
+    {
+        "name": "Obugwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 27362
+    },
+    {
+        "name": "Obum",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.95,
+        "elev ft": 341,
+        "pop est": 11324
+    },
+    {
+        "name": "Obunku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 24753
+    },
+    {
+        "name": "Obuofia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 42495
+    },
+    {
+        "name": "Obuohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 26681
+    },
+    {
+        "name": "Obuohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 145537
+    },
+    {
+        "name": "Obuohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 20968
+    },
+    {
+        "name": "Oburuke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 35358
+    },
+    {
+        "name": "Obuzor",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 9739
+    },
+    {
+        "name": "Odiok",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 176997
+    },
+    {
+        "name": "Oduenyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 19344
+    },
+    {
+        "name": "Ogboko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 129956
+    },
+    {
+        "name": "Ogbu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.91,
+        "elev ft": 410,
+        "pop est": 27292
+    },
+    {
+        "name": "Ogbuebule",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 26836
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 40561
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 43571
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 50683
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 19055
+    },
+    {
+        "name": "Ogo Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 20858
+    },
+    {
+        "name": "Ogo-Omerenama",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 26026
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 14281
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 15909
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 27452
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 18565
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 10484
+    },
+    {
+        "name": "Ogo-Ubi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 103564
+    },
+    {
+        "name": "Ogoubi-Aro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 26026
+    },
+    {
+        "name": "Ogwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.97,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 13783
+    },
+    {
+        "name": "Ogwuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 87710
+    },
+    {
+        "name": "Oha Abu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 50868
+    },
+    {
+        "name": "Oha Obu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.86,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 50868
+    },
+    {
+        "name": "Ohabiam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 539645
+    },
+    {
+        "name": "Ohafia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.83,
+        "elev ft": 830,
+        "pop est": 135218
+    },
+    {
+        "name": "Ohafia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.69,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 17613
+    },
+    {
+        "name": "Ohafia-Ifigh",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.81,
+        "elev ft": 830,
+        "pop est": 146691
+    },
+    {
+        "name": "Ohandu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 22560
+    },
+    {
+        "name": "Ohango",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 24819
+    },
+    {
+        "name": "Ohanku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 23893
+    },
+    {
+        "name": "Ohanze",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 40372
+    },
+    {
+        "name": "Ohanze Umu Agwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 49892
+    },
+    {
+        "name": "Ohaobu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 52189
+    },
+    {
+        "name": "Ohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 152781
+    },
+    {
+        "name": "Ohokobe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 259434
+    },
+    {
+        "name": "Ohokobe Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 259434
+    },
+    {
+        "name": "Ohuhu-Nsulu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 26765
+    },
+    {
+        "name": "Ohumola",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 17379
+    },
+    {
+        "name": "Ohunna",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.87,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 35920
+    },
+    {
+        "name": "Ohunru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 150622
+    },
+    {
+        "name": "Ohuru",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 22201
+    },
+    {
+        "name": "Okagwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 64037
+    },
+    {
+        "name": "Okayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 15281
+    },
+    {
+        "name": "Oke Enyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 41478
+    },
+    {
+        "name": "Oke-Ikpe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 19293
+    },
+    {
+        "name": "Okeikpe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 19293
+    },
+    {
+        "name": "Okoko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 18559
+    },
+    {
+        "name": "Okoko Item",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 19622
+    },
+    {
+        "name": "Okon",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11406
+    },
+    {
+        "name": "Okoni",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.66,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 11406
+    },
+    {
+        "name": "Okopedi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 23441
+    },
+    {
+        "name": "Okotoko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 23393
+    },
+    {
+        "name": "Okovia-Ogwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 42768
+    },
+    {
+        "name": "Okpawku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 10160
+    },
+    {
+        "name": "Okpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 41757
+    },
+    {
+        "name": "Okpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10662
+    },
+    {
+        "name": "Okpocha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 108312
+    },
+    {
+        "name": "Okporo-Enyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 54905
+    },
+    {
+        "name": "Okpu Ala Uku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 23673
+    },
+    {
+        "name": "Okpuala-Ngwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 39336
+    },
+    {
+        "name": "Okputong",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 115764
+    },
+    {
+        "name": "Okrika",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.79,
+        "elev ft": 830,
+        "pop est": 14341
+    },
+    {
+        "name": "Oku Enyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.07,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 72679
+    },
+    {
+        "name": "Okwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 26672
+    },
+    {
+        "name": "Okwobom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 27703
+    },
+    {
+        "name": "Okwoyi-Iyienyi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 156906
+    },
+    {
+        "name": "Okwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 137169
+    },
+    {
+        "name": "Okwuta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 230649
+    },
+    {
+        "name": "Oleri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 26700
+    },
+    {
+        "name": "Oloko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 27214
+    },
+    {
+        "name": "Omo Enge",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 35155
+    },
+    {
+        "name": "Omoba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 32030
+    },
+    {
+        "name": "Onegbu Ojo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 49903
+    },
+    {
+        "name": "Onicha Ngwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 37513
+    },
+    {
+        "name": "Onu-Ibina",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 17177
+    },
+    {
+        "name": "Onuaku Uturu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 39529
+    },
+    {
+        "name": "Onuasu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 36895
+    },
+    {
+        "name": "Onuasu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 17772
+    },
+    {
+        "name": "Onukwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.78,
+        "elev ft": 830,
+        "pop est": 133712
+    },
+    {
+        "name": "Opara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 58596
+    },
+    {
+        "name": "Oriendu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 28801
+    },
+    {
+        "name": "Oror",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12070
+    },
+    {
+        "name": "Osia Umu-Mgbede",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 548588
+    },
+    {
+        "name": "Osisioma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 400067
+    },
+    {
+        "name": "Oso",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 7.8,
+        "elev ft": 830,
+        "pop est": 9127
+    },
+    {
+        "name": "Oso Okwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 31742
+    },
+    {
+        "name": "Osuaku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 17355
+    },
+    {
+        "name": "Osusu Aku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.04,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 226790
+    },
+    {
+        "name": "Otampa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 35099
+    },
+    {
+        "name": "Otampa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 33428
+    },
+    {
+        "name": "Otoro-Nchara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 26241
+    },
+    {
+        "name": "Ovim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 31408
+    },
+    {
+        "name": "Ovim",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 30461
+    },
+    {
+        "name": "Ovom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 272882
+    },
+    {
+        "name": "Ovu Ngwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 37181
+    },
+    {
+        "name": "Owan",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 18827
+    },
+    {
+        "name": "Owaza",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 22072
+    },
+    {
+        "name": "Owerri Aba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.06,
+        "long": 7.38,
+        "elev ft": 830,
+        "pop est": 359472
+    },
+    {
+        "name": "Owerri-Nta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 43055
+    },
+    {
+        "name": "Owerrinta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 14668
+    },
+    {
+        "name": "Owo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.16,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 18564
+    },
+    {
+        "name": "Owoala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.95,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13683
+    },
+    {
+        "name": "Owoelu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 15360
+    },
+    {
+        "name": "Owutu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 90096
+    },
+    {
+        "name": "Ozara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 31289
+    },
+    {
+        "name": "Ozara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 33428
+    },
+    {
+        "name": "Ozara Town",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 33428
+    },
+    {
+        "name": "Ozu Akoli",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 20516
+    },
+    {
+        "name": "Ozu-Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 130152
+    },
+    {
+        "name": "Ozu-Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.59,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 69261
+    },
+    {
+        "name": "Ozu-Item",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 129956
+    },
+    {
+        "name": "Ozuako",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 17355
+    },
+    {
+        "name": "Ozuaku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 17355
+    },
+    {
+        "name": "Ozuitem",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 26896
+    },
+    {
+        "name": "Quaibo Obuyo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 5052
+    },
+    {
+        "name": "Ubaha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 32942
+    },
+    {
+        "name": "Ubaha-Oloko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.37,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 32942
+    },
+    {
+        "name": "Ubani",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.6,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 76751
+    },
+    {
+        "name": "Ubereni",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.68,
+        "long": 7.91,
+        "elev ft": 400,
+        "pop est": 10985
+    },
+    {
+        "name": "Ubibia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 38338
+    },
+    {
+        "name": "Ubila Ametiti",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.93,
+        "elev ft": 830,
+        "pop est": 10187
+    },
+    {
+        "name": "Uburu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12558
+    },
+    {
+        "name": "Udi-Uduma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.54,
+        "long": 7.84,
+        "elev ft": 830,
+        "pop est": 12932
+    },
+    {
+        "name": "Ufiele",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 12411
+    },
+    {
+        "name": "Ufu Esioni",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 69328
+    },
+    {
+        "name": "Ufueseni",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 69328
+    },
+    {
+        "name": "Ugba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.53,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 270584
+    },
+    {
+        "name": "Ugbo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12960
+    },
+    {
+        "name": "Uguogo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 11053
+    },
+    {
+        "name": "Ugwakuma & Abagwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.91,
+        "elev ft": 830,
+        "pop est": 10672
+    },
+    {
+        "name": "Ugwuato",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.39,
+        "long": 7.89,
+        "elev ft": 830,
+        "pop est": 12070
+    },
+    {
+        "name": "Ugwueke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 24960
+    },
+    {
+        "name": "Ugwufiere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 106328
+    },
+    {
+        "name": "Ugwuliere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 106328
+    },
+    {
+        "name": "Ugwuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.86,
+        "elev ft": 830,
+        "pop est": 87710
+    },
+    {
+        "name": "Ukebe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.99,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 25649
+    },
+    {
+        "name": "Ukome-Isieke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.56,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 107343
+    },
+    {
+        "name": "Ukpakiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 226685
+    },
+    {
+        "name": "Ukpom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 74023
+    },
+    {
+        "name": "Ukpom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 31084
+    },
+    {
+        "name": "Ukputuke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.31,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 38991
+    },
+    {
+        "name": "Ukuakpu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11535
+    },
+    {
+        "name": "Ukwuke Oronta",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 34534
+    },
+    {
+        "name": "Uma-Akpa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 16447
+    },
+    {
+        "name": "Umariaga",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.47,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 75242
+    },
+    {
+        "name": "Umeku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 16944
+    },
+    {
+        "name": "Umoazi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 33672
+    },
+    {
+        "name": "Umu Agwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.09,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 49892
+    },
+    {
+        "name": "Umu Aja",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.11,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 56184
+    },
+    {
+        "name": "Umu Aja",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.02,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 42268
+    },
+    {
+        "name": "Umu Akpara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.17,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 260309
+    },
+    {
+        "name": "Umu Akwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 35984
+    },
+    {
+        "name": "Umu Anunu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 17155
+    },
+    {
+        "name": "Umu Aro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 28342
+    },
+    {
+        "name": "Umu Aro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 16096
+    },
+    {
+        "name": "Umu Aro Achara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 28342
+    },
+    {
+        "name": "Umu Ebi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 17333
+    },
+    {
+        "name": "Umu Echi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.1,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 43594
+    },
+    {
+        "name": "Umu Egwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.61,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 58143
+    },
+    {
+        "name": "Umu Eke Nne",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13748
+    },
+    {
+        "name": "Umu Enge",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 35155
+    },
+    {
+        "name": "Umu Eworo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 12127
+    },
+    {
+        "name": "Umu Eziuku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.41,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 30536
+    },
+    {
+        "name": "Umu Igu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 26638
+    },
+    {
+        "name": "Umu Iroma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 43751
+    },
+    {
+        "name": "Umu Lolo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 66952
+    },
+    {
+        "name": "Umu Mba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.08,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 734131
+    },
+    {
+        "name": "Umu Nkiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 20121
+    },
+    {
+        "name": "Umu Nkpe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 31976
+    },
+    {
+        "name": "Umu Obiakwa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 40414
+    },
+    {
+        "name": "Umu Ocha",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 100800
+    },
+    {
+        "name": "Umu Ojima Ogbu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 476927
+    },
+    {
+        "name": "Umu Okahia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.12,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 614585
+    },
+    {
+        "name": "Umu Oke Egwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 25379
+    },
+    {
+        "name": "Umu Okohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.25,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 18127
+    },
+    {
+        "name": "Umu Okpara",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.22,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 18631
+    },
+    {
+        "name": "Umu Okpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 41757
+    },
+    {
+        "name": "Umu Owa Oma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.13,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 46681
+    },
+    {
+        "name": "Umu Uhie",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.23,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 27869
+    },
+    {
+        "name": "Umu-Akwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 31030
+    },
+    {
+        "name": "Umu-Enyere",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 20417
+    },
+    {
+        "name": "Umu-Eze Uku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 30950
+    },
+    {
+        "name": "Umu-Ezeala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 242354
+    },
+    {
+        "name": "Umu-Ezegu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 39144
+    },
+    {
+        "name": "Umu-Ika",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 24697
+    },
+    {
+        "name": "Umu-Ohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.14,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 508902
+    },
+    {
+        "name": "Umu-Osoko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.38,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 27132
+    },
+    {
+        "name": "Umu-Ugo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 27201
+    },
+    {
+        "name": "Umuabia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.62,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 73437
+    },
+    {
+        "name": "Umuadienwe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 18114
+    },
+    {
+        "name": "Umuagu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.15,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 362175
+    },
+    {
+        "name": "Umuahale",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 3117
+    },
+    {
+        "name": "Umuahia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 280265
+    },
+    {
+        "name": "Umuahia-Ibeku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.52,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 280265
+    },
+    {
+        "name": "Umuakalu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.91,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13691
+    },
+    {
+        "name": "Umuakwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.36,
+        "elev ft": 885,
+        "pop est": 44925
+    },
+    {
+        "name": "Umuana Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 208777
+    },
+    {
+        "name": "Umuanya",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 28526
+    },
+    {
+        "name": "Umuaroko Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 214334
+    },
+    {
+        "name": "Umuasua",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 32502
+    },
+    {
+        "name": "Umuawa",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.58,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 127985
+    },
+    {
+        "name": "Umuchiakuma",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.49,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 12084
+    },
+    {
+        "name": "Umuchima",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 90208
+    },
+    {
+        "name": "Umuchima",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.36,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 53727
+    },
+    {
+        "name": "Umudike",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.5,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 177330
+    },
+    {
+        "name": "Umudike",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 109223
+    },
+    {
+        "name": "Umudobia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.96,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 11907
+    },
+    {
+        "name": "Umuebom",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.93,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 7823
+    },
+    {
+        "name": "Umuelechi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 6212
+    },
+    {
+        "name": "Umuemenike",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 26694
+    },
+    {
+        "name": "Umueru Oloko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 36081
+    },
+    {
+        "name": "Umuevge",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 35155
+    },
+    {
+        "name": "Umuevu-Oloko",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.34,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 36081
+    },
+    {
+        "name": "Umugbalu-Oboro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.45,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 38197
+    },
+    {
+        "name": "Umuhu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 34608
+    },
+    {
+        "name": "Umuhu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 21497
+    },
+    {
+        "name": "Umuhu Aba",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.26,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 20295
+    },
+    {
+        "name": "Umuhu Abam",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 21497
+    },
+    {
+        "name": "Umuibe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.88,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 21669
+    },
+    {
+        "name": "Umuimo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.18,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 218944
+    },
+    {
+        "name": "Umuitiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 17963
+    },
+    {
+        "name": "Umuitiri",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 17400
+    },
+    {
+        "name": "Umukor",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 16340
+    },
+    {
+        "name": "Umukpube",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 40408
+    },
+    {
+        "name": "Umukwa Obayi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.72,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 28951
+    },
+    {
+        "name": "Umukwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 13154
+    },
+    {
+        "name": "Umunakanu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.65,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 96083
+    },
+    {
+        "name": "Umunkwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.33,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 28734
+    },
+    {
+        "name": "Umunnato",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 15282
+    },
+    {
+        "name": "Umuobiala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.7,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 26484
+    },
+    {
+        "name": "Umuocheala",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 53687
+    },
+    {
+        "name": "Umuogle",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.35,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 29117
+    },
+    {
+        "name": "Umuogo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.94,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 43293
+    },
+    {
+        "name": "Umuohia",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.28,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 27770
+    },
+    {
+        "name": "Umuohu Ndume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 270459
+    },
+    {
+        "name": "Umuohu-Azueke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 214334
+    },
+    {
+        "name": "Umuohu-Udume",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.51,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 270459
+    },
+    {
+        "name": "Umuokoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.24,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 16704
+    },
+    {
+        "name": "Umuokorola",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.64,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 25893
+    },
+    {
+        "name": "Umuokpe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 25026
+    },
+    {
+        "name": "Umuokpe",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 13559
+    },
+    {
+        "name": "Umuokpo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 13559
+    },
+    {
+        "name": "Umuokwo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.57,
+        "elev ft": 830,
+        "pop est": 34641
+    },
+    {
+        "name": "Umuokwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.36,
+        "elev ft": 885,
+        "pop est": 44925
+    },
+    {
+        "name": "Umuomayi Uku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.42,
+        "long": 7.41,
+        "elev ft": 830,
+        "pop est": 34857
+    },
+    {
+        "name": "Umuore",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.89,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 13762
+    },
+    {
+        "name": "Umuoso-Onyoke",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 23347
+    },
+    {
+        "name": "Umuoso-Onyoku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.29,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 23347
+    },
+    {
+        "name": "Umuosoro",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.44,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 41732
+    },
+    {
+        "name": "Umuosu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 32718
+    },
+    {
+        "name": "Umuotu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.2,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 36859
+    },
+    {
+        "name": "Umuye",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.48,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11430
+    },
+    {
+        "name": "Umuzomgbo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.46,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 11654
+    },
+    {
+        "name": "Umwohan",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.92,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 3249
+    },
+    {
+        "name": "Unwana",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 7.94,
+        "elev ft": 318,
+        "pop est": 11781
+    },
+    {
+        "name": "Usaka-Elegu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.32,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 26070
+    },
+    {
+        "name": "Usaka-Umu-Ofo",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.3,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 23347
+    },
+    {
+        "name": "Usukpan",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.73,
+        "long": 7.93,
+        "elev ft": 400,
+        "pop est": 11121
+    },
+    {
+        "name": "Utughu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.71,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 10735
+    },
+    {
+        "name": "Utughugwu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.4,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 10696
+    },
+    {
+        "name": "Ututu",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.43,
+        "long": 7.92,
+        "elev ft": 830,
+        "pop est": 11203
+    },
+    {
+        "name": "Uzaku",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 4.9,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 17355
+    },
+    {
+        "name": "Uzuakloi",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 20516
+    },
+    {
+        "name": "Uzuakoli",
+        "what": "city",
+        "region": "Abia",
+        "country": "Nigeria",
+        "lat": 5.63,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 20516
+    }
+]

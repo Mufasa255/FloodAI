@@ -1,0 +1,4572 @@
+[
+    {
+        "name": "Abagwa Aka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.4,
+        "elev ft": 1099,
+        "pop est": 81461
+    },
+    {
+        "name": "Abaja-Awwa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 25095
+    },
+    {
+        "name": "Abaja-Ngwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 222852
+    },
+    {
+        "name": "Abaja-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 25095
+    },
+    {
+        "name": "Abaja-Owi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 25095
+    },
+    {
+        "name": "Abaw-Ogugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 34973
+    },
+    {
+        "name": "Abbi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.23,
+        "elev ft": 964,
+        "pop est": 27469
+    },
+    {
+        "name": "Abi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.23,
+        "elev ft": 964,
+        "pop est": 27469
+    },
+    {
+        "name": "Abia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 12832
+    },
+    {
+        "name": "Abo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 191076
+    },
+    {
+        "name": "Abo Ogugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 34973
+    },
+    {
+        "name": "Abodow-Isu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 38194
+    },
+    {
+        "name": "Abonuzu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.34,
+        "elev ft": 921,
+        "pop est": 20281
+    },
+    {
+        "name": "Abor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 191076
+    },
+    {
+        "name": "Abudu-Isu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 38194
+    },
+    {
+        "name": "Achalla-Owa-Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 25038
+    },
+    {
+        "name": "Acharichank-Pume",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 49782
+    },
+    {
+        "name": "Acharichankpume",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 49782
+    },
+    {
+        "name": "Achi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.36,
+        "elev ft": 1194,
+        "pop est": 38592
+    },
+    {
+        "name": "Adaba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 13747
+    },
+    {
+        "name": "Adani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.01,
+        "elev ft": 360,
+        "pop est": 17992
+    },
+    {
+        "name": "Adda",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.57,
+        "elev ft": 954,
+        "pop est": 15867
+    },
+    {
+        "name": "Adu-Achi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 34543
+    },
+    {
+        "name": "Afa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 7.32,
+        "elev ft": 1017,
+        "pop est": 2384
+    },
+    {
+        "name": "Afam",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.47,
+        "elev ft": 898,
+        "pop est": 41720
+    },
+    {
+        "name": "Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 7.32,
+        "elev ft": 1017,
+        "pop est": 2384
+    },
+    {
+        "name": "Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 7554
+    },
+    {
+        "name": "Afor-Ugwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 27488
+    },
+    {
+        "name": "Aforoye",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 21256
+    },
+    {
+        "name": "Agamede",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 7.75,
+        "elev ft": 830,
+        "pop est": 81354
+    },
+    {
+        "name": "Agba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.17,
+        "elev ft": 383,
+        "pop est": 26060
+    },
+    {
+        "name": "Agbaja-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 25095
+    },
+    {
+        "name": "Agbalaji",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 38820
+    },
+    {
+        "name": "Agbaliji",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 38820
+    },
+    {
+        "name": "Agbani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 38189
+    },
+    {
+        "name": "Agbawgazi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 13166
+    },
+    {
+        "name": "Agbogazi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 13166
+    },
+    {
+        "name": "Agbogugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 34973
+    },
+    {
+        "name": "Agbubu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.41,
+        "elev ft": 1213,
+        "pop est": 18473
+    },
+    {
+        "name": "Agbudu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.41,
+        "elev ft": 1213,
+        "pop est": 18473
+    },
+    {
+        "name": "Agobi-Iwolo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Agobi-Iwolu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Aguenyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 42065
+    },
+    {
+        "name": "Aguoba-Umuaji",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Aguoba-Umumba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.22,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Aguobu-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 27096
+    },
+    {
+        "name": "Aguobu-Umana",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 25173
+    },
+    {
+        "name": "Aguobu-Umumba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 19655
+    },
+    {
+        "name": "Aguobu-Umumba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 25161
+    },
+    {
+        "name": "Aguobu-Umumbia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 25161
+    },
+    {
+        "name": "Aka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.42,
+        "elev ft": 1131,
+        "pop est": 77195
+    },
+    {
+        "name": "Aka Eze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37173
+    },
+    {
+        "name": "Akama-Oghe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 16571
+    },
+    {
+        "name": "Akama-Oye",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 16571
+    },
+    {
+        "name": "Ake-Eze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37173
+    },
+    {
+        "name": "Ake-Eze Ukwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 32542
+    },
+    {
+        "name": "Akeze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37173
+    },
+    {
+        "name": "Akpa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.53,
+        "elev ft": 1669,
+        "pop est": 47661
+    },
+    {
+        "name": "Akpa-Edem",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 7.32,
+        "elev ft": 1040,
+        "pop est": 81631
+    },
+    {
+        "name": "Akpakume",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 7.29,
+        "elev ft": 1000,
+        "pop est": 47219
+    },
+    {
+        "name": "Akpaniya",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 7.33,
+        "elev ft": 941,
+        "pop est": 55915
+    },
+    {
+        "name": "Akpanya",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 7.33,
+        "elev ft": 941,
+        "pop est": 55915
+    },
+    {
+        "name": "Akpochi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 14453
+    },
+    {
+        "name": "Akpoga",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 15937
+    },
+    {
+        "name": "Akpoga-Ndiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 16898
+    },
+    {
+        "name": "Akpugo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 46649
+    },
+    {
+        "name": "Akpugo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Akpugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 7.28,
+        "elev ft": 974,
+        "pop est": 81896
+    },
+    {
+        "name": "Aku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 7.32,
+        "elev ft": 1010,
+        "pop est": 157911
+    },
+    {
+        "name": "Akukwa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.28,
+        "long": 7.16,
+        "elev ft": 377,
+        "pop est": 27844
+    },
+    {
+        "name": "Akwebe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 7.43,
+        "elev ft": 1669,
+        "pop est": 13311
+    },
+    {
+        "name": "Akwu-Achi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 30056
+    },
+    {
+        "name": "Ama-Awji",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 153346
+    },
+    {
+        "name": "Amabanba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 42251
+    },
+    {
+        "name": "Amabiriba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 43037
+    },
+    {
+        "name": "Amachara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 7.49,
+        "elev ft": 1669,
+        "pop est": 73586
+    },
+    {
+        "name": "Amadim-Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.18,
+        "elev ft": 364,
+        "pop est": 27863
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 41604
+    },
+    {
+        "name": "Amagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 7.13,
+        "elev ft": 413,
+        "pop est": 15782
+    },
+    {
+        "name": "Amagunze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 14704
+    },
+    {
+        "name": "Amala",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 7.54,
+        "elev ft": 1669,
+        "pop est": 31647
+    },
+    {
+        "name": "Amala Umueze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 7.54,
+        "elev ft": 1669,
+        "pop est": 31647
+    },
+    {
+        "name": "Amanko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 17662
+    },
+    {
+        "name": "Amanko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 17628
+    },
+    {
+        "name": "Amankwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 17628
+    },
+    {
+        "name": "Amankwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 17662
+    },
+    {
+        "name": "Amankwor Oye",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 17662
+    },
+    {
+        "name": "Amansiodo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 15343
+    },
+    {
+        "name": "Amaofu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 13552
+    },
+    {
+        "name": "Amaogudu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 41475
+    },
+    {
+        "name": "Amaowele",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 7.42,
+        "elev ft": 997,
+        "pop est": 41302
+    },
+    {
+        "name": "Ameke",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 195938
+    },
+    {
+        "name": "Ameke-Ngwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 195938
+    },
+    {
+        "name": "Ameta",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.77,
+        "elev ft": 830,
+        "pop est": 14454
+    },
+    {
+        "name": "Ameze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.7,
+        "elev ft": 413,
+        "pop est": 41797
+    },
+    {
+        "name": "Amibo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.46,
+        "elev ft": 830,
+        "pop est": 51543
+    },
+    {
+        "name": "Amofea-Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 2384
+    },
+    {
+        "name": "Amofu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 13552
+    },
+    {
+        "name": "Amokwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.37,
+        "elev ft": 1184,
+        "pop est": 9606
+    },
+    {
+        "name": "Amokwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 12019
+    },
+    {
+        "name": "Amokwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 12019
+    },
+    {
+        "name": "Amokwue-Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 7.36,
+        "elev ft": 1669,
+        "pop est": 3778
+    },
+    {
+        "name": "Amokwue-Obukpa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 74725
+    },
+    {
+        "name": "Amono",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 7.21,
+        "elev ft": 843,
+        "pop est": 18625
+    },
+    {
+        "name": "Amufi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 7.47,
+        "elev ft": 1669,
+        "pop est": 69823
+    },
+    {
+        "name": "Amurri",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 18484
+    },
+    {
+        "name": "Anike",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 7.17,
+        "elev ft": 374,
+        "pop est": 25676
+    },
+    {
+        "name": "Anike-Umumba-Ndiogu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 7.17,
+        "elev ft": 374,
+        "pop est": 25676
+    },
+    {
+        "name": "Aram",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.47,
+        "elev ft": 898,
+        "pop est": 41720
+    },
+    {
+        "name": "Aro Ake Eze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.74,
+        "elev ft": 416,
+        "pop est": 27914
+    },
+    {
+        "name": "Asaba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.98,
+        "elev ft": 337,
+        "pop est": 18021
+    },
+    {
+        "name": "Atugbuoma",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 181185
+    },
+    {
+        "name": "Awba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 60610
+    },
+    {
+        "name": "Awgu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 7.48,
+        "elev ft": 400,
+        "pop est": 41726
+    },
+    {
+        "name": "Awgu Market",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 7.47,
+        "elev ft": 314,
+        "pop est": 41847
+    },
+    {
+        "name": "Awhum",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 37840
+    },
+    {
+        "name": "Ayo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.55,
+        "elev ft": 830,
+        "pop est": 152410
+    },
+    {
+        "name": "Azugene-Umumba-Ndiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.2,
+        "elev ft": 403,
+        "pop est": 27413
+    },
+    {
+        "name": "Azungene-Umumba-Ndiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.2,
+        "elev ft": 403,
+        "pop est": 27413
+    },
+    {
+        "name": "Ebe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 7.38,
+        "elev ft": 1669,
+        "pop est": 89024
+    },
+    {
+        "name": "Ede-Oballa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 56400
+    },
+    {
+        "name": "Edemani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.85,
+        "long": 7.34,
+        "elev ft": 1669,
+        "pop est": 82695
+    },
+    {
+        "name": "Effokwa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 27870
+    },
+    {
+        "name": "Effokwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 7.54,
+        "elev ft": 830,
+        "pop est": 27870
+    },
+    {
+        "name": "Egede",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 7.37,
+        "elev ft": 1210,
+        "pop est": 2644
+    },
+    {
+        "name": "Egwuachi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.37,
+        "elev ft": 1253,
+        "pop est": 39011
+    },
+    {
+        "name": "Eha-Alumona",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.45,
+        "elev ft": 1669,
+        "pop est": 64729
+    },
+    {
+        "name": "Eha-Amufu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 7.76,
+        "elev ft": 830,
+        "pop est": 164016
+    },
+    {
+        "name": "Ehalumona",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.45,
+        "elev ft": 1669,
+        "pop est": 64729
+    },
+    {
+        "name": "Ehandiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 7.57,
+        "elev ft": 915,
+        "pop est": 29503
+    },
+    {
+        "name": "Ehuhe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 30535
+    },
+    {
+        "name": "Eke",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.36,
+        "elev ft": 1069,
+        "pop est": 58839
+    },
+    {
+        "name": "Eke-Ugwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 25865
+    },
+    {
+        "name": "Ekwegbe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 7.43,
+        "elev ft": 1669,
+        "pop est": 13311
+    },
+    {
+        "name": "Emene",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 211649
+    },
+    {
+        "name": "Enuga",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 254466
+    },
+    {
+        "name": "Enugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 254466
+    },
+    {
+        "name": "Enugu-Ezike",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 80907
+    },
+    {
+        "name": "Enugu-Ngwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 7.44,
+        "elev ft": 1249,
+        "pop est": 269565
+    },
+    {
+        "name": "Enuguagu-Achi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.33,
+        "elev ft": 849,
+        "pop est": 37095
+    },
+    {
+        "name": "Enuguaku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 32196
+    },
+    {
+        "name": "En\u00fagwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.5,
+        "elev ft": 830,
+        "pop est": 254466
+    },
+    {
+        "name": "Ete",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.09,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 55560
+    },
+    {
+        "name": "Etu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 28862
+    },
+    {
+        "name": "Ezeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 27862
+    },
+    {
+        "name": "Ezemaowa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.34,
+        "elev ft": 843,
+        "pop est": 19762
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Eziama-Awwa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.18,
+        "elev ft": 357,
+        "pop est": 27194
+    },
+    {
+        "name": "Eziama-Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.19,
+        "elev ft": 380,
+        "pop est": 27863
+    },
+    {
+        "name": "Eziama-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.18,
+        "elev ft": 357,
+        "pop est": 27194
+    },
+    {
+        "name": "Ezimo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.53,
+        "elev ft": 994,
+        "pop est": 27029
+    },
+    {
+        "name": "Ezingbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 14448
+    },
+    {
+        "name": "Ezumo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.53,
+        "elev ft": 994,
+        "pop est": 27029
+    },
+    {
+        "name": "Ibagwa-Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 40602
+    },
+    {
+        "name": "Ibagwa-Aka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.4,
+        "elev ft": 1099,
+        "pop est": 81461
+    },
+    {
+        "name": "Ibegwa-Aka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.4,
+        "elev ft": 1099,
+        "pop est": 81461
+    },
+    {
+        "name": "Ibegwa-Ani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.34,
+        "elev ft": 997,
+        "pop est": 82256
+    },
+    {
+        "name": "Ibite",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 17899
+    },
+    {
+        "name": "Ibite Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.13,
+        "elev ft": 331,
+        "pop est": 27742
+    },
+    {
+        "name": "Idedu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 12543
+    },
+    {
+        "name": "Idi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 7.44,
+        "elev ft": 1669,
+        "pop est": 34020
+    },
+    {
+        "name": "Idodo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 24369
+    },
+    {
+        "name": "Igbede",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.85,
+        "elev ft": 830,
+        "pop est": 14444
+    },
+    {
+        "name": "Igbenu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.14,
+        "elev ft": 255,
+        "pop est": 25002
+    },
+    {
+        "name": "Igbo-Etiti",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.27,
+        "elev ft": 987,
+        "pop est": 48569
+    },
+    {
+        "name": "Igga",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 6.95,
+        "elev ft": 324,
+        "pop est": 16715
+    },
+    {
+        "name": "Igogoro",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 7.47,
+        "elev ft": 1243,
+        "pop est": 80375
+    },
+    {
+        "name": "Igulala",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.05,
+        "elev ft": 393,
+        "pop est": 14733
+    },
+    {
+        "name": "Igwaka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 38960
+    },
+    {
+        "name": "Igwugwa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.49,
+        "elev ft": 1669,
+        "pop est": 33053
+    },
+    {
+        "name": "Igwugwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.49,
+        "elev ft": 1669,
+        "pop est": 33053
+    },
+    {
+        "name": "Ihaka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.42,
+        "elev ft": 1131,
+        "pop est": 77195
+    },
+    {
+        "name": "Ihe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 41551
+    },
+    {
+        "name": "Iheuokpara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 15783
+    },
+    {
+        "name": "Ihiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 80947
+    },
+    {
+        "name": "Ihuokopara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.66,
+        "elev ft": 830,
+        "pop est": 15783
+    },
+    {
+        "name": "Ikedinkpa-Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.32,
+        "elev ft": 1023,
+        "pop est": 2717
+    },
+    {
+        "name": "Ikem",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.71,
+        "elev ft": 830,
+        "pop est": 14478
+    },
+    {
+        "name": "Ikem-Nkwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 17018
+    },
+    {
+        "name": "Ikem-Nkwor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 17018
+    },
+    {
+        "name": "Ikem-Omuaram",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 14453
+    },
+    {
+        "name": "Ikolo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 7.34,
+        "elev ft": 1053,
+        "pop est": 147628
+    },
+    {
+        "name": "Ikwoka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.35,
+        "elev ft": 1669,
+        "pop est": 82695
+    },
+    {
+        "name": "Imezi-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.37,
+        "elev ft": 1187,
+        "pop est": 15959
+    },
+    {
+        "name": "Imilike",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 7.48,
+        "elev ft": 1669,
+        "pop est": 45127
+    },
+    {
+        "name": "Imiliki",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.88,
+        "long": 7.48,
+        "elev ft": 1669,
+        "pop est": 45127
+    },
+    {
+        "name": "Inburu-Idodo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 49374
+    },
+    {
+        "name": "Inyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 38352
+    },
+    {
+        "name": "Inyi Umuome",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 38352
+    },
+    {
+        "name": "Iseagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 18740
+    },
+    {
+        "name": "Isienu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 62628
+    },
+    {
+        "name": "Isikwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.36,
+        "elev ft": 1072,
+        "pop est": 38723
+    },
+    {
+        "name": "Isu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 23577
+    },
+    {
+        "name": "Isu-Awa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.43,
+        "elev ft": 830,
+        "pop est": 38108
+    },
+    {
+        "name": "Isyago",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 18740
+    },
+    {
+        "name": "Itchi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.36,
+        "elev ft": 997,
+        "pop est": 80924
+    },
+    {
+        "name": "Ituku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 31535
+    },
+    {
+        "name": "Iwollo-Oghe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 22142
+    },
+    {
+        "name": "Iwollo-Oye",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 22142
+    },
+    {
+        "name": "Iwolo-Oye",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 22142
+    },
+    {
+        "name": "Iza-Ovim",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 42670
+    },
+    {
+        "name": "Leja",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.37,
+        "elev ft": 1669,
+        "pop est": 84784
+    },
+    {
+        "name": "Lejja",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.37,
+        "elev ft": 1669,
+        "pop est": 84784
+    },
+    {
+        "name": "Leke-Awnueme",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 14453
+    },
+    {
+        "name": "Leke-Onueme",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.72,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 14453
+    },
+    {
+        "name": "Like",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.47,
+        "elev ft": 1669,
+        "pop est": 49635
+    },
+    {
+        "name": "Maku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.46,
+        "elev ft": 980,
+        "pop est": 41720
+    },
+    {
+        "name": "Mbalaze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 7.73,
+        "elev ft": 400,
+        "pop est": 20032
+    },
+    {
+        "name": "Mberubu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 19618
+    },
+    {
+        "name": "Mbu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 15717
+    },
+    {
+        "name": "Mgbabu-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.19,
+        "elev ft": 387,
+        "pop est": 27799
+    },
+    {
+        "name": "Mgbabu-Umuaji-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.2,
+        "elev ft": 416,
+        "pop est": 27486
+    },
+    {
+        "name": "Mgbagbu-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.19,
+        "elev ft": 387,
+        "pop est": 27799
+    },
+    {
+        "name": "Mgbagbu-Umuaji-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.2,
+        "elev ft": 416,
+        "pop est": 27486
+    },
+    {
+        "name": "Mgbagbu-Umumba-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.2,
+        "elev ft": 416,
+        "pop est": 27486
+    },
+    {
+        "name": "Mgbede",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.73,
+        "elev ft": 830,
+        "pop est": 26782
+    },
+    {
+        "name": "Mgbidi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 7.45,
+        "elev ft": 1007,
+        "pop est": 41724
+    },
+    {
+        "name": "Mgbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.51,
+        "elev ft": 308,
+        "pop est": 41720
+    },
+    {
+        "name": "Mgboo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.51,
+        "elev ft": 308,
+        "pop est": 41720
+    },
+    {
+        "name": "Mgbowo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.51,
+        "elev ft": 308,
+        "pop est": 41720
+    },
+    {
+        "name": "Mkpor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 7.41,
+        "elev ft": 1030,
+        "pop est": 80907
+    },
+    {
+        "name": "Mkpor-Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.41,
+        "elev ft": 1062,
+        "pop est": 80907
+    },
+    {
+        "name": "Mkpor-Agwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.41,
+        "elev ft": 1062,
+        "pop est": 80907
+    },
+    {
+        "name": "Mpu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 41421
+    },
+    {
+        "name": "Nachi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6484
+    },
+    {
+        "name": "Nachi (1)",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6484
+    },
+    {
+        "name": "Nachi (2)",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6484
+    },
+    {
+        "name": "Nachi 1",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6484
+    },
+    {
+        "name": "Nachi 2",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 6484
+    },
+    {
+        "name": "Nara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 13904
+    },
+    {
+        "name": "Ndeaboh",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.57,
+        "elev ft": 413,
+        "pop est": 41755
+    },
+    {
+        "name": "Ndeaboh Station",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.57,
+        "elev ft": 413,
+        "pop est": 41755
+    },
+    {
+        "name": "Ndiaga-Akpugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 16671
+    },
+    {
+        "name": "Ndiago",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 23843
+    },
+    {
+        "name": "Ndiagu-Obinofia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.21,
+        "elev ft": 403,
+        "pop est": 29051
+    },
+    {
+        "name": "Ndiaguowo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 7.7,
+        "elev ft": 830,
+        "pop est": 23843
+    },
+    {
+        "name": "Ndiuno-Obinofia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 12854
+    },
+    {
+        "name": "Nebo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 17739
+    },
+    {
+        "name": "Nenwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.53,
+        "elev ft": 341,
+        "pop est": 41455
+    },
+    {
+        "name": "Ngalakwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.71,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 83329
+    },
+    {
+        "name": "Ngalakwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 18625
+    },
+    {
+        "name": "Ngbana-Eze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.73,
+        "elev ft": 400,
+        "pop est": 21261
+    },
+    {
+        "name": "Ngbanaocha",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 13451
+    },
+    {
+        "name": "Ngeneugbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.47,
+        "elev ft": 830,
+        "pop est": 41720
+    },
+    {
+        "name": "Ngine",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 207712
+    },
+    {
+        "name": "Ngwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 7.44,
+        "elev ft": 1249,
+        "pop est": 269565
+    },
+    {
+        "name": "Ngwo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 231985
+    },
+    {
+        "name": "Ngwo-Uno",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 231985
+    },
+    {
+        "name": "Nibo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 17739
+    },
+    {
+        "name": "Nimbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.82,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 17739
+    },
+    {
+        "name": "Nine Mile Corner",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 182453
+    },
+    {
+        "name": "Nkpologu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 7.25,
+        "elev ft": 990,
+        "pop est": 25319
+    },
+    {
+        "name": "Nkpor-Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.97,
+        "long": 7.41,
+        "elev ft": 1062,
+        "pop est": 80907
+    },
+    {
+        "name": "Nkume",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 11841
+    },
+    {
+        "name": "Nkwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.43,
+        "elev ft": 990,
+        "pop est": 41686
+    },
+    {
+        "name": "Nkwelegwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.79,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 18625
+    },
+    {
+        "name": "Nkwere-Inyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 44596
+    },
+    {
+        "name": "Nkwerre-Inyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 44596
+    },
+    {
+        "name": "Nkwo Nike",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 174068
+    },
+    {
+        "name": "Nkwo-Agiliya",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Nkwobo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 35287
+    },
+    {
+        "name": "Nkwoida",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.98,
+        "long": 7.41,
+        "elev ft": 1030,
+        "pop est": 80907
+    },
+    {
+        "name": "Nkwuli",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 42059
+    },
+    {
+        "name": "Nkwuli Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 7.35,
+        "elev ft": 830,
+        "pop est": 42059
+    },
+    {
+        "name": "Nmaku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.46,
+        "elev ft": 980,
+        "pop est": 41720
+    },
+    {
+        "name": "Nomeh",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 28059
+    },
+    {
+        "name": "Nrobo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.27,
+        "elev ft": 1007,
+        "pop est": 48793
+    },
+    {
+        "name": "Nsude",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 127636
+    },
+    {
+        "name": "Nsukka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 82621
+    },
+    {
+        "name": "Nsukka Town",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 82621
+    },
+    {
+        "name": "Numbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 18341
+    },
+    {
+        "name": "Nwerre-Inyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 44596
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 64001
+    },
+    {
+        "name": "Obe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 64001
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.52,
+        "elev ft": 830,
+        "pop est": 243687
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.45,
+        "elev ft": 1033,
+        "pop est": 41720
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 42130
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.67,
+        "elev ft": 830,
+        "pop est": 42230
+    },
+    {
+        "name": "Obeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Obelagu-Obimo Leja",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.77,
+        "long": 7.38,
+        "elev ft": 1669,
+        "pop est": 61187
+    },
+    {
+        "name": "Obeleagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.37,
+        "elev ft": 1204,
+        "pop est": 11030
+    },
+    {
+        "name": "Obeleagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.38,
+        "elev ft": 1669,
+        "pop est": 8645
+    },
+    {
+        "name": "Obiago",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 31677
+    },
+    {
+        "name": "Obimo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 7.32,
+        "elev ft": 1108,
+        "pop est": 74816
+    },
+    {
+        "name": "Obinagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 19900
+    },
+    {
+        "name": "Obinagu-Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 7.27,
+        "elev ft": 915,
+        "pop est": 5278
+    },
+    {
+        "name": "Obinefu-Nenwe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 41720
+    },
+    {
+        "name": "Obioma",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 7.4,
+        "elev ft": 1669,
+        "pop est": 41876
+    },
+    {
+        "name": "Obodo Aba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 16929
+    },
+    {
+        "name": "Obollo-Afor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.52,
+        "elev ft": 1669,
+        "pop est": 24888
+    },
+    {
+        "name": "Obolo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.52,
+        "elev ft": 1669,
+        "pop est": 24888
+    },
+    {
+        "name": "Obolo-Eke",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.87,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 21724
+    },
+    {
+        "name": "Obuagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 42065
+    },
+    {
+        "name": "Obukpa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.39,
+        "elev ft": 1230,
+        "pop est": 81440
+    },
+    {
+        "name": "Obule-Inyi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 38964
+    },
+    {
+        "name": "Oduma",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 36876
+    },
+    {
+        "name": "Ofoko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 54364
+    },
+    {
+        "name": "Ogbaho",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 15979
+    },
+    {
+        "name": "Ogbaku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 7.53,
+        "elev ft": 830,
+        "pop est": 32175
+    },
+    {
+        "name": "Ogbaku-Ndiagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.51,
+        "elev ft": 830,
+        "pop est": 33533
+    },
+    {
+        "name": "Ogbede",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 7.37,
+        "elev ft": 1669,
+        "pop est": 94661
+    },
+    {
+        "name": "Ogbo-Uvuru",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 14944
+    },
+    {
+        "name": "Ogbodu-Aba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 16929
+    },
+    {
+        "name": "Ogboli",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.0,
+        "long": 7.42,
+        "elev ft": 1056,
+        "pop est": 80907
+    },
+    {
+        "name": "Ogbosine",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 30740
+    },
+    {
+        "name": "Ogboso",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.05,
+        "elev ft": 357,
+        "pop est": 19168
+    },
+    {
+        "name": "Oghe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 19491
+    },
+    {
+        "name": "Ogo-Ndago",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 21309
+    },
+    {
+        "name": "Ogologo-Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.15,
+        "elev ft": 291,
+        "pop est": 26809
+    },
+    {
+        "name": "Ogrita",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.4,
+        "elev ft": 997,
+        "pop est": 80970
+    },
+    {
+        "name": "Ogugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 41071
+    },
+    {
+        "name": "Ogunta",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 40810
+    },
+    {
+        "name": "Ogwafia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.36,
+        "elev ft": 1167,
+        "pop est": 35691
+    },
+    {
+        "name": "Ogwuosie",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.36,
+        "elev ft": 1167,
+        "pop est": 35691
+    },
+    {
+        "name": "Oha",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 27863
+    },
+    {
+        "name": "Ohaja-Agwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 7.5,
+        "elev ft": 285,
+        "pop est": 41724
+    },
+    {
+        "name": "Ohali",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 26611
+    },
+    {
+        "name": "Ohali-Achi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 26611
+    },
+    {
+        "name": "Ohebo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 7.37,
+        "elev ft": 1669,
+        "pop est": 124388
+    },
+    {
+        "name": "Ohum",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 37840
+    },
+    {
+        "name": "Oji River",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 21272
+    },
+    {
+        "name": "Oji River Settlement",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 22996
+    },
+    {
+        "name": "Ojinato",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 30525
+    },
+    {
+        "name": "Ojjor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 6.94,
+        "elev ft": 318,
+        "pop est": 15474
+    },
+    {
+        "name": "Okinano",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 239003
+    },
+    {
+        "name": "Okpakeke",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.92,
+        "long": 7.58,
+        "elev ft": 915,
+        "pop est": 19805
+    },
+    {
+        "name": "Okpaku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.49,
+        "elev ft": 885,
+        "pop est": 39413
+    },
+    {
+        "name": "Okpata",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 8651
+    },
+    {
+        "name": "Okpata",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 9239
+    },
+    {
+        "name": "Okpatu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 7.08,
+        "elev ft": 377,
+        "pop est": 21550
+    },
+    {
+        "name": "Okpatu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 9239
+    },
+    {
+        "name": "Okpatu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 8651
+    },
+    {
+        "name": "Okpatu-Ukehe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 9239
+    },
+    {
+        "name": "Okpo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 7.48,
+        "elev ft": 941,
+        "pop est": 65547
+    },
+    {
+        "name": "Okpochi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.76,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 14453
+    },
+    {
+        "name": "Okpogbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 25769
+    },
+    {
+        "name": "Okpogho",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 25769
+    },
+    {
+        "name": "Okposi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.2,
+        "elev ft": 403,
+        "pop est": 32641
+    },
+    {
+        "name": "Okposi Obinofia",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.2,
+        "elev ft": 403,
+        "pop est": 32641
+    },
+    {
+        "name": "Okpu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 41622
+    },
+    {
+        "name": "Okpudo-Umana",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 7.34,
+        "elev ft": 928,
+        "pop est": 9748
+    },
+    {
+        "name": "Okpueze-Umumba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 24025
+    },
+    {
+        "name": "Okpuwa-Imeze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 21484
+    },
+    {
+        "name": "Okpuwo-Imeze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 21484
+    },
+    {
+        "name": "Okuje",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.3,
+        "elev ft": 997,
+        "pop est": 79088
+    },
+    {
+        "name": "Okuji",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.3,
+        "elev ft": 997,
+        "pop est": 79088
+    },
+    {
+        "name": "Okum",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 37840
+    },
+    {
+        "name": "Okutu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 44466
+    },
+    {
+        "name": "Olele",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 45131
+    },
+    {
+        "name": "Oliemba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.58,
+        "elev ft": 830,
+        "pop est": 38066
+    },
+    {
+        "name": "Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 41013
+    },
+    {
+        "name": "Oloafor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 15822
+    },
+    {
+        "name": "Omanze",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.87,
+        "elev ft": 830,
+        "pop est": 14154
+    },
+    {
+        "name": "Omudi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 7.36,
+        "elev ft": 1115,
+        "pop est": 2384
+    },
+    {
+        "name": "Onitsha-Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.71,
+        "elev ft": 406,
+        "pop est": 18546
+    },
+    {
+        "name": "Onoafor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Onoli",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 7.47,
+        "elev ft": 255,
+        "pop est": 41847
+    },
+    {
+        "name": "Onoli Agu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.48,
+        "elev ft": 236,
+        "pop est": 41958
+    },
+    {
+        "name": "Onuba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 7.61,
+        "elev ft": 830,
+        "pop est": 169011
+    },
+    {
+        "name": "Opanda",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 14273
+    },
+    {
+        "name": "Opi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.43,
+        "elev ft": 1669,
+        "pop est": 48036
+    },
+    {
+        "name": "Orba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 60610
+    },
+    {
+        "name": "Orobo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.84,
+        "long": 7.27,
+        "elev ft": 1007,
+        "pop est": 48793
+    },
+    {
+        "name": "Oruku",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 78582
+    },
+    {
+        "name": "Osu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 16576
+    },
+    {
+        "name": "Overo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.21,
+        "elev ft": 882,
+        "pop est": 18625
+    },
+    {
+        "name": "Ovim",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 42136
+    },
+    {
+        "name": "Ovoko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.46,
+        "elev ft": 1669,
+        "pop est": 54364
+    },
+    {
+        "name": "Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.36,
+        "elev ft": 1056,
+        "pop est": 25861
+    },
+    {
+        "name": "Owele",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.3,
+        "elev ft": 997,
+        "pop est": 51660
+    },
+    {
+        "name": "Owele",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.46,
+        "elev ft": 987,
+        "pop est": 41720
+    },
+    {
+        "name": "Owelle",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.46,
+        "elev ft": 987,
+        "pop est": 41720
+    },
+    {
+        "name": "Owo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.69,
+        "elev ft": 830,
+        "pop est": 24637
+    },
+    {
+        "name": "Ozala",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozala",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 71611
+    },
+    {
+        "name": "Ozalla",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozalla (1)",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozalla (2)",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozalla 1",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozalla 2",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 61126
+    },
+    {
+        "name": "Ozi-Edem",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.33,
+        "elev ft": 1161,
+        "pop est": 81983
+    },
+    {
+        "name": "QNK",
+        "what": "city",
+        "region": "Enugu State",
+        "country": "Nigeria",
+        "lat": 6.86,
+        "long": 7.39,
+        "elev ft": 1669,
+        "pop est": 82621
+    },
+    {
+        "name": "Ubeagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.63,
+        "elev ft": 830,
+        "pop est": 42524
+    },
+    {
+        "name": "Uda",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.94,
+        "long": 7.49,
+        "elev ft": 1669,
+        "pop est": 58427
+    },
+    {
+        "name": "Udi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 7.42,
+        "elev ft": 1072,
+        "pop est": 20183
+    },
+    {
+        "name": "Uduma",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 36876
+    },
+    {
+        "name": "Ugbene",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 7.23,
+        "elev ft": 997,
+        "pop est": 19984
+    },
+    {
+        "name": "Ugbene Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.15,
+        "elev ft": 291,
+        "pop est": 26809
+    },
+    {
+        "name": "Ugbenu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.14,
+        "elev ft": 255,
+        "pop est": 25002
+    },
+    {
+        "name": "Ugbenu-Olo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.15,
+        "elev ft": 291,
+        "pop est": 26809
+    },
+    {
+        "name": "Ugbewe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 7.23,
+        "elev ft": 997,
+        "pop est": 19984
+    },
+    {
+        "name": "Ugbobo-Ani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 145249
+    },
+    {
+        "name": "Ugboho",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 15979
+    },
+    {
+        "name": "Ugboka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 7.59,
+        "elev ft": 830,
+        "pop est": 13112
+    },
+    {
+        "name": "Ugbokpara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.45,
+        "elev ft": 977,
+        "pop est": 41720
+    },
+    {
+        "name": "Ugbuokpara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.45,
+        "elev ft": 977,
+        "pop est": 41720
+    },
+    {
+        "name": "Ugene-Akibite",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 7.26,
+        "elev ft": 1003,
+        "pop est": 32224
+    },
+    {
+        "name": "Uguoba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.19,
+        "elev ft": 406,
+        "pop est": 34597
+    },
+    {
+        "name": "Ugwago",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 13330
+    },
+    {
+        "name": "Ugwaka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.95,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 38960
+    },
+    {
+        "name": "Ugwogo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 7.56,
+        "elev ft": 830,
+        "pop est": 13330
+    },
+    {
+        "name": "Ugwojoro",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 16179
+    },
+    {
+        "name": "Ugwu-Anya",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 13914
+    },
+    {
+        "name": "Ugwuafor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.62,
+        "elev ft": 830,
+        "pop est": 41475
+    },
+    {
+        "name": "Ugwueme",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.44,
+        "elev ft": 830,
+        "pop est": 42461
+    },
+    {
+        "name": "Ugwuijoro",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.83,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 16179
+    },
+    {
+        "name": "Ugwuoba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 30525
+    },
+    {
+        "name": "Ugwuoba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.16,
+        "elev ft": 393,
+        "pop est": 35002
+    },
+    {
+        "name": "Ukana",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 90471
+    },
+    {
+        "name": "Uke",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.64,
+        "elev ft": 830,
+        "pop est": 42208
+    },
+    {
+        "name": "Ukehe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 11932
+    },
+    {
+        "name": "Ukpabi-Nimbo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.8,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 17868
+    },
+    {
+        "name": "Ukpata",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 8651
+    },
+    {
+        "name": "Ukpo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 7.06,
+        "long": 7.48,
+        "elev ft": 941,
+        "pop est": 65547
+    },
+    {
+        "name": "Ukpulugu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.6,
+        "elev ft": 830,
+        "pop est": 27306
+    },
+    {
+        "name": "Ukume",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 3961
+    },
+    {
+        "name": "Ukworoko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.96,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 49918
+    },
+    {
+        "name": "Umabo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.81,
+        "long": 7.53,
+        "elev ft": 980,
+        "pop est": 39853
+    },
+    {
+        "name": "Umana",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 15015
+    },
+    {
+        "name": "Umana-Umuawo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.18,
+        "elev ft": 393,
+        "pop est": 26550
+    },
+    {
+        "name": "Umeka",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 18046
+    },
+    {
+        "name": "Umobor",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 37173
+    },
+    {
+        "name": "Umokpara",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.41,
+        "elev ft": 1669,
+        "pop est": 9239
+    },
+    {
+        "name": "Umosigide",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.9,
+        "long": 7.56,
+        "elev ft": 1000,
+        "pop est": 14882
+    },
+    {
+        "name": "Umu-Lumbe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 6429
+    },
+    {
+        "name": "Umuabi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.37,
+        "elev ft": 1669,
+        "pop est": 9606
+    },
+    {
+        "name": "Umuaga",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.36,
+        "elev ft": 1010,
+        "pop est": 12621
+    },
+    {
+        "name": "Umuagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.36,
+        "elev ft": 1010,
+        "pop est": 12621
+    },
+    {
+        "name": "Umuagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 37358
+    },
+    {
+        "name": "Umuaji-Owa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.2,
+        "elev ft": 416,
+        "pop est": 27486
+    },
+    {
+        "name": "Umuakwu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 37358
+    },
+    {
+        "name": "Umualo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 7.68,
+        "elev ft": 830,
+        "pop est": 19981
+    },
+    {
+        "name": "Umualu-Ugwoioba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.16,
+        "elev ft": 403,
+        "pop est": 37340
+    },
+    {
+        "name": "Umualu-Ugwuoba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.16,
+        "elev ft": 403,
+        "pop est": 37340
+    },
+    {
+        "name": "Umuatugbuoma",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.48,
+        "elev ft": 830,
+        "pop est": 154664
+    },
+    {
+        "name": "Umudim",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.38,
+        "elev ft": 1669,
+        "pop est": 8645
+    },
+    {
+        "name": "Umudim",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.17,
+        "elev ft": 357,
+        "pop est": 27055
+    },
+    {
+        "name": "Umudim",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.37,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 27691
+    },
+    {
+        "name": "Umuida",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.99,
+        "long": 7.38,
+        "elev ft": 997,
+        "pop est": 80887
+    },
+    {
+        "name": "Umulokpa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.1,
+        "elev ft": 354,
+        "pop est": 24294
+    },
+    {
+        "name": "Umulona",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.1,
+        "elev ft": 354,
+        "pop est": 24294
+    },
+    {
+        "name": "Umulumgbe",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 6429
+    },
+    {
+        "name": "Umuluokpa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 7.1,
+        "elev ft": 354,
+        "pop est": 24294
+    },
+    {
+        "name": "Umumba",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.33,
+        "elev ft": 875,
+        "pop est": 37317
+    },
+    {
+        "name": "Umumba-Uno",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.33,
+        "elev ft": 879,
+        "pop est": 13869
+    },
+    {
+        "name": "Umuna-Umuawo",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 7.18,
+        "elev ft": 393,
+        "pop est": 26550
+    },
+    {
+        "name": "Umundi",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.89,
+        "long": 7.5,
+        "elev ft": 1669,
+        "pop est": 32009
+    },
+    {
+        "name": "Umunko",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 7.42,
+        "elev ft": 1669,
+        "pop est": 26402
+    },
+    {
+        "name": "Umunoka-Affa",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 7.36,
+        "elev ft": 1669,
+        "pop est": 4829
+    },
+    {
+        "name": "Umuovu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 7.35,
+        "elev ft": 1062,
+        "pop est": 2384
+    },
+    {
+        "name": "Umuowalagu",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 7.65,
+        "elev ft": 830,
+        "pop est": 13904
+    },
+    {
+        "name": "Uvru",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 18538
+    },
+    {
+        "name": "Uvruani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.74,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 18538
+    },
+    {
+        "name": "Uvuru",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.75,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 18538
+    },
+    {
+        "name": "Uvuru",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.78,
+        "long": 7.21,
+        "elev ft": 882,
+        "pop est": 18625
+    },
+    {
+        "name": "Uzo-Awan",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 7.1,
+        "elev ft": 370,
+        "pop est": 22926
+    },
+    {
+        "name": "Uzo-Uwani",
+        "what": "city",
+        "region": "Enugu",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 7.1,
+        "elev ft": 370,
+        "pop est": 22926
+    }
+]

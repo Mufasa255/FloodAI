@@ -1,0 +1,2232 @@
+[
+    {
+        "name": "Aboro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.0,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Ado",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 198340
+    },
+    {
+        "name": "Ado-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 198340
+    },
+    {
+        "name": "Adugboku",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 37042
+    },
+    {
+        "name": "Aduloju",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 15239
+    },
+    {
+        "name": "Afao",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.31,
+        "elev ft": 1669,
+        "pop est": 14047
+    },
+    {
+        "name": "Afao-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.31,
+        "elev ft": 1669,
+        "pop est": 14047
+    },
+    {
+        "name": "Afodide",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.3,
+        "elev ft": 1669,
+        "pop est": 23327
+    },
+    {
+        "name": "Afolu-Modi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 71151
+    },
+    {
+        "name": "Agba",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 5.04,
+        "elev ft": 1807,
+        "pop est": 35839
+    },
+    {
+        "name": "Agbado",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 5.52,
+        "elev ft": 1669,
+        "pop est": 11628
+    },
+    {
+        "name": "Ago",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.32,
+        "elev ft": 1669,
+        "pop est": 22193
+    },
+    {
+        "name": "Ago Ologunja",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.32,
+        "elev ft": 1669,
+        "pop est": 22193
+    },
+    {
+        "name": "Ago-Araromi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.36,
+        "elev ft": 1669,
+        "pop est": 12516
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 12530
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.28,
+        "elev ft": 1669,
+        "pop est": 77387
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 111274
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 127926
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 121910
+    },
+    {
+        "name": "Ago-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.28,
+        "elev ft": 1669,
+        "pop est": 109663
+    },
+    {
+        "name": "Ago-Ijaiye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 47367
+    },
+    {
+        "name": "Ago-Isobo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 12381
+    },
+    {
+        "name": "Ago-Orokunja",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.35,
+        "elev ft": 1669,
+        "pop est": 12646
+    },
+    {
+        "name": "Airo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 49060
+    },
+    {
+        "name": "Aisegba",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.48,
+        "elev ft": 1669,
+        "pop est": 11622
+    },
+    {
+        "name": "Aiyede",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 5.34,
+        "elev ft": 1669,
+        "pop est": 51107
+    },
+    {
+        "name": "Aiyegbaju",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 5.01,
+        "elev ft": 1860,
+        "pop est": 21895
+    },
+    {
+        "name": "Aiyegunle",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 155463
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.15,
+        "elev ft": 1669,
+        "pop est": 56960
+    },
+    {
+        "name": "Ajaiye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.09,
+        "elev ft": 1669,
+        "pop est": 12390
+    },
+    {
+        "name": "Alare",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 5.03,
+        "elev ft": 1902,
+        "pop est": 38134
+    },
+    {
+        "name": "Ara",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.04,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Ara-Ijero",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 103479
+    },
+    {
+        "name": "Aramoko",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.04,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Aramoko-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.04,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Araomi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 5.14,
+        "elev ft": 1669,
+        "pop est": 73400
+    },
+    {
+        "name": "Araomoko Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.7,
+        "long": 5.04,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.77,
+        "long": 5.14,
+        "elev ft": 1669,
+        "pop est": 73400
+    },
+    {
+        "name": "Araromi-Iyin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.2,
+        "elev ft": 1669,
+        "pop est": 127573
+    },
+    {
+        "name": "Are",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.3,
+        "elev ft": 1669,
+        "pop est": 15552
+    },
+    {
+        "name": "Are-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.3,
+        "elev ft": 1669,
+        "pop est": 15552
+    },
+    {
+        "name": "Arigidi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.3,
+        "elev ft": 1669,
+        "pop est": 43676
+    },
+    {
+        "name": "Awgawtun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 5.01,
+        "elev ft": 1669,
+        "pop est": 84326
+    },
+    {
+        "name": "Awo Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 49060
+    },
+    {
+        "name": "Awtun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 5.12,
+        "elev ft": 1669,
+        "pop est": 84569
+    },
+    {
+        "name": "Aye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 27080
+    },
+    {
+        "name": "Aye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 81703
+    },
+    {
+        "name": "Aye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.3,
+        "elev ft": 1669,
+        "pop est": 21908
+    },
+    {
+        "name": "Aye Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 27080
+    },
+    {
+        "name": "Ayo Ajegunle",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.52,
+        "long": 5.46,
+        "elev ft": 1669,
+        "pop est": 31298
+    },
+    {
+        "name": "Bolorunduro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 5.5,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Eda-Oniyo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 60843
+    },
+    {
+        "name": "Effon Alaiye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Effon-Alaiye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Efon",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Efon Alaaye-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Efon-Alaaye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Efon-Alaiye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 4.92,
+        "elev ft": 1971,
+        "pop est": 62728
+    },
+    {
+        "name": "Egbe",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.61,
+        "elev ft": 1669,
+        "pop est": 16743
+    },
+    {
+        "name": "Egosi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.36,
+        "elev ft": 1669,
+        "pop est": 46196
+    },
+    {
+        "name": "Elemosho",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 42193
+    },
+    {
+        "name": "Emirin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.63,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 68288
+    },
+    {
+        "name": "Emure",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.46,
+        "elev ft": 1181,
+        "pop est": 72468
+    },
+    {
+        "name": "Emure-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.44,
+        "long": 5.46,
+        "elev ft": 1181,
+        "pop est": 72468
+    },
+    {
+        "name": "Epe",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.12,
+        "elev ft": 1669,
+        "pop est": 161959
+    },
+    {
+        "name": "Epe",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.1,
+        "elev ft": 1725,
+        "pop est": 81660
+    },
+    {
+        "name": "Erifun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.28,
+        "elev ft": 1669,
+        "pop est": 107215
+    },
+    {
+        "name": "Erifun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 147868
+    },
+    {
+        "name": "Erifun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 79591
+    },
+    {
+        "name": "Erijiyan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.01,
+        "elev ft": 1781,
+        "pop est": 205198
+    },
+    {
+        "name": "Erinjiyan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.01,
+        "elev ft": 1781,
+        "pop est": 205198
+    },
+    {
+        "name": "Erio",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.01,
+        "elev ft": 1669,
+        "pop est": 13112
+    },
+    {
+        "name": "Esimu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.54,
+        "long": 5.13,
+        "elev ft": 1669,
+        "pop est": 55489
+    },
+    {
+        "name": "Esure",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 26764
+    },
+    {
+        "name": "Ewu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 72789
+    },
+    {
+        "name": "Eyio Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 56307
+    },
+    {
+        "name": "Gogo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 94995
+    },
+    {
+        "name": "Ibogun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 12570
+    },
+    {
+        "name": "Idao-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.09,
+        "elev ft": 1669,
+        "pop est": 183273
+    },
+    {
+        "name": "Iddo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 26340
+    },
+    {
+        "name": "Iddo-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 26340
+    },
+    {
+        "name": "Idemo-Oko",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 67470
+    },
+    {
+        "name": "Ido",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 26340
+    },
+    {
+        "name": "Ido-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 26340
+    },
+    {
+        "name": "Ifaki",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 28611
+    },
+    {
+        "name": "Ifishin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.21,
+        "elev ft": 1669,
+        "pop est": 24062
+    },
+    {
+        "name": "Ifisin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.21,
+        "elev ft": 1669,
+        "pop est": 24062
+    },
+    {
+        "name": "Igbara-Odo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.06,
+        "elev ft": 1669,
+        "pop est": 60812
+    },
+    {
+        "name": "Igbarra-Odo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.06,
+        "elev ft": 1669,
+        "pop est": 60812
+    },
+    {
+        "name": "Igbede",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.13,
+        "elev ft": 1669,
+        "pop est": 20659
+    },
+    {
+        "name": "Igbemo-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.39,
+        "elev ft": 1669,
+        "pop est": 15195
+    },
+    {
+        "name": "Igbimo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.39,
+        "elev ft": 1669,
+        "pop est": 15195
+    },
+    {
+        "name": "Igbo-Aso",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 5.17,
+        "elev ft": 1669,
+        "pop est": 61166
+    },
+    {
+        "name": "Igbodogi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.31,
+        "elev ft": 1669,
+        "pop est": 40548
+    },
+    {
+        "name": "Igbogun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 12570
+    },
+    {
+        "name": "Igbole",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 25172
+    },
+    {
+        "name": "Igede",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.13,
+        "elev ft": 1669,
+        "pop est": 20659
+    },
+    {
+        "name": "Igede-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.13,
+        "elev ft": 1669,
+        "pop est": 20659
+    },
+    {
+        "name": "Igin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 56307
+    },
+    {
+        "name": "Igirigiri",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 59874
+    },
+    {
+        "name": "Igogo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 94995
+    },
+    {
+        "name": "Ijan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.39,
+        "elev ft": 1669,
+        "pop est": 12122
+    },
+    {
+        "name": "Ijan-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.39,
+        "elev ft": 1669,
+        "pop est": 12122
+    },
+    {
+        "name": "Ijero",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 180112
+    },
+    {
+        "name": "Ijero-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 180112
+    },
+    {
+        "name": "Ijesha-Ishu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.71,
+        "long": 5.5,
+        "elev ft": 1669,
+        "pop est": 18963
+    },
+    {
+        "name": "Ijesha-Iye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 83517
+    },
+    {
+        "name": "Ijurin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 58672
+    },
+    {
+        "name": "Ikare",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 69893
+    },
+    {
+        "name": "Ikere",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 69893
+    },
+    {
+        "name": "Ikere-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 69893
+    },
+    {
+        "name": "Ikerre",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.5,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 69893
+    },
+    {
+        "name": "Ikole",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.51,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Ikole-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.51,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Ikoro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.04,
+        "elev ft": 1669,
+        "pop est": 66985
+    },
+    {
+        "name": "Ikosu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 88317
+    },
+    {
+        "name": "Ikun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 5.2,
+        "elev ft": 1669,
+        "pop est": 76561
+    },
+    {
+        "name": "Ilae",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 39821
+    },
+    {
+        "name": "Ilafon-Isan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 50950
+    },
+    {
+        "name": "Ilawe",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 39821
+    },
+    {
+        "name": "Ilawe-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 39821
+    },
+    {
+        "name": "Ilemeso Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 42193
+    },
+    {
+        "name": "Ilemiya",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 5.31,
+        "elev ft": 1669,
+        "pop est": 12463
+    },
+    {
+        "name": "Ilogbo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 67955
+    },
+    {
+        "name": "Ilokun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.69,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 87839
+    },
+    {
+        "name": "Ilokuno",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 5.09,
+        "elev ft": 1669,
+        "pop est": 153047
+    },
+    {
+        "name": "Iloro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 41980
+    },
+    {
+        "name": "Ilu-Omoba",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.64,
+        "long": 5.42,
+        "elev ft": 1669,
+        "pop est": 11663
+    },
+    {
+        "name": "Ilupeju",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 5.41,
+        "elev ft": 1669,
+        "pop est": 12012
+    },
+    {
+        "name": "Imojo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.35,
+        "elev ft": 1669,
+        "pop est": 50964
+    },
+    {
+        "name": "Inu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 155463
+    },
+    {
+        "name": "Ipawo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 5.58,
+        "elev ft": 1669,
+        "pop est": 20359
+    },
+    {
+        "name": "Ipere",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 62110
+    },
+    {
+        "name": "Iporo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 68739
+    },
+    {
+        "name": "Iporo-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 68739
+    },
+    {
+        "name": "Ipoti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 5.08,
+        "elev ft": 1669,
+        "pop est": 93090
+    },
+    {
+        "name": "Ire",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 5.4,
+        "elev ft": 1669,
+        "pop est": 26999
+    },
+    {
+        "name": "Ire-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.74,
+        "long": 5.4,
+        "elev ft": 1669,
+        "pop est": 26999
+    },
+    {
+        "name": "Ireje",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 147868
+    },
+    {
+        "name": "Ireje",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 138958
+    },
+    {
+        "name": "Iro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 5.1,
+        "elev ft": 1774,
+        "pop est": 76240
+    },
+    {
+        "name": "Iroko",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.1,
+        "elev ft": 1669,
+        "pop est": 178116
+    },
+    {
+        "name": "Iropora",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 27873
+    },
+    {
+        "name": "Isan-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.32,
+        "elev ft": 1669,
+        "pop est": 49887
+    },
+    {
+        "name": "Ise",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.42,
+        "elev ft": 1669,
+        "pop est": 115987
+    },
+    {
+        "name": "Ise-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.42,
+        "elev ft": 1669,
+        "pop est": 115987
+    },
+    {
+        "name": "Ishan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.32,
+        "elev ft": 1669,
+        "pop est": 49887
+    },
+    {
+        "name": "Isia",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 155463
+    },
+    {
+        "name": "Iso",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 35719
+    },
+    {
+        "name": "Ita-Eku",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.6,
+        "long": 5.24,
+        "elev ft": 1669,
+        "pop est": 168271
+    },
+    {
+        "name": "Itaji",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 5.34,
+        "elev ft": 1669,
+        "pop est": 51107
+    },
+    {
+        "name": "Itapa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.38,
+        "elev ft": 1669,
+        "pop est": 42509
+    },
+    {
+        "name": "Itapa-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.38,
+        "elev ft": 1669,
+        "pop est": 42509
+    },
+    {
+        "name": "Itapaji",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 5.48,
+        "elev ft": 1669,
+        "pop est": 22952
+    },
+    {
+        "name": "Itapalu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 5.48,
+        "elev ft": 1669,
+        "pop est": 22952
+    },
+    {
+        "name": "Iworoko",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.73,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 19406
+    },
+    {
+        "name": "Iyapa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.15,
+        "elev ft": 1669,
+        "pop est": 56960
+    },
+    {
+        "name": "Iye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 81703
+    },
+    {
+        "name": "Iye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.25,
+        "elev ft": 1669,
+        "pop est": 68739
+    },
+    {
+        "name": "Iye-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 5.23,
+        "elev ft": 1669,
+        "pop est": 81703
+    },
+    {
+        "name": "Iyin-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 80410
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 5.37,
+        "elev ft": 1669,
+        "pop est": 12400
+    },
+    {
+        "name": "Lasigidi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.56,
+        "long": 5.58,
+        "elev ft": 1669,
+        "pop est": 12931
+    },
+    {
+        "name": "Moriwo",
+        "what": "city",
+        "region": "Ekiti State",
+        "country": "Nigeria",
+        "lat": 7.38,
+        "long": 5.1,
+        "elev ft": 1069,
+        "pop est": 44248
+    },
+    {
+        "name": "Ode",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 5.55,
+        "elev ft": 1669,
+        "pop est": 11719
+    },
+    {
+        "name": "Ode Oke",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.03,
+        "elev ft": 1833,
+        "pop est": 38346
+    },
+    {
+        "name": "Ode-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.65,
+        "long": 5.55,
+        "elev ft": 1669,
+        "pop est": 11719
+    },
+    {
+        "name": "Odo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.61,
+        "long": 5.13,
+        "elev ft": 1669,
+        "pop est": 28924
+    },
+    {
+        "name": "Odo Ara",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 5.51,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Odo Erin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 44340
+    },
+    {
+        "name": "Odo Igbirro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.58,
+        "elev ft": 1669,
+        "pop est": 22788
+    },
+    {
+        "name": "Odo Oro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 5.51,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Odo-Asa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.57,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 80112
+    },
+    {
+        "name": "Odo-Ehin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 44340
+    },
+    {
+        "name": "Odo-Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.58,
+        "elev ft": 1669,
+        "pop est": 22788
+    },
+    {
+        "name": "Odo-Owa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 5.07,
+        "elev ft": 1669,
+        "pop est": 44340
+    },
+    {
+        "name": "Ofale",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 5.05,
+        "elev ft": 1850,
+        "pop est": 56048
+    },
+    {
+        "name": "Ofin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.67,
+        "long": 5.24,
+        "elev ft": 1669,
+        "pop est": 139801
+    },
+    {
+        "name": "Ogbesse-Ise",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.46,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 18091
+    },
+    {
+        "name": "Ogotun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 5.01,
+        "elev ft": 1669,
+        "pop est": 84326
+    },
+    {
+        "name": "Oke Igbira",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.81,
+        "long": 5.56,
+        "elev ft": 1669,
+        "pop est": 22797
+    },
+    {
+        "name": "Oke-Atan",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.0,
+        "elev ft": 1669,
+        "pop est": 26284
+    },
+    {
+        "name": "Oke-Igi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 5.05,
+        "elev ft": 1827,
+        "pop est": 53391
+    },
+    {
+        "name": "Oke-Ode",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.03,
+        "elev ft": 1833,
+        "pop est": 38346
+    },
+    {
+        "name": "Oko-Aso",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.47,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 26001
+    },
+    {
+        "name": "Oko-Esinkin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 5.02,
+        "elev ft": 1807,
+        "pop est": 23067
+    },
+    {
+        "name": "Oko-Oisa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.49,
+        "long": 5.29,
+        "elev ft": 1669,
+        "pop est": 39126
+    },
+    {
+        "name": "Oladimeji",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.02,
+        "elev ft": 1870,
+        "pop est": 31551
+    },
+    {
+        "name": "Olugere",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.01,
+        "elev ft": 1669,
+        "pop est": 26284
+    },
+    {
+        "name": "Omi-Eku",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 109063
+    },
+    {
+        "name": "Omi-Oloko",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.59,
+        "long": 5.26,
+        "elev ft": 1669,
+        "pop est": 138958
+    },
+    {
+        "name": "Omolewa",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.03,
+        "elev ft": 1856,
+        "pop est": 38346
+    },
+    {
+        "name": "Omu Ijebu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 5.4,
+        "elev ft": 1669,
+        "pop est": 40171
+    },
+    {
+        "name": "Omu-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 5.41,
+        "elev ft": 1669,
+        "pop est": 36336
+    },
+    {
+        "name": "Omu-Ijelu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 5.4,
+        "elev ft": 1669,
+        "pop est": 40171
+    },
+    {
+        "name": "Omu-Titun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.89,
+        "long": 5.41,
+        "elev ft": 1669,
+        "pop est": 38901
+    },
+    {
+        "name": "Omuo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.72,
+        "elev ft": 1669,
+        "pop est": 12043
+    },
+    {
+        "name": "Omuo-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.72,
+        "elev ft": 1669,
+        "pop est": 12043
+    },
+    {
+        "name": "Omuo-Kota",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.76,
+        "long": 5.72,
+        "elev ft": 1669,
+        "pop est": 12043
+    },
+    {
+        "name": "Ora",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.82,
+        "long": 5.22,
+        "elev ft": 1669,
+        "pop est": 29653
+    },
+    {
+        "name": "Orin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.24,
+        "elev ft": 1669,
+        "pop est": 35311
+    },
+    {
+        "name": "Oro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 5.11,
+        "elev ft": 1669,
+        "pop est": 41980
+    },
+    {
+        "name": "Orunro",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.62,
+        "long": 5.14,
+        "elev ft": 1669,
+        "pop est": 30707
+    },
+    {
+        "name": "Osi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 76003
+    },
+    {
+        "name": "Osi Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.79,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 76003
+    },
+    {
+        "name": "Osin-Ikole",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.42,
+        "elev ft": 1669,
+        "pop est": 29029
+    },
+    {
+        "name": "Osun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 5.09,
+        "elev ft": 1732,
+        "pop est": 81660
+    },
+    {
+        "name": "Otun",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 5.12,
+        "elev ft": 1669,
+        "pop est": 84569
+    },
+    {
+        "name": "Otun-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 5.12,
+        "elev ft": 1669,
+        "pop est": 84569
+    },
+    {
+        "name": "Ovin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.83,
+        "long": 5.24,
+        "elev ft": 1669,
+        "pop est": 35311
+    },
+    {
+        "name": "Oye",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 49575
+    },
+    {
+        "name": "Oye-Ekiti",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.33,
+        "elev ft": 1669,
+        "pop est": 49575
+    },
+    {
+        "name": "Oyi-Alabari",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 5.03,
+        "elev ft": 1755,
+        "pop est": 26052
+    },
+    {
+        "name": "Oyi-Kaka",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 5.03,
+        "elev ft": 1784,
+        "pop est": 29604
+    },
+    {
+        "name": "Panu",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.58,
+        "long": 5.4,
+        "elev ft": 1669,
+        "pop est": 12044
+    },
+    {
+        "name": "Sawo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.51,
+        "long": 5.46,
+        "elev ft": 1669,
+        "pop est": 40997
+    },
+    {
+        "name": "Suru Lere",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 5.05,
+        "elev ft": 1761,
+        "pop est": 46534
+    },
+    {
+        "name": "Uro-Elemo",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.55,
+        "long": 5.27,
+        "elev ft": 1669,
+        "pop est": 50429
+    },
+    {
+        "name": "Ushi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 34424
+    },
+    {
+        "name": "Usi",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.87,
+        "long": 5.18,
+        "elev ft": 1669,
+        "pop est": 34424
+    },
+    {
+        "name": "Usin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.8,
+        "long": 5.42,
+        "elev ft": 1669,
+        "pop est": 29029
+    },
+    {
+        "name": "Uyin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.66,
+        "long": 5.16,
+        "elev ft": 1669,
+        "pop est": 80410
+    },
+    {
+        "name": "Uyin",
+        "what": "city",
+        "region": "Ekiti",
+        "country": "Nigeria",
+        "lat": 7.68,
+        "long": 5.2,
+        "elev ft": 1669,
+        "pop est": 127573
+    }
+]

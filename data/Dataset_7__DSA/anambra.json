@@ -1,0 +1,3842 @@
+[
+    {
+        "name": "Abagana",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 224828
+    },
+    {
+        "name": "Abata",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 6.8,
+        "elev ft": 206,
+        "pop est": 136643
+    },
+    {
+        "name": "Abatete",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 183329
+    },
+    {
+        "name": "Abba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 148387
+    },
+    {
+        "name": "Abuba-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.95,
+        "elev ft": 390,
+        "pop est": 31778
+    },
+    {
+        "name": "Abube-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.95,
+        "elev ft": 390,
+        "pop est": 31778
+    },
+    {
+        "name": "Achalla",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.99,
+        "elev ft": 370,
+        "pop est": 20924
+    },
+    {
+        "name": "Achina",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.12,
+        "elev ft": 843,
+        "pop est": 197552
+    },
+    {
+        "name": "Adaba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 14905
+    },
+    {
+        "name": "Adazi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 195775
+    },
+    {
+        "name": "Adazi Ani",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 176031
+    },
+    {
+        "name": "Adazi-Enu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 6.99,
+        "elev ft": 997,
+        "pop est": 316603
+    },
+    {
+        "name": "Adazi-Nuka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 195775
+    },
+    {
+        "name": "Afoegbu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 61054
+    },
+    {
+        "name": "Agbudu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 57298
+    },
+    {
+        "name": "Aguake",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 7.1,
+        "elev ft": 164,
+        "pop est": 22676
+    },
+    {
+        "name": "Aguata",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.09,
+        "elev ft": 889,
+        "pop est": 95797
+    },
+    {
+        "name": "Agukwu Nri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 196020
+    },
+    {
+        "name": "Aguleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.88,
+        "elev ft": 278,
+        "pop est": 21939
+    },
+    {
+        "name": "Agulezechuku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 49791
+    },
+    {
+        "name": "Agulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 98570
+    },
+    {
+        "name": "Aguluezechuku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 49791
+    },
+    {
+        "name": "Aguluezechukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 49791
+    },
+    {
+        "name": "Agwe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 6.66,
+        "elev ft": 219,
+        "pop est": 56980
+    },
+    {
+        "name": "Agwe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 6.69,
+        "elev ft": 209,
+        "pop est": 58128
+    },
+    {
+        "name": "Ajalli",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 59579
+    },
+    {
+        "name": "Akaba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 122980
+    },
+    {
+        "name": "Akawa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 25744
+    },
+    {
+        "name": "Akenu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.04,
+        "elev ft": 272,
+        "pop est": 21627
+    },
+    {
+        "name": "Akili-Ozizor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 6.73,
+        "elev ft": 232,
+        "pop est": 57810
+    },
+    {
+        "name": "Akiri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.68,
+        "elev ft": 223,
+        "pop est": 59280
+    },
+    {
+        "name": "Akiri-Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.66,
+        "elev ft": 209,
+        "pop est": 49416
+    },
+    {
+        "name": "Akiti-Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.66,
+        "elev ft": 206,
+        "pop est": 42189
+    },
+    {
+        "name": "Akpaka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 189265
+    },
+    {
+        "name": "Akpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.1,
+        "elev ft": 971,
+        "pop est": 248052
+    },
+    {
+        "name": "Akpo-Ogwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.72,
+        "elev ft": 337,
+        "pop est": 67347
+    },
+    {
+        "name": "Akpu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.2,
+        "elev ft": 830,
+        "pop est": 60340
+    },
+    {
+        "name": "Akpugo-Abo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 48859
+    },
+    {
+        "name": "Akri Ugidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.66,
+        "elev ft": 206,
+        "pop est": 42189
+    },
+    {
+        "name": "Akri-Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.75,
+        "long": 6.66,
+        "elev ft": 206,
+        "pop est": 42189
+    },
+    {
+        "name": "Aku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.06,
+        "elev ft": 915,
+        "pop est": 216980
+    },
+    {
+        "name": "Akwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 130079
+    },
+    {
+        "name": "Akwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 117580
+    },
+    {
+        "name": "Akwa-Etiti",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 353880
+    },
+    {
+        "name": "Akwaeze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 7.02,
+        "elev ft": 1000,
+        "pop est": 291462
+    },
+    {
+        "name": "Akwukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.81,
+        "elev ft": 347,
+        "pop est": 96355
+    },
+    {
+        "name": "Alor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 171643
+    },
+    {
+        "name": "Amada",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 199989
+    },
+    {
+        "name": "Amaekwulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 245015
+    },
+    {
+        "name": "Amago-Ebenebe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.13,
+        "elev ft": 334,
+        "pop est": 22843
+    },
+    {
+        "name": "Amago-Ebenede",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 7.13,
+        "elev ft": 334,
+        "pop est": 22843
+    },
+    {
+        "name": "Amamputu-Uli",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 93588
+    },
+    {
+        "name": "Amansee",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.14,
+        "elev ft": 390,
+        "pop est": 37601
+    },
+    {
+        "name": "Amansim",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.25,
+        "long": 7.14,
+        "elev ft": 390,
+        "pop est": 37601
+    },
+    {
+        "name": "Amanuke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.04,
+        "elev ft": 396,
+        "pop est": 20870
+    },
+    {
+        "name": "Ami",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.7,
+        "elev ft": 308,
+        "pop est": 69792
+    },
+    {
+        "name": "Amichi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 334021
+    },
+    {
+        "name": "Amobia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 153891
+    },
+    {
+        "name": "Amoebo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 143226
+    },
+    {
+        "name": "Amuawta",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.82,
+        "elev ft": 324,
+        "pop est": 372826
+    },
+    {
+        "name": "Anaku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 6.93,
+        "elev ft": 282,
+        "pop est": 16990
+    },
+    {
+        "name": "Anam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.75,
+        "elev ft": 196,
+        "pop est": 26761
+    },
+    {
+        "name": "Ani-Nkwa-Anam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 6.76,
+        "elev ft": 193,
+        "pop est": 205613
+    },
+    {
+        "name": "Anoru",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 6.78,
+        "elev ft": 410,
+        "pop est": 93270
+    },
+    {
+        "name": "Aroipa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 21508
+    },
+    {
+        "name": "Aseazaga",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.67,
+        "elev ft": 216,
+        "pop est": 58027
+    },
+    {
+        "name": "Atani",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 6.77,
+        "elev ft": 209,
+        "pop est": 349929
+    },
+    {
+        "name": "Atani",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 6.75,
+        "elev ft": 262,
+        "pop est": 50914
+    },
+    {
+        "name": "Atughobi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.76,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 61199
+    },
+    {
+        "name": "Awba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 7.04,
+        "elev ft": 272,
+        "pop est": 21627
+    },
+    {
+        "name": "Awka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 130079
+    },
+    {
+        "name": "Awka-Agbobu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 26043
+    },
+    {
+        "name": "Awkuzu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 83108
+    },
+    {
+        "name": "Awulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 6.69,
+        "elev ft": 209,
+        "pop est": 53598
+    },
+    {
+        "name": "Ayinneji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 85161
+    },
+    {
+        "name": "Azia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 140131
+    },
+    {
+        "name": "Azigbo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 391238
+    },
+    {
+        "name": "Azira",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.9,
+        "elev ft": 830,
+        "pop est": 140131
+    },
+    {
+        "name": "Azogba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 6.69,
+        "elev ft": 209,
+        "pop est": 53598
+    },
+    {
+        "name": "Dumez Construction Camp",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 6.8,
+        "elev ft": 275,
+        "pop est": 441040
+    },
+    {
+        "name": "Ebenator",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 56950
+    },
+    {
+        "name": "Egbagu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.12,
+        "elev ft": 380,
+        "pop est": 37304
+    },
+    {
+        "name": "Egbagu-Amansi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.12,
+        "elev ft": 380,
+        "pop est": 37304
+    },
+    {
+        "name": "Egbu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.74,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 72132
+    },
+    {
+        "name": "Egbu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 75194
+    },
+    {
+        "name": "Egueyin",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.7,
+        "elev ft": 285,
+        "pop est": 69401
+    },
+    {
+        "name": "Egwungwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 88899
+    },
+    {
+        "name": "Ekpara",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 283331
+    },
+    {
+        "name": "Ekwulobia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.09,
+        "elev ft": 951,
+        "pop est": 91765
+    },
+    {
+        "name": "Ekwulu-Atulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 243495
+    },
+    {
+        "name": "Ekwuolobia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.09,
+        "elev ft": 951,
+        "pop est": 91765
+    },
+    {
+        "name": "Ekwusigo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 216813
+    },
+    {
+        "name": "Ekwusigo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 215786
+    },
+    {
+        "name": "Enugo-Abo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 50202
+    },
+    {
+        "name": "Enugu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 206845
+    },
+    {
+        "name": "Enugu Umunze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 53845
+    },
+    {
+        "name": "Enugu-Abo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 50202
+    },
+    {
+        "name": "Enugu-Agidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.22,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 130674
+    },
+    {
+        "name": "Enugu-Otu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 6.9,
+        "elev ft": 278,
+        "pop est": 20187
+    },
+    {
+        "name": "Enugu-Ukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 206845
+    },
+    {
+        "name": "Enugwu-Ukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 206845
+    },
+    {
+        "name": "Erieata",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 6.94,
+        "elev ft": 298,
+        "pop est": 16986
+    },
+    {
+        "name": "Eruna Lagbe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.12,
+        "long": 6.78,
+        "elev ft": 236,
+        "pop est": 370197
+    },
+    {
+        "name": "Eziagu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 60827
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 193314
+    },
+    {
+        "name": "Eziama",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.3,
+        "elev ft": 830,
+        "pop est": 33685
+    },
+    {
+        "name": "Eziawa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 150759
+    },
+    {
+        "name": "Ezikeobo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 7.04,
+        "elev ft": 314,
+        "pop est": 20325
+    },
+    {
+        "name": "Ezinifite",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 72620
+    },
+    {
+        "name": "Ezinkeje",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 53153
+    },
+    {
+        "name": "Eziora",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 187595
+    },
+    {
+        "name": "Eziowele",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 208304
+    },
+    {
+        "name": "Eziowelle",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 208304
+    },
+    {
+        "name": "Ezira",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 61664
+    },
+    {
+        "name": "Ezoiwelle",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 208304
+    },
+    {
+        "name": "Ibokye",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 6.68,
+        "elev ft": 183,
+        "pop est": 22726
+    },
+    {
+        "name": "Ibughubu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 113487
+    },
+    {
+        "name": "Ichi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 265170
+    },
+    {
+        "name": "Ichida",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.98,
+        "elev ft": 994,
+        "pop est": 384108
+    },
+    {
+        "name": "Ichida",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 210550
+    },
+    {
+        "name": "Ichuda",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.98,
+        "elev ft": 994,
+        "pop est": 384108
+    },
+    {
+        "name": "Ide-Ani",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 132540
+    },
+    {
+        "name": "Ifete-Aguleri-Igbezu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.91,
+        "elev ft": 324,
+        "pop est": 19410
+    },
+    {
+        "name": "Ifita Ukpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 161706
+    },
+    {
+        "name": "Ifite",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 39250
+    },
+    {
+        "name": "Ifite-Awka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.24,
+        "long": 7.09,
+        "elev ft": 416,
+        "pop est": 80713
+    },
+    {
+        "name": "Ifite-Ogwari",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.95,
+        "elev ft": 301,
+        "pop est": 16986
+    },
+    {
+        "name": "Ifite-Ukpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 161706
+    },
+    {
+        "name": "Ifite-Ukpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 176486
+    },
+    {
+        "name": "Ifute",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 6.95,
+        "elev ft": 301,
+        "pop est": 16986
+    },
+    {
+        "name": "Igbaku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 6.94,
+        "elev ft": 298,
+        "pop est": 16986
+    },
+    {
+        "name": "Igbakwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 6.94,
+        "elev ft": 298,
+        "pop est": 16986
+    },
+    {
+        "name": "Igbamam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 6.94,
+        "elev ft": 288,
+        "pop est": 19204
+    },
+    {
+        "name": "Igbariam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 6.94,
+        "elev ft": 288,
+        "pop est": 19204
+    },
+    {
+        "name": "Igbedo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 6.72,
+        "elev ft": 196,
+        "pop est": 26641
+    },
+    {
+        "name": "Igbo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.02,
+        "elev ft": 1085,
+        "pop est": 311997
+    },
+    {
+        "name": "Igbo-Ukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.02,
+        "elev ft": 1085,
+        "pop est": 311997
+    },
+    {
+        "name": "Igbokanyi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 6.72,
+        "elev ft": 193,
+        "pop est": 27246
+    },
+    {
+        "name": "Ighaku",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 6.94,
+        "elev ft": 298,
+        "pop est": 16986
+    },
+    {
+        "name": "Igitemasa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 114687
+    },
+    {
+        "name": "Ihala",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 148877
+    },
+    {
+        "name": "Ihembosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 6.88,
+        "elev ft": 830,
+        "pop est": 157218
+    },
+    {
+        "name": "Ihembosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 216736
+    },
+    {
+        "name": "Ihiala",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 244535
+    },
+    {
+        "name": "Ihite-Ihiala",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.82,
+        "elev ft": 830,
+        "pop est": 167894
+    },
+    {
+        "name": "Ihite-Nansa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 114687
+    },
+    {
+        "name": "Ikenga",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 272586
+    },
+    {
+        "name": "Ikenga-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.93,
+        "elev ft": 324,
+        "pop est": 18715
+    },
+    {
+        "name": "Ikenga-Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 272586
+    },
+    {
+        "name": "Ikenga-Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.89,
+        "elev ft": 301,
+        "pop est": 19679
+    },
+    {
+        "name": "Inoma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.72,
+        "elev ft": 203,
+        "pop est": 22164
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.83,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 149378
+    },
+    {
+        "name": "Isieke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.81,
+        "elev ft": 830,
+        "pop est": 174528
+    },
+    {
+        "name": "Isinyi-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.93,
+        "elev ft": 301,
+        "pop est": 18974
+    },
+    {
+        "name": "Isinyu-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.93,
+        "elev ft": 301,
+        "pop est": 18974
+    },
+    {
+        "name": "Isiokwe Otu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 6.9,
+        "elev ft": 282,
+        "pop est": 19626
+    },
+    {
+        "name": "Isiukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.84,
+        "long": 6.66,
+        "elev ft": 216,
+        "pop est": 54516
+    },
+    {
+        "name": "Isu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 61684
+    },
+    {
+        "name": "Isu-Ulo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 61684
+    },
+    {
+        "name": "Isuofia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.05,
+        "elev ft": 1184,
+        "pop est": 214025
+    },
+    {
+        "name": "Iyiora",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 6.8,
+        "elev ft": 239,
+        "pop est": 27095
+    },
+    {
+        "name": "Iyiowa Odek",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.76,
+        "elev ft": 229,
+        "pop est": 189932
+    },
+    {
+        "name": "Iyiowa-Odekpa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.76,
+        "elev ft": 229,
+        "pop est": 189932
+    },
+    {
+        "name": "Lawmu Umunze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 55415
+    },
+    {
+        "name": "Lilu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 123066
+    },
+    {
+        "name": "Lilu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 87043
+    },
+    {
+        "name": "Mbosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 173182
+    },
+    {
+        "name": "Mgbakwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 91939
+    },
+    {
+        "name": "Mgbakwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.06,
+        "elev ft": 406,
+        "pop est": 45620
+    },
+    {
+        "name": "Mgbaukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 7.06,
+        "elev ft": 406,
+        "pop est": 45620
+    },
+    {
+        "name": "Mgbaukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 91939
+    },
+    {
+        "name": "Mili Uru",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 6.69,
+        "elev ft": 193,
+        "pop est": 55946
+    },
+    {
+        "name": "Mkpor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.83,
+        "elev ft": 341,
+        "pop est": 377325
+    },
+    {
+        "name": "Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.32,
+        "long": 6.93,
+        "elev ft": 334,
+        "pop est": 18578
+    },
+    {
+        "name": "Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.93,
+        "elev ft": 301,
+        "pop est": 19112
+    },
+    {
+        "name": "Nando-Ikem",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.92,
+        "elev ft": 298,
+        "pop est": 19224
+    },
+    {
+        "name": "Nanka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 74880
+    },
+    {
+        "name": "Ndi-Ukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 7.27,
+        "elev ft": 830,
+        "pop est": 26742
+    },
+    {
+        "name": "Ndiagu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 91485
+    },
+    {
+        "name": "Ndikelionwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.14,
+        "elev ft": 830,
+        "pop est": 56283
+    },
+    {
+        "name": "Ndiobani",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.18,
+        "elev ft": 830,
+        "pop est": 54613
+    },
+    {
+        "name": "Ndiokpalaeke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 59043
+    },
+    {
+        "name": "Ndiopalaeke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 59043
+    },
+    {
+        "name": "Ndiopaleze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.17,
+        "elev ft": 830,
+        "pop est": 59908
+    },
+    {
+        "name": "Ndiowu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 55265
+    },
+    {
+        "name": "Neni",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 172910
+    },
+    {
+        "name": "Newi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 387053
+    },
+    {
+        "name": "Nibo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 127242
+    },
+    {
+        "name": "Nibo-Nise",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 127242
+    },
+    {
+        "name": "Nimo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 206793
+    },
+    {
+        "name": "Nimo Owele",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 208270
+    },
+    {
+        "name": "Nise",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 149570
+    },
+    {
+        "name": "Nkpologwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.09,
+        "elev ft": 843,
+        "pop est": 185118
+    },
+    {
+        "name": "Nkpor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.83,
+        "elev ft": 341,
+        "pop est": 377325
+    },
+    {
+        "name": "Nkpor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.13,
+        "long": 6.85,
+        "elev ft": 406,
+        "pop est": 351427
+    },
+    {
+        "name": "Nkwele",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.84,
+        "elev ft": 341,
+        "pop est": 106380
+    },
+    {
+        "name": "Nkwelle",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.84,
+        "elev ft": 341,
+        "pop est": 106380
+    },
+    {
+        "name": "Nkwo Oji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.38,
+        "long": 6.73,
+        "elev ft": 190,
+        "pop est": 26961
+    },
+    {
+        "name": "Nkwo-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.94,
+        "elev ft": 324,
+        "pop est": 18959
+    },
+    {
+        "name": "Nmiata",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 6.79,
+        "elev ft": 239,
+        "pop est": 27436
+    },
+    {
+        "name": "Nnabi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 323271
+    },
+    {
+        "name": "Nnadi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.85,
+        "elev ft": 308,
+        "pop est": 18857
+    },
+    {
+        "name": "Nnewi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 387053
+    },
+    {
+        "name": "Nneyi-Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.86,
+        "elev ft": 282,
+        "pop est": 22261
+    },
+    {
+        "name": "Nnobi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 323271
+    },
+    {
+        "name": "Nobi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 323271
+    },
+    {
+        "name": "Nofia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.19,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 214128
+    },
+    {
+        "name": "Nogu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 73324
+    },
+    {
+        "name": "Norgu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 73324
+    },
+    {
+        "name": "Norkwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 259705
+    },
+    {
+        "name": "Nputu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.7,
+        "elev ft": 278,
+        "pop est": 69401
+    },
+    {
+        "name": "Nri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 180948
+    },
+    {
+        "name": "Nsugbe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 6.82,
+        "elev ft": 226,
+        "pop est": 19837
+    },
+    {
+        "name": "Nteje",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 6.92,
+        "elev ft": 403,
+        "pop est": 44037
+    },
+    {
+        "name": "Nza",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 216229
+    },
+    {
+        "name": "Nzam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 6.73,
+        "elev ft": 196,
+        "pop est": 28412
+    },
+    {
+        "name": "Oba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 242140
+    },
+    {
+        "name": "Oba-Aboji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 257541
+    },
+    {
+        "name": "Oba-Umulokpe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 7.02,
+        "elev ft": 269,
+        "pop est": 20654
+    },
+    {
+        "name": "Oba-Umuokpe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 7.02,
+        "elev ft": 269,
+        "pop est": 20654
+    },
+    {
+        "name": "Obadola",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 6.82,
+        "elev ft": 262,
+        "pop est": 22090
+    },
+    {
+        "name": "Obagwe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.66,
+        "elev ft": 209,
+        "pop est": 56980
+    },
+    {
+        "name": "Obagwe II",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.79,
+        "long": 6.66,
+        "elev ft": 213,
+        "pop est": 55870
+    },
+    {
+        "name": "Obeledu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 214801
+    },
+    {
+        "name": "Obene",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.76,
+        "elev ft": 360,
+        "pop est": 61428
+    },
+    {
+        "name": "Obodola",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 6.82,
+        "elev ft": 262,
+        "pop est": 22090
+    },
+    {
+        "name": "Obosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 6.81,
+        "elev ft": 291,
+        "pop est": 296771
+    },
+    {
+        "name": "Obulo-Eziama",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 46143
+    },
+    {
+        "name": "Ochuche-Umuodo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.73,
+        "elev ft": 262,
+        "pop est": 64067
+    },
+    {
+        "name": "Ode",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 6.71,
+        "elev ft": 183,
+        "pop est": 25520
+    },
+    {
+        "name": "Odekbe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 6.74,
+        "elev ft": 226,
+        "pop est": 43765
+    },
+    {
+        "name": "Odekpe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.05,
+        "long": 6.74,
+        "elev ft": 226,
+        "pop est": 43765
+    },
+    {
+        "name": "Odida",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 144914
+    },
+    {
+        "name": "Odidu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.95,
+        "elev ft": 830,
+        "pop est": 144914
+    },
+    {
+        "name": "Odugiri Obagwe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.66,
+        "elev ft": 209,
+        "pop est": 56980
+    },
+    {
+        "name": "Ogbakuma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.73,
+        "elev ft": 262,
+        "pop est": 64067
+    },
+    {
+        "name": "Ogbekuma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.73,
+        "elev ft": 262,
+        "pop est": 64067
+    },
+    {
+        "name": "Ogbirnike",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 216497
+    },
+    {
+        "name": "Ogboji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 56619
+    },
+    {
+        "name": "Ogboro",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 243324
+    },
+    {
+        "name": "Ogbu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 43449
+    },
+    {
+        "name": "Ogbunike",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.18,
+        "long": 6.84,
+        "elev ft": 374,
+        "pop est": 192211
+    },
+    {
+        "name": "Ogbunike",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 216497
+    },
+    {
+        "name": "Ogbunka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 7.29,
+        "elev ft": 830,
+        "pop est": 52672
+    },
+    {
+        "name": "Ogbunu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 45611
+    },
+    {
+        "name": "Ogene",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.92,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 241448
+    },
+    {
+        "name": "Ogid",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 268238
+    },
+    {
+        "name": "Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 268238
+    },
+    {
+        "name": "Ogu-Ikpele",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.68,
+        "elev ft": 226,
+        "pop est": 62628
+    },
+    {
+        "name": "Oguaniocho",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.8,
+        "long": 6.75,
+        "elev ft": 393,
+        "pop est": 53315
+    },
+    {
+        "name": "Ojoto",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.06,
+        "long": 6.86,
+        "elev ft": 830,
+        "pop est": 272325
+    },
+    {
+        "name": "Ojoto",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 310467
+    },
+    {
+        "name": "Oka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.09,
+        "elev ft": 830,
+        "pop est": 67398
+    },
+    {
+        "name": "Okija",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 258404
+    },
+    {
+        "name": "Okofia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 274007
+    },
+    {
+        "name": "Okofia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 269875
+    },
+    {
+        "name": "Okohia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.89,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 116656
+    },
+    {
+        "name": "Okpaga",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 6.93,
+        "elev ft": 269,
+        "pop est": 17814
+    },
+    {
+        "name": "Okpaga Farm Settlement",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 6.93,
+        "elev ft": 269,
+        "pop est": 17814
+    },
+    {
+        "name": "Okpulukpu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 57892
+    },
+    {
+        "name": "Okpuno",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.07,
+        "elev ft": 403,
+        "pop est": 69507
+    },
+    {
+        "name": "Okpuno-Awka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.07,
+        "elev ft": 403,
+        "pop est": 69507
+    },
+    {
+        "name": "Omar",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.96,
+        "elev ft": 308,
+        "pop est": 16986
+    },
+    {
+        "name": "Omashi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 6.98,
+        "elev ft": 347,
+        "pop est": 17759
+    },
+    {
+        "name": "Omasi Agu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.7,
+        "long": 6.98,
+        "elev ft": 347,
+        "pop est": 17759
+    },
+    {
+        "name": "Omo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.96,
+        "elev ft": 308,
+        "pop est": 16986
+    },
+    {
+        "name": "Omoaokogbo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.7,
+        "elev ft": 219,
+        "pop est": 56069
+    },
+    {
+        "name": "Omor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 7.03,
+        "elev ft": 370,
+        "pop est": 17654
+    },
+    {
+        "name": "Onen",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.99,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 54737
+    },
+    {
+        "name": "Onicha",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.79,
+        "elev ft": 236,
+        "pop est": 483206
+    },
+    {
+        "name": "Onitsha",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.79,
+        "elev ft": 236,
+        "pop est": 483206
+    },
+    {
+        "name": "Onoia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 6.88,
+        "elev ft": 262,
+        "pop est": 19324
+    },
+    {
+        "name": "Onoma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.75,
+        "elev ft": 196,
+        "pop est": 26761
+    },
+    {
+        "name": "Onono",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 6.76,
+        "elev ft": 183,
+        "pop est": 332810
+    },
+    {
+        "name": "Orania-Otu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.86,
+        "elev ft": 262,
+        "pop est": 22087
+    },
+    {
+        "name": "Oraukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 204284
+    },
+    {
+        "name": "Oraukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 213505
+    },
+    {
+        "name": "Oraukwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 169089
+    },
+    {
+        "name": "Orifite",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 6.81,
+        "elev ft": 377,
+        "pop est": 80167
+    },
+    {
+        "name": "Orifite",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 230256
+    },
+    {
+        "name": "Orifta",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 6.79,
+        "elev ft": 416,
+        "pop est": 89020
+    },
+    {
+        "name": "Orkija",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 258404
+    },
+    {
+        "name": "Oroma Etiti",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.75,
+        "elev ft": 196,
+        "pop est": 26761
+    },
+    {
+        "name": "Oroma Otu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.86,
+        "elev ft": 262,
+        "pop est": 22087
+    },
+    {
+        "name": "Oronia-Utu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 6.86,
+        "elev ft": 262,
+        "pop est": 22087
+    },
+    {
+        "name": "Orsuihiteukwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 132726
+    },
+    {
+        "name": "Orsumeyin",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 73585
+    },
+    {
+        "name": "Orsumoghu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 121215
+    },
+    {
+        "name": "Oshita",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 6.75,
+        "elev ft": 252,
+        "pop est": 45250
+    },
+    {
+        "name": "Osiam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.79,
+        "elev ft": 830,
+        "pop est": 52595
+    },
+    {
+        "name": "Osomari",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.68,
+        "elev ft": 229,
+        "pop est": 57376
+    },
+    {
+        "name": "Osonachu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 125220
+    },
+    {
+        "name": "Ossomari",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.68,
+        "elev ft": 229,
+        "pop est": 57376
+    },
+    {
+        "name": "Osu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.95,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 74072
+    },
+    {
+        "name": "Osu-Umuezekpe",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.8,
+        "elev ft": 416,
+        "pop est": 124317
+    },
+    {
+        "name": "Osuakwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.8,
+        "elev ft": 830,
+        "pop est": 148877
+    },
+    {
+        "name": "Osunachu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.85,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 125220
+    },
+    {
+        "name": "Otolo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 341524
+    },
+    {
+        "name": "Otolo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 299668
+    },
+    {
+        "name": "Otu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 224574
+    },
+    {
+        "name": "Otu Ifite",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 6.93,
+        "elev ft": 291,
+        "pop est": 18052
+    },
+    {
+        "name": "Otuocha",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.85,
+        "elev ft": 236,
+        "pop est": 25511
+    },
+    {
+        "name": "Otuocha Aguleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.34,
+        "long": 6.85,
+        "elev ft": 236,
+        "pop est": 25511
+    },
+    {
+        "name": "Otuta",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.68,
+        "elev ft": 193,
+        "pop est": 55368
+    },
+    {
+        "name": "Owele",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 117745
+    },
+    {
+        "name": "Owere",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 48301
+    },
+    {
+        "name": "Owere-Ezukala",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.02,
+        "long": 7.31,
+        "elev ft": 830,
+        "pop est": 48301
+    },
+    {
+        "name": "Oye Market",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.98,
+        "elev ft": 380,
+        "pop est": 20346
+    },
+    {
+        "name": "Oyiowa Odekpa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.09,
+        "long": 6.76,
+        "elev ft": 229,
+        "pop est": 189932
+    },
+    {
+        "name": "Ozu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 7.16,
+        "elev ft": 830,
+        "pop est": 48519
+    },
+    {
+        "name": "Ozu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.0,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 369324
+    },
+    {
+        "name": "Ozu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 200524
+    },
+    {
+        "name": "Ozubulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 216740
+    },
+    {
+        "name": "QNI",
+        "what": "city",
+        "region": "Anambra State",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 6.79,
+        "elev ft": 255,
+        "pop est": 483206
+    },
+    {
+        "name": "Ubahidara",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 67952
+    },
+    {
+        "name": "Ubaraekwem",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.87,
+        "long": 6.83,
+        "elev ft": 830,
+        "pop est": 241406
+    },
+    {
+        "name": "Ubarakpaka",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.86,
+        "long": 6.85,
+        "elev ft": 830,
+        "pop est": 246914
+    },
+    {
+        "name": "Ubrihi Jeofor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.81,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 123606
+    },
+    {
+        "name": "Udene",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.93,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 51414
+    },
+    {
+        "name": "Ufuma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.08,
+        "long": 7.19,
+        "elev ft": 830,
+        "pop est": 57209
+    },
+    {
+        "name": "Uga",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 284264
+    },
+    {
+        "name": "Ugbene",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 7.06,
+        "elev ft": 223,
+        "pop est": 22339
+    },
+    {
+        "name": "Ujali",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 59579
+    },
+    {
+        "name": "Ujalli",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 59579
+    },
+    {
+        "name": "Ujari",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 7.21,
+        "elev ft": 830,
+        "pop est": 59579
+    },
+    {
+        "name": "Uke",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 180237
+    },
+    {
+        "name": "Ukpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 155249
+    },
+    {
+        "name": "Ukpo-Akpu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.97,
+        "elev ft": 830,
+        "pop est": 155249
+    },
+    {
+        "name": "Ukpor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 65247
+    },
+    {
+        "name": "Ukpor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 125157
+    },
+    {
+        "name": "Ukukwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.13,
+        "elev ft": 387,
+        "pop est": 38399
+    },
+    {
+        "name": "Ukukwa-Amanse",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.26,
+        "long": 7.13,
+        "elev ft": 387,
+        "pop est": 38399
+    },
+    {
+        "name": "Ukwu-Abwa",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.23,
+        "long": 6.81,
+        "elev ft": 216,
+        "pop est": 94599
+    },
+    {
+        "name": "Ukwulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.27,
+        "long": 6.96,
+        "elev ft": 830,
+        "pop est": 51140
+    },
+    {
+        "name": "Uli",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.78,
+        "long": 6.87,
+        "elev ft": 830,
+        "pop est": 85161
+    },
+    {
+        "name": "Umabu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 7.0,
+        "elev ft": 351,
+        "pop est": 17014
+    },
+    {
+        "name": "Umuaja-Obosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.82,
+        "elev ft": 324,
+        "pop est": 372826
+    },
+    {
+        "name": "Umuakabia",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.82,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 153406
+    },
+    {
+        "name": "Umuawor-Nando",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.94,
+        "elev ft": 364,
+        "pop est": 20370
+    },
+    {
+        "name": "Umuawulu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.15,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 67838
+    },
+    {
+        "name": "Umudim",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.01,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 366060
+    },
+    {
+        "name": "Umudioka-Ogidi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 189052
+    },
+    {
+        "name": "Umudoika",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.16,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 189052
+    },
+    {
+        "name": "Umudora",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 6.76,
+        "elev ft": 200,
+        "pop est": 25624
+    },
+    {
+        "name": "Umudora-Umuikwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 6.76,
+        "elev ft": 200,
+        "pop est": 25624
+    },
+    {
+        "name": "Umueje",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.03,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 57921
+    },
+    {
+        "name": "Umueje",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 6.95,
+        "elev ft": 328,
+        "pop est": 17452
+    },
+    {
+        "name": "Umuelem",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.01,
+        "elev ft": 305,
+        "pop est": 19212
+    },
+    {
+        "name": "Umuelum",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 7.01,
+        "elev ft": 305,
+        "pop est": 19212
+    },
+    {
+        "name": "Umuenwelu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.75,
+        "elev ft": 203,
+        "pop est": 27899
+    },
+    {
+        "name": "Umuenwelum",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.36,
+        "long": 6.75,
+        "elev ft": 203,
+        "pop est": 27899
+    },
+    {
+        "name": "Umueze-Anam",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.33,
+        "long": 6.83,
+        "elev ft": 226,
+        "pop est": 27099
+    },
+    {
+        "name": "Umuikwu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.3,
+        "long": 6.76,
+        "elev ft": 200,
+        "pop est": 25624
+    },
+    {
+        "name": "Umuinya",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 94404
+    },
+    {
+        "name": "Umukela",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.35,
+        "long": 6.88,
+        "elev ft": 265,
+        "pop est": 21212
+    },
+    {
+        "name": "Umukpu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 164702
+    },
+    {
+        "name": "Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.9,
+        "elev ft": 334,
+        "pop est": 20705
+    },
+    {
+        "name": "Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.86,
+        "elev ft": 282,
+        "pop est": 22261
+    },
+    {
+        "name": "Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 6.89,
+        "elev ft": 301,
+        "pop est": 19679
+    },
+    {
+        "name": "Umumbo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 7.0,
+        "elev ft": 351,
+        "pop est": 17014
+    },
+    {
+        "name": "Umunachi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.17,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 177626
+    },
+    {
+        "name": "Umunankwo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.88,
+        "long": 6.7,
+        "elev ft": 236,
+        "pop est": 64084
+    },
+    {
+        "name": "Umunya",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.21,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 94404
+    },
+    {
+        "name": "Umunze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 53845
+    },
+    {
+        "name": "Umuoba",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 6.8,
+        "elev ft": 236,
+        "pop est": 26721
+    },
+    {
+        "name": "Umuogem",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.07,
+        "long": 7.25,
+        "elev ft": 830,
+        "pop est": 52471
+    },
+    {
+        "name": "Umuogouefi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.31,
+        "long": 7.16,
+        "elev ft": 360,
+        "pop est": 24593
+    },
+    {
+        "name": "Umuoja-Obosi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.11,
+        "long": 6.82,
+        "elev ft": 324,
+        "pop est": 372826
+    },
+    {
+        "name": "Umuoji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.14,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 204596
+    },
+    {
+        "name": "Umuoji",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.1,
+        "long": 6.89,
+        "elev ft": 830,
+        "pop est": 296787
+    },
+    {
+        "name": "Umuokpo",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 164702
+    },
+    {
+        "name": "Umuokpu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.2,
+        "long": 7.05,
+        "elev ft": 830,
+        "pop est": 164702
+    },
+    {
+        "name": "Umuoma",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.77,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 61996
+    },
+    {
+        "name": "Umuotulu Umuleri",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 6.9,
+        "elev ft": 334,
+        "pop est": 20705
+    },
+    {
+        "name": "Umuruko",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.91,
+        "long": 6.92,
+        "elev ft": 830,
+        "pop est": 63764
+    },
+    {
+        "name": "Umuseke Umunze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.98,
+        "long": 7.23,
+        "elev ft": 830,
+        "pop est": 58967
+    },
+    {
+        "name": "Unubi",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.96,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 239656
+    },
+    {
+        "name": "Upor",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 6.93,
+        "elev ft": 830,
+        "pop est": 125157
+    },
+    {
+        "name": "Uruagu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.04,
+        "long": 6.91,
+        "elev ft": 830,
+        "pop est": 364979
+    },
+    {
+        "name": "Urum",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.29,
+        "long": 7.05,
+        "elev ft": 416,
+        "pop est": 23320
+    },
+    {
+        "name": "Uruobo-Okija",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.9,
+        "long": 6.84,
+        "elev ft": 830,
+        "pop est": 258404
+    },
+    {
+        "name": "Ururow-Umunze",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.97,
+        "long": 7.24,
+        "elev ft": 830,
+        "pop est": 53845
+    },
+    {
+        "name": "Uttuh",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 5.94,
+        "long": 6.94,
+        "elev ft": 830,
+        "pop est": 90234
+    },
+    {
+        "name": "Water Town Umabu",
+        "what": "city",
+        "region": "Anambra",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 7.0,
+        "elev ft": 351,
+        "pop est": 17014
+    }
+]

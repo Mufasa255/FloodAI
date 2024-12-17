@@ -1,0 +1,5682 @@
+[
+    {
+        "name": "Aba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 561845
+    },
+    {
+        "name": "Aba-Onigbagbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 4.09,
+        "elev ft": 137,
+        "pop est": 3171
+    },
+    {
+        "name": "Aba-Oriyanrin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.14,
+        "elev ft": 157,
+        "pop est": 4473
+    },
+    {
+        "name": "Aba-Oriyanrn",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.14,
+        "elev ft": 157,
+        "pop est": 4473
+    },
+    {
+        "name": "Abagbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.38,
+        "elev ft": 114,
+        "pop est": 179962
+    },
+    {
+        "name": "Abaranje",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.23,
+        "elev ft": 131,
+        "pop est": 470975
+    },
+    {
+        "name": "Abaranjeh",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.23,
+        "elev ft": 131,
+        "pop est": 470975
+    },
+    {
+        "name": "Abekkun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.38,
+        "elev ft": 114,
+        "pop est": 179962
+    },
+    {
+        "name": "Abijo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.67,
+        "elev ft": 131,
+        "pop est": 13204
+    },
+    {
+        "name": "Abomiti",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.09,
+        "elev ft": 137,
+        "pop est": 3157
+    },
+    {
+        "name": "Abosan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 784268
+    },
+    {
+        "name": "Abosioto",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 4.09,
+        "elev ft": 137,
+        "pop est": 3536
+    },
+    {
+        "name": "Abule Ado",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.25,
+        "elev ft": 118,
+        "pop est": 503829
+    },
+    {
+        "name": "Abule Ijesha",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.39,
+        "elev ft": 121,
+        "pop est": 932797
+    },
+    {
+        "name": "Abule Oshun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.23,
+        "elev ft": 118,
+        "pop est": 451509
+    },
+    {
+        "name": "Abule-Egba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.29,
+        "elev ft": 147,
+        "pop est": 894666
+    },
+    {
+        "name": "Abule-Nla",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 480560
+    },
+    {
+        "name": "Abule-Okuta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.4,
+        "elev ft": 121,
+        "pop est": 1039676
+    },
+    {
+        "name": "Addo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.58,
+        "elev ft": 124,
+        "pop est": 232507
+    },
+    {
+        "name": "Addo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.7,
+        "elev ft": 137,
+        "pop est": 8338
+    },
+    {
+        "name": "Adekunle",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.36,
+        "elev ft": 134,
+        "pop est": 1364004
+    },
+    {
+        "name": "Adeleye",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.27,
+        "elev ft": 144,
+        "pop est": 415500
+    },
+    {
+        "name": "Ado",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.7,
+        "elev ft": 137,
+        "pop est": 8338
+    },
+    {
+        "name": "Ado",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.58,
+        "elev ft": 124,
+        "pop est": 232507
+    },
+    {
+        "name": "Agala",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.37,
+        "elev ft": 114,
+        "pop est": 224024
+    },
+    {
+        "name": "Agani",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 551612
+    },
+    {
+        "name": "Aganni",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 551612
+    },
+    {
+        "name": "Agbede",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.49,
+        "elev ft": 160,
+        "pop est": 283648
+    },
+    {
+        "name": "Agbele",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.74,
+        "elev ft": 150,
+        "pop est": 10612
+    },
+    {
+        "name": "Agbelekale",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.29,
+        "elev ft": 147,
+        "pop est": 770021
+    },
+    {
+        "name": "Agboju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.28,
+        "elev ft": 118,
+        "pop est": 502849
+    },
+    {
+        "name": "Agbole",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.74,
+        "elev ft": 150,
+        "pop est": 10612
+    },
+    {
+        "name": "Agbowa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.71,
+        "elev ft": 144,
+        "pop est": 10217
+    },
+    {
+        "name": "Agboyi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.41,
+        "elev ft": 121,
+        "pop est": 1002001
+    },
+    {
+        "name": "Agege",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.33,
+        "elev ft": 137,
+        "pop est": 1326371
+    },
+    {
+        "name": "Agidi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.91,
+        "elev ft": 144,
+        "pop est": 17370
+    },
+    {
+        "name": "Agidingbi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.36,
+        "elev ft": 131,
+        "pop est": 1253282
+    },
+    {
+        "name": "Agodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.28,
+        "elev ft": 127,
+        "pop est": 811399
+    },
+    {
+        "name": "Aguda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.35,
+        "elev ft": 137,
+        "pop est": 1042417
+    },
+    {
+        "name": "Agun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.27,
+        "elev ft": 144,
+        "pop est": 500338
+    },
+    {
+        "name": "Agunmo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.02,
+        "elev ft": 118,
+        "pop est": 34032
+    },
+    {
+        "name": "Agura",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.63,
+        "elev ft": 134,
+        "pop est": 10529
+    },
+    {
+        "name": "Aiyeteju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.81,
+        "elev ft": 150,
+        "pop est": 7231
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.34,
+        "elev ft": 118,
+        "pop est": 455287
+    },
+    {
+        "name": "Aiyetoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.22,
+        "elev ft": 144,
+        "pop est": 268494
+    },
+    {
+        "name": "Aiyetoto-Asogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.23,
+        "elev ft": 118,
+        "pop est": 460084
+    },
+    {
+        "name": "Aja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.56,
+        "elev ft": 124,
+        "pop est": 276824
+    },
+    {
+        "name": "Ajagambari",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.84,
+        "elev ft": 131,
+        "pop est": 8363
+    },
+    {
+        "name": "Ajah",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.56,
+        "elev ft": 124,
+        "pop est": 276824
+    },
+    {
+        "name": "Ajebandele",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.87,
+        "elev ft": 131,
+        "pop est": 9707
+    },
+    {
+        "name": "Ajebo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.77,
+        "elev ft": 141,
+        "pop est": 8664
+    },
+    {
+        "name": "Ajegbenwa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.81,
+        "elev ft": 141,
+        "pop est": 8704
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.33,
+        "elev ft": 114,
+        "pop est": 464800
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.29,
+        "elev ft": 141,
+        "pop est": 816172
+    },
+    {
+        "name": "Ajegunle",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.69,
+        "long": 3.26,
+        "elev ft": 154,
+        "pop est": 552772
+    },
+    {
+        "name": "Ajibade",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.75,
+        "elev ft": 147,
+        "pop est": 5741
+    },
+    {
+        "name": "Akando",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.22,
+        "elev ft": 0,
+        "pop est": 3787
+    },
+    {
+        "name": "Akangba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 1085675
+    },
+    {
+        "name": "Akawdo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.93,
+        "elev ft": 173,
+        "pop est": 4883
+    },
+    {
+        "name": "Akesan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.22,
+        "elev ft": 131,
+        "pop est": 443499
+    },
+    {
+        "name": "Akessan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.22,
+        "elev ft": 131,
+        "pop est": 443499
+    },
+    {
+        "name": "Akinde",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.28,
+        "elev ft": 154,
+        "pop est": 618128
+    },
+    {
+        "name": "Akinlade",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.62,
+        "elev ft": 134,
+        "pop est": 56200
+    },
+    {
+        "name": "Akinogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.28,
+        "elev ft": 141,
+        "pop est": 649971
+    },
+    {
+        "name": "Akinyele",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.26,
+        "elev ft": 144,
+        "pop est": 409163
+    },
+    {
+        "name": "Akitan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.27,
+        "elev ft": 150,
+        "pop est": 637044
+    },
+    {
+        "name": "Akodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.22,
+        "elev ft": 0,
+        "pop est": 3787
+    },
+    {
+        "name": "Akodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.93,
+        "elev ft": 173,
+        "pop est": 4883
+    },
+    {
+        "name": "Akoka",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.4,
+        "elev ft": 121,
+        "pop est": 954761
+    },
+    {
+        "name": "Akowonjo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.31,
+        "elev ft": 137,
+        "pop est": 1184926
+    },
+    {
+        "name": "Alaba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.32,
+        "elev ft": 118,
+        "pop est": 504658
+    },
+    {
+        "name": "Alaba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.18,
+        "elev ft": 118,
+        "pop est": 428980
+    },
+    {
+        "name": "Alagba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.3,
+        "elev ft": 141,
+        "pop est": 1050004
+    },
+    {
+        "name": "Alagbado",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.29,
+        "elev ft": 154,
+        "pop est": 725093
+    },
+    {
+        "name": "Alagbede",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 480560
+    },
+    {
+        "name": "Alaguntan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.49,
+        "elev ft": 121,
+        "pop est": 107637
+    },
+    {
+        "name": "Alaiyabiagba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.33,
+        "elev ft": 114,
+        "pop est": 464800
+    },
+    {
+        "name": "Alaka",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 516253
+    },
+    {
+        "name": "Alakuko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.26,
+        "elev ft": 154,
+        "pop est": 567446
+    },
+    {
+        "name": "Alapadi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.54,
+        "elev ft": 180,
+        "pop est": 172581
+    },
+    {
+        "name": "Alapako",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.29,
+        "elev ft": 118,
+        "pop est": 468090
+    },
+    {
+        "name": "Alaru",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.65,
+        "elev ft": 137,
+        "pop est": 11158
+    },
+    {
+        "name": "Alasia",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.4,
+        "elev ft": 114,
+        "pop est": 204869
+    },
+    {
+        "name": "Ale",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.01,
+        "elev ft": 118,
+        "pop est": 14534
+    },
+    {
+        "name": "Aliayabiagba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.33,
+        "elev ft": 114,
+        "pop est": 464800
+    },
+    {
+        "name": "Alimosho",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.3,
+        "elev ft": 141,
+        "pop est": 1133670
+    },
+    {
+        "name": "Alimoso",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.3,
+        "elev ft": 141,
+        "pop est": 1133670
+    },
+    {
+        "name": "Amukoko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.34,
+        "elev ft": 118,
+        "pop est": 518149
+    },
+    {
+        "name": "Amuwo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.3,
+        "elev ft": 114,
+        "pop est": 488088
+    },
+    {
+        "name": "Animashawun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 551612
+    },
+    {
+        "name": "Animshaun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 551612
+    },
+    {
+        "name": "Anthony",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.37,
+        "elev ft": 124,
+        "pop est": 1655072
+    },
+    {
+        "name": "Apala",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.09,
+        "elev ft": 141,
+        "pop est": 3113
+    },
+    {
+        "name": "Apapa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.36,
+        "elev ft": 114,
+        "pop est": 368843
+    },
+    {
+        "name": "Apapa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.42,
+        "elev ft": 118,
+        "pop est": 162891
+    },
+    {
+        "name": "Apapa Eleko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.42,
+        "elev ft": 118,
+        "pop est": 162891
+    },
+    {
+        "name": "Aqani",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 551612
+    },
+    {
+        "name": "Arapagi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.78,
+        "elev ft": 141,
+        "pop est": 8519
+    },
+    {
+        "name": "Arapagi-Awlawkaw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.78,
+        "elev ft": 141,
+        "pop est": 8519
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.89,
+        "elev ft": 144,
+        "pop est": 10488
+    },
+    {
+        "name": "Araromi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.3,
+        "elev ft": 154,
+        "pop est": 8627
+    },
+    {
+        "name": "Araromi Tawpe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.79,
+        "elev ft": 141,
+        "pop est": 8640
+    },
+    {
+        "name": "Araromi-Tope",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.79,
+        "elev ft": 141,
+        "pop est": 8640
+    },
+    {
+        "name": "Arida",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.27,
+        "elev ft": 134,
+        "pop est": 730007
+    },
+    {
+        "name": "Asepe-Musin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.03,
+        "elev ft": 118,
+        "pop est": 25138
+    },
+    {
+        "name": "Ashon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 784268
+    },
+    {
+        "name": "Asipa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.26,
+        "elev ft": 137,
+        "pop est": 420211
+    },
+    {
+        "name": "Ason",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 784268
+    },
+    {
+        "name": "Atan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.25,
+        "elev ft": 141,
+        "pop est": 380088
+    },
+    {
+        "name": "Awfin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.5,
+        "elev ft": 124,
+        "pop est": 671391
+    },
+    {
+        "name": "Awgawgawraw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.93,
+        "elev ft": 144,
+        "pop est": 7546
+    },
+    {
+        "name": "Awgawmbaw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.61,
+        "elev ft": 131,
+        "pop est": 94666
+    },
+    {
+        "name": "Awja-Ikoradu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.49,
+        "elev ft": 127,
+        "pop est": 834857
+    },
+    {
+        "name": "Awjaw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.16,
+        "elev ft": 118,
+        "pop est": 422952
+    },
+    {
+        "name": "Awoyaya",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.7,
+        "elev ft": 134,
+        "pop est": 8960
+    },
+    {
+        "name": "Awreta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 543490
+    },
+    {
+        "name": "Ayobo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.23,
+        "elev ft": 141,
+        "pop est": 348981
+    },
+    {
+        "name": "Badagri",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 2.88,
+        "elev ft": 118,
+        "pop est": 8801
+    },
+    {
+        "name": "Badagry",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 2.88,
+        "elev ft": 118,
+        "pop est": 8801
+    },
+    {
+        "name": "Bagbagbelu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.55,
+        "elev ft": 183,
+        "pop est": 117481
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.23,
+        "elev ft": 141,
+        "pop est": 348981
+    },
+    {
+        "name": "Balogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.26,
+        "elev ft": 134,
+        "pop est": 624668
+    },
+    {
+        "name": "Bamgbose",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.45,
+        "elev ft": 118,
+        "pop est": 129556
+    },
+    {
+        "name": "Bamgboshe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.45,
+        "elev ft": 118,
+        "pop est": 129556
+    },
+    {
+        "name": "Bariga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.38,
+        "elev ft": 121,
+        "pop est": 1248534
+    },
+    {
+        "name": "Baruwa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.27,
+        "elev ft": 141,
+        "pop est": 500338
+    },
+    {
+        "name": "Bassa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 344720
+    },
+    {
+        "name": "Beshi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 297419
+    },
+    {
+        "name": "Beshi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.47,
+        "elev ft": 124,
+        "pop est": 924701
+    },
+    {
+        "name": "Biolorunpelu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.91,
+        "elev ft": 144,
+        "pop est": 13724
+    },
+    {
+        "name": "Bolorunpelu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.27,
+        "elev ft": 131,
+        "pop est": 756883
+    },
+    {
+        "name": "Cardoso",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.27,
+        "elev ft": 137,
+        "pop est": 622371
+    },
+    {
+        "name": "Coker",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.33,
+        "elev ft": 141,
+        "pop est": 1080380
+    },
+    {
+        "name": "Coker",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.33,
+        "elev ft": 118,
+        "pop est": 546217
+    },
+    {
+        "name": "Command",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.25,
+        "elev ft": 147,
+        "pop est": 387513
+    },
+    {
+        "name": "Dongo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.72,
+        "elev ft": 137,
+        "pop est": 8142
+    },
+    {
+        "name": "Dopemu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.32,
+        "elev ft": 137,
+        "pop est": 1251892
+    },
+    {
+        "name": "Ebute Ikorodu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.49,
+        "elev ft": 127,
+        "pop est": 834857
+    },
+    {
+        "name": "Ebute Leki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.09,
+        "elev ft": 0,
+        "pop est": 2952
+    },
+    {
+        "name": "Ebute Meta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 543482
+    },
+    {
+        "name": "Ebute Metta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 543482
+    },
+    {
+        "name": "Ebute-Egga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.49,
+        "elev ft": 127,
+        "pop est": 834857
+    },
+    {
+        "name": "Ebute-Lekki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.1,
+        "elev ft": 154,
+        "pop est": 3355
+    },
+    {
+        "name": "Ebute-Lekki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.09,
+        "elev ft": 0,
+        "pop est": 2952
+    },
+    {
+        "name": "Ebute-Metta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 543482
+    },
+    {
+        "name": "Efiran",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.81,
+        "elev ft": 147,
+        "pop est": 7714
+    },
+    {
+        "name": "Egan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.23,
+        "elev ft": 134,
+        "pop est": 433207
+    },
+    {
+        "name": "Egba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.3,
+        "elev ft": 147,
+        "pop est": 954844
+    },
+    {
+        "name": "Egbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.28,
+        "elev ft": 127,
+        "pop est": 871214
+    },
+    {
+        "name": "Egbeda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.3,
+        "elev ft": 137,
+        "pop est": 1102565
+    },
+    {
+        "name": "Eggan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.23,
+        "elev ft": 134,
+        "pop est": 433207
+    },
+    {
+        "name": "Egun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.83,
+        "elev ft": 147,
+        "pop est": 8529
+    },
+    {
+        "name": "Egun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.89,
+        "elev ft": 144,
+        "pop est": 8104
+    },
+    {
+        "name": "Ejigbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.31,
+        "elev ft": 127,
+        "pop est": 1313648
+    },
+    {
+        "name": "Ejinrin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.9,
+        "elev ft": 141,
+        "pop est": 21102
+    },
+    {
+        "name": "Ejirin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.9,
+        "elev ft": 141,
+        "pop est": 21102
+    },
+    {
+        "name": "Eko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Ekoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.29,
+        "elev ft": 147,
+        "pop est": 802037
+    },
+    {
+        "name": "Elachi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 306128
+    },
+    {
+        "name": "Eleputu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.72,
+        "elev ft": 137,
+        "pop est": 8194
+    },
+    {
+        "name": "Eluju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.83,
+        "elev ft": 157,
+        "pop est": 7263
+    },
+    {
+        "name": "Emu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.97,
+        "elev ft": 144,
+        "pop est": 7372
+    },
+    {
+        "name": "Emuren",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.52,
+        "elev ft": 177,
+        "pop est": 185952
+    },
+    {
+        "name": "Epe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.98,
+        "elev ft": 137,
+        "pop est": 69238
+    },
+    {
+        "name": "Epeh",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.98,
+        "elev ft": 137,
+        "pop est": 69238
+    },
+    {
+        "name": "Ere-Ise",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.03,
+        "elev ft": 137,
+        "pop est": 24935
+    },
+    {
+        "name": "Eredo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.99,
+        "elev ft": 173,
+        "pop est": 48124
+    },
+    {
+        "name": "Eregun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.36,
+        "elev ft": 131,
+        "pop est": 1586257
+    },
+    {
+        "name": "Erukan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1224181
+    },
+    {
+        "name": "Erunkan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1224181
+    },
+    {
+        "name": "Erutan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1224181
+    },
+    {
+        "name": "Euni",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.9,
+        "elev ft": 141,
+        "pop est": 21102
+    },
+    {
+        "name": "Ewu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.32,
+        "elev ft": 127,
+        "pop est": 1571559
+    },
+    {
+        "name": "FHA Estate",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.25,
+        "elev ft": 137,
+        "pop est": 420456
+    },
+    {
+        "name": "Fadeyi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.36,
+        "elev ft": 121,
+        "pop est": 1311779
+    },
+    {
+        "name": "Fagba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.32,
+        "elev ft": 150,
+        "pop est": 882354
+    },
+    {
+        "name": "Falana",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.53,
+        "elev ft": 131,
+        "pop est": 701320
+    },
+    {
+        "name": "Fatade",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.27,
+        "elev ft": 141,
+        "pop est": 538650
+    },
+    {
+        "name": "Fawosedi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.05,
+        "elev ft": 154,
+        "pop est": 20692
+    },
+    {
+        "name": "Festac",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.28,
+        "elev ft": 118,
+        "pop est": 542317
+    },
+    {
+        "name": "Festac Town",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.28,
+        "elev ft": 118,
+        "pop est": 542317
+    },
+    {
+        "name": "Folu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.21,
+        "elev ft": 0,
+        "pop est": 3457
+    },
+    {
+        "name": "Fowosed",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 4.05,
+        "elev ft": 154,
+        "pop est": 20692
+    },
+    {
+        "name": "Gbagada",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.4,
+        "elev ft": 121,
+        "pop est": 1169763
+    },
+    {
+        "name": "Gbanko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.04,
+        "elev ft": 114,
+        "pop est": 15354
+    },
+    {
+        "name": "Gberegbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.62,
+        "elev ft": 154,
+        "pop est": 16443
+    },
+    {
+        "name": "Gberigbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.62,
+        "elev ft": 154,
+        "pop est": 16443
+    },
+    {
+        "name": "Gbesse",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.47,
+        "elev ft": 124,
+        "pop est": 924701
+    },
+    {
+        "name": "Gbogbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.52,
+        "elev ft": 131,
+        "pop est": 838036
+    },
+    {
+        "name": "Gbogije",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.75,
+        "elev ft": 141,
+        "pop est": 8331
+    },
+    {
+        "name": "Gbogije-Ibeju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.76,
+        "elev ft": 141,
+        "pop est": 8034
+    },
+    {
+        "name": "George",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.35,
+        "elev ft": 137,
+        "pop est": 1110328
+    },
+    {
+        "name": "Ginti",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.58,
+        "elev ft": 160,
+        "pop est": 66451
+    },
+    {
+        "name": "Hausa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.36,
+        "elev ft": 134,
+        "pop est": 1364004
+    },
+    {
+        "name": "Iba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.91,
+        "elev ft": 147,
+        "pop est": 7643
+    },
+    {
+        "name": "Iba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.2,
+        "elev ft": 124,
+        "pop est": 496839
+    },
+    {
+        "name": "Ibasa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 344720
+    },
+    {
+        "name": "Ibasha",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 344720
+    },
+    {
+        "name": "Ibeju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.53,
+        "elev ft": 124,
+        "pop est": 111974
+    },
+    {
+        "name": "Ibeju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.89,
+        "elev ft": 150,
+        "pop est": 7681
+    },
+    {
+        "name": "Ibere",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.64,
+        "elev ft": 157,
+        "pop est": 13334
+    },
+    {
+        "name": "Iberekodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.86,
+        "elev ft": 164,
+        "pop est": 4595
+    },
+    {
+        "name": "Ibese",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 297419
+    },
+    {
+        "name": "Ibese",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.47,
+        "elev ft": 124,
+        "pop est": 924701
+    },
+    {
+        "name": "Ibeshe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.47,
+        "elev ft": 124,
+        "pop est": 924701
+    },
+    {
+        "name": "Ibeshe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 297419
+    },
+    {
+        "name": "Ibeshi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.47,
+        "elev ft": 124,
+        "pop est": 924701
+    },
+    {
+        "name": "Iboju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.53,
+        "elev ft": 124,
+        "pop est": 111974
+    },
+    {
+        "name": "Ibon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.74,
+        "elev ft": 131,
+        "pop est": 6131
+    },
+    {
+        "name": "Ibonwon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 4.0,
+        "elev ft": 183,
+        "pop est": 19591
+    },
+    {
+        "name": "Ibopa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 683540
+    },
+    {
+        "name": "Ida",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.12,
+        "elev ft": 154,
+        "pop est": 3405
+    },
+    {
+        "name": "Idashaw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.98,
+        "elev ft": 0,
+        "pop est": 4361
+    },
+    {
+        "name": "Idaso",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.98,
+        "elev ft": 0,
+        "pop est": 4361
+    },
+    {
+        "name": "Iddo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 390522
+    },
+    {
+        "name": "Ide",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 4.12,
+        "elev ft": 154,
+        "pop est": 3405
+    },
+    {
+        "name": "Ideno",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.8,
+        "elev ft": 154,
+        "pop est": 10769
+    },
+    {
+        "name": "Idi Oro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.36,
+        "elev ft": 121,
+        "pop est": 1311779
+    },
+    {
+        "name": "Idi-Araba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.34,
+        "elev ft": 121,
+        "pop est": 1321886
+    },
+    {
+        "name": "Idimi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.28,
+        "elev ft": 141,
+        "pop est": 702439
+    },
+    {
+        "name": "Idimu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.28,
+        "elev ft": 141,
+        "pop est": 702439
+    },
+    {
+        "name": "Idiori",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.75,
+        "elev ft": 137,
+        "pop est": 8289
+    },
+    {
+        "name": "Idioro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.36,
+        "elev ft": 121,
+        "pop est": 1311779
+    },
+    {
+        "name": "Idoluwo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.1,
+        "elev ft": 114,
+        "pop est": 151436
+    },
+    {
+        "name": "Idomu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.97,
+        "elev ft": 137,
+        "pop est": 17917
+    },
+    {
+        "name": "Idowu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.26,
+        "elev ft": 137,
+        "pop est": 451493
+    },
+    {
+        "name": "Ifako",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.32,
+        "elev ft": 141,
+        "pop est": 1048299
+    },
+    {
+        "name": "Ifako-Agege",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.33,
+        "elev ft": 141,
+        "pop est": 1080380
+    },
+    {
+        "name": "Igando",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.25,
+        "elev ft": 134,
+        "pop est": 512123
+    },
+    {
+        "name": "Igando",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.82,
+        "elev ft": 157,
+        "pop est": 4553
+    },
+    {
+        "name": "Igando Awlawja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.82,
+        "elev ft": 157,
+        "pop est": 4553
+    },
+    {
+        "name": "Iganmu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 588584
+    },
+    {
+        "name": "Iganmu Siding",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.35,
+        "elev ft": 118,
+        "pop est": 588584
+    },
+    {
+        "name": "Igbaga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.58,
+        "elev ft": 206,
+        "pop est": 72292
+    },
+    {
+        "name": "Igbalu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.65,
+        "elev ft": 137,
+        "pop est": 11158
+    },
+    {
+        "name": "Igbede",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.16,
+        "elev ft": 114,
+        "pop est": 358626
+    },
+    {
+        "name": "Igbein",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.73,
+        "elev ft": 157,
+        "pop est": 11634
+    },
+    {
+        "name": "Igbin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.6,
+        "elev ft": 127,
+        "pop est": 39804
+    },
+    {
+        "name": "Igbo Ejo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.35,
+        "elev ft": 114,
+        "pop est": 284755
+    },
+    {
+        "name": "Igbo Elerin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.18,
+        "elev ft": 121,
+        "pop est": 534871
+    },
+    {
+        "name": "Igbo Iroko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.2,
+        "elev ft": 121,
+        "pop est": 532512
+    },
+    {
+        "name": "Igbo-Apawa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 4.07,
+        "elev ft": 137,
+        "pop est": 3992
+    },
+    {
+        "name": "Igbo-Lomi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.17,
+        "elev ft": 154,
+        "pop est": 3977
+    },
+    {
+        "name": "Igbobi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.39,
+        "elev ft": 121,
+        "pop est": 954761
+    },
+    {
+        "name": "Igbodu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.91,
+        "elev ft": 157,
+        "pop est": 12070
+    },
+    {
+        "name": "Igbogila",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.26,
+        "elev ft": 144,
+        "pop est": 409163
+    },
+    {
+        "name": "Igbogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.27,
+        "elev ft": 157,
+        "pop est": 5689
+    },
+    {
+        "name": "Igbokin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.56,
+        "elev ft": 147,
+        "pop est": 91138
+    },
+    {
+        "name": "Igbologun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.33,
+        "elev ft": 114,
+        "pop est": 286232
+    },
+    {
+        "name": "Igbopa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 683540
+    },
+    {
+        "name": "Igbore",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.54,
+        "elev ft": 127,
+        "pop est": 477733
+    },
+    {
+        "name": "Ijagba Creek",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.12,
+        "elev ft": 147,
+        "pop est": 2955
+    },
+    {
+        "name": "Ijagemo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.22,
+        "elev ft": 127,
+        "pop est": 497953
+    },
+    {
+        "name": "Ijaiye",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.29,
+        "elev ft": 150,
+        "pop est": 780078
+    },
+    {
+        "name": "Ijaiye",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.34,
+        "elev ft": 137,
+        "pop est": 1122176
+    },
+    {
+        "name": "Ijanikin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.12,
+        "elev ft": 118,
+        "pop est": 353284
+    },
+    {
+        "name": "Ijede",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.59,
+        "elev ft": 127,
+        "pop est": 39093
+    },
+    {
+        "name": "Ijedodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.24,
+        "elev ft": 127,
+        "pop est": 491560
+    },
+    {
+        "name": "Ijegemo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.22,
+        "elev ft": 127,
+        "pop est": 497953
+    },
+    {
+        "name": "Ijegun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.25,
+        "elev ft": 127,
+        "pop est": 532315
+    },
+    {
+        "name": "Ijero",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 448006
+    },
+    {
+        "name": "Ijesa-Tedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.33,
+        "elev ft": 118,
+        "pop est": 786600
+    },
+    {
+        "name": "Ijesha-Tedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.33,
+        "elev ft": 118,
+        "pop est": 786600
+    },
+    {
+        "name": "Ijora",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 442780
+    },
+    {
+        "name": "Iju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.33,
+        "elev ft": 147,
+        "pop est": 815751
+    },
+    {
+        "name": "Iju Junction",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.32,
+        "elev ft": 144,
+        "pop est": 997677
+    },
+    {
+        "name": "Iju Water Works",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.33,
+        "elev ft": 147,
+        "pop est": 815751
+    },
+    {
+        "name": "Ikate",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.34,
+        "elev ft": 121,
+        "pop est": 1141299
+    },
+    {
+        "name": "Ikawta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.55,
+        "elev ft": 124,
+        "pop est": 128639
+    },
+    {
+        "name": "Ikeja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.34,
+        "elev ft": 134,
+        "pop est": 1578176
+    },
+    {
+        "name": "Ikeja G.R.A.",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.35,
+        "elev ft": 131,
+        "pop est": 1742110
+    },
+    {
+        "name": "Ikeja Government Reserved Area",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.35,
+        "elev ft": 131,
+        "pop est": 1742110
+    },
+    {
+        "name": "Ikeran",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.1,
+        "elev ft": 147,
+        "pop est": 3848
+    },
+    {
+        "name": "Iko Tun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.26,
+        "elev ft": 131,
+        "pop est": 642359
+    },
+    {
+        "name": "Ikola",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.24,
+        "elev ft": 144,
+        "pop est": 364076
+    },
+    {
+        "name": "Ikorodu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.51,
+        "elev ft": 137,
+        "pop est": 579480
+    },
+    {
+        "name": "Ikosi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.71,
+        "elev ft": 134,
+        "pop est": 7421
+    },
+    {
+        "name": "Ikosi-Ketu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.38,
+        "elev ft": 127,
+        "pop est": 1310170
+    },
+    {
+        "name": "Ikotan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.26,
+        "elev ft": 131,
+        "pop est": 642359
+    },
+    {
+        "name": "Ikotun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.09,
+        "elev ft": 114,
+        "pop est": 99126
+    },
+    {
+        "name": "Ikotun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.26,
+        "elev ft": 131,
+        "pop est": 642359
+    },
+    {
+        "name": "Ikoyi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.44,
+        "elev ft": 118,
+        "pop est": 132231
+    },
+    {
+        "name": "Ikuata",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.55,
+        "elev ft": 124,
+        "pop est": 128639
+    },
+    {
+        "name": "Ikuata",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.36,
+        "elev ft": 114,
+        "pop est": 244481
+    },
+    {
+        "name": "Ilagbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.16,
+        "elev ft": 154,
+        "pop est": 3909
+    },
+    {
+        "name": "Ilapo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.25,
+        "elev ft": 150,
+        "pop est": 425631
+    },
+    {
+        "name": "Ilasa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 306128
+    },
+    {
+        "name": "Ilasamaja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.33,
+        "elev ft": 121,
+        "pop est": 1382126
+    },
+    {
+        "name": "Ilashe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 306128
+    },
+    {
+        "name": "Ilege",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.97,
+        "elev ft": 0,
+        "pop est": 4348
+    },
+    {
+        "name": "Ilemere",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.49,
+        "elev ft": 124,
+        "pop est": 693245
+    },
+    {
+        "name": "Ilogbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.02,
+        "elev ft": 118,
+        "pop est": 38176
+    },
+    {
+        "name": "Ilumawfin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.0,
+        "elev ft": 144,
+        "pop est": 6579
+    },
+    {
+        "name": "Ilumofin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 4.0,
+        "elev ft": 144,
+        "pop est": 6579
+    },
+    {
+        "name": "Ilupeju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.36,
+        "elev ft": 127,
+        "pop est": 1777118
+    },
+    {
+        "name": "Imare",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.85,
+        "elev ft": 134,
+        "pop est": 8408
+    },
+    {
+        "name": "Imawte",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.67,
+        "elev ft": 157,
+        "pop est": 12883
+    },
+    {
+        "name": "Imeseju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.82,
+        "elev ft": 144,
+        "pop est": 8757
+    },
+    {
+        "name": "Imoba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.11,
+        "elev ft": 157,
+        "pop est": 3176
+    },
+    {
+        "name": "Imobi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.11,
+        "elev ft": 157,
+        "pop est": 3176
+    },
+    {
+        "name": "Imope",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.75,
+        "elev ft": 134,
+        "pop est": 6450
+    },
+    {
+        "name": "Imore",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 358817
+    },
+    {
+        "name": "Imoru",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.85,
+        "elev ft": 137,
+        "pop est": 8675
+    },
+    {
+        "name": "Imota",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.67,
+        "elev ft": 157,
+        "pop est": 12883
+    },
+    {
+        "name": "Imuofo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 4.06,
+        "elev ft": 134,
+        "pop est": 6554
+    },
+    {
+        "name": "Imuogo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 4.07,
+        "elev ft": 134,
+        "pop est": 6032
+    },
+    {
+        "name": "Inogbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.35,
+        "elev ft": 114,
+        "pop est": 221748
+    },
+    {
+        "name": "Ipaja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.25,
+        "elev ft": 144,
+        "pop est": 380079
+    },
+    {
+        "name": "Ipanmi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.64,
+        "elev ft": 127,
+        "pop est": 9417
+    },
+    {
+        "name": "Ipeshu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.66,
+        "elev ft": 124,
+        "pop est": 22628
+    },
+    {
+        "name": "Ipesu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.66,
+        "elev ft": 124,
+        "pop est": 22628
+    },
+    {
+        "name": "Iponri",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 658082
+    },
+    {
+        "name": "Ira",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.64,
+        "elev ft": 157,
+        "pop est": 13394
+    },
+    {
+        "name": "Iranla",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.62,
+        "elev ft": 124,
+        "pop est": 220918
+    },
+    {
+        "name": "Irewe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.14,
+        "elev ft": 114,
+        "pop est": 156422
+    },
+    {
+        "name": "Isaga-Tedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.33,
+        "elev ft": 124,
+        "pop est": 1507362
+    },
+    {
+        "name": "Isagatedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.33,
+        "elev ft": 124,
+        "pop est": 1507362
+    },
+    {
+        "name": "Isasi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.48,
+        "elev ft": 124,
+        "pop est": 883282
+    },
+    {
+        "name": "Ise",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.21,
+        "elev ft": 150,
+        "pop est": 5467
+    },
+    {
+        "name": "Iseri-Oshun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.27,
+        "elev ft": 124,
+        "pop est": 663737
+    },
+    {
+        "name": "Iseri-Osun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.27,
+        "elev ft": 124,
+        "pop est": 663737
+    },
+    {
+        "name": "Ishaga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.33,
+        "elev ft": 124,
+        "pop est": 1507362
+    },
+    {
+        "name": "Isheri Olofin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.29,
+        "elev ft": 134,
+        "pop est": 1026162
+    },
+    {
+        "name": "Isheri-Olofin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.39,
+        "elev ft": 131,
+        "pop est": 994212
+    },
+    {
+        "name": "Isheri-Oshun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.27,
+        "elev ft": 124,
+        "pop est": 663737
+    },
+    {
+        "name": "Isiu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.62,
+        "elev ft": 180,
+        "pop est": 20136
+    },
+    {
+        "name": "Isiwu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.62,
+        "elev ft": 180,
+        "pop est": 20136
+    },
+    {
+        "name": "Isolo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.32,
+        "elev ft": 124,
+        "pop est": 1398301
+    },
+    {
+        "name": "Ison",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.68,
+        "elev ft": 127,
+        "pop est": 6239
+    },
+    {
+        "name": "Isunba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 439179
+    },
+    {
+        "name": "Ita",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.62,
+        "elev ft": 164,
+        "pop est": 22362
+    },
+    {
+        "name": "Itagbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.16,
+        "elev ft": 154,
+        "pop est": 3909
+    },
+    {
+        "name": "Itamoga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.53,
+        "elev ft": 173,
+        "pop est": 254080
+    },
+    {
+        "name": "Itawikin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.8,
+        "elev ft": 144,
+        "pop est": 9305
+    },
+    {
+        "name": "Itawmu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 193075
+    },
+    {
+        "name": "Itire",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.33,
+        "elev ft": 118,
+        "pop est": 786600
+    },
+    {
+        "name": "Ito-Omu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 193075
+    },
+    {
+        "name": "Itoikin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.8,
+        "elev ft": 144,
+        "pop est": 9305
+    },
+    {
+        "name": "Itokin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.8,
+        "elev ft": 144,
+        "pop est": 9305
+    },
+    {
+        "name": "Itomu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 193075
+    },
+    {
+        "name": "Iwaya",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.39,
+        "elev ft": 118,
+        "pop est": 565091
+    },
+    {
+        "name": "Iwerekun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.73,
+        "elev ft": 144,
+        "pop est": 4443
+    },
+    {
+        "name": "Iwesolu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.76,
+        "elev ft": 0,
+        "pop est": 4836
+    },
+    {
+        "name": "Iworo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.02,
+        "elev ft": 118,
+        "pop est": 9237
+    },
+    {
+        "name": "Iyagbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.2,
+        "elev ft": 114,
+        "pop est": 287894
+    },
+    {
+        "name": "Jaguna",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.97,
+        "elev ft": 137,
+        "pop est": 34549
+    },
+    {
+        "name": "Janikin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.12,
+        "elev ft": 118,
+        "pop est": 353284
+    },
+    {
+        "name": "Janoke",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.62,
+        "elev ft": 193,
+        "pop est": 17849
+    },
+    {
+        "name": "Jibowu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.3,
+        "elev ft": 150,
+        "pop est": 824966
+    },
+    {
+        "name": "Kajola",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.75,
+        "elev ft": 141,
+        "pop est": 8034
+    },
+    {
+        "name": "Ketu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.88,
+        "elev ft": 147,
+        "pop est": 9249
+    },
+    {
+        "name": "Ketu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1392817
+    },
+    {
+        "name": "Kirikiri",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.31,
+        "elev ft": 114,
+        "pop est": 461062
+    },
+    {
+        "name": "Labada",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.71,
+        "elev ft": 131,
+        "pop est": 5646
+    },
+    {
+        "name": "Labada Ebute",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.71,
+        "elev ft": 131,
+        "pop est": 5646
+    },
+    {
+        "name": "Lacupolis",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Ladaba Oke",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.71,
+        "elev ft": 131,
+        "pop est": 5646
+    },
+    {
+        "name": "Ladeba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.71,
+        "elev ft": 131,
+        "pop est": 5646
+    },
+    {
+        "name": "Ladega",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.68,
+        "elev ft": 127,
+        "pop est": 6239
+    },
+    {
+        "name": "Ladekin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.92,
+        "elev ft": 160,
+        "pop est": 13288
+    },
+    {
+        "name": "Ladugbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 4.09,
+        "elev ft": 157,
+        "pop est": 3574
+    },
+    {
+        "name": "Lagos",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Lagosas",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Lagoso",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Laguosos",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Lakowe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.73,
+        "elev ft": 141,
+        "pop est": 7944
+    },
+    {
+        "name": "Lakuwe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.73,
+        "elev ft": 141,
+        "pop est": 7944
+    },
+    {
+        "name": "Lamija",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.92,
+        "elev ft": 141,
+        "pop est": 16080
+    },
+    {
+        "name": "Langbasa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.58,
+        "elev ft": 124,
+        "pop est": 216335
+    },
+    {
+        "name": "Langbassa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.58,
+        "elev ft": 124,
+        "pop est": 216335
+    },
+    {
+        "name": "Laqos",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Lashe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.28,
+        "elev ft": 114,
+        "pop est": 306128
+    },
+    {
+        "name": "Lasu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.2,
+        "elev ft": 118,
+        "pop est": 496600
+    },
+    {
+        "name": "Ledaba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.71,
+        "elev ft": 131,
+        "pop est": 5646
+    },
+    {
+        "name": "Lekki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.09,
+        "elev ft": 0,
+        "pop est": 2952
+    },
+    {
+        "name": "Lekki Peninsula",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.51,
+        "elev ft": 121,
+        "pop est": 114599
+    },
+    {
+        "name": "Lemba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.15,
+        "elev ft": 118,
+        "pop est": 358626
+    },
+    {
+        "name": "Libowu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.3,
+        "elev ft": 150,
+        "pop est": 824966
+    },
+    {
+        "name": "Logos",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.39,
+        "elev ft": 114,
+        "pop est": 282572
+    },
+    {
+        "name": "Losi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.51,
+        "elev ft": 183,
+        "pop est": 180123
+    },
+    {
+        "name": "Mafoluku",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.33,
+        "elev ft": 127,
+        "pop est": 1652298
+    },
+    {
+        "name": "Magbon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.31,
+        "elev ft": 141,
+        "pop est": 1152701
+    },
+    {
+        "name": "Magodo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.38,
+        "elev ft": 131,
+        "pop est": 1132406
+    },
+    {
+        "name": "Magodo I",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.4,
+        "elev ft": 127,
+        "pop est": 1174754
+    },
+    {
+        "name": "Magodo II",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.38,
+        "elev ft": 131,
+        "pop est": 1132406
+    },
+    {
+        "name": "Magun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.65,
+        "elev ft": 127,
+        "pop est": 29752
+    },
+    {
+        "name": "Makoko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.39,
+        "elev ft": 118,
+        "pop est": 561845
+    },
+    {
+        "name": "Makoko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.46,
+        "elev ft": 118,
+        "pop est": 132892
+    },
+    {
+        "name": "Malekete",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.53,
+        "elev ft": 127,
+        "pop est": 691861
+    },
+    {
+        "name": "Maroko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.1,
+        "elev ft": 114,
+        "pop est": 20223
+    },
+    {
+        "name": "Maroko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.46,
+        "elev ft": 118,
+        "pop est": 132892
+    },
+    {
+        "name": "Maryland",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.36,
+        "elev ft": 127,
+        "pop est": 1715574
+    },
+    {
+        "name": "Matogunde",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 4.28,
+        "elev ft": 157,
+        "pop est": 5943
+    },
+    {
+        "name": "Mebamu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.17,
+        "elev ft": 121,
+        "pop est": 515485
+    },
+    {
+        "name": "Meiran",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.26,
+        "elev ft": 150,
+        "pop est": 535564
+    },
+    {
+        "name": "Mende",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.37,
+        "elev ft": 127,
+        "pop est": 1659230
+    },
+    {
+        "name": "Meran",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.26,
+        "elev ft": 150,
+        "pop est": 535564
+    },
+    {
+        "name": "Mile 12",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.4,
+        "elev ft": 127,
+        "pop est": 1224181
+    },
+    {
+        "name": "Mile Twelve",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.4,
+        "elev ft": 127,
+        "pop est": 1224181
+    },
+    {
+        "name": "Moba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.1,
+        "elev ft": 114,
+        "pop est": 101109
+    },
+    {
+        "name": "Moba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.48,
+        "elev ft": 118,
+        "pop est": 109548
+    },
+    {
+        "name": "Mobba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.48,
+        "elev ft": 118,
+        "pop est": 109548
+    },
+    {
+        "name": "Mofoluku",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.33,
+        "elev ft": 127,
+        "pop est": 1652298
+    },
+    {
+        "name": "Mojoda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.98,
+        "elev ft": 183,
+        "pop est": 15919
+    },
+    {
+        "name": "Mopo-Akinlade",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.62,
+        "elev ft": 134,
+        "pop est": 56200
+    },
+    {
+        "name": "Mosan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.28,
+        "elev ft": 144,
+        "pop est": 620344
+    },
+    {
+        "name": "Mosere Ikoga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.68,
+        "elev ft": 137,
+        "pop est": 5959
+    },
+    {
+        "name": "Mosherel Kawga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.68,
+        "elev ft": 137,
+        "pop est": 5959
+    },
+    {
+        "name": "Mowo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.61,
+        "elev ft": 160,
+        "pop est": 39900
+    },
+    {
+        "name": "Moyopa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.75,
+        "elev ft": 131,
+        "pop est": 6085
+    },
+    {
+        "name": "Mushin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.35,
+        "elev ft": 121,
+        "pop est": 1583262
+    },
+    {
+        "name": "Mushin Halt",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.35,
+        "elev ft": 121,
+        "pop est": 1583262
+    },
+    {
+        "name": "Naforija",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.99,
+        "elev ft": 167,
+        "pop est": 54770
+    },
+    {
+        "name": "New Lagos",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 989360
+    },
+    {
+        "name": "Norforija",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.99,
+        "elev ft": 167,
+        "pop est": 54770
+    },
+    {
+        "name": "Oba-Onigbagbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 4.09,
+        "elev ft": 137,
+        "pop est": 3171
+    },
+    {
+        "name": "Oba-Oyinbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.09,
+        "elev ft": 137,
+        "pop est": 3000
+    },
+    {
+        "name": "Obada",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.27,
+        "elev ft": 154,
+        "pop est": 6545
+    },
+    {
+        "name": "Obadore",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.21,
+        "elev ft": 127,
+        "pop est": 456542
+    },
+    {
+        "name": "Obalende",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.42,
+        "elev ft": 114,
+        "pop est": 197340
+    },
+    {
+        "name": "Obanikoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.37,
+        "elev ft": 124,
+        "pop est": 1603228
+    },
+    {
+        "name": "Obele",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.04,
+        "elev ft": 118,
+        "pop est": 32015
+    },
+    {
+        "name": "Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.83,
+        "elev ft": 150,
+        "pop est": 10159
+    },
+    {
+        "name": "Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.54,
+        "elev ft": 190,
+        "pop est": 127663
+    },
+    {
+        "name": "Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.77,
+        "elev ft": 141,
+        "pop est": 8664
+    },
+    {
+        "name": "Odo Ragun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.99,
+        "elev ft": 173,
+        "pop est": 31154
+    },
+    {
+        "name": "Odo-Ayandelu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.71,
+        "elev ft": 160,
+        "pop est": 11998
+    },
+    {
+        "name": "Odo-Mala",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.99,
+        "elev ft": 150,
+        "pop est": 65283
+    },
+    {
+        "name": "Odo-Mola",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.99,
+        "elev ft": 150,
+        "pop est": 65283
+    },
+    {
+        "name": "Odo-Ragusin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.99,
+        "elev ft": 173,
+        "pop est": 31154
+    },
+    {
+        "name": "Oduwole",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.28,
+        "elev ft": 137,
+        "pop est": 746599
+    },
+    {
+        "name": "Ofin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.5,
+        "elev ft": 124,
+        "pop est": 671391
+    },
+    {
+        "name": "Ogogoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.4,
+        "elev ft": 114,
+        "pop est": 224706
+    },
+    {
+        "name": "Ogogoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.93,
+        "elev ft": 144,
+        "pop est": 7546
+    },
+    {
+        "name": "Ogombo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.61,
+        "elev ft": 131,
+        "pop est": 94666
+    },
+    {
+        "name": "Ogoyo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.49,
+        "elev ft": 121,
+        "pop est": 113796
+    },
+    {
+        "name": "Oguau",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.4,
+        "elev ft": 124,
+        "pop est": 1255218
+    },
+    {
+        "name": "Ogudu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.4,
+        "elev ft": 124,
+        "pop est": 1255218
+    },
+    {
+        "name": "Ojagemaw",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.66,
+        "elev ft": 131,
+        "pop est": 8623
+    },
+    {
+        "name": "Ojagemo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.66,
+        "elev ft": 131,
+        "pop est": 8623
+    },
+    {
+        "name": "Ojo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.16,
+        "elev ft": 118,
+        "pop est": 422952
+    },
+    {
+        "name": "Ojodu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.36,
+        "elev ft": 134,
+        "pop est": 966367
+    },
+    {
+        "name": "Ojoh",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.16,
+        "elev ft": 118,
+        "pop est": 422952
+    },
+    {
+        "name": "Ojota",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.39,
+        "elev ft": 124,
+        "pop est": 1443517
+    },
+    {
+        "name": "Ojudo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.36,
+        "elev ft": 134,
+        "pop est": 966367
+    },
+    {
+        "name": "Ojuolokun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.96,
+        "elev ft": 134,
+        "pop est": 61776
+    },
+    {
+        "name": "Oke",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.76,
+        "elev ft": 141,
+        "pop est": 8029
+    },
+    {
+        "name": "Oke Afa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.3,
+        "elev ft": 124,
+        "pop est": 1061433
+    },
+    {
+        "name": "Oke Egun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.89,
+        "elev ft": 144,
+        "pop est": 8104
+    },
+    {
+        "name": "Oke Ira",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 735402
+    },
+    {
+        "name": "Oke Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.66,
+        "elev ft": 141,
+        "pop est": 10970
+    },
+    {
+        "name": "Oke Ogbe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.38,
+        "elev ft": 114,
+        "pop est": 179962
+    },
+    {
+        "name": "Oke Oloku",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.62,
+        "elev ft": 141,
+        "pop est": 13198
+    },
+    {
+        "name": "Oke-Ira",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 735402
+    },
+    {
+        "name": "Oke-Lisa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.66,
+        "elev ft": 141,
+        "pop est": 10970
+    },
+    {
+        "name": "Oke-Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.63,
+        "long": 3.28,
+        "elev ft": 147,
+        "pop est": 630069
+    },
+    {
+        "name": "Oke-Odo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.76,
+        "elev ft": 141,
+        "pop est": 8029
+    },
+    {
+        "name": "Okepa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.44,
+        "elev ft": 118,
+        "pop est": 132231
+    },
+    {
+        "name": "Oko Agbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.38,
+        "elev ft": 114,
+        "pop est": 179962
+    },
+    {
+        "name": "Oko-Abe",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.67,
+        "elev ft": 127,
+        "pop est": 10963
+    },
+    {
+        "name": "Oko-Eko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.59,
+        "elev ft": 144,
+        "pop est": 28793
+    },
+    {
+        "name": "Okokomaiko",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.18,
+        "elev ft": 118,
+        "pop est": 468051
+    },
+    {
+        "name": "Okori Egun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 197030
+    },
+    {
+        "name": "Okoyogun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.89,
+        "elev ft": 144,
+        "pop est": 8104
+    },
+    {
+        "name": "Okun Ibeju",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.53,
+        "elev ft": 124,
+        "pop est": 111974
+    },
+    {
+        "name": "Okun-Ibese",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.26,
+        "elev ft": 114,
+        "pop est": 255617
+    },
+    {
+        "name": "Okunaja",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.58,
+        "elev ft": 127,
+        "pop est": 97630
+    },
+    {
+        "name": "Okunegun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.89,
+        "elev ft": 144,
+        "pop est": 8104
+    },
+    {
+        "name": "Okunola",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.29,
+        "elev ft": 137,
+        "pop est": 876955
+    },
+    {
+        "name": "Olasore",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.67,
+        "long": 3.27,
+        "elev ft": 150,
+        "pop est": 646164
+    },
+    {
+        "name": "Olodi-Apapa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.34,
+        "elev ft": 114,
+        "pop est": 425860
+    },
+    {
+        "name": "Ologogoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.84,
+        "elev ft": 131,
+        "pop est": 8363
+    },
+    {
+        "name": "Ololu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.19,
+        "elev ft": 0,
+        "pop est": 3117
+    },
+    {
+        "name": "Olorunda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.23,
+        "elev ft": 137,
+        "pop est": 328588
+    },
+    {
+        "name": "Olorunda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.58,
+        "elev ft": 170,
+        "pop est": 80595
+    },
+    {
+        "name": "Olowoira",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.37,
+        "elev ft": 131,
+        "pop est": 1235183
+    },
+    {
+        "name": "Olowora",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.37,
+        "elev ft": 131,
+        "pop est": 1235183
+    },
+    {
+        "name": "Olusosun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.37,
+        "elev ft": 127,
+        "pop est": 1630364
+    },
+    {
+        "name": "Olute",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.27,
+        "elev ft": 118,
+        "pop est": 509855
+    },
+    {
+        "name": "Oluti",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.27,
+        "elev ft": 118,
+        "pop est": 509855
+    },
+    {
+        "name": "Oluwa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.36,
+        "elev ft": 114,
+        "pop est": 319207
+    },
+    {
+        "name": "Omole",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.36,
+        "elev ft": 137,
+        "pop est": 1040471
+    },
+    {
+        "name": "Omu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.97,
+        "elev ft": 144,
+        "pop est": 7372
+    },
+    {
+        "name": "Ondotedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.36,
+        "elev ft": 114,
+        "pop est": 244481
+    },
+    {
+        "name": "Onigangan",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 4.13,
+        "elev ft": 157,
+        "pop est": 3503
+    },
+    {
+        "name": "Onigbokun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.34,
+        "elev ft": 114,
+        "pop est": 259179
+    },
+    {
+        "name": "Onigbongbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.37,
+        "elev ft": 127,
+        "pop est": 1715858
+    },
+    {
+        "name": "Onijawajawa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.8,
+        "elev ft": 131,
+        "pop est": 7493
+    },
+    {
+        "name": "Onike",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 655846
+    },
+    {
+        "name": "Onikosi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.38,
+        "elev ft": 127,
+        "pop est": 1310170
+    },
+    {
+        "name": "Onipanu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.37,
+        "elev ft": 121,
+        "pop est": 1570488
+    },
+    {
+        "name": "Onisigun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1310170
+    },
+    {
+        "name": "Onitiri",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 784921
+    },
+    {
+        "name": "Opamore",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.38,
+        "elev ft": 127,
+        "pop est": 1574354
+    },
+    {
+        "name": "Opebi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.36,
+        "elev ft": 127,
+        "pop est": 1681770
+    },
+    {
+        "name": "Oregun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 197030
+    },
+    {
+        "name": "Oregun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.36,
+        "elev ft": 131,
+        "pop est": 1586257
+    },
+    {
+        "name": "Orepete",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.76,
+        "elev ft": 131,
+        "pop est": 5847
+    },
+    {
+        "name": "Oreta",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.53,
+        "long": 3.52,
+        "elev ft": 127,
+        "pop est": 543490
+    },
+    {
+        "name": "Ori-Ita",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 4.08,
+        "elev ft": 141,
+        "pop est": 5444
+    },
+    {
+        "name": "Origele",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 4.12,
+        "elev ft": 147,
+        "pop est": 2955
+    },
+    {
+        "name": "Orile Oshodi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.33,
+        "elev ft": 127,
+        "pop est": 1713250
+    },
+    {
+        "name": "Orile-Iganmu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.33,
+        "elev ft": 118,
+        "pop est": 626494
+    },
+    {
+        "name": "Orimeddu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.9,
+        "elev ft": 170,
+        "pop est": 4764
+    },
+    {
+        "name": "Orimedu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.9,
+        "elev ft": 170,
+        "pop est": 4764
+    },
+    {
+        "name": "Orishigun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.39,
+        "elev ft": 127,
+        "pop est": 1310170
+    },
+    {
+        "name": "Orita",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.87,
+        "elev ft": 131,
+        "pop est": 9707
+    },
+    {
+        "name": "Orita-Bodun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.87,
+        "elev ft": 131,
+        "pop est": 9707
+    },
+    {
+        "name": "Oruba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.41,
+        "elev ft": 121,
+        "pop est": 1002001
+    },
+    {
+        "name": "Oruba Agboyi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.58,
+        "long": 3.41,
+        "elev ft": 121,
+        "pop est": 1002001
+    },
+    {
+        "name": "Oshodi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 3.34,
+        "elev ft": 127,
+        "pop est": 1751664
+    },
+    {
+        "name": "Oshosun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.37,
+        "elev ft": 127,
+        "pop est": 1630364
+    },
+    {
+        "name": "Ososun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.38,
+        "elev ft": 127,
+        "pop est": 1310170
+    },
+    {
+        "name": "Ososun",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.48,
+        "elev ft": 124,
+        "pop est": 810041
+    },
+    {
+        "name": "Oto",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.49,
+        "long": 3.11,
+        "elev ft": 114,
+        "pop est": 319044
+    },
+    {
+        "name": "Oto",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 390522
+    },
+    {
+        "name": "Otolu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.39,
+        "long": 4.19,
+        "elev ft": 0,
+        "pop est": 3117
+    },
+    {
+        "name": "Otto",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 390522
+    },
+    {
+        "name": "Owode-Ise",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 4.23,
+        "elev ft": 154,
+        "pop est": 5545
+    },
+    {
+        "name": "Oworonshoki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.4,
+        "elev ft": 121,
+        "pop est": 1045559
+    },
+    {
+        "name": "Oworonsoki",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.4,
+        "elev ft": 121,
+        "pop est": 1045559
+    },
+    {
+        "name": "Oyingbo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.48,
+        "long": 3.38,
+        "elev ft": 118,
+        "pop est": 448006
+    },
+    {
+        "name": "Papa Ajao",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.34,
+        "elev ft": 124,
+        "pop est": 1742048
+    },
+    {
+        "name": "Papa-Ashafa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.32,
+        "elev ft": 137,
+        "pop est": 1203957
+    },
+    {
+        "name": "Pedro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.55,
+        "long": 3.39,
+        "elev ft": 121,
+        "pop est": 1248534
+    },
+    {
+        "name": "Poka",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.98,
+        "elev ft": 157,
+        "pop est": 58742
+    },
+    {
+        "name": "QAP",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.36,
+        "elev ft": 114,
+        "pop est": 368843
+    },
+    {
+        "name": "QSL",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 1085675
+    },
+    {
+        "name": "Raguskin",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.65,
+        "long": 3.99,
+        "elev ft": 173,
+        "pop est": 31154
+    },
+    {
+        "name": "Sabi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.96,
+        "elev ft": 137,
+        "pop est": 33845
+    },
+    {
+        "name": "Saga",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.56,
+        "long": 4.09,
+        "elev ft": 144,
+        "pop est": 4946
+    },
+    {
+        "name": "Sagisa",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.37,
+        "elev ft": 131,
+        "pop est": 1353741
+    },
+    {
+        "name": "Sangotedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.64,
+        "elev ft": 127,
+        "pop est": 92080
+    },
+    {
+        "name": "Satellite Town",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.44,
+        "long": 3.25,
+        "elev ft": 118,
+        "pop est": 478312
+    },
+    {
+        "name": "Sedu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.83,
+        "elev ft": 137,
+        "pop est": 8157
+    },
+    {
+        "name": "Seidu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.83,
+        "elev ft": 137,
+        "pop est": 8157
+    },
+    {
+        "name": "Shabi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.96,
+        "elev ft": 137,
+        "pop est": 33845
+    },
+    {
+        "name": "Shala",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.62,
+        "long": 3.91,
+        "elev ft": 147,
+        "pop est": 23383
+    },
+    {
+        "name": "Shangisha",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.61,
+        "long": 3.37,
+        "elev ft": 131,
+        "pop est": 1353741
+    },
+    {
+        "name": "Shangotedo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.47,
+        "long": 3.64,
+        "elev ft": 127,
+        "pop est": 92080
+    },
+    {
+        "name": "Shogunle",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.57,
+        "long": 3.34,
+        "elev ft": 127,
+        "pop est": 1769136
+    },
+    {
+        "name": "Shomolu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.37,
+        "elev ft": 121,
+        "pop est": 1428241
+    },
+    {
+        "name": "Siriwon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 4.12,
+        "elev ft": 154,
+        "pop est": 3495
+    },
+    {
+        "name": "Somolu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 3.37,
+        "elev ft": 121,
+        "pop est": 1428241
+    },
+    {
+        "name": "Subero Oje",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.64,
+        "long": 3.27,
+        "elev ft": 150,
+        "pop est": 506733
+    },
+    {
+        "name": "Sufu-Lere",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 1085675
+    },
+    {
+        "name": "Suru-Lere",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 1085675
+    },
+    {
+        "name": "Surulere",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.36,
+        "elev ft": 118,
+        "pop est": 1085675
+    },
+    {
+        "name": "Tafi",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.4,
+        "long": 3.07,
+        "elev ft": 114,
+        "pop est": 7998
+    },
+    {
+        "name": "Take",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.54,
+        "long": 4.08,
+        "elev ft": 134,
+        "pop est": 4640
+    },
+    {
+        "name": "Tamaro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.37,
+        "elev ft": 114,
+        "pop est": 234894
+    },
+    {
+        "name": "Tarkwa Bay",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.41,
+        "elev ft": 114,
+        "pop est": 173519
+    },
+    {
+        "name": "Tarqua Bay",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.42,
+        "long": 3.41,
+        "elev ft": 114,
+        "pop est": 173519
+    },
+    {
+        "name": "Tatala",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.39,
+        "elev ft": 118,
+        "pop est": 784921
+    },
+    {
+        "name": "Tawmu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.5,
+        "long": 3.63,
+        "elev ft": 124,
+        "pop est": 193075
+    },
+    {
+        "name": "Tedi Muwo",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.45,
+        "long": 3.22,
+        "elev ft": 114,
+        "pop est": 443352
+    },
+    {
+        "name": "Temu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.94,
+        "elev ft": 137,
+        "pop est": 63789
+    },
+    {
+        "name": "Tewon",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.6,
+        "long": 3.94,
+        "elev ft": 137,
+        "pop est": 63789
+    },
+    {
+        "name": "Tinubu",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.52,
+        "long": 3.37,
+        "elev ft": 121,
+        "pop est": 1175799
+    },
+    {
+        "name": "Trade Fair",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.24,
+        "elev ft": 118,
+        "pop est": 525399
+    },
+    {
+        "name": "Umanyure",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.59,
+        "long": 3.85,
+        "elev ft": 134,
+        "pop est": 8408
+    },
+    {
+        "name": "Victoria Island Annex",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.43,
+        "long": 3.44,
+        "elev ft": 118,
+        "pop est": 138885
+    },
+    {
+        "name": "Volkswagen",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.46,
+        "long": 3.22,
+        "elev ft": 121,
+        "pop est": 508308
+    },
+    {
+        "name": "Wasimi Ojokoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.66,
+        "long": 3.3,
+        "elev ft": 150,
+        "pop est": 824966
+    },
+    {
+        "name": "Wasimi-Aiyetoro",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.68,
+        "long": 3.27,
+        "elev ft": 154,
+        "pop est": 588050
+    },
+    {
+        "name": "Wuru",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.41,
+        "long": 3.02,
+        "elev ft": 118,
+        "pop est": 9237
+    },
+    {
+        "name": "Yaba",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 3.37,
+        "elev ft": 118,
+        "pop est": 1027813
+    },
+    {
+        "name": "Yegunda",
+        "what": "city",
+        "region": "Lagos",
+        "country": "Nigeria",
+        "lat": 6.51,
+        "long": 4.02,
+        "elev ft": 137,
+        "pop est": 6106
+    }
+]

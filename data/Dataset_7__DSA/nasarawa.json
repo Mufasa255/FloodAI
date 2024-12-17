@@ -1,0 +1,6342 @@
+[
+    {
+        "name": "Aba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.91,
+        "long": 7.64,
+        "elev ft": 1669,
+        "pop est": 7304
+    },
+    {
+        "name": "Abadu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.75,
+        "long": 7.96,
+        "elev ft": 977,
+        "pop est": 6556
+    },
+    {
+        "name": "Aban",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 12658
+    },
+    {
+        "name": "Aban",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.32,
+        "elev ft": 1669,
+        "pop est": 11026
+    },
+    {
+        "name": "Abogbe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 8.08,
+        "elev ft": 324,
+        "pop est": 8583
+    },
+    {
+        "name": "Aboge",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 8.11,
+        "elev ft": 830,
+        "pop est": 5665
+    },
+    {
+        "name": "Aburu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 7.98,
+        "elev ft": 337,
+        "pop est": 5299
+    },
+    {
+        "name": "Abutu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.18,
+        "long": 7.07,
+        "elev ft": 1190,
+        "pop est": 3942
+    },
+    {
+        "name": "Adamu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.97,
+        "long": 7.98,
+        "elev ft": 1207,
+        "pop est": 6556
+    },
+    {
+        "name": "Adana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.03,
+        "elev ft": 331,
+        "pop est": 8081
+    },
+    {
+        "name": "Adaudu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Adausu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.1,
+        "elev ft": 285,
+        "pop est": 4948
+    },
+    {
+        "name": "Adde",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 11720
+    },
+    {
+        "name": "Addusu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 7.1,
+        "elev ft": 285,
+        "pop est": 4948
+    },
+    {
+        "name": "Adembeki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.04,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Adembeku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.04,
+        "long": 7.13,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ado",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.63,
+        "elev ft": 1669,
+        "pop est": 16482
+    },
+    {
+        "name": "Adori",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 8.4,
+        "elev ft": 830,
+        "pop est": 6339
+    },
+    {
+        "name": "Adzan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.24,
+        "elev ft": 1669,
+        "pop est": 13819
+    },
+    {
+        "name": "Afura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.04,
+        "long": 7.88,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Agabi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Agam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.28,
+        "elev ft": 1669,
+        "pop est": 16005
+    },
+    {
+        "name": "Agaya",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.87,
+        "long": 7.97,
+        "elev ft": 1105,
+        "pop est": 6604
+    },
+    {
+        "name": "Agbagi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.11,
+        "long": 7.03,
+        "elev ft": 994,
+        "pop est": 5114
+    },
+    {
+        "name": "Agima",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.17,
+        "elev ft": 400,
+        "pop est": 5734
+    },
+    {
+        "name": "Agirma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.17,
+        "elev ft": 400,
+        "pop est": 5734
+    },
+    {
+        "name": "Ago",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.57,
+        "long": 7.6,
+        "elev ft": 1059,
+        "pop est": 3874
+    },
+    {
+        "name": "Agohon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.21,
+        "elev ft": 1669,
+        "pop est": 10143
+    },
+    {
+        "name": "Agwadama",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.19,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Agwan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.61,
+        "elev ft": 1669,
+        "pop est": 18580
+    },
+    {
+        "name": "Agwere",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.97,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Agyaga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 10613
+    },
+    {
+        "name": "Agyara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 10613
+    },
+    {
+        "name": "Ahinza",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.43,
+        "long": 7.1,
+        "elev ft": 830,
+        "pop est": 5089
+    },
+    {
+        "name": "Aiwawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.22,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ajwo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Aka",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.3,
+        "elev ft": 1669,
+        "pop est": 11361
+    },
+    {
+        "name": "Akerra",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 8.32,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Akop",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.0,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Akora",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.64,
+        "long": 7.95,
+        "elev ft": 912,
+        "pop est": 5329
+    },
+    {
+        "name": "Akpa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.85,
+        "long": 8.4,
+        "elev ft": 830,
+        "pop est": 6638
+    },
+    {
+        "name": "Akpetiche",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 8.31,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Akpoko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 8.12,
+        "elev ft": 331,
+        "pop est": 8318
+    },
+    {
+        "name": "Akum",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.11,
+        "long": 7.97,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Akuraba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.29,
+        "long": 7.39,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Akwanga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.91,
+        "long": 8.41,
+        "elev ft": 1131,
+        "pop est": 13925
+    },
+    {
+        "name": "Akwashi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.26,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Akwike",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.86,
+        "long": 8.4,
+        "elev ft": 830,
+        "pop est": 6281
+    },
+    {
+        "name": "Alana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Amanda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Ambasi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.16,
+        "elev ft": 1669,
+        "pop est": 9042
+    },
+    {
+        "name": "Anchan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 16811
+    },
+    {
+        "name": "Ancho",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Ancho",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Ancho",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.42,
+        "elev ft": 1988,
+        "pop est": 12048
+    },
+    {
+        "name": "Ancho Waiwai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.45,
+        "elev ft": 1961,
+        "pop est": 11091
+    },
+    {
+        "name": "Anco Baba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Anco Waiwai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.45,
+        "elev ft": 1961,
+        "pop est": 11091
+    },
+    {
+        "name": "Andaha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 14604
+    },
+    {
+        "name": "Andaha Salihu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 14154
+    },
+    {
+        "name": "Andaha Samu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 14154
+    },
+    {
+        "name": "Andaha-Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.41,
+        "elev ft": 1696,
+        "pop est": 11150
+    },
+    {
+        "name": "Andahan Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 10976
+    },
+    {
+        "name": "Andahan Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.41,
+        "elev ft": 1696,
+        "pop est": 11150
+    },
+    {
+        "name": "Andai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.24,
+        "long": 7.94,
+        "elev ft": 1998,
+        "pop est": 6556
+    },
+    {
+        "name": "Andam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.95,
+        "elev ft": 1998,
+        "pop est": 6556
+    },
+    {
+        "name": "Angare",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.32,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Angare",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.46,
+        "elev ft": 1669,
+        "pop est": 14145
+    },
+    {
+        "name": "Anghido",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.27,
+        "elev ft": 1669,
+        "pop est": 15954
+    },
+    {
+        "name": "Anguwar Jaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.89,
+        "long": 7.91,
+        "elev ft": 1151,
+        "pop est": 40691
+    },
+    {
+        "name": "Angwa Alura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwa Koyo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.98,
+        "long": 7.9,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwan Alura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwan Gyara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.38,
+        "long": 7.95,
+        "elev ft": 2509,
+        "pop est": 16467
+    },
+    {
+        "name": "Angwan Karofi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.95,
+        "elev ft": 1958,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwan Kato",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwan Madaki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.29,
+        "long": 7.91,
+        "elev ft": 1856,
+        "pop est": 6262
+    },
+    {
+        "name": "Angwan Maji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.96,
+        "elev ft": 1902,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwan Pa a",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.32,
+        "long": 7.89,
+        "elev ft": 2509,
+        "pop est": 5866
+    },
+    {
+        "name": "Angwan Tsokwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 7.67,
+        "elev ft": 1824,
+        "pop est": 6635
+    },
+    {
+        "name": "Angwan Yari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.8,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Angwana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.67,
+        "elev ft": 1998,
+        "pop est": 14613
+    },
+    {
+        "name": "Anjagwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 16594
+    },
+    {
+        "name": "Anjida",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 15218
+    },
+    {
+        "name": "Anjidan Gida",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 15218
+    },
+    {
+        "name": "Anjidan Sarki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.25,
+        "elev ft": 1669,
+        "pop est": 14353
+    },
+    {
+        "name": "Anjoju",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 14485
+    },
+    {
+        "name": "Ankara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.87,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Ankata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.93,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Ankolo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.36,
+        "elev ft": 1669,
+        "pop est": 11930
+    },
+    {
+        "name": "Antar",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.95,
+        "elev ft": 1998,
+        "pop est": 6556
+    },
+    {
+        "name": "Anzere",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.44,
+        "elev ft": 1765,
+        "pop est": 10250
+    },
+    {
+        "name": "Apanda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.36,
+        "elev ft": 1669,
+        "pop est": 15291
+    },
+    {
+        "name": "Arabishi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.58,
+        "long": 7.59,
+        "elev ft": 1095,
+        "pop est": 3874
+    },
+    {
+        "name": "Arum",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.45,
+        "elev ft": 1755,
+        "pop est": 11732
+    },
+    {
+        "name": "Arum",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.65,
+        "elev ft": 2030,
+        "pop est": 13723
+    },
+    {
+        "name": "Arum Ada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.65,
+        "elev ft": 1998,
+        "pop est": 13570
+    },
+    {
+        "name": "Arum Kadaa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 8.62,
+        "elev ft": 2070,
+        "pop est": 11117
+    },
+    {
+        "name": "Arum Kadau",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 8.62,
+        "elev ft": 2070,
+        "pop est": 11117
+    },
+    {
+        "name": "Arum Kadau",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.66,
+        "elev ft": 2030,
+        "pop est": 14290
+    },
+    {
+        "name": "Arum Karimi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.65,
+        "elev ft": 2509,
+        "pop est": 13013
+    },
+    {
+        "name": "Arum Kurmi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.65,
+        "elev ft": 2509,
+        "pop est": 13013
+    },
+    {
+        "name": "Arum-Karmi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.65,
+        "elev ft": 2509,
+        "pop est": 13013
+    },
+    {
+        "name": "Arumgona",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.47,
+        "elev ft": 1669,
+        "pop est": 11270
+    },
+    {
+        "name": "Arungba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.4,
+        "long": 7.27,
+        "elev ft": 954,
+        "pop est": 4000
+    },
+    {
+        "name": "Asagba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Ashal",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.89,
+        "elev ft": 1824,
+        "pop est": 6241
+    },
+    {
+        "name": "Ashata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.9,
+        "long": 7.57,
+        "elev ft": 1669,
+        "pop est": 11880
+    },
+    {
+        "name": "Aso",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.61,
+        "elev ft": 1692,
+        "pop est": 21137
+    },
+    {
+        "name": "Atakwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 8.35,
+        "elev ft": 830,
+        "pop est": 5720
+    },
+    {
+        "name": "Atarana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.34,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Atasha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.28,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Awakua",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.14,
+        "long": 7.47,
+        "elev ft": 905,
+        "pop est": 3874
+    },
+    {
+        "name": "Awe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.1,
+        "long": 9.14,
+        "elev ft": 830,
+        "pop est": 5811
+    },
+    {
+        "name": "Ayodo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 8.28,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Bada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.91,
+        "long": 7.59,
+        "elev ft": 1669,
+        "pop est": 10736
+    },
+    {
+        "name": "Bademateni",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.3,
+        "long": 7.42,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Badiko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.78,
+        "long": 7.9,
+        "elev ft": 1030,
+        "pop est": 18405
+    },
+    {
+        "name": "Badugu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.24,
+        "long": 7.19,
+        "elev ft": 1013,
+        "pop est": 3874
+    },
+    {
+        "name": "Badum",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 7.25,
+        "elev ft": 902,
+        "pop est": 3874
+    },
+    {
+        "name": "Bagaji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.93,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Bakara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.36,
+        "long": 7.49,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Bakin Kog",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.78,
+        "long": 7.67,
+        "elev ft": 1141,
+        "pop est": 6456
+    },
+    {
+        "name": "Bakin Riga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.41,
+        "elev ft": 1765,
+        "pop est": 12853
+    },
+    {
+        "name": "Bakin-Riga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.45,
+        "elev ft": 1902,
+        "pop est": 10164
+    },
+    {
+        "name": "Bakono",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.18,
+        "long": 7.53,
+        "elev ft": 869,
+        "pop est": 3874
+    },
+    {
+        "name": "Bampan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.45,
+        "elev ft": 1856,
+        "pop est": 11408
+    },
+    {
+        "name": "Ban Pan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.45,
+        "elev ft": 1856,
+        "pop est": 11408
+    },
+    {
+        "name": "Barimaw",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.58,
+        "elev ft": 1669,
+        "pop est": 10415
+    },
+    {
+        "name": "Barimaw",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.58,
+        "elev ft": 1669,
+        "pop est": 11081
+    },
+    {
+        "name": "Batsu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.08,
+        "elev ft": 1669,
+        "pop est": 6561
+    },
+    {
+        "name": "Boher",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 15868
+    },
+    {
+        "name": "Bokoko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.67,
+        "long": 7.75,
+        "elev ft": 1000,
+        "pop est": 4671
+    },
+    {
+        "name": "Bororo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.95,
+        "long": 7.97,
+        "elev ft": 1187,
+        "pop est": 6556
+    },
+    {
+        "name": "Bozi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.27,
+        "long": 7.9,
+        "elev ft": 1843,
+        "pop est": 6400
+    },
+    {
+        "name": "Bunkusa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.22,
+        "long": 7.84,
+        "elev ft": 1692,
+        "pop est": 6553
+    },
+    {
+        "name": "Burku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.61,
+        "elev ft": 2509,
+        "pop est": 13870
+    },
+    {
+        "name": "Butsu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.08,
+        "elev ft": 1669,
+        "pop est": 6561
+    },
+    {
+        "name": "Chandap",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.83,
+        "elev ft": 2509,
+        "pop est": 6042
+    },
+    {
+        "name": "Chessu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.62,
+        "elev ft": 1981,
+        "pop est": 12048
+    },
+    {
+        "name": "Chiji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.35,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 5042
+    },
+    {
+        "name": "Chini",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.65,
+        "elev ft": 1994,
+        "pop est": 14534
+    },
+    {
+        "name": "Chini",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.64,
+        "elev ft": 1843,
+        "pop est": 14141
+    },
+    {
+        "name": "Choko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 7.64,
+        "elev ft": 1669,
+        "pop est": 15729
+    },
+    {
+        "name": "Dagi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 7.21,
+        "elev ft": 961,
+        "pop est": 3874
+    },
+    {
+        "name": "Dagoshi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.05,
+        "elev ft": 954,
+        "pop est": 4210
+    },
+    {
+        "name": "Dajuma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.52,
+        "long": 9.05,
+        "elev ft": 830,
+        "pop est": 8588
+    },
+    {
+        "name": "Dancha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 14458
+    },
+    {
+        "name": "Dara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.13,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Date",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.35,
+        "long": 6.99,
+        "elev ft": 830,
+        "pop est": 5746
+    },
+    {
+        "name": "Daza",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.13,
+        "long": 7.36,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Derre",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.25,
+        "long": 7.19,
+        "elev ft": 1003,
+        "pop est": 3874
+    },
+    {
+        "name": "Doga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 8.28,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Doki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.96,
+        "elev ft": 1971,
+        "pop est": 6556
+    },
+    {
+        "name": "Doma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.39,
+        "long": 8.36,
+        "elev ft": 1122,
+        "pop est": 5662
+    },
+    {
+        "name": "Dundu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 8.3,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Dyege",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 8.21,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Eize",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Ekpa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.86,
+        "elev ft": 374,
+        "pop est": 5008
+    },
+    {
+        "name": "Epe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.88,
+        "long": 8.18,
+        "elev ft": 337,
+        "pop est": 8062
+    },
+    {
+        "name": "Erigo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.53,
+        "long": 7.88,
+        "elev ft": 1938,
+        "pop est": 3874
+    },
+    {
+        "name": "Famutun Gado",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.73,
+        "long": 7.97,
+        "elev ft": 954,
+        "pop est": 6556
+    },
+    {
+        "name": "Fiyanko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.85,
+        "long": 7.63,
+        "elev ft": 1233,
+        "pop est": 7627
+    },
+    {
+        "name": "Fufu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.12,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Gaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 11720
+    },
+    {
+        "name": "Gabara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 9.3,
+        "elev ft": 370,
+        "pop est": 5811
+    },
+    {
+        "name": "Gadabuka",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.42,
+        "long": 7.29,
+        "elev ft": 921,
+        "pop est": 4130
+    },
+    {
+        "name": "Gadabuke",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.42,
+        "long": 7.29,
+        "elev ft": 921,
+        "pop est": 4130
+    },
+    {
+        "name": "Gaibo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.22,
+        "long": 7.96,
+        "elev ft": 1998,
+        "pop est": 6556
+    },
+    {
+        "name": "Galun",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.24,
+        "long": 7.86,
+        "elev ft": 1745,
+        "pop est": 6457
+    },
+    {
+        "name": "Gano",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.41,
+        "long": 7.24,
+        "elev ft": 997,
+        "pop est": 4154
+    },
+    {
+        "name": "Gante",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.43,
+        "elev ft": 1669,
+        "pop est": 14690
+    },
+    {
+        "name": "Ganuwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.64,
+        "elev ft": 1669,
+        "pop est": 18597
+    },
+    {
+        "name": "Garagwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.47,
+        "long": 7.33,
+        "elev ft": 974,
+        "pop est": 4761
+    },
+    {
+        "name": "Garaku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.85,
+        "long": 8.13,
+        "elev ft": 1177,
+        "pop est": 6556
+    },
+    {
+        "name": "Garamba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.21,
+        "long": 7.97,
+        "elev ft": 1961,
+        "pop est": 6556
+    },
+    {
+        "name": "Garum",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.25,
+        "long": 7.92,
+        "elev ft": 1932,
+        "pop est": 6556
+    },
+    {
+        "name": "Gauta",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.81,
+        "long": 7.88,
+        "elev ft": 1056,
+        "pop est": 42491
+    },
+    {
+        "name": "Gbufe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 16191
+    },
+    {
+        "name": "Gbuja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Gida Jatau",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.98,
+        "elev ft": 1893,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.23,
+        "elev ft": 413,
+        "pop est": 5662
+    },
+    {
+        "name": "Gidan Abe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.87,
+        "elev ft": 1761,
+        "pop est": 6400
+    },
+    {
+        "name": "Gidan Ade",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Agwai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 7.96,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ajaye",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.89,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ajigbo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ajua",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Alan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Aleku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Amari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 7.87,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Anjo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.89,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ashe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.92,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Audu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.94,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Audu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.97,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Audu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.9,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ausha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Awara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 7.99,
+        "elev ft": 1243,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Bahago",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Bassa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 8.18,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Gidan Baushe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.91,
+        "elev ft": 1863,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Baushe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Bina",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.9,
+        "elev ft": 1843,
+        "pop est": 6287
+    },
+    {
+        "name": "Gidan Busa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.8,
+        "long": 7.58,
+        "elev ft": 2073,
+        "pop est": 10557
+    },
+    {
+        "name": "Gidan Danboyi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ejigba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Epara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Galadima",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.86,
+        "elev ft": 1706,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Gida",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Gona",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Habu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.24,
+        "long": 7.88,
+        "elev ft": 1830,
+        "pop est": 6533
+    },
+    {
+        "name": "Gidan Ijikpa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.8,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Ilan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.89,
+        "elev ft": 1833,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Jawo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.92,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kado",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.63,
+        "elev ft": 2509,
+        "pop est": 11412
+    },
+    {
+        "name": "Gidan Kako",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.88,
+        "elev ft": 1811,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kako",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.97,
+        "elev ft": 1804,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kampani",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.93,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kasuwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.86,
+        "elev ft": 1719,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.93,
+        "elev ft": 1722,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kuska",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 7.89,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Kuzoto",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 7.9,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Labaki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Lukwi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 7.79,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Madaki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.99,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Madugu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.74,
+        "long": 7.84,
+        "elev ft": 994,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Magaji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 7.9,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Mammu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 7.88,
+        "elev ft": 1794,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Mudu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.9,
+        "long": 7.65,
+        "elev ft": 1669,
+        "pop est": 6908
+    },
+    {
+        "name": "Gidan Musa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 8.02,
+        "elev ft": 328,
+        "pop est": 5726
+    },
+    {
+        "name": "Gidan Ngeru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Obaro",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.8,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Oga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Gidan Oge",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.84,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Oji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.9,
+        "elev ft": 1833,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Okara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 7.87,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Paali",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 7.8,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Panbaki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Pataki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.94,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Patauchi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 7.86,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Rago",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.72,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Sarki Gitata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.96,
+        "elev ft": 1971,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Sarkinago",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.31,
+        "long": 7.88,
+        "elev ft": 2509,
+        "pop est": 5833
+    },
+    {
+        "name": "Gidan Shaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.68,
+        "long": 7.97,
+        "elev ft": 921,
+        "pop est": 6450
+    },
+    {
+        "name": "Gidan Shehu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 7.87,
+        "elev ft": 1791,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Takati",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Tekpa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.92,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Tukara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Gidan Tukura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.14,
+        "long": 7.51,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Gidan Tukura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.93,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Uji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.88,
+        "elev ft": 1683,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Umaru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.95,
+        "elev ft": 1771,
+        "pop est": 6556
+    },
+    {
+        "name": "Gidan Waziri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.3,
+        "long": 7.9,
+        "elev ft": 1909,
+        "pop est": 6105
+    },
+    {
+        "name": "Gidan Waziri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.9,
+        "long": 7.62,
+        "elev ft": 1669,
+        "pop est": 8360
+    },
+    {
+        "name": "Gikoso",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.2,
+        "elev ft": 1669,
+        "pop est": 11373
+    },
+    {
+        "name": "Gimba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.62,
+        "elev ft": 1669,
+        "pop est": 13815
+    },
+    {
+        "name": "Gingir",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.4,
+        "elev ft": 1669,
+        "pop est": 15017
+    },
+    {
+        "name": "Girgo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.31,
+        "long": 7.86,
+        "elev ft": 2509,
+        "pop est": 5742
+    },
+    {
+        "name": "Gita Baremu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.58,
+        "elev ft": 1669,
+        "pop est": 10415
+    },
+    {
+        "name": "Gitata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 7.95,
+        "elev ft": 2509,
+        "pop est": 6556
+    },
+    {
+        "name": "Godaga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.39,
+        "long": 7.3,
+        "elev ft": 869,
+        "pop est": 3874
+    },
+    {
+        "name": "Gofa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.72,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Gogwasa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.59,
+        "long": 7.75,
+        "elev ft": 941,
+        "pop est": 3874
+    },
+    {
+        "name": "Goho",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 13328
+    },
+    {
+        "name": "Gona",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.38,
+        "elev ft": 1669,
+        "pop est": 10747
+    },
+    {
+        "name": "Gonojo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.32,
+        "long": 7.92,
+        "elev ft": 2509,
+        "pop est": 6497
+    },
+    {
+        "name": "Gora",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.88,
+        "long": 7.78,
+        "elev ft": 1227,
+        "pop est": 6556
+    },
+    {
+        "name": "Goroka",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 7.08,
+        "elev ft": 364,
+        "pop est": 4069
+    },
+    {
+        "name": "Gororoku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 7.08,
+        "elev ft": 364,
+        "pop est": 4069
+    },
+    {
+        "name": "Guja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Gunduma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.96,
+        "long": 7.89,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Guntu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.32,
+        "long": 7.23,
+        "elev ft": 951,
+        "pop est": 3874
+    },
+    {
+        "name": "Gurdi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.75,
+        "elev ft": 1896,
+        "pop est": 6418
+    },
+    {
+        "name": "Gurku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.61,
+        "elev ft": 2509,
+        "pop est": 13870
+    },
+    {
+        "name": "Gurku Gwari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.62,
+        "elev ft": 1965,
+        "pop est": 15011
+    },
+    {
+        "name": "Gwadabo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.11,
+        "long": 7.22,
+        "elev ft": 905,
+        "pop est": 3874
+    },
+    {
+        "name": "Gwagwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.76,
+        "long": 7.81,
+        "elev ft": 1082,
+        "pop est": 6556
+    },
+    {
+        "name": "Gwaja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gwalada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 7.71,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gwamgwam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 5594
+    },
+    {
+        "name": "Gwandara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.81,
+        "long": 7.77,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Gwanja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.62,
+        "long": 7.83,
+        "elev ft": 908,
+        "pop est": 3961
+    },
+    {
+        "name": "Gwari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 7.63,
+        "elev ft": 2509,
+        "pop est": 8970
+    },
+    {
+        "name": "Gwarin Rafa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.67,
+        "elev ft": 1814,
+        "pop est": 6635
+    },
+    {
+        "name": "Gwgir",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.4,
+        "elev ft": 1669,
+        "pop est": 15017
+    },
+    {
+        "name": "Gwinki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.66,
+        "long": 7.91,
+        "elev ft": 905,
+        "pop est": 5429
+    },
+    {
+        "name": "Gwoho",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 13328
+    },
+    {
+        "name": "Gwongwan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.61,
+        "elev ft": 1669,
+        "pop est": 12969
+    },
+    {
+        "name": "Haderi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.89,
+        "long": 7.97,
+        "elev ft": 1125,
+        "pop est": 7812
+    },
+    {
+        "name": "Ice",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.31,
+        "long": 7.94,
+        "elev ft": 2093,
+        "pop est": 7071
+    },
+    {
+        "name": "Icen Kasa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.31,
+        "long": 7.94,
+        "elev ft": 2093,
+        "pop est": 6859
+    },
+    {
+        "name": "Iche",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.39,
+        "long": 7.93,
+        "elev ft": 2509,
+        "pop est": 14921
+    },
+    {
+        "name": "Idon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.22,
+        "long": 7.95,
+        "elev ft": 1998,
+        "pop est": 6556
+    },
+    {
+        "name": "Ifjana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 8.22,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Iga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 7.92,
+        "elev ft": 324,
+        "pop est": 4927
+    },
+    {
+        "name": "Ihase",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.3,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Imaima",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Iminyin",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 8.05,
+        "elev ft": 328,
+        "pop est": 8375
+    },
+    {
+        "name": "Iminyin",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.95,
+        "long": 8.07,
+        "elev ft": 331,
+        "pop est": 6027
+    },
+    {
+        "name": "Imu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.42,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 3874
+    },
+    {
+        "name": "Indo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.37,
+        "long": 7.79,
+        "elev ft": 1112,
+        "pop est": 3874
+    },
+    {
+        "name": "Inyagi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.3,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Inyaji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.3,
+        "long": 7.11,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ita",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.16,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Jaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.89,
+        "long": 7.91,
+        "elev ft": 1151,
+        "pop est": 40691
+    },
+    {
+        "name": "Jaba Boti",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.75,
+        "long": 7.89,
+        "elev ft": 1017,
+        "pop est": 6556
+    },
+    {
+        "name": "Jababe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.81,
+        "elev ft": 1761,
+        "pop est": 6358
+    },
+    {
+        "name": "Janjala",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.98,
+        "long": 7.98,
+        "elev ft": 1204,
+        "pop est": 6556
+    },
+    {
+        "name": "Jawu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.6,
+        "elev ft": 1952,
+        "pop est": 19013
+    },
+    {
+        "name": "Jeje",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.79,
+        "long": 7.6,
+        "elev ft": 2076,
+        "pop est": 9143
+    },
+    {
+        "name": "Jemaa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.32,
+        "long": 7.74,
+        "elev ft": 2076,
+        "pop est": 5995
+    },
+    {
+        "name": "Jemaan Gayam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.7,
+        "long": 7.93,
+        "elev ft": 921,
+        "pop est": 6556
+    },
+    {
+        "name": "Jidda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.66,
+        "elev ft": 1669,
+        "pop est": 16248
+    },
+    {
+        "name": "Jijipe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.77,
+        "long": 7.61,
+        "elev ft": 1669,
+        "pop est": 7312
+    },
+    {
+        "name": "Jikoyi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.97,
+        "long": 7.57,
+        "elev ft": 1669,
+        "pop est": 13612
+    },
+    {
+        "name": "Jipbiyai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.98,
+        "long": 9.03,
+        "elev ft": 1108,
+        "pop est": 12371
+    },
+    {
+        "name": "Kabara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 7.61,
+        "elev ft": 1679,
+        "pop est": 21137
+    },
+    {
+        "name": "Kabawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.23,
+        "elev ft": 406,
+        "pop est": 5662
+    },
+    {
+        "name": "Kabusu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.62,
+        "elev ft": 1991,
+        "pop est": 8565
+    },
+    {
+        "name": "Kadiri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.8,
+        "long": 7.97,
+        "elev ft": 1053,
+        "pop est": 6556
+    },
+    {
+        "name": "Kafa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.67,
+        "elev ft": 1732,
+        "pop est": 6556
+    },
+    {
+        "name": "Kaffin-Sanu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.72,
+        "long": 7.83,
+        "elev ft": 980,
+        "pop est": 6239
+    },
+    {
+        "name": "Kagwaru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 7.68,
+        "elev ft": 1745,
+        "pop est": 6556
+    },
+    {
+        "name": "Kainyehu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.14,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Kakana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 7.13,
+        "elev ft": 285,
+        "pop est": 4688
+    },
+    {
+        "name": "Kakanya",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.93,
+        "elev ft": 1735,
+        "pop est": 6556
+    },
+    {
+        "name": "Kalandan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.27,
+        "elev ft": 1669,
+        "pop est": 15954
+    },
+    {
+        "name": "Kama",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.49,
+        "long": 7.7,
+        "elev ft": 1010,
+        "pop est": 3874
+    },
+    {
+        "name": "Kango",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.08,
+        "long": 7.02,
+        "elev ft": 830,
+        "pop est": 5275
+    },
+    {
+        "name": "Kanja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.72,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Kanje",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.72,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Kantarza",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 13749
+    },
+    {
+        "name": "Kantarza",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.42,
+        "elev ft": 1988,
+        "pop est": 12048
+    },
+    {
+        "name": "Karabana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.11,
+        "long": 7.17,
+        "elev ft": 1003,
+        "pop est": 3874
+    },
+    {
+        "name": "Kare",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.3,
+        "long": 7.7,
+        "elev ft": 2509,
+        "pop est": 6713
+    },
+    {
+        "name": "Karu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 7.58,
+        "elev ft": 1669,
+        "pop est": 18384
+    },
+    {
+        "name": "Karu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.66,
+        "elev ft": 1669,
+        "pop est": 11201
+    },
+    {
+        "name": "Kasani",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.32,
+        "long": 7.7,
+        "elev ft": 2509,
+        "pop est": 6450
+    },
+    {
+        "name": "Katakwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.22,
+        "long": 7.33,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Katanza",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.22,
+        "elev ft": 1669,
+        "pop est": 12058
+    },
+    {
+        "name": "Kateni",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.25,
+        "long": 7.7,
+        "elev ft": 1958,
+        "pop est": 6755
+    },
+    {
+        "name": "Keana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.15,
+        "long": 8.8,
+        "elev ft": 830,
+        "pop est": 5811
+    },
+    {
+        "name": "Keffi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.85,
+        "long": 7.87,
+        "elev ft": 1105,
+        "pop est": 59752
+    },
+    {
+        "name": "Keffin Shanu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.72,
+        "long": 7.83,
+        "elev ft": 980,
+        "pop est": 6239
+    },
+    {
+        "name": "Kein Yewu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.14,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Kein-Yeku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.1,
+        "long": 7.14,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Kemu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.58,
+        "long": 7.78,
+        "elev ft": 892,
+        "pop est": 3874
+    },
+    {
+        "name": "Kenye",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.93,
+        "long": 7.92,
+        "elev ft": 1217,
+        "pop est": 6652
+    },
+    {
+        "name": "Kenye",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.9,
+        "long": 7.93,
+        "elev ft": 1190,
+        "pop est": 16465
+    },
+    {
+        "name": "Kiaku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 7.07,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Kituku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.24,
+        "long": 7.25,
+        "elev ft": 879,
+        "pop est": 3874
+    },
+    {
+        "name": "Kobunchu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.43,
+        "elev ft": 1669,
+        "pop est": 13892
+    },
+    {
+        "name": "Kobur",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 12658
+    },
+    {
+        "name": "Kochu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.45,
+        "elev ft": 1669,
+        "pop est": 12980
+    },
+    {
+        "name": "Kodo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.98,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Koha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.22,
+        "elev ft": 1236,
+        "pop est": 12713
+    },
+    {
+        "name": "Koko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 14375
+    },
+    {
+        "name": "Kokoriko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.96,
+        "elev ft": 1971,
+        "pop est": 6556
+    },
+    {
+        "name": "Kola",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.44,
+        "elev ft": 1669,
+        "pop est": 14183
+    },
+    {
+        "name": "Kolo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.15,
+        "long": 7.21,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Kondoro",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.24,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6515
+    },
+    {
+        "name": "Kondoro Hausa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.79,
+        "elev ft": 1669,
+        "pop est": 6553
+    },
+    {
+        "name": "Kondoro Koro",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.78,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Koso",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.22,
+        "long": 7.74,
+        "elev ft": 1984,
+        "pop est": 6556
+    },
+    {
+        "name": "Kuban",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.85,
+        "elev ft": 1804,
+        "pop est": 6313
+    },
+    {
+        "name": "Kubewa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.6,
+        "elev ft": 1686,
+        "pop est": 18523
+    },
+    {
+        "name": "Kubo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 7.89,
+        "elev ft": 958,
+        "pop est": 3874
+    },
+    {
+        "name": "Kubobbagi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.65,
+        "elev ft": 1804,
+        "pop est": 10253
+    },
+    {
+        "name": "Kuda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.21,
+        "long": 7.86,
+        "elev ft": 1774,
+        "pop est": 6556
+    },
+    {
+        "name": "Kuderai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.18,
+        "elev ft": 1669,
+        "pop est": 10107
+    },
+    {
+        "name": "Kuderai Mada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.18,
+        "elev ft": 1669,
+        "pop est": 10018
+    },
+    {
+        "name": "Kudu Gwari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.2,
+        "long": 7.34,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Kugwaru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 7.68,
+        "elev ft": 1745,
+        "pop est": 6556
+    },
+    {
+        "name": "Kujupi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 7.72,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Kukam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.3,
+        "long": 7.86,
+        "elev ft": 2509,
+        "pop est": 5954
+    },
+    {
+        "name": "Kukam Jaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.32,
+        "long": 7.89,
+        "elev ft": 2509,
+        "pop est": 5887
+    },
+    {
+        "name": "Kulana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Kulmi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.27,
+        "long": 7.88,
+        "elev ft": 1801,
+        "pop est": 6284
+    },
+    {
+        "name": "Kumburu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.32,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Kungie",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.96,
+        "elev ft": 1971,
+        "pop est": 6556
+    },
+    {
+        "name": "Kupai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.84,
+        "long": 7.57,
+        "elev ft": 1669,
+        "pop est": 11551
+    },
+    {
+        "name": "Kupe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.2,
+        "long": 7.63,
+        "elev ft": 2014,
+        "pop est": 7907
+    },
+    {
+        "name": "Kurabu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.21,
+        "long": 7.37,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Kurafe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.8,
+        "long": 7.63,
+        "elev ft": 1669,
+        "pop est": 7225
+    },
+    {
+        "name": "Kuraga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.6,
+        "elev ft": 1669,
+        "pop est": 11302
+    },
+    {
+        "name": "Kurata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.78,
+        "long": 7.81,
+        "elev ft": 1092,
+        "pop est": 6556
+    },
+    {
+        "name": "Kure",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.27,
+        "long": 7.88,
+        "elev ft": 1801,
+        "pop est": 6284
+    },
+    {
+        "name": "Kuri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.48,
+        "long": 7.91,
+        "elev ft": 1807,
+        "pop est": 3874
+    },
+    {
+        "name": "Kuru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.39,
+        "long": 7.19,
+        "elev ft": 994,
+        "pop est": 4079
+    },
+    {
+        "name": "Kutu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 7.88,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Kwabushi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.68,
+        "elev ft": 1968,
+        "pop est": 6673
+    },
+    {
+        "name": "Kwagiri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.27,
+        "long": 7.9,
+        "elev ft": 1837,
+        "pop est": 6400
+    },
+    {
+        "name": "Kwana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.36,
+        "long": 7.0,
+        "elev ft": 830,
+        "pop est": 5836
+    },
+    {
+        "name": "Kwarake",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.13,
+        "long": 7.02,
+        "elev ft": 846,
+        "pop est": 5363
+    },
+    {
+        "name": "Kwarra",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.7,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Kwaso",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.24,
+        "long": 7.77,
+        "elev ft": 1702,
+        "pop est": 6556
+    },
+    {
+        "name": "Kyaraku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.01,
+        "long": 7.74,
+        "elev ft": 324,
+        "pop est": 6723
+    },
+    {
+        "name": "Kyereku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.98,
+        "long": 8.07,
+        "elev ft": 830,
+        "pop est": 5081
+    },
+    {
+        "name": "Lafia",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.49,
+        "long": 8.52,
+        "elev ft": 928,
+        "pop est": 90348
+    },
+    {
+        "name": "Lafia Beriberi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.49,
+        "long": 8.52,
+        "elev ft": 928,
+        "pop est": 90348
+    },
+    {
+        "name": "Lalle",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 8.26,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Laminga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.68,
+        "long": 7.82,
+        "elev ft": 980,
+        "pop est": 5311
+    },
+    {
+        "name": "Laminga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.94,
+        "long": 7.97,
+        "elev ft": 1174,
+        "pop est": 6556
+    },
+    {
+        "name": "Langay",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 7.03,
+        "elev ft": 324,
+        "pop est": 4306
+    },
+    {
+        "name": "Langayi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 7.03,
+        "elev ft": 324,
+        "pop est": 4306
+    },
+    {
+        "name": "Lillz",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 8.28,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Loko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 7.84,
+        "elev ft": 321,
+        "pop est": 6076
+    },
+    {
+        "name": "Loko Gona",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.13,
+        "elev ft": 1669,
+        "pop est": 8086
+    },
+    {
+        "name": "Luki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 7.86,
+        "elev ft": 1732,
+        "pop est": 6556
+    },
+    {
+        "name": "Machu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.34,
+        "elev ft": 1669,
+        "pop est": 16594
+    },
+    {
+        "name": "Macu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 14928
+    },
+    {
+        "name": "Madugu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.74,
+        "long": 7.84,
+        "elev ft": 994,
+        "pop est": 6556
+    },
+    {
+        "name": "Magayaiki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.92,
+        "long": 8.0,
+        "elev ft": 1181,
+        "pop est": 6556
+    },
+    {
+        "name": "Magoi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.21,
+        "long": 7.05,
+        "elev ft": 1053,
+        "pop est": 4028
+    },
+    {
+        "name": "Malmara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 7.91,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Mama",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.69,
+        "elev ft": 1883,
+        "pop est": 16402
+    },
+    {
+        "name": "Mangar",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.74,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Mantana",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 7.93,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Mante",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.44,
+        "elev ft": 2040,
+        "pop est": 11642
+    },
+    {
+        "name": "Mante",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Manto",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.35,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Manya",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 7.04,
+        "elev ft": 830,
+        "pop est": 3878
+    },
+    {
+        "name": "Mara-Mara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.66,
+        "elev ft": 1669,
+        "pop est": 16082
+    },
+    {
+        "name": "Marhai",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.72,
+        "elev ft": 1669,
+        "pop est": 16627
+    },
+    {
+        "name": "Masaka",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.67,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Massenge",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.74,
+        "elev ft": 1758,
+        "pop est": 16837
+    },
+    {
+        "name": "Matani",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.24,
+        "long": 7.04,
+        "elev ft": 958,
+        "pop est": 3892
+    },
+    {
+        "name": "Mindoro",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.24,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Mocu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.24,
+        "elev ft": 1669,
+        "pop est": 13819
+    },
+    {
+        "name": "Moroa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.2,
+        "elev ft": 1669,
+        "pop est": 11059
+    },
+    {
+        "name": "Moroa River Station",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.2,
+        "elev ft": 1669,
+        "pop est": 11059
+    },
+    {
+        "name": "Moroa Station",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.2,
+        "elev ft": 1669,
+        "pop est": 11059
+    },
+    {
+        "name": "Moru",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.33,
+        "long": 7.28,
+        "elev ft": 889,
+        "pop est": 3874
+    },
+    {
+        "name": "Mumwa Karami",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.43,
+        "elev ft": 1719,
+        "pop est": 13531
+    },
+    {
+        "name": "Mungar",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.74,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Muntscheri",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.99,
+        "long": 9.29,
+        "elev ft": 370,
+        "pop est": 5811
+    },
+    {
+        "name": "Mure",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.68,
+        "long": 7.84,
+        "elev ft": 951,
+        "pop est": 5518
+    },
+    {
+        "name": "Musa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.83,
+        "long": 7.81,
+        "elev ft": 1092,
+        "pop est": 12559
+    },
+    {
+        "name": "Mushe Jaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.25,
+        "long": 7.81,
+        "elev ft": 1758,
+        "pop est": 6457
+    },
+    {
+        "name": "Mushe Yaskwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.82,
+        "elev ft": 1768,
+        "pop est": 6412
+    },
+    {
+        "name": "Mutum Dubu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 8.26,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Nasarawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.54,
+        "long": 7.71,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Nasarawa Egon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.71,
+        "long": 8.54,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Nassarawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.54,
+        "long": 7.71,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Nassarawa Eggon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.71,
+        "long": 8.54,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Nassarawa Egon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.71,
+        "long": 8.54,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Nassarawan Eggon",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.71,
+        "long": 8.54,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Nbaja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 7.95,
+        "elev ft": 1738,
+        "pop est": 6556
+    },
+    {
+        "name": "Nburzi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.97,
+        "elev ft": 1768,
+        "pop est": 6556
+    },
+    {
+        "name": "Ndofa Madadi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.36,
+        "long": 7.97,
+        "elev ft": 2509,
+        "pop est": 16584
+    },
+    {
+        "name": "Ndofa Sarki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.34,
+        "long": 7.98,
+        "elev ft": 2509,
+        "pop est": 14541
+    },
+    {
+        "name": "New Gwam Gwam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.26,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 5627
+    },
+    {
+        "name": "Ngamo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 16650
+    },
+    {
+        "name": "Nidam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.44,
+        "elev ft": 1955,
+        "pop est": 11994
+    },
+    {
+        "name": "Nike",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.71,
+        "long": 7.89,
+        "elev ft": 967,
+        "pop est": 6550
+    },
+    {
+        "name": "Nindam Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.38,
+        "elev ft": 1669,
+        "pop est": 10747
+    },
+    {
+        "name": "Nindamu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.14,
+        "elev ft": 1669,
+        "pop est": 8408
+    },
+    {
+        "name": "Ninga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.3,
+        "elev ft": 1669,
+        "pop est": 14048
+    },
+    {
+        "name": "Ninga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.32,
+        "elev ft": 1669,
+        "pop est": 13852
+    },
+    {
+        "name": "Ningo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 8.4,
+        "elev ft": 1669,
+        "pop est": 15775
+    },
+    {
+        "name": "Ningo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 14485
+    },
+    {
+        "name": "Ningo Sarki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.39,
+        "elev ft": 1669,
+        "pop est": 16832
+    },
+    {
+        "name": "Ninkoro",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.11,
+        "elev ft": 1669,
+        "pop est": 7188
+    },
+    {
+        "name": "Nintabi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.24,
+        "elev ft": 1669,
+        "pop est": 12212
+    },
+    {
+        "name": "Nkoma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.2,
+        "long": 7.76,
+        "elev ft": 1988,
+        "pop est": 6556
+    },
+    {
+        "name": "Numa Baba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.43,
+        "elev ft": 1719,
+        "pop est": 13531
+    },
+    {
+        "name": "Numbari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.49,
+        "elev ft": 1669,
+        "pop est": 12043
+    },
+    {
+        "name": "Nunku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.4,
+        "elev ft": 1669,
+        "pop est": 10422
+    },
+    {
+        "name": "Nunkucha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 10553
+    },
+    {
+        "name": "Nunkucu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 10553
+    },
+    {
+        "name": "Nunkucu-Gona",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.14,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 10553
+    },
+    {
+        "name": "Nunma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.43,
+        "elev ft": 1719,
+        "pop est": 13531
+    },
+    {
+        "name": "Nyegba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.19,
+        "long": 7.23,
+        "elev ft": 951,
+        "pop est": 3874
+    },
+    {
+        "name": "Obe",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.26,
+        "long": 7.76,
+        "elev ft": 839,
+        "pop est": 3874
+    },
+    {
+        "name": "Obi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.37,
+        "long": 8.77,
+        "elev ft": 1095,
+        "pop est": 12665
+    },
+    {
+        "name": "Ocholonyan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 8.11,
+        "elev ft": 328,
+        "pop est": 9004
+    },
+    {
+        "name": "Odogbo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.25,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Ogbendua",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.91,
+        "long": 8.36,
+        "elev ft": 830,
+        "pop est": 5720
+    },
+    {
+        "name": "Ogusu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.02,
+        "long": 7.15,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Oja",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.3,
+        "long": 7.88,
+        "elev ft": 921,
+        "pop est": 3874
+    },
+    {
+        "name": "Okia",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.45,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 5660
+    },
+    {
+        "name": "Okpaya",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.97,
+        "long": 8.05,
+        "elev ft": 370,
+        "pop est": 5169
+    },
+    {
+        "name": "Old Gwam Gwam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 6.98,
+        "elev ft": 830,
+        "pop est": 5594
+    },
+    {
+        "name": "Olegede",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.01,
+        "elev ft": 331,
+        "pop est": 7064
+    },
+    {
+        "name": "Olegeje",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.01,
+        "elev ft": 328,
+        "pop est": 7713
+    },
+    {
+        "name": "Olegogbeche",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.0,
+        "elev ft": 331,
+        "pop est": 7264
+    },
+    {
+        "name": "Ombi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.44,
+        "long": 7.82,
+        "elev ft": 1669,
+        "pop est": 3874
+    },
+    {
+        "name": "Onda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.49,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 3874
+    },
+    {
+        "name": "Ondawayo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.52,
+        "long": 7.85,
+        "elev ft": 1669,
+        "pop est": 3874
+    },
+    {
+        "name": "Ondoli",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.9,
+        "long": 8.37,
+        "elev ft": 830,
+        "pop est": 5870
+    },
+    {
+        "name": "Oriki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.51,
+        "long": 7.88,
+        "elev ft": 1998,
+        "pop est": 3874
+    },
+    {
+        "name": "Owegi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.06,
+        "long": 7.26,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Owowo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.96,
+        "long": 7.64,
+        "elev ft": 1669,
+        "pop est": 8808
+    },
+    {
+        "name": "Padawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.26,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Paki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.87,
+        "elev ft": 1758,
+        "pop est": 6556
+    },
+    {
+        "name": "Panda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.84,
+        "elev ft": 1797,
+        "pop est": 6314
+    },
+    {
+        "name": "Pandam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.84,
+        "elev ft": 1797,
+        "pop est": 6314
+    },
+    {
+        "name": "Panitu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.95,
+        "elev ft": 1791,
+        "pop est": 6556
+    },
+    {
+        "name": "Pankurege",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.11,
+        "long": 7.78,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Panungwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.85,
+        "elev ft": 1975,
+        "pop est": 6134
+    },
+    {
+        "name": "Papari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 7.96,
+        "elev ft": 1771,
+        "pop est": 6556
+    },
+    {
+        "name": "Pazi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.28,
+        "long": 7.83,
+        "elev ft": 1965,
+        "pop est": 6144
+    },
+    {
+        "name": "Prane",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 8.25,
+        "elev ft": 1669,
+        "pop est": 12548
+    },
+    {
+        "name": "Rabi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.34,
+        "long": 7.45,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Rackpam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.33,
+        "long": 7.2,
+        "elev ft": 977,
+        "pop est": 3874
+    },
+    {
+        "name": "Rafin",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.2,
+        "long": 7.87,
+        "elev ft": 1768,
+        "pop est": 6556
+    },
+    {
+        "name": "Rafin Kwara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.88,
+        "long": 7.66,
+        "elev ft": 1236,
+        "pop est": 6556
+    },
+    {
+        "name": "Rafin Paa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.94,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Rafin-Pa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.2,
+        "long": 7.87,
+        "elev ft": 1768,
+        "pop est": 6556
+    },
+    {
+        "name": "Ragwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.47,
+        "long": 7.56,
+        "elev ft": 1013,
+        "pop est": 3874
+    },
+    {
+        "name": "Rakpam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.33,
+        "long": 7.2,
+        "elev ft": 977,
+        "pop est": 3874
+    },
+    {
+        "name": "Ribochi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.44,
+        "long": 7.01,
+        "elev ft": 830,
+        "pop est": 5761
+    },
+    {
+        "name": "Ridengbara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.27,
+        "long": 7.03,
+        "elev ft": 830,
+        "pop est": 3985
+    },
+    {
+        "name": "Rija",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.37,
+        "elev ft": 1669,
+        "pop est": 16825
+    },
+    {
+        "name": "Rimi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.89,
+        "long": 7.89,
+        "elev ft": 1161,
+        "pop est": 41904
+    },
+    {
+        "name": "Rinze",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Roguwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.83,
+        "long": 7.72,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Roguwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.47,
+        "long": 7.56,
+        "elev ft": 1013,
+        "pop est": 3874
+    },
+    {
+        "name": "Rubuda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 7.65,
+        "elev ft": 1669,
+        "pop est": 14948
+    },
+    {
+        "name": "Rudu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.21,
+        "long": 7.12,
+        "elev ft": 1167,
+        "pop est": 3874
+    },
+    {
+        "name": "Ruhu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.73,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Ruhu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.04,
+        "long": 7.69,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Rukubi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.93,
+        "long": 8.31,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Sabon Gari",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.86,
+        "long": 7.82,
+        "elev ft": 1135,
+        "pop est": 22327
+    },
+    {
+        "name": "Sabon Gida",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.23,
+        "long": 7.86,
+        "elev ft": 1748,
+        "pop est": 6546
+    },
+    {
+        "name": "Sabon Nunku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 14604
+    },
+    {
+        "name": "Sabon Ruhu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 7.69,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Sada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.18,
+        "elev ft": 1669,
+        "pop est": 10020
+    },
+    {
+        "name": "Saka",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.79,
+        "long": 7.71,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Sara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.79,
+        "long": 7.71,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Sawi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.73,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Shaba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.68,
+        "long": 7.97,
+        "elev ft": 921,
+        "pop est": 6450
+    },
+    {
+        "name": "Shata",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.02,
+        "long": 7.77,
+        "elev ft": 374,
+        "pop est": 5593
+    },
+    {
+        "name": "Shefan Abakwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.29,
+        "long": 7.12,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Shege",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.11,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Shemagi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.63,
+        "long": 7.8,
+        "elev ft": 944,
+        "pop est": 3932
+    },
+    {
+        "name": "Sheratu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.17,
+        "long": 7.13,
+        "elev ft": 1151,
+        "pop est": 3874
+    },
+    {
+        "name": "Shikokwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.14,
+        "long": 7.13,
+        "elev ft": 1099,
+        "pop est": 3874
+    },
+    {
+        "name": "Shikokwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.13,
+        "long": 7.11,
+        "elev ft": 1138,
+        "pop est": 3874
+    },
+    {
+        "name": "Shikwokwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.14,
+        "long": 7.13,
+        "elev ft": 1099,
+        "pop est": 3874
+    },
+    {
+        "name": "Sissibaki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.61,
+        "elev ft": 1889,
+        "pop est": 11553
+    },
+    {
+        "name": "Taifir",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.18,
+        "long": 8.31,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Taigal",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.19,
+        "elev ft": 830,
+        "pop est": 5663
+    },
+    {
+        "name": "Takalafia",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.09,
+        "long": 7.99,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Tamaha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.56,
+        "long": 7.71,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Tamarra",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.64,
+        "elev ft": 2509,
+        "pop est": 11913
+    },
+    {
+        "name": "Tanga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.27,
+        "long": 7.83,
+        "elev ft": 1863,
+        "pop est": 6238
+    },
+    {
+        "name": "Tatara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.21,
+        "long": 7.99,
+        "elev ft": 1804,
+        "pop est": 6556
+    },
+    {
+        "name": "Toto",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.39,
+        "long": 7.08,
+        "elev ft": 830,
+        "pop est": 4390
+    },
+    {
+        "name": "Tse",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.45,
+        "elev ft": 1669,
+        "pop est": 14591
+    },
+    {
+        "name": "Tudu Uku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 7.93,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Tudu Uku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.52,
+        "long": 7.45,
+        "elev ft": 1017,
+        "pop est": 4418
+    },
+    {
+        "name": "Tudu Uku",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.95,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Tudun Wada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.91,
+        "long": 7.89,
+        "elev ft": 1194,
+        "pop est": 25026
+    },
+    {
+        "name": "Tukura",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.14,
+        "long": 7.51,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Tumarra",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.12,
+        "long": 8.64,
+        "elev ft": 2509,
+        "pop est": 11913
+    },
+    {
+        "name": "Tunga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.13,
+        "long": 7.42,
+        "elev ft": 908,
+        "pop est": 3874
+    },
+    {
+        "name": "Tunga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.0,
+        "long": 9.32,
+        "elev ft": 354,
+        "pop est": 5875
+    },
+    {
+        "name": "Tunga Jankua",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.74,
+        "long": 7.53,
+        "elev ft": 1669,
+        "pop est": 12141
+    },
+    {
+        "name": "Tungan-Mallam Hassan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.92,
+        "long": 8.29,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Turkwam",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 8.65,
+        "elev ft": 2509,
+        "pop est": 11532
+    },
+    {
+        "name": "Turkwan",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 8.65,
+        "elev ft": 2509,
+        "pop est": 11532
+    },
+    {
+        "name": "Udegi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.25,
+        "long": 7.9,
+        "elev ft": 951,
+        "pop est": 3874
+    },
+    {
+        "name": "Udegi Beki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.33,
+        "long": 7.9,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Udeni",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.08,
+        "elev ft": 334,
+        "pop est": 6922
+    },
+    {
+        "name": "Udeni",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.28,
+        "long": 7.99,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Udeni Magaji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.94,
+        "long": 8.08,
+        "elev ft": 334,
+        "pop est": 6922
+    },
+    {
+        "name": "Ugi Majowel",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.57,
+        "long": 7.72,
+        "elev ft": 997,
+        "pop est": 3874
+    },
+    {
+        "name": "Ugia",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.22,
+        "long": 7.22,
+        "elev ft": 954,
+        "pop est": 3874
+    },
+    {
+        "name": "Ugian Bassa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.19,
+        "long": 7.17,
+        "elev ft": 1066,
+        "pop est": 3874
+    },
+    {
+        "name": "Ugo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.57,
+        "long": 7.6,
+        "elev ft": 1059,
+        "pop est": 3874
+    },
+    {
+        "name": "Uke",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.92,
+        "long": 7.7,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Uki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.92,
+        "long": 7.7,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Uma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.08,
+        "long": 7.28,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Umaish",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.01,
+        "long": 7.19,
+        "elev ft": 291,
+        "pop est": 4316
+    },
+    {
+        "name": "Umaisha",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.01,
+        "long": 7.19,
+        "elev ft": 291,
+        "pop est": 4316
+    },
+    {
+        "name": "Umburma",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.17,
+        "long": 7.97,
+        "elev ft": 1820,
+        "pop est": 6556
+    },
+    {
+        "name": "Unguwar Yamusa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.22,
+        "elev ft": 1669,
+        "pop est": 12058
+    },
+    {
+        "name": "Unguwar Zaria",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.22,
+        "elev ft": 1236,
+        "pop est": 12713
+    },
+    {
+        "name": "Ungwan Bashayi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.23,
+        "elev ft": 1669,
+        "pop est": 10799
+    },
+    {
+        "name": "Ungwan Danbeki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.63,
+        "elev ft": 2509,
+        "pop est": 11219
+    },
+    {
+        "name": "Ungwan Dogara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.16,
+        "elev ft": 1669,
+        "pop est": 9328
+    },
+    {
+        "name": "Ungwan Dorawa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.32,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Ungwan Galadima",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.47,
+        "elev ft": 1669,
+        "pop est": 12866
+    },
+    {
+        "name": "Ungwan Haruna",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.2,
+        "elev ft": 1669,
+        "pop est": 10752
+    },
+    {
+        "name": "Ungwan Jatau",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.24,
+        "elev ft": 1207,
+        "pop est": 14792
+    },
+    {
+        "name": "Ungwan Jatau Sada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.19,
+        "elev ft": 1669,
+        "pop est": 10020
+    },
+    {
+        "name": "Ungwan Jato",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.64,
+        "elev ft": 1669,
+        "pop est": 14767
+    },
+    {
+        "name": "Ungwan Jato",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.15,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 10235
+    },
+    {
+        "name": "Ungwan Jibrin Sada",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.18,
+        "elev ft": 1669,
+        "pop est": 9796
+    },
+    {
+        "name": "Ungwan Kanti",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.19,
+        "elev ft": 1669,
+        "pop est": 10752
+    },
+    {
+        "name": "Ungwan Koshun",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.19,
+        "elev ft": 1669,
+        "pop est": 10421
+    },
+    {
+        "name": "Ungwan Kwara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.1,
+        "elev ft": 1669,
+        "pop est": 6820
+    },
+    {
+        "name": "Ungwan Lamba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.19,
+        "elev ft": 1669,
+        "pop est": 10160
+    },
+    {
+        "name": "Ungwan Madaki Janda",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.03,
+        "long": 8.11,
+        "elev ft": 1669,
+        "pop est": 7462
+    },
+    {
+        "name": "Ungwan Magaji Sarki Kwara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.16,
+        "elev ft": 1669,
+        "pop est": 9347
+    },
+    {
+        "name": "Ungwan Mai-Zanko",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.26,
+        "elev ft": 1669,
+        "pop est": 15544
+    },
+    {
+        "name": "Ungwan Maichibi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.24,
+        "elev ft": 1243,
+        "pop est": 14110
+    },
+    {
+        "name": "Ungwan Maiganga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.0,
+        "long": 8.56,
+        "elev ft": 1240,
+        "pop est": 11392
+    },
+    {
+        "name": "Ungwan Maiyanga",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.44,
+        "elev ft": 1929,
+        "pop est": 11013
+    },
+    {
+        "name": "Ungwan Pa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.21,
+        "elev ft": 1669,
+        "pop est": 11583
+    },
+    {
+        "name": "Ungwan Pa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.16,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 10132
+    },
+    {
+        "name": "Ungwan Pa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 8.47,
+        "elev ft": 1669,
+        "pop est": 10761
+    },
+    {
+        "name": "Ungwan Rimi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.6,
+        "elev ft": 1669,
+        "pop est": 12791
+    },
+    {
+        "name": "Ungwan Sukargani",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.41,
+        "elev ft": 1669,
+        "pop est": 15868
+    },
+    {
+        "name": "Ungwan Taki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.21,
+        "elev ft": 1669,
+        "pop est": 11918
+    },
+    {
+        "name": "Ungwan Tofa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.08,
+        "long": 8.46,
+        "elev ft": 1669,
+        "pop est": 10509
+    },
+    {
+        "name": "Ungwan Wukpo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 8.22,
+        "elev ft": 1669,
+        "pop est": 10519
+    },
+    {
+        "name": "Ungwan Yamusa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.22,
+        "elev ft": 1669,
+        "pop est": 12058
+    },
+    {
+        "name": "Ungwan Yaskwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.05,
+        "long": 8.1,
+        "elev ft": 1669,
+        "pop est": 7147
+    },
+    {
+        "name": "Ungwan Yerima",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.22,
+        "elev ft": 1236,
+        "pop est": 12724
+    },
+    {
+        "name": "Ungwan Zaria",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.02,
+        "long": 8.29,
+        "elev ft": 1669,
+        "pop est": 16837
+    },
+    {
+        "name": "Ungwan Zaria",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.22,
+        "elev ft": 1236,
+        "pop est": 12713
+    },
+    {
+        "name": "Ungwau-Danbeki",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.13,
+        "long": 8.63,
+        "elev ft": 2509,
+        "pop est": 11219
+    },
+    {
+        "name": "Ushan Bissa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.19,
+        "long": 7.87,
+        "elev ft": 921,
+        "pop est": 3874
+    },
+    {
+        "name": "Ushan Rogo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.09,
+        "long": 7.82,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ushere",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.2,
+        "long": 7.32,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ushim",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.23,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Ushini",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.23,
+        "long": 7.74,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Utagudu",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.84,
+        "long": 8.38,
+        "elev ft": 830,
+        "pop est": 5996
+    },
+    {
+        "name": "Wabi",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.96,
+        "elev ft": 1843,
+        "pop est": 6556
+    },
+    {
+        "name": "Wamba",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.94,
+        "long": 8.6,
+        "elev ft": 1079,
+        "pop est": 16549
+    },
+    {
+        "name": "Wanse",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.44,
+        "elev ft": 1669,
+        "pop est": 14183
+    },
+    {
+        "name": "Yamusa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.06,
+        "long": 8.22,
+        "elev ft": 1669,
+        "pop est": 12058
+    },
+    {
+        "name": "Yelwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.07,
+        "long": 7.62,
+        "elev ft": 1712,
+        "pop est": 19890
+    },
+    {
+        "name": "Yelwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.19,
+        "long": 7.83,
+        "elev ft": 1669,
+        "pop est": 6556
+    },
+    {
+        "name": "Yerwa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.39,
+        "long": 7.16,
+        "elev ft": 997,
+        "pop est": 4167
+    },
+    {
+        "name": "Yumoa",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.31,
+        "long": 7.06,
+        "elev ft": 830,
+        "pop est": 3874
+    },
+    {
+        "name": "Zagwan-Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.34,
+        "long": 7.63,
+        "elev ft": 872,
+        "pop est": 3874
+    },
+    {
+        "name": "Zangwan Daji",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 8.34,
+        "long": 7.63,
+        "elev ft": 872,
+        "pop est": 3874
+    },
+    {
+        "name": "Zanzara",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.26,
+        "long": 7.93,
+        "elev ft": 1978,
+        "pop est": 6549
+    },
+    {
+        "name": "Zaria",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.01,
+        "long": 8.22,
+        "elev ft": 1236,
+        "pop est": 12713
+    },
+    {
+        "name": "Zegeyo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 7.96,
+        "long": 8.27,
+        "elev ft": 830,
+        "pop est": 5662
+    },
+    {
+        "name": "Zongo",
+        "what": "city",
+        "region": "Nasarawa",
+        "country": "Nigeria",
+        "lat": 9.1,
+        "long": 7.95,
+        "elev ft": 1893,
+        "pop est": 6556
+    }
+]

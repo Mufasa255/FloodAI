@@ -1,0 +1,5542 @@
+[
+    {
+        "name": "Abba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.85,
+        "long": 11.48,
+        "elev ft": 925,
+        "pop est": 9089
+    },
+    {
+        "name": "Abba Isari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.85,
+        "long": 11.34,
+        "elev ft": 967,
+        "pop est": 9089
+    },
+    {
+        "name": "Abba Nunami",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 8484
+    },
+    {
+        "name": "Acowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.31,
+        "long": 11.18,
+        "elev ft": 1187,
+        "pop est": 227713
+    },
+    {
+        "name": "Akko",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 10.97,
+        "elev ft": 1669,
+        "pop est": 14665
+    },
+    {
+        "name": "Ako",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 10.97,
+        "elev ft": 1669,
+        "pop est": 14665
+    },
+    {
+        "name": "Alhaji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.09,
+        "long": 11.2,
+        "elev ft": 1059,
+        "pop est": 9089
+    },
+    {
+        "name": "Amah Juli",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.13,
+        "long": 11.28,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Anchau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 11.01,
+        "elev ft": 1669,
+        "pop est": 4999
+    },
+    {
+        "name": "Ardo Salato",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 11.3,
+        "elev ft": 1033,
+        "pop est": 14602
+    },
+    {
+        "name": "Ashaka",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.83,
+        "long": 11.51,
+        "elev ft": 921,
+        "pop est": 8647
+    },
+    {
+        "name": "Azume",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.48,
+        "long": 11.29,
+        "elev ft": 984,
+        "pop est": 2682
+    },
+    {
+        "name": "Babanana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.17,
+        "elev ft": 1669,
+        "pop est": 8181
+    },
+    {
+        "name": "Babu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 10.7,
+        "elev ft": 990,
+        "pop est": 9656
+    },
+    {
+        "name": "Badabdi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.96,
+        "long": 11.41,
+        "elev ft": 1669,
+        "pop est": 9052
+    },
+    {
+        "name": "Bage",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.95,
+        "long": 11.38,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Bajoga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.85,
+        "long": 11.43,
+        "elev ft": 941,
+        "pop est": 9089
+    },
+    {
+        "name": "Balude",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.14,
+        "long": 11.27,
+        "elev ft": 1210,
+        "pop est": 9089
+    },
+    {
+        "name": "Baludi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.15,
+        "long": 11.24,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Baluro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.81,
+        "elev ft": 1922,
+        "pop est": 6854
+    },
+    {
+        "name": "Bami",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 11.04,
+        "elev ft": 1145,
+        "pop est": 9089
+    },
+    {
+        "name": "Bana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.74,
+        "long": 10.96,
+        "elev ft": 1811,
+        "pop est": 6854
+    },
+    {
+        "name": "Bandoma",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 9240
+    },
+    {
+        "name": "Bani Gayi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.76,
+        "long": 10.86,
+        "elev ft": 1961,
+        "pop est": 6854
+    },
+    {
+        "name": "Bara",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 10.73,
+        "elev ft": 1148,
+        "pop est": 4928
+    },
+    {
+        "name": "Barde",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 7914
+    },
+    {
+        "name": "Bare",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.88,
+        "long": 11.23,
+        "elev ft": 1751,
+        "pop est": 16049
+    },
+    {
+        "name": "Baruo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Baruo Binde",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.26,
+        "elev ft": 1020,
+        "pop est": 9089
+    },
+    {
+        "name": "Baruo Nasarawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Baruo Nassarawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Baruwo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Basulai",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.19,
+        "long": 11.21,
+        "elev ft": 1669,
+        "pop est": 8792
+    },
+    {
+        "name": "Batungo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.16,
+        "long": 11.32,
+        "elev ft": 1013,
+        "pop est": 14609
+    },
+    {
+        "name": "Bauro Bindi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.26,
+        "elev ft": 1020,
+        "pop est": 9089
+    },
+    {
+        "name": "Bege",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.15,
+        "elev ft": 1069,
+        "pop est": 9089
+    },
+    {
+        "name": "Beli Kadiyel",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.59,
+        "long": 10.57,
+        "elev ft": 1669,
+        "pop est": 6757
+    },
+    {
+        "name": "Biliri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.87,
+        "long": 11.23,
+        "elev ft": 1850,
+        "pop est": 15965
+    },
+    {
+        "name": "Biliri Laushi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.89,
+        "long": 11.22,
+        "elev ft": 1702,
+        "pop est": 16231
+    },
+    {
+        "name": "Billiri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.87,
+        "long": 11.23,
+        "elev ft": 1850,
+        "pop est": 15965
+    },
+    {
+        "name": "Billiri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.89,
+        "long": 11.22,
+        "elev ft": 1702,
+        "pop est": 16231
+    },
+    {
+        "name": "Bir Balawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.91,
+        "long": 11.29,
+        "elev ft": 1135,
+        "pop est": 9089
+    },
+    {
+        "name": "Biri Bolawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.91,
+        "long": 11.29,
+        "elev ft": 1135,
+        "pop est": 9089
+    },
+    {
+        "name": "Biri Filani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.91,
+        "long": 11.28,
+        "elev ft": 1190,
+        "pop est": 9089
+    },
+    {
+        "name": "Birni",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.72,
+        "long": 10.81,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Birniwa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 10.98,
+        "elev ft": 1738,
+        "pop est": 15049
+    },
+    {
+        "name": "Bodor",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.73,
+        "long": 11.34,
+        "elev ft": 944,
+        "pop est": 9089
+    },
+    {
+        "name": "Bogurum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.85,
+        "long": 10.59,
+        "elev ft": 1217,
+        "pop est": 7758
+    },
+    {
+        "name": "Boh",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.78,
+        "long": 11.28,
+        "elev ft": 3395,
+        "pop est": 14534
+    },
+    {
+        "name": "Bojude",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.03,
+        "elev ft": 1669,
+        "pop est": 4227
+    },
+    {
+        "name": "Bokkiru",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.41,
+        "long": 10.96,
+        "elev ft": 1669,
+        "pop est": 7605
+    },
+    {
+        "name": "Bolari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.12,
+        "elev ft": 1184,
+        "pop est": 9089
+    },
+    {
+        "name": "Bomala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 7132
+    },
+    {
+        "name": "Bomala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 8188
+    },
+    {
+        "name": "Bomala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.61,
+        "long": 10.7,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Bubu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 10.7,
+        "elev ft": 990,
+        "pop est": 9656
+    },
+    {
+        "name": "Bula",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 7711
+    },
+    {
+        "name": "Bulama",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.02,
+        "elev ft": 1213,
+        "pop est": 9086
+    },
+    {
+        "name": "Bulbul",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.81,
+        "elev ft": 1686,
+        "pop est": 6854
+    },
+    {
+        "name": "Bulbul",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.81,
+        "long": 10.64,
+        "elev ft": 1669,
+        "pop est": 7030
+    },
+    {
+        "name": "Bulla",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 7711
+    },
+    {
+        "name": "Bulla",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.35,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 8267
+    },
+    {
+        "name": "Bullagaidum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.86,
+        "long": 11.49,
+        "elev ft": 921,
+        "pop est": 8911
+    },
+    {
+        "name": "Bulturi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.59,
+        "long": 11.4,
+        "elev ft": 849,
+        "pop est": 4751
+    },
+    {
+        "name": "Bungum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.0,
+        "long": 11.43,
+        "elev ft": 1236,
+        "pop est": 7782
+    },
+    {
+        "name": "Buro Lawal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.68,
+        "elev ft": 1669,
+        "pop est": 6875
+    },
+    {
+        "name": "Burruo Sabon Gari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1033,
+        "pop est": 9089
+    },
+    {
+        "name": "Buruo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Busum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.76,
+        "long": 11.43,
+        "elev ft": 905,
+        "pop est": 9089
+    },
+    {
+        "name": "Busum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.57,
+        "long": 11.41,
+        "elev ft": 846,
+        "pop est": 3596
+    },
+    {
+        "name": "Chabai",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 11.19,
+        "elev ft": 1837,
+        "pop est": 15049
+    },
+    {
+        "name": "Chabal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 11.19,
+        "elev ft": 1837,
+        "pop est": 15049
+    },
+    {
+        "name": "Chole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.35,
+        "elev ft": 1036,
+        "pop est": 9037
+    },
+    {
+        "name": "Chongo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.31,
+        "long": 11.09,
+        "elev ft": 1669,
+        "pop est": 121358
+    },
+    {
+        "name": "Dadin Kowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 8596
+    },
+    {
+        "name": "Dadin Kowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.25,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8073
+    },
+    {
+        "name": "Dadin Kowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 11.5,
+        "elev ft": 830,
+        "pop est": 14540
+    },
+    {
+        "name": "Dadin Kowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.12,
+        "long": 11.19,
+        "elev ft": 1210,
+        "pop est": 9089
+    },
+    {
+        "name": "Dadin Kowa Semo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.15,
+        "elev ft": 1669,
+        "pop est": 8241
+    },
+    {
+        "name": "Dakita",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.18,
+        "long": 11.05,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Dalla",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 11.54,
+        "elev ft": 830,
+        "pop est": 12156
+    },
+    {
+        "name": "Damba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.65,
+        "long": 10.71,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Dambazau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.69,
+        "long": 10.72,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Dambitam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.44,
+        "long": 11.71,
+        "elev ft": 915,
+        "pop est": 8737
+    },
+    {
+        "name": "Damigya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.65,
+        "long": 10.6,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Dampitan",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.44,
+        "long": 11.71,
+        "elev ft": 915,
+        "pop est": 8737
+    },
+    {
+        "name": "Dampitaw",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.44,
+        "long": 11.71,
+        "elev ft": 915,
+        "pop est": 8737
+    },
+    {
+        "name": "Danaje",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.3,
+        "elev ft": 974,
+        "pop est": 14598
+    },
+    {
+        "name": "Danba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.0,
+        "long": 11.26,
+        "elev ft": 1138,
+        "pop est": 9089
+    },
+    {
+        "name": "Danbitam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.44,
+        "long": 11.71,
+        "elev ft": 915,
+        "pop est": 8737
+    },
+    {
+        "name": "Dandali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.13,
+        "long": 11.07,
+        "elev ft": 1236,
+        "pop est": 9089
+    },
+    {
+        "name": "Dangar",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 11.34,
+        "elev ft": 928,
+        "pop est": 14602
+    },
+    {
+        "name": "Danieshi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 11.31,
+        "elev ft": 951,
+        "pop est": 11885
+    },
+    {
+        "name": "Daniski",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.71,
+        "long": 11.44,
+        "elev ft": 856,
+        "pop est": 9089
+    },
+    {
+        "name": "Dashi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.76,
+        "long": 10.69,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Dauyo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.11,
+        "elev ft": 1669,
+        "pop est": 8572
+    },
+    {
+        "name": "Deba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.21,
+        "long": 11.39,
+        "elev ft": 839,
+        "pop est": 14602
+    },
+    {
+        "name": "Deba Fulani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.42,
+        "long": 11.38,
+        "elev ft": 895,
+        "pop est": 12487
+    },
+    {
+        "name": "Deba Habe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.21,
+        "long": 11.39,
+        "elev ft": 839,
+        "pop est": 14602
+    },
+    {
+        "name": "Deba Kowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 11.5,
+        "elev ft": 830,
+        "pop est": 14540
+    },
+    {
+        "name": "Debba Fulani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.42,
+        "long": 11.38,
+        "elev ft": 895,
+        "pop est": 12487
+    },
+    {
+        "name": "Dendali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.13,
+        "long": 11.07,
+        "elev ft": 1236,
+        "pop est": 9089
+    },
+    {
+        "name": "Didio",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.25,
+        "long": 11.15,
+        "elev ft": 1669,
+        "pop est": 7898
+    },
+    {
+        "name": "Difa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 11.43,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Digge",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 11.08,
+        "elev ft": 1141,
+        "pop est": 9089
+    },
+    {
+        "name": "Diji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 11.08,
+        "elev ft": 1141,
+        "pop est": 9089
+    },
+    {
+        "name": "Dinawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 6101
+    },
+    {
+        "name": "Dinawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.4,
+        "elev ft": 862,
+        "pop est": 2942
+    },
+    {
+        "name": "Dindi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.0,
+        "long": 11.4,
+        "elev ft": 1669,
+        "pop est": 8556
+    },
+    {
+        "name": "Dindi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.37,
+        "elev ft": 1171,
+        "pop est": 8949
+    },
+    {
+        "name": "Dingaya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.83,
+        "long": 11.34,
+        "elev ft": 971,
+        "pop est": 9089
+    },
+    {
+        "name": "Diri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.53,
+        "long": 10.96,
+        "elev ft": 1669,
+        "pop est": 6818
+    },
+    {
+        "name": "Dogo Baba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.21,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 8716
+    },
+    {
+        "name": "Doho",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.43,
+        "long": 11.23,
+        "elev ft": 1049,
+        "pop est": 2682
+    },
+    {
+        "name": "Doko",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.43,
+        "long": 11.23,
+        "elev ft": 1049,
+        "pop est": 2682
+    },
+    {
+        "name": "Dokoro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.83,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Dolen Madaki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 10.87,
+        "elev ft": 1669,
+        "pop est": 14529
+    },
+    {
+        "name": "Dolen Sarki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 10.88,
+        "elev ft": 1669,
+        "pop est": 14994
+    },
+    {
+        "name": "Donomari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.31,
+        "long": 10.93,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Dukku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.77,
+        "elev ft": 2037,
+        "pop est": 6854
+    },
+    {
+        "name": "Duku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.77,
+        "elev ft": 2037,
+        "pop est": 6854
+    },
+    {
+        "name": "Dukul",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.6,
+        "long": 11.38,
+        "elev ft": 849,
+        "pop est": 5936
+    },
+    {
+        "name": "Dumbe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 11.3,
+        "elev ft": 964,
+        "pop est": 12499
+    },
+    {
+        "name": "Duwo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.58,
+        "long": 10.69,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Fafa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.07,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Fafa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 10.71,
+        "elev ft": 997,
+        "pop est": 9271
+    },
+    {
+        "name": "Fali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.12,
+        "elev ft": 1669,
+        "pop est": 8489
+    },
+    {
+        "name": "Fali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.27,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 7508
+    },
+    {
+        "name": "Filiya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.58,
+        "long": 11.1,
+        "elev ft": 1998,
+        "pop est": 13493
+    },
+    {
+        "name": "Foli",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 11.3,
+        "elev ft": 1020,
+        "pop est": 14602
+    },
+    {
+        "name": "Fusami",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.15,
+        "long": 11.24,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Gabari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.15,
+        "elev ft": 1069,
+        "pop est": 9089
+    },
+    {
+        "name": "Gabchari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.79,
+        "elev ft": 1210,
+        "pop est": 6854
+    },
+    {
+        "name": "Gabciyari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.79,
+        "elev ft": 1210,
+        "pop est": 6854
+    },
+    {
+        "name": "Gabeiyari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.79,
+        "elev ft": 1210,
+        "pop est": 6854
+    },
+    {
+        "name": "Gabilau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.79,
+        "long": 10.82,
+        "elev ft": 1807,
+        "pop est": 6854
+    },
+    {
+        "name": "Gabuka",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 11.04,
+        "elev ft": 1669,
+        "pop est": 3337
+    },
+    {
+        "name": "Gabukka",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 258026
+    },
+    {
+        "name": "Gadam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.42,
+        "long": 11.58,
+        "elev ft": 843,
+        "pop est": 14416
+    },
+    {
+        "name": "Gadam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 2682
+    },
+    {
+        "name": "Gadao",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 11.15,
+        "elev ft": 1686,
+        "pop est": 15049
+    },
+    {
+        "name": "Gadari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.35,
+        "elev ft": 1013,
+        "pop est": 8424
+    },
+    {
+        "name": "Gadi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.95,
+        "long": 11.31,
+        "elev ft": 1089,
+        "pop est": 9089
+    },
+    {
+        "name": "Gado",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.58,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 6216
+    },
+    {
+        "name": "Gadum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.1,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Gadum Gabas",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.17,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Gafara",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.61,
+        "long": 11.42,
+        "elev ft": 830,
+        "pop est": 6301
+    },
+    {
+        "name": "Gagara Bami",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.01,
+        "elev ft": 1141,
+        "pop est": 9056
+    },
+    {
+        "name": "Galadima",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.39,
+        "long": 11.2,
+        "elev ft": 1135,
+        "pop est": 2870
+    },
+    {
+        "name": "Galadima",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.25,
+        "long": 11.21,
+        "elev ft": 1131,
+        "pop est": 159020
+    },
+    {
+        "name": "Galadima",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.17,
+        "elev ft": 1227,
+        "pop est": 9089
+    },
+    {
+        "name": "Galawo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.3,
+        "elev ft": 980,
+        "pop est": 14602
+    },
+    {
+        "name": "Galdimari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 11.42,
+        "elev ft": 931,
+        "pop est": 9089
+    },
+    {
+        "name": "Gale",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.64,
+        "elev ft": 1669,
+        "pop est": 6883
+    },
+    {
+        "name": "Galgaldu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.83,
+        "long": 11.3,
+        "elev ft": 990,
+        "pop est": 9089
+    },
+    {
+        "name": "Gamadadi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.31,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 14748
+    },
+    {
+        "name": "Gambe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.95,
+        "elev ft": 1830,
+        "pop est": 6854
+    },
+    {
+        "name": "Ganga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.36,
+        "elev ft": 1079,
+        "pop est": 8811
+    },
+    {
+        "name": "Ganiana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.2,
+        "elev ft": 1200,
+        "pop est": 9089
+    },
+    {
+        "name": "Garaba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.88,
+        "long": 11.43,
+        "elev ft": 928,
+        "pop est": 9089
+    },
+    {
+        "name": "Gare",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.67,
+        "long": 11.41,
+        "elev ft": 830,
+        "pop est": 9089
+    },
+    {
+        "name": "Garenji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 11.37,
+        "elev ft": 935,
+        "pop est": 9089
+    },
+    {
+        "name": "Gargar",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.38,
+        "elev ft": 1036,
+        "pop est": 7822
+    },
+    {
+        "name": "Garin Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.21,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 8436
+    },
+    {
+        "name": "Garin Abba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.89,
+        "long": 11.28,
+        "elev ft": 1066,
+        "pop est": 9089
+    },
+    {
+        "name": "Garin Ada",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 8392
+    },
+    {
+        "name": "Garin Alhaji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.09,
+        "long": 11.2,
+        "elev ft": 1059,
+        "pop est": 9089
+    },
+    {
+        "name": "Garin Alhaji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.11,
+        "long": 11.2,
+        "elev ft": 1148,
+        "pop est": 9089
+    },
+    {
+        "name": "Garin Alhaji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Garin Ali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.35,
+        "elev ft": 849,
+        "pop est": 14602
+    },
+    {
+        "name": "Garin Baba Dala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.19,
+        "long": 11.25,
+        "elev ft": 1669,
+        "pop est": 8544
+    },
+    {
+        "name": "Garin Batare",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 11.2,
+        "elev ft": 1794,
+        "pop est": 15054
+    },
+    {
+        "name": "Garin Bazongo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.42,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 7584
+    },
+    {
+        "name": "Garin Bemi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 8484
+    },
+    {
+        "name": "Garin Buba Kuppe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.39,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 9497
+    },
+    {
+        "name": "Garin Bulamo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.02,
+        "elev ft": 1213,
+        "pop est": 9086
+    },
+    {
+        "name": "Garin Daheru",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 10674
+    },
+    {
+        "name": "Garin Dalla",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 11.54,
+        "elev ft": 830,
+        "pop est": 12156
+    },
+    {
+        "name": "Garin Eji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.19,
+        "long": 11.26,
+        "elev ft": 1669,
+        "pop est": 8383
+    },
+    {
+        "name": "Garin Gamu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.28,
+        "long": 11.11,
+        "elev ft": 1669,
+        "pop est": 7210
+    },
+    {
+        "name": "Garin Gwano Guduku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.09,
+        "long": 11.16,
+        "elev ft": 1092,
+        "pop est": 9089
+    },
+    {
+        "name": "Garin Jengi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.12,
+        "elev ft": 1085,
+        "pop est": 9089
+    },
+    {
+        "name": "Garin Kagana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.15,
+        "long": 11.22,
+        "elev ft": 1213,
+        "pop est": 15021
+    },
+    {
+        "name": "Garin Lanotali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 11.33,
+        "elev ft": 964,
+        "pop est": 14602
+    },
+    {
+        "name": "Garin Malam Ali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.35,
+        "elev ft": 849,
+        "pop est": 14602
+    },
+    {
+        "name": "Garin Mallam Bossai",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 9901
+    },
+    {
+        "name": "Garin Mallam Jatau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.52,
+        "long": 10.68,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Garin Nallam Bura",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.35,
+        "long": 10.96,
+        "elev ft": 1669,
+        "pop est": 11947
+    },
+    {
+        "name": "Garin Waziri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.26,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 8056
+    },
+    {
+        "name": "Garin Yarima Musa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.25,
+        "long": 11.34,
+        "elev ft": 944,
+        "pop est": 14602
+    },
+    {
+        "name": "Garko",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.18,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 13467
+    },
+    {
+        "name": "Gashinge Kundulu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.13,
+        "elev ft": 1082,
+        "pop est": 9089
+    },
+    {
+        "name": "Gassol",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.69,
+        "long": 11.45,
+        "elev ft": 830,
+        "pop est": 9089
+    },
+    {
+        "name": "Gedeba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 11.65,
+        "elev ft": 830,
+        "pop est": 11546
+    },
+    {
+        "name": "Geji Bauchi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.51,
+        "long": 11.32,
+        "elev ft": 935,
+        "pop est": 2682
+    },
+    {
+        "name": "Gerenji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 11.37,
+        "elev ft": 935,
+        "pop est": 9089
+    },
+    {
+        "name": "Gidan Abba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.85,
+        "long": 11.48,
+        "elev ft": 925,
+        "pop est": 9089
+    },
+    {
+        "name": "Gidan Bani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.79,
+        "long": 10.73,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Gidan Hardo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.98,
+        "long": 11.44,
+        "elev ft": 1164,
+        "pop est": 7994
+    },
+    {
+        "name": "Gidan Sarkin-Noma",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 10.97,
+        "elev ft": 1669,
+        "pop est": 7956
+    },
+    {
+        "name": "Girtiba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.6,
+        "elev ft": 1669,
+        "pop est": 7124
+    },
+    {
+        "name": "Gladima",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.39,
+        "long": 11.2,
+        "elev ft": 1135,
+        "pop est": 2870
+    },
+    {
+        "name": "Gombe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 11.17,
+        "elev ft": 1669,
+        "pop est": 304814
+    },
+    {
+        "name": "Gombe Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.6,
+        "elev ft": 1190,
+        "pop est": 7398
+    },
+    {
+        "name": "Gonadadi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 14928
+    },
+    {
+        "name": "Goni",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.16,
+        "long": 11.22,
+        "elev ft": 1190,
+        "pop est": 14967
+    },
+    {
+        "name": "Gubi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.09,
+        "long": 11.39,
+        "elev ft": 1007,
+        "pop est": 6744
+    },
+    {
+        "name": "Gudoko",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.08,
+        "long": 11.11,
+        "elev ft": 1095,
+        "pop est": 9089
+    },
+    {
+        "name": "Gujiba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.16,
+        "long": 11.2,
+        "elev ft": 1223,
+        "pop est": 15045
+    },
+    {
+        "name": "Gulimari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.04,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Gulumari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.86,
+        "long": 11.29,
+        "elev ft": 997,
+        "pop est": 9089
+    },
+    {
+        "name": "Gura Jawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.89,
+        "long": 11.33,
+        "elev ft": 971,
+        "pop est": 9089
+    },
+    {
+        "name": "Gwajam Gwari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.84,
+        "long": 11.28,
+        "elev ft": 1036,
+        "pop est": 9089
+    },
+    {
+        "name": "Gwani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.42,
+        "long": 11.5,
+        "elev ft": 925,
+        "pop est": 14602
+    },
+    {
+        "name": "Gwaraji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Gwodun",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.28,
+        "elev ft": 1003,
+        "pop est": 16376
+    },
+    {
+        "name": "Hama Kalori",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 11.44,
+        "elev ft": 902,
+        "pop est": 9089
+    },
+    {
+        "name": "Hamma Sayo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Hardo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.98,
+        "long": 11.44,
+        "elev ft": 1164,
+        "pop est": 7994
+    },
+    {
+        "name": "Hardo Deba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 11.3,
+        "elev ft": 1036,
+        "pop est": 14679
+    },
+    {
+        "name": "Hardo Jiba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.07,
+        "long": 10.99,
+        "elev ft": 1679,
+        "pop est": 15049
+    },
+    {
+        "name": "Hashidu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.89,
+        "long": 10.65,
+        "elev ft": 1174,
+        "pop est": 7335
+    },
+    {
+        "name": "Hinna",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.5,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Jabular",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 11.06,
+        "elev ft": 1669,
+        "pop est": 5340
+    },
+    {
+        "name": "Jagale",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.13,
+        "long": 11.64,
+        "elev ft": 830,
+        "pop est": 13258
+    },
+    {
+        "name": "Jagali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.13,
+        "long": 11.64,
+        "elev ft": 830,
+        "pop est": 13258
+    },
+    {
+        "name": "Jagarau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.35,
+        "long": 10.95,
+        "elev ft": 1669,
+        "pop est": 12528
+    },
+    {
+        "name": "Jalingo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.02,
+        "long": 11.32,
+        "elev ft": 1003,
+        "pop est": 15277
+    },
+    {
+        "name": "Jalingo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 10.93,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Jalingo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.88,
+        "long": 11.31,
+        "elev ft": 984,
+        "pop est": 9089
+    },
+    {
+        "name": "Jalkatari Madaki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.69,
+        "long": 11.4,
+        "elev ft": 830,
+        "pop est": 9089
+    },
+    {
+        "name": "Jamari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 10.94,
+        "elev ft": 1174,
+        "pop est": 7401
+    },
+    {
+        "name": "Jambalo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.48,
+        "long": 11.26,
+        "elev ft": 1007,
+        "pop est": 2682
+    },
+    {
+        "name": "Jamji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 10.89,
+        "elev ft": 1669,
+        "pop est": 9882
+    },
+    {
+        "name": "Jangade",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.69,
+        "long": 11.44,
+        "elev ft": 830,
+        "pop est": 9089
+    },
+    {
+        "name": "Jangama",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.14,
+        "long": 11.18,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Jangerigari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.28,
+        "long": 11.55,
+        "elev ft": 830,
+        "pop est": 12097
+    },
+    {
+        "name": "Jangira",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.68,
+        "long": 10.61,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Jauro Abare",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.93,
+        "long": 11.31,
+        "elev ft": 1197,
+        "pop est": 9089
+    },
+    {
+        "name": "Jauro Ali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 11.39,
+        "elev ft": 944,
+        "pop est": 9089
+    },
+    {
+        "name": "Jauro Amadu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.01,
+        "elev ft": 1669,
+        "pop est": 4999
+    },
+    {
+        "name": "Jauro Baba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.07,
+        "long": 11.01,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Jauro Baba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.17,
+        "elev ft": 1115,
+        "pop est": 9089
+    },
+    {
+        "name": "Jauro Bappa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 10.99,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Jauro Ganau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.02,
+        "elev ft": 1669,
+        "pop est": 4983
+    },
+    {
+        "name": "Jauro Garaba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.88,
+        "long": 11.43,
+        "elev ft": 928,
+        "pop est": 9089
+    },
+    {
+        "name": "Jauro Sale",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.24,
+        "long": 11.4,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Jauro Tuku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.07,
+        "long": 11.2,
+        "elev ft": 1761,
+        "pop est": 15049
+    },
+    {
+        "name": "Jebba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.45,
+        "long": 10.73,
+        "elev ft": 1190,
+        "pop est": 6238
+    },
+    {
+        "name": "Jerdadi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.7,
+        "long": 10.83,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Jerikom",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 11.28,
+        "elev ft": 1003,
+        "pop est": 9641
+    },
+    {
+        "name": "Jerkam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.91,
+        "elev ft": 1909,
+        "pop est": 6854
+    },
+    {
+        "name": "Jigawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.11,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Jigawa Kuka",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.11,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Jillahi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.77,
+        "long": 11.4,
+        "elev ft": 918,
+        "pop est": 9089
+    },
+    {
+        "name": "Jimbam",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 11.3,
+        "elev ft": 990,
+        "pop est": 9089
+    },
+    {
+        "name": "Joie",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 11.4,
+        "elev ft": 856,
+        "pop est": 3085
+    },
+    {
+        "name": "Jojidage",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.2,
+        "elev ft": 1669,
+        "pop est": 7864
+    },
+    {
+        "name": "Jole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.13,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Jombo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.68,
+        "long": 10.75,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Jombor",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.4,
+        "elev ft": 1223,
+        "pop est": 8381
+    },
+    {
+        "name": "Jore",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.65,
+        "long": 11.08,
+        "elev ft": 1669,
+        "pop est": 5341
+    },
+    {
+        "name": "Judu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.45,
+        "long": 10.69,
+        "elev ft": 1200,
+        "pop est": 6035
+    },
+    {
+        "name": "Jumari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 10.85,
+        "elev ft": 1669,
+        "pop est": 12543
+    },
+    {
+        "name": "Jumbo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.68,
+        "long": 10.75,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Jumbor",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.4,
+        "elev ft": 1223,
+        "pop est": 8381
+    },
+    {
+        "name": "Jurara",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.49,
+        "long": 11.39,
+        "elev ft": 889,
+        "pop est": 7313
+    },
+    {
+        "name": "Juro Musa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.03,
+        "elev ft": 1253,
+        "pop est": 9089
+    },
+    {
+        "name": "Kabade",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 10.67,
+        "elev ft": 1194,
+        "pop est": 6973
+    },
+    {
+        "name": "Kafarati",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 10467
+    },
+    {
+        "name": "Kafareti",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 10467
+    },
+    {
+        "name": "Kafiwal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.99,
+        "long": 11.44,
+        "elev ft": 1138,
+        "pop est": 7994
+    },
+    {
+        "name": "Kafiwol",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.99,
+        "long": 11.44,
+        "elev ft": 1138,
+        "pop est": 7994
+    },
+    {
+        "name": "Kalaki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.77,
+        "elev ft": 830,
+        "pop est": 11310
+    },
+    {
+        "name": "Kalaye",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.25,
+        "elev ft": 1669,
+        "pop est": 9025
+    },
+    {
+        "name": "Kalfungo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.82,
+        "long": 11.31,
+        "elev ft": 1994,
+        "pop est": 14453
+    },
+    {
+        "name": "Kalo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.39,
+        "long": 11.56,
+        "elev ft": 866,
+        "pop est": 14452
+    },
+    {
+        "name": "Kalshingi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.18,
+        "long": 11.24,
+        "elev ft": 1161,
+        "pop est": 14853
+    },
+    {
+        "name": "Kaltunga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.38,
+        "elev ft": 1204,
+        "pop est": 8681
+    },
+    {
+        "name": "Kaltungo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.82,
+        "long": 11.31,
+        "elev ft": 1994,
+        "pop est": 14453
+    },
+    {
+        "name": "Kaltungo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.38,
+        "elev ft": 1204,
+        "pop est": 8681
+    },
+    {
+        "name": "Kanawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.32,
+        "elev ft": 971,
+        "pop est": 14602
+    },
+    {
+        "name": "Kanuel",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.21,
+        "elev ft": 1085,
+        "pop est": 174936
+    },
+    {
+        "name": "Karagari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.5,
+        "long": 11.34,
+        "elev ft": 918,
+        "pop est": 2682
+    },
+    {
+        "name": "Kembu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.04,
+        "long": 11.3,
+        "elev ft": 1026,
+        "pop est": 15014
+    },
+    {
+        "name": "Kerma",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.55,
+        "elev ft": 830,
+        "pop est": 11911
+    },
+    {
+        "name": "Kiayo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Kilawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.02,
+        "long": 11.01,
+        "elev ft": 1725,
+        "pop est": 15049
+    },
+    {
+        "name": "Kirshigi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.44,
+        "elev ft": 1017,
+        "pop est": 6903
+    },
+    {
+        "name": "Kiyayo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Kobini",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.16,
+        "long": 11.23,
+        "elev ft": 1184,
+        "pop est": 14939
+    },
+    {
+        "name": "Kokobe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.64,
+        "long": 10.58,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Kolaku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.77,
+        "elev ft": 830,
+        "pop est": 11310
+    },
+    {
+        "name": "Kolmani Musari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 10.83,
+        "elev ft": 1669,
+        "pop est": 11630
+    },
+    {
+        "name": "Kolori",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 11.2,
+        "elev ft": 1131,
+        "pop est": 2682
+    },
+    {
+        "name": "Kolori",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.4,
+        "long": 10.82,
+        "elev ft": 1669,
+        "pop est": 7204
+    },
+    {
+        "name": "Kom Filata",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.05,
+        "elev ft": 1669,
+        "pop est": 2689
+    },
+    {
+        "name": "Kombani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 10.99,
+        "elev ft": 1768,
+        "pop est": 15049
+    },
+    {
+        "name": "Kombani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Kombani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 11.02,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Kombani Sarki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Komi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.77,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8082
+    },
+    {
+        "name": "Koyaya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.03,
+        "long": 11.42,
+        "elev ft": 1085,
+        "pop est": 7209
+    },
+    {
+        "name": "Kuba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 11.56,
+        "elev ft": 912,
+        "pop est": 9495
+    },
+    {
+        "name": "Kudu Mondu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.03,
+        "long": 11.43,
+        "elev ft": 1026,
+        "pop est": 7175
+    },
+    {
+        "name": "Kufa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.02,
+        "long": 10.7,
+        "elev ft": 984,
+        "pop est": 8759
+    },
+    {
+        "name": "Kukawaro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.21,
+        "elev ft": 1092,
+        "pop est": 9089
+    },
+    {
+        "name": "Kukwari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.21,
+        "elev ft": 1092,
+        "pop est": 9089
+    },
+    {
+        "name": "Kulalum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 11.18,
+        "elev ft": 1187,
+        "pop est": 215378
+    },
+    {
+        "name": "Kumo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 11.21,
+        "elev ft": 1709,
+        "pop est": 15101
+    },
+    {
+        "name": "Kuni",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.7,
+        "long": 10.69,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Kunjiel",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 11.29,
+        "elev ft": 1000,
+        "pop est": 14672
+    },
+    {
+        "name": "Kurgulum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.13,
+        "elev ft": 1082,
+        "pop est": 9089
+    },
+    {
+        "name": "Kurjelli",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.16,
+        "long": 11.56,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Kursigi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.44,
+        "elev ft": 1017,
+        "pop est": 6903
+    },
+    {
+        "name": "Kurugu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.49,
+        "long": 11.31,
+        "elev ft": 961,
+        "pop est": 2682
+    },
+    {
+        "name": "Kushi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.58,
+        "long": 11.2,
+        "elev ft": 3349,
+        "pop est": 14089
+    },
+    {
+        "name": "Kwadon",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.28,
+        "elev ft": 1003,
+        "pop est": 16376
+    },
+    {
+        "name": "Kwal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.33,
+        "long": 11.41,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Kwankeji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 10.94,
+        "elev ft": 1669,
+        "pop est": 15041
+    },
+    {
+        "name": "Kwodun",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.28,
+        "elev ft": 1003,
+        "pop est": 16376
+    },
+    {
+        "name": "Kwomda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.88,
+        "long": 11.21,
+        "elev ft": 1791,
+        "pop est": 16410
+    },
+    {
+        "name": "Kwondom",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.28,
+        "elev ft": 1003,
+        "pop est": 16376
+    },
+    {
+        "name": "Labukau",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.28,
+        "long": 11.39,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Lafia",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.28,
+        "long": 11.06,
+        "elev ft": 1669,
+        "pop est": 68973
+    },
+    {
+        "name": "Lafia",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.68,
+        "elev ft": 1184,
+        "pop est": 7166
+    },
+    {
+        "name": "Lafia Awa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.12,
+        "long": 11.22,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Lafiawo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.12,
+        "long": 11.22,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Lafiya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.82,
+        "elev ft": 1748,
+        "pop est": 6854
+    },
+    {
+        "name": "Lafiya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.68,
+        "elev ft": 1184,
+        "pop est": 7166
+    },
+    {
+        "name": "Lamba Daji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 10.89,
+        "elev ft": 1223,
+        "pop est": 15049
+    },
+    {
+        "name": "Lamba Saingel",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.57,
+        "elev ft": 1669,
+        "pop est": 7506
+    },
+    {
+        "name": "Lamba Sali",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.2,
+        "long": 11.09,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Lano",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.17,
+        "long": 11.47,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Larab",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 11.37,
+        "elev ft": 954,
+        "pop est": 14602
+    },
+    {
+        "name": "Lawanti",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 10.92,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Legro Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 11.2,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Legro Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.07,
+        "long": 11.19,
+        "elev ft": 1820,
+        "pop est": 15049
+    },
+    {
+        "name": "Lembyin",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 11.26,
+        "elev ft": 1072,
+        "pop est": 15037
+    },
+    {
+        "name": "Lenge",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.15,
+        "long": 11.18,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Lergo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.01,
+        "long": 10.99,
+        "elev ft": 1870,
+        "pop est": 15049
+    },
+    {
+        "name": "Lergo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.02,
+        "long": 10.98,
+        "elev ft": 1919,
+        "pop est": 15049
+    },
+    {
+        "name": "Lergo Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.07,
+        "long": 11.19,
+        "elev ft": 1820,
+        "pop est": 15049
+    },
+    {
+        "name": "Lergo Amadu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 11.2,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Lolijo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.25,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8073
+    },
+    {
+        "name": "Lompo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.23,
+        "long": 11.1,
+        "elev ft": 1669,
+        "pop est": 8596
+    },
+    {
+        "name": "Lugo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.84,
+        "long": 10.58,
+        "elev ft": 1200,
+        "pop est": 7629
+    },
+    {
+        "name": "Lulin Sama",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.76,
+        "long": 10.59,
+        "elev ft": 1669,
+        "pop est": 7064
+    },
+    {
+        "name": "Lumputi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.11,
+        "long": 11.18,
+        "elev ft": 1122,
+        "pop est": 9089
+    },
+    {
+        "name": "Mabani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 11.36,
+        "elev ft": 967,
+        "pop est": 9089
+    },
+    {
+        "name": "Mabini",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 8052
+    },
+    {
+        "name": "Mada",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.14,
+        "long": 11.24,
+        "elev ft": 1249,
+        "pop est": 9089
+    },
+    {
+        "name": "Madakiri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 11.34,
+        "elev ft": 974,
+        "pop est": 9089
+    },
+    {
+        "name": "Madugu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Madugu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.49,
+        "long": 11.3,
+        "elev ft": 967,
+        "pop est": 2682
+    },
+    {
+        "name": "Magaba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 11.34,
+        "elev ft": 974,
+        "pop est": 9089
+    },
+    {
+        "name": "Magamani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 11.45,
+        "elev ft": 944,
+        "pop est": 9089
+    },
+    {
+        "name": "Mai Yanga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.17,
+        "long": 11.23,
+        "elev ft": 1669,
+        "pop est": 9007
+    },
+    {
+        "name": "Maiduguri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.33,
+        "elev ft": 961,
+        "pop est": 9089
+    },
+    {
+        "name": "Maimanda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.22,
+        "long": 11.12,
+        "elev ft": 1669,
+        "pop est": 8932
+    },
+    {
+        "name": "Maisaje",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.34,
+        "long": 11.56,
+        "elev ft": 830,
+        "pop est": 12622
+    },
+    {
+        "name": "Malala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.0,
+        "long": 10.75,
+        "elev ft": 1181,
+        "pop est": 6869
+    },
+    {
+        "name": "Malam Sidi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.29,
+        "elev ft": 980,
+        "pop est": 2692
+    },
+    {
+        "name": "Malari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 11.4,
+        "elev ft": 954,
+        "pop est": 9089
+    },
+    {
+        "name": "Malari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 11.54,
+        "elev ft": 866,
+        "pop est": 9708
+    },
+    {
+        "name": "Malaya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.0,
+        "long": 10.75,
+        "elev ft": 1181,
+        "pop est": 6869
+    },
+    {
+        "name": "Maleri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.42,
+        "elev ft": 843,
+        "pop est": 4698
+    },
+    {
+        "name": "Mallam Ana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.46,
+        "long": 11.28,
+        "elev ft": 987,
+        "pop est": 2763
+    },
+    {
+        "name": "Mallam Bapa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.34,
+        "long": 11.55,
+        "elev ft": 830,
+        "pop est": 12188
+    },
+    {
+        "name": "Mallam Gidado",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.17,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Mallam Kola",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.52,
+        "long": 11.55,
+        "elev ft": 1108,
+        "pop est": 12387
+    },
+    {
+        "name": "Mallam Sidi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.29,
+        "elev ft": 980,
+        "pop est": 2692
+    },
+    {
+        "name": "Mallamsidi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.29,
+        "elev ft": 980,
+        "pop est": 2692
+    },
+    {
+        "name": "Malleri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.54,
+        "long": 11.42,
+        "elev ft": 843,
+        "pop est": 4698
+    },
+    {
+        "name": "Mamuda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 11.3,
+        "elev ft": 990,
+        "pop est": 9089
+    },
+    {
+        "name": "Manawashi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.99,
+        "long": 11.38,
+        "elev ft": 1669,
+        "pop est": 8977
+    },
+    {
+        "name": "Mango",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.15,
+        "long": 11.09,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Maro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 11.03,
+        "elev ft": 1669,
+        "pop est": 8124
+    },
+    {
+        "name": "Marori",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.31,
+        "long": 10.93,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Marori",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.28,
+        "long": 10.94,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Maru",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 11.03,
+        "elev ft": 1669,
+        "pop est": 8124
+    },
+    {
+        "name": "Mase",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.45,
+        "long": 10.67,
+        "elev ft": 1236,
+        "pop est": 5937
+    },
+    {
+        "name": "Maulamidu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.93,
+        "long": 10.71,
+        "elev ft": 1210,
+        "pop est": 6854
+    },
+    {
+        "name": "Munda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.36,
+        "long": 10.84,
+        "elev ft": 1669,
+        "pop est": 9683
+    },
+    {
+        "name": "Mutukeil",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 11.47,
+        "elev ft": 938,
+        "pop est": 9089
+    },
+    {
+        "name": "Nafada",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.33,
+        "elev ft": 1013,
+        "pop est": 8495
+    },
+    {
+        "name": "Nafuta",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.22,
+        "long": 11.61,
+        "elev ft": 830,
+        "pop est": 10432
+    },
+    {
+        "name": "Nahantsi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 11.58,
+        "elev ft": 830,
+        "pop est": 11975
+    },
+    {
+        "name": "Nahuta",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Nakuja",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.77,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Nape",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.68,
+        "long": 10.88,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Nasarawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1030,
+        "pop est": 9089
+    },
+    {
+        "name": "Nayinawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.44,
+        "elev ft": 1079,
+        "pop est": 7103
+    },
+    {
+        "name": "Ngalda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.11,
+        "long": 11.37,
+        "elev ft": 1040,
+        "pop est": 7191
+    },
+    {
+        "name": "Ninowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.44,
+        "elev ft": 1079,
+        "pop est": 7103
+    },
+    {
+        "name": "Ninowo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.44,
+        "elev ft": 1079,
+        "pop est": 7103
+    },
+    {
+        "name": "Nono",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.15,
+        "long": 11.39,
+        "elev ft": 925,
+        "pop est": 14602
+    },
+    {
+        "name": "Nonowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.44,
+        "elev ft": 1079,
+        "pop est": 7103
+    },
+    {
+        "name": "Owaru",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.14,
+        "long": 11.01,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Paawal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.24,
+        "long": 10.92,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Palta",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.2,
+        "long": 11.6,
+        "elev ft": 830,
+        "pop est": 12565
+    },
+    {
+        "name": "Pantame",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 11.18,
+        "elev ft": 1669,
+        "pop est": 237773
+    },
+    {
+        "name": "Papa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.12,
+        "long": 11.31,
+        "elev ft": 1062,
+        "pop est": 8912
+    },
+    {
+        "name": "Peshare",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 10.67,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Pindiga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.98,
+        "long": 10.93,
+        "elev ft": 1797,
+        "pop est": 15049
+    },
+    {
+        "name": "Rafelle",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.74,
+        "elev ft": 830,
+        "pop est": 11473
+    },
+    {
+        "name": "Refelle",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.03,
+        "long": 11.74,
+        "elev ft": 830,
+        "pop est": 11473
+    },
+    {
+        "name": "Ribadu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.65,
+        "long": 11.33,
+        "elev ft": 862,
+        "pop est": 8561
+    },
+    {
+        "name": "Runde",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.81,
+        "long": 10.57,
+        "elev ft": 1181,
+        "pop est": 7558
+    },
+    {
+        "name": "Sabon Gari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.21,
+        "long": 10.84,
+        "elev ft": 1669,
+        "pop est": 8493
+    },
+    {
+        "name": "Sabon Gari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.1,
+        "long": 11.24,
+        "elev ft": 1033,
+        "pop est": 9089
+    },
+    {
+        "name": "Sabon Gari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.92,
+        "long": 10.65,
+        "elev ft": 1187,
+        "pop est": 7016
+    },
+    {
+        "name": "Sabon Layi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.09,
+        "long": 11.12,
+        "elev ft": 1112,
+        "pop est": 9089
+    },
+    {
+        "name": "Sala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.45,
+        "elev ft": 1017,
+        "pop est": 6655
+    },
+    {
+        "name": "Saleri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.77,
+        "long": 11.35,
+        "elev ft": 951,
+        "pop est": 9089
+    },
+    {
+        "name": "Sangaro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.84,
+        "long": 11.45,
+        "elev ft": 941,
+        "pop est": 9089
+    },
+    {
+        "name": "Saruja",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.25,
+        "long": 11.4,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Sayum",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.76,
+        "long": 10.71,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Sedilu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.15,
+        "long": 11.04,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Shabiwa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.77,
+        "elev ft": 1899,
+        "pop est": 6854
+    },
+    {
+        "name": "Shalodi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.77,
+        "long": 10.79,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Shanganawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.95,
+        "long": 11.28,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Sherifuri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.84,
+        "long": 11.4,
+        "elev ft": 948,
+        "pop est": 9089
+    },
+    {
+        "name": "Shinga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.46,
+        "long": 11.55,
+        "elev ft": 1669,
+        "pop est": 14602
+    },
+    {
+        "name": "Shishi Bako",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.15,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Shole Buba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.35,
+        "elev ft": 1036,
+        "pop est": 9037
+    },
+    {
+        "name": "Shole Karama",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.35,
+        "elev ft": 1020,
+        "pop est": 8695
+    },
+    {
+        "name": "Shulo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.1,
+        "long": 11.29,
+        "elev ft": 1046,
+        "pop est": 14823
+    },
+    {
+        "name": "Shulto",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.19,
+        "long": 10.87,
+        "elev ft": 1669,
+        "pop est": 13814
+    },
+    {
+        "name": "Shuwe",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.71,
+        "long": 10.88,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Sisi Bako",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.72,
+        "long": 11.4,
+        "elev ft": 885,
+        "pop est": 9089
+    },
+    {
+        "name": "Sudingo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.91,
+        "long": 11.32,
+        "elev ft": 1000,
+        "pop est": 9089
+    },
+    {
+        "name": "Suka",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.83,
+        "long": 10.99,
+        "elev ft": 1847,
+        "pop est": 6854
+    },
+    {
+        "name": "Suko",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.11,
+        "long": 11.11,
+        "elev ft": 1164,
+        "pop est": 9089
+    },
+    {
+        "name": "Surturi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.17,
+        "long": 11.02,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Taharina",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.23,
+        "long": 11.61,
+        "elev ft": 830,
+        "pop est": 9930
+    },
+    {
+        "name": "Tai",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.06,
+        "long": 10.73,
+        "elev ft": 1043,
+        "pop est": 11366
+    },
+    {
+        "name": "Tailase",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.97,
+        "long": 11.68,
+        "elev ft": 1059,
+        "pop est": 11473
+    },
+    {
+        "name": "Takai",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.14,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Talasse",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.97,
+        "long": 11.68,
+        "elev ft": 1059,
+        "pop est": 11473
+    },
+    {
+        "name": "Tallasa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.97,
+        "long": 11.68,
+        "elev ft": 1059,
+        "pop est": 11473
+    },
+    {
+        "name": "Tallase",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.97,
+        "long": 11.68,
+        "elev ft": 1059,
+        "pop est": 11473
+    },
+    {
+        "name": "Tamana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.21,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 8436
+    },
+    {
+        "name": "Tappi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.49,
+        "long": 11.06,
+        "elev ft": 1669,
+        "pop est": 3114
+    },
+    {
+        "name": "Tarki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.14,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Tasha",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.14,
+        "elev ft": 1072,
+        "pop est": 9089
+    },
+    {
+        "name": "Tasha Wurdbege",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.06,
+        "long": 11.14,
+        "elev ft": 1072,
+        "pop est": 9089
+    },
+    {
+        "name": "Tashar Ganji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.33,
+        "long": 10.88,
+        "elev ft": 1669,
+        "pop est": 14541
+    },
+    {
+        "name": "Teli",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.44,
+        "long": 11.7,
+        "elev ft": 859,
+        "pop est": 9366
+    },
+    {
+        "name": "Tempure",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.29,
+        "long": 11.11,
+        "elev ft": 1669,
+        "pop est": 176405
+    },
+    {
+        "name": "Tilde",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.71,
+        "long": 11.35,
+        "elev ft": 908,
+        "pop est": 9089
+    },
+    {
+        "name": "Tiliyawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.13,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Tinda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.79,
+        "long": 10.89,
+        "elev ft": 1958,
+        "pop est": 6854
+    },
+    {
+        "name": "Tinjemazab",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.25,
+        "elev ft": 1669,
+        "pop est": 6945
+    },
+    {
+        "name": "Tonde",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.35,
+        "long": 11.17,
+        "elev ft": 1233,
+        "pop est": 138860
+    },
+    {
+        "name": "Tongo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.7,
+        "long": 11.36,
+        "elev ft": 889,
+        "pop est": 9089
+    },
+    {
+        "name": "Tongo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 10.94,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Towal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.84,
+        "long": 10.61,
+        "elev ft": 1184,
+        "pop est": 7457
+    },
+    {
+        "name": "Tsaiga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.66,
+        "long": 10.51,
+        "elev ft": 1669,
+        "pop est": 5888
+    },
+    {
+        "name": "Tubule",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.46,
+        "long": 10.67,
+        "elev ft": 1227,
+        "pop est": 5937
+    },
+    {
+        "name": "Tudun Rigiya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.19,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Tudun Rijiya",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.18,
+        "long": 11.2,
+        "elev ft": 1669,
+        "pop est": 9007
+    },
+    {
+        "name": "Tudun Wada",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.07,
+        "elev ft": 1669,
+        "pop est": 8614
+    },
+    {
+        "name": "Tukulma",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.13,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Tula Yari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.8,
+        "long": 11.5,
+        "elev ft": 1669,
+        "pop est": 14453
+    },
+    {
+        "name": "Tula Yiri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 9.8,
+        "long": 11.5,
+        "elev ft": 1669,
+        "pop est": 14453
+    },
+    {
+        "name": "Tumpuri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.71,
+        "long": 10.75,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Tumu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.0,
+        "long": 11.01,
+        "elev ft": 1768,
+        "pop est": 15049
+    },
+    {
+        "name": "Unguwar Yaiyaro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.93,
+        "long": 11.36,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Ungwa Canteen",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.3,
+        "long": 11.52,
+        "elev ft": 830,
+        "pop est": 13998
+    },
+    {
+        "name": "Ungwanganji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.33,
+        "long": 10.89,
+        "elev ft": 1669,
+        "pop est": 14700
+    },
+    {
+        "name": "Wade",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.62,
+        "elev ft": 1669,
+        "pop est": 13189
+    },
+    {
+        "name": "Wadi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.62,
+        "elev ft": 1669,
+        "pop est": 13189
+    },
+    {
+        "name": "Wajari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.28,
+        "long": 11.4,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Wakalata",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.36,
+        "elev ft": 948,
+        "pop est": 9089
+    },
+    {
+        "name": "Wakalu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.75,
+        "long": 10.76,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Wakato",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 11.22,
+        "elev ft": 1046,
+        "pop est": 9089
+    },
+    {
+        "name": "Wakato Fulani",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.23,
+        "elev ft": 1062,
+        "pop est": 9089
+    },
+    {
+        "name": "Wakili",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.61,
+        "long": 11.36,
+        "elev ft": 853,
+        "pop est": 6579
+    },
+    {
+        "name": "Wakili Aba",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.27,
+        "elev ft": 1000,
+        "pop est": 7338
+    },
+    {
+        "name": "Wakkaltu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.36,
+        "elev ft": 948,
+        "pop est": 9089
+    },
+    {
+        "name": "Wakkalutu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.36,
+        "elev ft": 948,
+        "pop est": 9089
+    },
+    {
+        "name": "Walkaltu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.05,
+        "long": 11.22,
+        "elev ft": 1046,
+        "pop est": 9089
+    },
+    {
+        "name": "Walol",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.04,
+        "long": 11.1,
+        "elev ft": 1118,
+        "pop est": 9089
+    },
+    {
+        "name": "Walowa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.71,
+        "long": 10.57,
+        "elev ft": 1669,
+        "pop est": 6781
+    },
+    {
+        "name": "Wangi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.73,
+        "long": 10.74,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Wawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8237
+    },
+    {
+        "name": "Wawa (1)",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8237
+    },
+    {
+        "name": "Wawa 1",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 11.13,
+        "elev ft": 1669,
+        "pop est": 8237
+    },
+    {
+        "name": "Wayo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.22,
+        "long": 11.25,
+        "elev ft": 1669,
+        "pop est": 7461
+    },
+    {
+        "name": "Waziri",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.24,
+        "long": 11.12,
+        "elev ft": 1669,
+        "pop est": 8489
+    },
+    {
+        "name": "Wudil",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.08,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Wudil",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.11,
+        "long": 10.97,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Wudil",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.17,
+        "long": 11.3,
+        "elev ft": 1059,
+        "pop est": 14681
+    },
+    {
+        "name": "Wuiwui",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.27,
+        "long": 10.96,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Wuji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.2,
+        "long": 11.62,
+        "elev ft": 830,
+        "pop est": 10755
+    },
+    {
+        "name": "Wurabinji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 10.68,
+        "elev ft": 1669,
+        "pop est": 6938
+    },
+    {
+        "name": "Wuradole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 11.54,
+        "elev ft": 846,
+        "pop est": 12778
+    },
+    {
+        "name": "Wuratale",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.33,
+        "long": 11.55,
+        "elev ft": 830,
+        "pop est": 12188
+    },
+    {
+        "name": "Wurimango",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.37,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 6350
+    },
+    {
+        "name": "Wurin Dule",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.25,
+        "elev ft": 1003,
+        "pop est": 5882
+    },
+    {
+        "name": "Wurisato",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 6739
+    },
+    {
+        "name": "Wurisatu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.38,
+        "long": 11.0,
+        "elev ft": 1669,
+        "pop est": 6739
+    },
+    {
+        "name": "Wuro Ali Magini",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.23,
+        "long": 11.16,
+        "elev ft": 1669,
+        "pop est": 110747
+    },
+    {
+        "name": "Wuro Baye",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.62,
+        "elev ft": 1213,
+        "pop est": 7125
+    },
+    {
+        "name": "Wuro Biriji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.25,
+        "long": 11.15,
+        "elev ft": 1669,
+        "pop est": 162051
+    },
+    {
+        "name": "Wuro Bongu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.87,
+        "long": 10.68,
+        "elev ft": 1669,
+        "pop est": 6938
+    },
+    {
+        "name": "Wuro Bunga",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.43,
+        "long": 10.74,
+        "elev ft": 1187,
+        "pop est": 5906
+    },
+    {
+        "name": "Wuro Dama",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.79,
+        "long": 10.65,
+        "elev ft": 1669,
+        "pop est": 6927
+    },
+    {
+        "name": "Wuro Danuda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.83,
+        "long": 10.82,
+        "elev ft": 1912,
+        "pop est": 6854
+    },
+    {
+        "name": "Wuro Dole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.34,
+        "long": 10.83,
+        "elev ft": 1669,
+        "pop est": 9857
+    },
+    {
+        "name": "Wuro Dole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.77,
+        "long": 10.78,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Wuro Duku",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.9,
+        "long": 11.38,
+        "elev ft": 958,
+        "pop est": 9089
+    },
+    {
+        "name": "Wuro Galadima",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.25,
+        "long": 11.21,
+        "elev ft": 1131,
+        "pop est": 159020
+    },
+    {
+        "name": "Wuro Gundu",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.93,
+        "long": 11.31,
+        "elev ft": 1197,
+        "pop est": 9089
+    },
+    {
+        "name": "Wuro Gwana",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.89,
+        "long": 11.29,
+        "elev ft": 1046,
+        "pop est": 9089
+    },
+    {
+        "name": "Wuro Joie",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.55,
+        "long": 11.4,
+        "elev ft": 856,
+        "pop est": 3085
+    },
+    {
+        "name": "Wuro Kudou",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.43,
+        "long": 10.82,
+        "elev ft": 1669,
+        "pop est": 6603
+    },
+    {
+        "name": "Wuro Mareji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.89,
+        "long": 10.63,
+        "elev ft": 1190,
+        "pop est": 7538
+    },
+    {
+        "name": "Wuro Mobido",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.12,
+        "long": 11.05,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Wuro Shiji",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.26,
+        "long": 11.17,
+        "elev ft": 1669,
+        "pop est": 198583
+    },
+    {
+        "name": "Wuro Tale",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.97,
+        "long": 10.77,
+        "elev ft": 1177,
+        "pop est": 6854
+    },
+    {
+        "name": "Wuro Tara",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.82,
+        "long": 10.67,
+        "elev ft": 1669,
+        "pop est": 7004
+    },
+    {
+        "name": "Wuro Taraki",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.86,
+        "long": 10.66,
+        "elev ft": 1236,
+        "pop est": 7220
+    },
+    {
+        "name": "Wurodole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.12,
+        "elev ft": 1220,
+        "pop est": 9089
+    },
+    {
+        "name": "Yarbulas",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.07,
+        "long": 11.28,
+        "elev ft": 987,
+        "pop est": 9089
+    },
+    {
+        "name": "Yarda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.09,
+        "long": 10.98,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Yarda",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.7,
+        "long": 11.41,
+        "elev ft": 830,
+        "pop est": 9089
+    },
+    {
+        "name": "Yayaro",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.02,
+        "long": 11.41,
+        "elev ft": 1177,
+        "pop est": 7796
+    },
+    {
+        "name": "Yeldo",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.08,
+        "long": 11.18,
+        "elev ft": 1820,
+        "pop est": 15049
+    },
+    {
+        "name": "Yelina Audwa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.19,
+        "long": 11.24,
+        "elev ft": 1669,
+        "pop est": 8544
+    },
+    {
+        "name": "Yelwa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.24,
+        "long": 11.4,
+        "elev ft": 830,
+        "pop est": 14602
+    },
+    {
+        "name": "Yelwa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.07,
+        "long": 11.17,
+        "elev ft": 1072,
+        "pop est": 9089
+    },
+    {
+        "name": "Yelwa Gidan Tifida",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.52,
+        "long": 11.28,
+        "elev ft": 994,
+        "pop est": 2682
+    },
+    {
+        "name": "Yelwa Tifida",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.52,
+        "long": 11.28,
+        "elev ft": 994,
+        "pop est": 2682
+    },
+    {
+        "name": "Yiyar",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.41,
+        "elev ft": 1669,
+        "pop est": 8202
+    },
+    {
+        "name": "Yola",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.78,
+        "long": 10.79,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Yole",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.88,
+        "long": 10.67,
+        "elev ft": 1204,
+        "pop est": 7020
+    },
+    {
+        "name": "Yolil",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.8,
+        "long": 10.61,
+        "elev ft": 1243,
+        "pop est": 7115
+    },
+    {
+        "name": "Yoliyal",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.08,
+        "long": 11.15,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Yoliyol",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.08,
+        "long": 11.15,
+        "elev ft": 1669,
+        "pop est": 15049
+    },
+    {
+        "name": "Yoroyati",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.01,
+        "long": 11.41,
+        "elev ft": 1669,
+        "pop est": 8202
+    },
+    {
+        "name": "Zadawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.88,
+        "long": 11.4,
+        "elev ft": 938,
+        "pop est": 9089
+    },
+    {
+        "name": "Zagaina",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.86,
+        "long": 11.39,
+        "elev ft": 948,
+        "pop est": 9089
+    },
+    {
+        "name": "Zambuk",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.32,
+        "long": 11.35,
+        "elev ft": 846,
+        "pop est": 14602
+    },
+    {
+        "name": "Zamfarawa",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.24,
+        "long": 11.32,
+        "elev ft": 997,
+        "pop est": 14602
+    },
+    {
+        "name": "Zangala",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.72,
+        "long": 10.79,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Zange",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.57,
+        "long": 10.77,
+        "elev ft": 1669,
+        "pop est": 6854
+    },
+    {
+        "name": "Zange",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.05,
+        "long": 11.15,
+        "elev ft": 1725,
+        "pop est": 15049
+    },
+    {
+        "name": "Zangoma",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.43,
+        "long": 10.78,
+        "elev ft": 1200,
+        "pop est": 6278
+    },
+    {
+        "name": "Zindi",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.16,
+        "long": 11.06,
+        "elev ft": 1669,
+        "pop est": 9089
+    },
+    {
+        "name": "Zinkur",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 11.08,
+        "long": 11.31,
+        "elev ft": 1010,
+        "pop est": 8926
+    },
+    {
+        "name": "Zongo Mari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.35,
+        "long": 10.88,
+        "elev ft": 1669,
+        "pop est": 12759
+    },
+    {
+        "name": "Zongoma Kyari",
+        "what": "city",
+        "region": "Gombe",
+        "country": "Nigeria",
+        "lat": 10.47,
+        "long": 11.28,
+        "elev ft": 990,
+        "pop est": 2682
+    }
+]
